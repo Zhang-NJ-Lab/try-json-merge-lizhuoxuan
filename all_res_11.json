@@ -1,0 +1,1512 @@
+{
+    "rest": [
+        {
+            "sentence": "All-inorganic CsPbI3 perovskite with phase stabilization are fabricated by employing a simple one-pot solution method with ethanediamine as the additive",
+            "all_materials": [
+                "CsPbI3",
+                "ethanediamine"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "ethanediamine",
+                    "start": 123,
+                    "end": 136,
+                    "token_ids": [
+                        20
+                    ]
+                }
+            ],
+            "operation": [
+                9,
+                "StartingSynthesis"
+            ],
+            "targets": "CsPbI3"
+        },
+        {
+            "sentence": "The ethanediamine induceds the phase stabilization temperature of all-inorganic CsPbI3 perovskite film as low as 80\u00a0\u00b0C by reducing the grain size, which is the lowest reported phase stabilization temperature for CsPbI3 film so far",
+            "all_materials": [
+                "CsPbI3",
+                "CsPbI3"
+            ],
+            "other_materials": [
+                "CsPbI3",
+                "CsPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "More importantly, the prepared films can be stable at room temperature for two months without phase decomposition",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The CsPbI3 perovskite solar cells demonstrate power conversion efficiency to 9.62%.",
+            "all_materials": [
+                "CsPbI3"
+            ],
+            "other_materials": [
+                "CsPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Download : Download high-res image Download : Download full-size image",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Under the background of developing clean energy, organic-inorganic halide hybrid perovskite solar cells  have attracted enormous attention due to their low cost and high power conversion efficiency  [, ]",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The PCE of organic-inorganic halide hybrid PSCs have exhibited an unprecedentedly rise from the initial 3.8% to over 25.2% since hybrid perovskite materials used in solar cells by Kojima et al., in 2009 [, ]",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Organic-inorganic hybrid halide perovskite is based on ABX3 , BPb2+, X\u00a0=\u00a0Cl\u2212, Br\u2212, I\u2212) perovskite configuration",
+            "all_materials": [
+                "ABX3"
+            ],
+            "other_materials": [
+                "ABX3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In particular, organic-inorganic hybrid halide PSCs suffer from thermal and humid instability due to the inherent volatility of the organic parts, which is the foremost obstacle in further development and mass production .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In recent years, all-inorganic cesium lead halide perovskites  have been gradually emphasized as the mainstream research topic, due to the avoidance of using the sensitive organic component [, ]",
+            "all_materials": [
+                "cesium lead halide"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "cesium lead halide"
+        },
+        {
+            "sentence": "But there are many limitations of all-inorganic cesium lead halide perovskites, although they exhibit good optoelectronic properties such as carrier mobility and suitable band gap similar to organic-inorganic perovskite [, ]",
+            "all_materials": [
+                "cesium lead halide"
+            ],
+            "other_materials": [
+                "cesium lead halide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The most phase-stable all-inorganic halide perovskite structure is normally based on CsPbBr3 perovskite with an appropriate tolerance factor",
+            "all_materials": [
+                "CsPbBr3"
+            ],
+            "other_materials": [
+                "CsPbBr3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "But bromide brings a too widened band gap about 2.0\u00a0eV to achieve the high performance solar cells",
+            "all_materials": [
+                "bromide"
+            ],
+            "other_materials": [
+                "bromide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "On the other hand, black cubic phase \u03b1-CsPbI3 perovskite with the most appropriate band gap of 1.73\u00a0eV, which is promising to achieve efficient all-inorganic lead halide solar cells, is easily degraded to non-photoactive \u03b4-CsPbI3  under room temperature [, ]",
+            "all_materials": [
+                "\u03b1-CsPbI3",
+                "lead halide",
+                "\u03b4-CsPbI3"
+            ],
+            "other_materials": [
+                "\u03b1-CsPbI3",
+                "lead halide",
+                "\u03b4-CsPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The annealing temperature of \u03b1-CsPbI3 phase is up to 350\u00a0\u00b0C",
+            "all_materials": [
+                "\u03b1-CsPbI3"
+            ],
+            "other_materials": [
+                "\u03b1-CsPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The relatively high annealing temperature is impractical for a number of device architectures and substrates, such as temperature-sensitive crystalline silicon solar cell",
+            "all_materials": [
+                "silicon"
+            ],
+            "other_materials": [
+                "silicon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, low temperature is beneficial for constructing tandem solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, low annealing temperature corresponds to low energy consumption, simple operation, excellent repetition and convenient industrial amplification, which are expected to promote the development and application of inorganic perovskite solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Previous reports have shown that \u03b1-CsPbI3 phase annealing temperature can be reduced by reducing grain size [28,29], which could promote lattice stress to stabilize the black phase",
+            "all_materials": [
+                "\u03b1-CsPbI3"
+            ],
+            "other_materials": [
+                "\u03b1-CsPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "fabricated all-inorganic CsPbI3 PSCs by adding HI which expressed grain refinement with the highest stabilized PCE of 1.7% and great phase stability of the \u03b1-CsPbI328Snaith et al",
+            "all_materials": [
+                "CsPbI3",
+                "HI",
+                "\u03b1-CsPbI328Snaith"
+            ],
+            "other_materials": [
+                "\u03b1-CsPbI328Snaith"
+            ],
+            "precursors": [
+                {
+                    "text": "HI",
+                    "start": 47,
+                    "end": 49,
+                    "token_ids": [
+                        8
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "CsPbI3"
+        },
+        {
+            "sentence": "Afterward, there are a number of researches studying the adsorption effect of organic species on CsPbI3 perovskite crystal surface to stabilize the black phases [, ]",
+            "all_materials": [
+                "CsPbI3"
+            ],
+            "other_materials": [
+                "CsPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Other effects of such adsorption are aimed at reducing the crystal size or passivating the surface traps",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In 2017, Zhao Yixin and co-workers reported that using PbI2\u2022xHI instead of PbI2 greatly reduced the phase transition temperature of CsPbI3 to 100\u00a0\u00b0C",
+            "all_materials": [
+                "PbI2\u2022xHI",
+                "PbI2",
+                "CsPbI3"
+            ],
+            "other_materials": [
+                "PbI2\u2022xHI",
+                "PbI2",
+                "CsPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "At the same time, ethylenediamine dications as a bis-amine cation component were added to obtain mixed 2D/3D perovskite films, which produced smaller crystals  and helped to stabilize the black \u03b1-CsPbI3 phase",
+            "all_materials": [
+                "ethylenediamine",
+                "\u03b1-CsPbI3"
+            ],
+            "other_materials": [
+                "\u03b1-CsPbI3"
+            ],
+            "precursors": [
+                {
+                    "text": "ethylenediamine",
+                    "start": 18,
+                    "end": 33,
+                    "token_ids": [
+                        5
+                    ]
+                }
+            ],
+            "operation": [
+                13,
+                "Mixing"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, above preparation methods usually involve the production of intermediate ligands, making the device processing complex",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, it is of great significance to develop an effective and simple synthesis method for low temperature preparation of CsPbI3 PSCs.",
+            "all_materials": [
+                "CsPbI3 PSCs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CsPbI3 PSCs"
+        },
+        {
+            "sentence": "Here, we report a reproducible and simple one-pot solution method through using ethylenediamine  as additive to retain the \u03b1-CsPbI3 stable phase at an annealing temperature as low as 80\u00a0\u00b0C, which is the lowest phase temperature reported so far",
+            "all_materials": [
+                "ethylenediamine",
+                "\u03b1-CsPbI3"
+            ],
+            "other_materials": [
+                "ethylenediamine",
+                "\u03b1-CsPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The sigle pre-treatment on precursor solvent via gradient EDA doping can be directly conducive to stabilize \u03b1-CsPbI3 perovskite due to reduction of CsPbI3 grain size, which preventing spontaneous transformation into non-photoactive \u03b4-CsPbI3",
+            "all_materials": [
+                "\u03b1-CsPbI3",
+                "CsPbI3",
+                "\u03b4-CsPbI3"
+            ],
+            "other_materials": [
+                "\u03b1-CsPbI3",
+                "CsPbI3",
+                "\u03b4-CsPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The resulting \u03b1-CsPbI3 film own robust phase-stability and can retain black phase at room temperature for two months",
+            "all_materials": [
+                "\u03b1-CsPbI3"
+            ],
+            "other_materials": [
+                "\u03b1-CsPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, the solar cells adopting the high quality and stable black phase CsPbI3 as absorption layer are also demonstrated with a repeatable and highest PCE of 9.62%.",
+            "all_materials": [
+                "CsPbI3"
+            ],
+            "other_materials": [
+                "CsPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, EDA is added directly as an additive into the solvent consisting of dimethyl sulfoxide  and N,N\u2032-dimethylformamide",
+            "all_materials": [
+                "EDA",
+                "dimethyl sulfoxide",
+                "N,N\u2032-dimethylformamide"
+            ],
+            "other_materials": [
+                "dimethyl sulfoxide",
+                "N,N\u2032-dimethylformamide"
+            ],
+            "precursors": [
+                {
+                    "text": "EDA",
+                    "start": 14,
+                    "end": 17,
+                    "token_ids": [
+                        4
+                    ]
+                }
+            ],
+            "operation": [
+                6,
+                "SolutionMixing"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "CsPbI3 films with different EDA concentrations are deposited on SnO2 layer via one-pot solution processing and two-step heating method",
+            "all_materials": [
+                "CsPbI3",
+                "EDA",
+                "SnO2"
+            ],
+            "other_materials": [
+                "CsPbI3",
+                "EDA",
+                "SnO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "These samples are noted as CsPbI3\u00b7xEDA",
+            "all_materials": [
+                "CsPbI3\u00b7xEDA"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CsPbI3\u00b7xEDA"
+        },
+        {
+            "sentence": "The details were given in Experimental Section in Supporting Information",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "First, we fabricated CsPbI3 perovskite films by spin-coating precursor",
+            "all_materials": [
+                "CsPbI3"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                3,
+                "StartingSynthesis"
+            ],
+            "targets": "CsPbI3"
+        },
+        {
+            "sentence": "In summary, we have developed a new method that using ethylenediamine as additive to induce smaller-sized crystals and stabilize \u03b1-CsPbI3 phase at an annealing temperature as low as 80\u00a0\u00b0C",
+            "all_materials": [
+                "ethylenediamine",
+                "\u03b1-CsPbI3"
+            ],
+            "other_materials": [
+                "ethylenediamine",
+                "\u03b1-CsPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It was demonstrated that EDA was competent to reduce pinholes and improve films quality, making PSCs possible to attain 9.62% PCE and VOC of 1.06\u00a0V",
+            "all_materials": [
+                "PSCs",
+                "PCE"
+            ],
+            "other_materials": [
+                "PSCs",
+                "PCE"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The result provided a simple and novel formulation strategy to fabricate all-inorganic lead halide CsPbI3 PSCs with high performance and reliability at low",
+            "all_materials": [
+                "lead halide CsPbI3"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "lead halide CsPbI3"
+        },
+        {
+            "sentence": "Yu Zhang conceived the idea and designed the experiments",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Yifan Yang prepared electron transport layer of PSCs",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                2,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Xiaohan Zhang, Tianyi Wang, Qikun Rong and Na Li contributed to the characterizations",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Guofu Zhou and Li Nian discussed and interpreted the results",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "All the authors discussed the results and contributed to the writing of the manuscript.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work was supported by National Natural Science Foundation of China , Guangdong Basic and Applied Basic Research Foundation , and Guangdong Natural Science Foundation , Program for Chang Jiang Scholars and Innovative Research Teams in Universities , Leading Talents of Guangdong Province Program , Science and Technology Program of Guangzhou , Guangdong Provincial Key Laboratory of Optical Information",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The drawbacks of solar cells consisting of hybrid organic-inorganic lead halide perovskites led to the development of solar cells containing completely inorganic perovskites",
+            "all_materials": [
+                "lead halide"
+            ],
+            "other_materials": [
+                "lead halide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, here we have carried out detailed density functional theory  based investigation of cubic phase CsPbX3",
+            "all_materials": [
+                "CsPbX3"
+            ],
+            "other_materials": [
+                "CsPbX3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Absence of imaginary frequencies in phonon dispersion curves and negative cohesive energies of the perovskites depicts stability of our crystal structures",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "From electronic properties of CsPbI3 and CsPbBr3 we have deduced that the major contributions in their valence band region is due to I-5p and Br-4p orbitals, respectively",
+            "all_materials": [
+                "CsPbI3",
+                "CsPbBr3"
+            ],
+            "other_materials": [
+                "CsPbI3",
+                "CsPbBr3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The static dielectric constant of CsPbI3 is greater than CsPbBr3 which shows that it consists of low carrier recombination rate",
+            "all_materials": [
+                "CsPbI3",
+                "CsPbBr3"
+            ],
+            "other_materials": [
+                "CsPbI3",
+                "CsPbBr3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Red shift has also been observed in absorption coefficient plot while going from Br \u2192 I in CsPbX3",
+            "all_materials": [
+                "CsPbX3"
+            ],
+            "other_materials": [
+                "CsPbX3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The thickness of absorber layer present in perovskite solar cells  directly influences its efficiency and stability",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, here we have used a detailed framework i.e., spectroscopic limited maximum efficiency  to predict solar cell parameters of perovskites absorber layer as a function of their thicknesses",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Using SLME approach which is thickness dependent it has been predicted that at thicknesses above 2.56\u00a0\u03bcm and 1.39\u00a0\u03bcm of absorber layers CsPbI3 and CsPbBr3, respectively, their efficiencies obtained using SLME approach are higher compared to that obtained using Shockley-Queisser  limit",
+            "all_materials": [
+                "CsPbI3",
+                "CsPbBr3"
+            ],
+            "other_materials": [
+                "CsPbI3",
+                "CsPbBr3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The efficiencies of CsPbI3 and CsPbBr3 absorber layers calculated using SLME approach at absorber thickness of 20\u00a0\u03bcm are obtained around 30.41% and 24.53%, respectively.",
+            "all_materials": [
+                "CsPbI3",
+                "CsPbBr3"
+            ],
+            "other_materials": [
+                "CsPbI3",
+                "CsPbBr3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "All-inorganic cesium -based perovskites have been considered as one of the most popular research directions in the community of perovskite photovoltaic devices over the recent years because of their more competitive environmental stability in comparison with the traditional organic-inorganic hybrid perovskite candidates",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Since the first attempt for the all-inorganic photovoltaic solar cell in 2014, the recently stabilized device efficiency has exceeded 20% and a large number of relevant researches have been reported",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Different optimization strategies, including component replacement, additive, dimension regulation and process modulation, are the conditions to be fulfilled beforehand for the improvement of both stability and efficiency of the inorganic perovskite devices, affording exclusive advantages for application into device architecture",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this review article, the significant advancements of all-inorganic perovskite are systematically discussed, ranging from the materials component and structure to the preparation processing technique",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, we also take several insights into the kinetics for moisture, illumination and thermal stability of the all-inorganic perovskites",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We also discuss the promised advantages and shortcomings of each strategy that has been presented in the most recent publications",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Finally, we summarize the current challenges and prospects for the future investigation directions of implementing varying strategies to fabricate high-performance photovoltaic devices, promoting their commercial application.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In recent years, solution-processed lead halide perovskites have obtained great achievements in the field of optoelectronic devices",
+            "all_materials": [
+                "lead halide"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "lead halide"
+        },
+        {
+            "sentence": "However, the instability and the toxicity of lead halide materials limit their commercial development",
+            "all_materials": [
+                "lead halide"
+            ],
+            "other_materials": [
+                "lead halide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As a kind of lead-free perovskite, bismuth -based double perovskite materials have become a research hot spot due to their high thermal stability and non-toxicity",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Unfortunately, in the current preparation process, the solution-processed, high-quality Bi-based double perovskites need to suffer high post-treatment temperature, which seriously affects the interfaces between the perovskite/transport layer and is not friendly to the flexibility",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, by optimizing the DMF content in the Cs2AgBiBr6 precursor solution and spin coating speed, we obtained the optimal performance of the control device",
+            "all_materials": [
+                "DMF",
+                "Cs2AgBiBr6"
+            ],
+            "other_materials": [
+                "DMF",
+                "Cs2AgBiBr6"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "On this basis, by adding ionic liquid to the optimal Cs2AgBiBr6 perovskite precursor, we greatly reduced the fabrication temperature of the Cs2AgBiBr6 from 285 to 150\u00a0\u00b0C, improved the stability of the device and the high-performance, flexible Cs2AgBiBr6 perovskite photodetectors  were fabricated at first",
+            "all_materials": [
+                "Cs2AgBiBr6",
+                "Cs2AgBiBr6",
+                "Cs2AgBiBr6"
+            ],
+            "other_materials": [
+                "Cs2AgBiBr6"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                48,
+                "StartingSynthesis"
+            ],
+            "targets": "Cs2AgBiBr6"
+        },
+        {
+            "sentence": "Through optimization, our low-temperature prepared Cs2AgBiBr6 perovskite PD showed high device performance with the switching ratio of 1.66\u00a0\u00d7\u00a0104, the linear dynamic range of 100\u00a0dB, the detectivity of up to 1.87\u00a0\u00d7\u00a01012 Jones, and our flexible Cs2AgBiBr6 perovskite PDs also achieved the detectivity up to 8.04\u00a0\u00d7\u00a01011 Jones with good flexible stability",
+            "all_materials": [
+                "Cs2AgBiBr6",
+                "Cs2AgBiBr6"
+            ],
+            "other_materials": [
+                "Cs2AgBiBr6",
+                "Cs2AgBiBr6"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                7,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work provides a facile way to fabricate lead-free perovskites at low temperature.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Power conversion efficiency  of perovskite solar cells  has been skyrocketed to certified 25.5% owing to their improved and tunable optoelectronic properties",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Although, various strategies have been adopted to date regarding PCE and stability enhancement within PSC technology, certain instability factors  are hindering their commercial placement",
+            "all_materials": [
+                "PCE",
+                "PSC"
+            ],
+            "other_materials": [
+                "PCE",
+                "PSC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Recently, all-inorganic PSCs got hype in the photovoltaic research community after they attained PCE\u00a0&gt;\u00a020% and due to their significant endurance against heat and light mishmashes, but there only left moisture sensitivity as the only roadblock for their industrial integration",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here, we review the recent progress of additive inclusion into all-inorganic  PSCs to stabilize their intrinsic structure and to withstand the performance limiting factors",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We start with the detailed description of chemical instability of different perovskite compositions, phase segregation, and how organic molecules and dyes help to repair the structural defects to improve the overall PCE and stability of PSCs",
+            "all_materials": [
+                "PCE",
+                "PSCs"
+            ],
+            "other_materials": [
+                "PCE",
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moisture endurance as a result of chemical passivation through organic additives, low-dimensional inorganic PSCs to enhance device stability and scalable fabrication of CsPbX3 PSCs are also reviewed",
+            "all_materials": [
+                "PSCs",
+                "CsPbX3 PSCs"
+            ],
+            "other_materials": [
+                "PSCs",
+                "CsPbX3 PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The challenges of module degradation and design implications with proposed strategies and outlook are interpreted in the ending phrases of this review.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, we report highly efficient and stable triple cation perovskite solar cells  with the structure of FTO/TiO2/perovskite/spiro-OMeTAD/Ag, in which we introduce aminophylline  as an additive into the perovskite precursor solution to improve efficiency and stability",
+            "all_materials": [
+                "FTO/TiO2/perovskite/spiro-OMeTAD/Ag",
+                "aminophylline"
+            ],
+            "other_materials": [
+                "aminophylline"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "FTO/TiO2/perovskite/spiro-OMeTAD/Ag"
+        },
+        {
+            "sentence": "The APL additive results in increased device current density  , fill factor   and open-circuit voltage  , leading to an improved power conversion efficiency  of 22.11% compared to control devices",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It is worth noting that unpackaged devices employing the APL additive can remain 60% of their initial PCE in the air  after 100\u00a0days, whereas control devices merely retain less than 14% of the initial efficiency.",
+            "all_materials": [
+                "APL",
+                "PCE",
+                "air"
+            ],
+            "other_materials": [
+                "APL",
+                "PCE",
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The performance of perovskite solar cells  is extremely dependent on morphology and crystallinity of perovskite film",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "One of the most effective methods to achieve high performance perovskite solar cells has been to introduce additives that serve as dopants, crystallization or passivation agents",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein a facile strategy by introducing methylammonium chloride  and polar solvent N,N-Dimethylformamide  as co-additives in two-step sequential method is proposed to realize high quality perovskite film",
+            "all_materials": [
+                "methylammonium chloride",
+                "N,N-Dimethylformamide"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "methylammonium chloride",
+                    "start": 40,
+                    "end": 63,
+                    "token_ids": [
+                        6,
+                        7
+                    ]
+                },
+                {
+                    "text": "N,N-Dimethylformamide",
+                    "start": 83,
+                    "end": 104,
+                    "token_ids": [
+                        11
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It is demonstrated that DMF facilitates methylammonium iodide  penetrating easily into PbI2 layer to form highly crystalized perovskite film with uniform morphology which is essential to achieve high VOC",
+            "all_materials": [
+                "DMF",
+                "methylammonium iodide",
+                "PbI2",
+                "VOC"
+            ],
+            "other_materials": [
+                "DMF",
+                "methylammonium iodide",
+                "PbI2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "VOC"
+        },
+        {
+            "sentence": "While MACl induces MAPbI3 to crystallize in a pure \u03b1-phase and suppress non-photovoltaic phase, which guarantees high FF",
+            "all_materials": [
+                "MACl",
+                "MAPbI3"
+            ],
+            "other_materials": [
+                "MACl",
+                "MAPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Pure \u03b1-phase perovskite film with uniform morphology can be achieved by adopting MACl and DMF together and the corresponding solar cell illustrates a power conversion efficiency  of 19.02% with substantially promoted durability",
+            "all_materials": [
+                "MACl",
+                "DMF"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "MACl",
+                    "start": 81,
+                    "end": 85,
+                    "token_ids": [
+                        12
+                    ]
+                },
+                {
+                    "text": "DMF",
+                    "start": 90,
+                    "end": 93,
+                    "token_ids": [
+                        14
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, A VOC as high as 1.181\u00a0V is succeeded for MAPbI3 based solar cell benefiting from the synergistic effect.",
+            "all_materials": [
+                "MAPbI3"
+            ],
+            "other_materials": [
+                "MAPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Although the solar cells based on the \u03b1-CsPbI3 presents very impressive power conversion efficiency, it suffers from insufficient crystalline structure stability even in ambient condition",
+            "all_materials": [
+                "\u03b1-CsPbI3"
+            ],
+            "other_materials": [
+                "\u03b1-CsPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, the black orthorhombic \u03b3 phase based CsPbI3 is successfully fabricated with its performance further optimized by doping chlorine ions",
+            "all_materials": [
+                "CsPbI3",
+                "chlorine"
+            ],
+            "other_materials": [
+                "chlorine"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                11,
+                "StartingSynthesis"
+            ],
+            "targets": "CsPbI3"
+        },
+        {
+            "sentence": "It is found that the chlorine incorporation improves crystallization dynamics for favorable surface morphology and crystalline orientation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In particular by doping 3\u202fmol% chlorine into the \u03b3-CsPbI3 film, its trap density is minimized with enhanced black phase stability and much improved thin film characteristics, including conductivities, electron and hole mobilities",
+            "all_materials": [
+                "chlorine",
+                "\u03b3-CsPbI3"
+            ],
+            "other_materials": [
+                "\u03b3-CsPbI3"
+            ],
+            "precursors": [
+                {
+                    "text": "chlorine",
+                    "start": 31,
+                    "end": 39,
+                    "token_ids": [
+                        7
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Consequently, the solar cell efficiency is increased to as high as 16.07%",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "More importantly, the PCE of the optimized device shows only 0.45% degradation after continuous light soaking for 200\u202fh",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It retains as much as 94% of its initial PCE even after being exposed in air  for 60 days.",
+            "all_materials": [
+                "PCE",
+                "air"
+            ],
+            "other_materials": [
+                "PCE",
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The CsPbI3 inorganic perovskite is a potential candidate for fabricating long-term operational photovoltaic devices owing to its intrinsic superb thermal stability",
+            "all_materials": [
+                "CsPbI3"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                9,
+                "StartingSynthesis"
+            ],
+            "targets": "CsPbI3"
+        },
+        {
+            "sentence": "However, the carbon-based CsPbI3 perovskite solar cells  without hole transport material  are currently disadvantaged by their relatively low power conversion efficiency resulting from the poor grain quality and mismatched energy band levels of the as-made CsPbI3 films",
+            "all_materials": [
+                "CsPbI3",
+                "CsPbI3"
+            ],
+            "other_materials": [
+                "CsPbI3",
+                "CsPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein we demonstrate that by doping Na into the CsPbI3 lattice, the grain quality is significantly improved with low defect density, and also, the energy band levels are better matched to the contact electrodes, affording a higher built-in potential",
+            "all_materials": [
+                "CsPbI3"
+            ],
+            "other_materials": [
+                "CsPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Consequently, the Voc of the C-PSCs is drastically increased from 0.77 to 0.92 V, and the efficiency from 8.6% to 10.7%, a record value for the CsPbI3 PSCs without HTM",
+            "all_materials": [
+                "C-PSCs",
+                "CsPbI3"
+            ],
+            "other_materials": [
+                "C-PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CsPbI3"
+        },
+        {
+            "sentence": "Moreover, the non-encapsulated device showed virtually no performance degradation after 70\u00a0days of storage in air atmosphere.",
+            "all_materials": [
+                "air"
+            ],
+            "other_materials": [
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The open-circuit voltage  of all-inorganic perovskite solar cells  based on poly: polystyrene sulfonate /\u03b1-CsPbI3 architectures doped with hydroiodic acid  is usually unsatisfactory",
+            "all_materials": [
+                "poly: polystyrene sulfonate /\u03b1-CsPbI3",
+                "hydroiodic acid"
+            ],
+            "other_materials": [
+                "poly: polystyrene sulfonate /\u03b1-CsPbI3",
+                "hydroiodic acid"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, a sophisticated concentration ratio of HI and HCl additives were investigated to improve the Voc of the all-inorganic PSCs devices",
+            "all_materials": [
+                "HI",
+                "HCl",
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": [
+                {
+                    "text": "HI",
+                    "start": 47,
+                    "end": 49,
+                    "token_ids": [
+                        7
+                    ]
+                },
+                {
+                    "text": "HCl",
+                    "start": 54,
+                    "end": 57,
+                    "token_ids": [
+                        9
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The SEM and XRD results showed that perovskite thin films with fewer pinholes and higher crystallinity are fabricated",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                17,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, we found that the best Voc of 0.92\u202fV and power conversion efficiency  of 5.69% were obtained with formed using a HCl volume percentage of 6\u202fvol%, which is higher than \u03b1-CsPbI3 solar cells with pristine HI additives",
+            "all_materials": [
+                "HCl",
+                "\u03b1-CsPbI3",
+                "HI"
+            ],
+            "other_materials": [
+                "HCl",
+                "\u03b1-CsPbI3",
+                "HI"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It is believed that take a minute quantity HCl doping at least for high-quality inorganic perovskite thin films growth and improves the Voc of PEDOT:PSS/\u03b1-CsPbI3 PSCs device.",
+            "all_materials": [
+                "HCl",
+                "PEDOT:PSS/\u03b1-CsPbI3"
+            ],
+            "other_materials": [
+                "HCl",
+                "PEDOT:PSS/\u03b1-CsPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "With its suitable bandgap , excellent optoelectronic properties and ideal thermo-stability, cesium lead halide, CsPbI3, is a promising candidate for next-generation photovoltaics",
+            "all_materials": [
+                "cesium lead halide",
+                "CsPbI3"
+            ],
+            "other_materials": [
+                "cesium lead halide",
+                "CsPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, its instable structure  limits further development",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Since the first report in 2014, much efforts have been made to stabilize the structure , and the corresponding inorganic perovskite solar cells  have made great progress in terms of power conversion efficiency  which increased from 0.09% to 19.03%",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this review, we summarize the intrinsical instability of CsPbI3, and discuss the recent works in improving the stability of CsPbI3 from four aspects:  ionic incorporation;  metastable phases;  reduced dimensions;  steric hindrance",
+            "all_materials": [
+                "CsPbI3",
+                "CsPbI3"
+            ],
+            "other_materials": [
+                "CsPbI3",
+                "CsPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Finally, the problems that still exist and the possible directions for solving them are presented.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Cesium lead iodide , as one promising inorganic halide perovskite for higher stability, has received extensive attention in recent years",
+            "all_materials": [
+                "Cesium lead iodide",
+                "halide"
+            ],
+            "other_materials": [
+                "Cesium lead iodide",
+                "halide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, CsPbI3 based perovskite solar cells  have yet to realize the high efficiency achieved in organic-inorganic hybrid PSCs",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, we perform a device modeling by SCAPS-1D to investigate the limitation of CsPbI3 all-inorganic PSC  and improve its performance",
+            "all_materials": [
+                "CsPbI3",
+                "PSC"
+            ],
+            "other_materials": [
+                "CsPbI3",
+                "PSC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For i-PSC, not only the absorber but all the layers should be composed of inorganic materials only",
+            "all_materials": [
+                "i-PSC"
+            ],
+            "other_materials": [
+                "i-PSC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, several potential inorganic hole and electron transport layers  are compared firstly and the results reveal that Cu2O HTL and SnO2 ETL are the most suitable materials among them",
+            "all_materials": [
+                "Cu2O HTL",
+                "SnO2 ETL"
+            ],
+            "other_materials": [
+                "Cu2O HTL",
+                "SnO2 ETL"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, the device performance is further improved by optimizing the work function of back electrode, absorber thickness, doping density as well as defect density",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Under optimized conditions, a conversion efficiency of 21.31% is obtained for the FTO/SnO2/CsPbI3/Cu2O/Au i-PSC, indicating that there is much room for further performance enhancement.",
+            "all_materials": [
+                "FTO/SnO2/CsPbI3/Cu2O/Au i-PSC"
+            ],
+            "other_materials": [
+                "FTO/SnO2/CsPbI3/Cu2O/Au i-PSC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "All-inorganic CsPbI2Br perovskite with relatively high phase stability and a suitable band gap has been considered as a promising candidate for photovoltaic application",
+            "all_materials": [
+                "CsPbI2Br"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CsPbI2Br"
+        },
+        {
+            "sentence": "However, in comparison with its organic\u2013inorganic counterparts, it still shows unsatisfactory efficiency and high moisture sensitivity",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here, polyethylene glycol  is introduced into the CsPbI2Br precursor solution",
+            "all_materials": [
+                "polyethylene glycol",
+                "CsPbI2Br"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "polyethylene glycol",
+                    "start": 6,
+                    "end": 25,
+                    "token_ids": [
+                        2,
+                        3
+                    ]
+                },
+                {
+                    "text": "CsPbI2Br",
+                    "start": 50,
+                    "end": 58,
+                    "token_ids": [
+                        8
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It is revealed that Lewis base PEG interacts with Pb2+, which can slow down the crystallization rate, regulate the energy levels, and passivate the defect density of CsPbI2Br films",
+            "all_materials": [
+                "PEG",
+                "CsPbI2Br"
+            ],
+            "other_materials": [
+                "PEG",
+                "CsPbI2Br"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As a result, the optimized devices with PEG exhibit a power conversion efficiency  of 13.59% under one sun illumination , which is considerably higher than that of the control devices , owing to the reduced nonradiative recombination losses for the former CsPbI2Br films",
+            "all_materials": [
+                "CsPbI2Br"
+            ],
+            "other_materials": [
+                "CsPbI2Br"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The results demonstrate that using polymer additives to improve the device performance is an effective strategy for all-inorganic perovskite solar cells.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

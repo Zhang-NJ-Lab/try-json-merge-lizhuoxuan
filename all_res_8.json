@@ -1,0 +1,1032 @@
+{
+    "rest": [
+        {
+            "sentence": "Perovskite solar cells are promising because of its high efficiency, low cost and solution processable property",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this paper, a double-blade slot-die coating method based on the mechanism of fountain pen was brought out to deliver the precursor to substrate conveniently",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The controllable \u2018writing\u2019 process reduces precursor waste and improves film quality",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "After annealing, uniform and efficient perovskite films were achieved",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                1,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Optimum condition of the doctor-blade film was explored",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "By adjusting precursor concentration, champion MAPbI3 device with 19.7% PCE was obtained",
+            "all_materials": [
+                "MAPbI3",
+                "PCE"
+            ],
+            "other_materials": [
+                "PCE"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "MAPbI3"
+        },
+        {
+            "sentence": "This work provides a new idea for preparing high quality perovskite film suitable for large-scale industrial production.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                7,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Download : Download high-res image Download : Download full-size image",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Perovskite solar cells  are developing rapidly these years because of its high charge-carrier mobility, long carrier lifetime, high absorption coefficient, and excellent defect tolerance",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Since 2009\u00a0PSCs were first reported, the power conversion efficiency  has increase rapidly from 3.8% to 25.2% [, ]",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This low cost and high efficiency PSCs devices are quite favorable for commercial application",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, there still remain some problems to be solved",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Most of the reported records for PSCs were prepared by spin-coating in laboratory, which is easy to acquire smooth and uniform films in a small active area",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                8,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Nevertheless, since small area devices have little piratical use, the traditional spin-coating method is not suitable for factory conditions",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, advanced preparation process cooperating well with large-scale industrial production should be explored to achieve high quality upscale perovskite films.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Various approaches have been explored to deposit scalable PSCs, such as spray coating, blade-coating, chemical vapor phase deposition, roll-to-roll printing and inkjet printing [, ]",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Among them, blading coating is one of the most promising and most reported methods, mainly due to its high coating throughput with an extremely high speed  and little waste  [17,18]",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, it has the capability of processing a wide range of fluids.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Blade-coating has been proved to be successful in perovskite photovoltaic engineering, multifarious ways are explored to improve the blade-coating process [20,21,23]",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Back in 2015, Razza et al",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "reported an air-assisted blade coating of PbI2 layers followed by dipping the layer into the CH3NH3I solution for the fabrication of perovskite solar cells and modules",
+            "all_materials": [
+                "air",
+                "PbI2",
+                "CH3NH3I"
+            ],
+            "other_materials": [
+                "air",
+                "PbI2",
+                "CH3NH3I"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A PCE of 13.3% was obtained for a 0.1\u00a0cm2 cell, and 10.4% for a 10.1\u00a0cm2 modules",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In the same year, Back et al",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "overcame the surface coverage problem of the perovskite layer on the underlying hole-transport layer by introducing poly which used the electrostatic interaction between the sulfonyl functional groups in PEDOT:PSS and perovskite precursor ions",
+            "all_materials": [
+                "PEDOT",
+                "PSS"
+            ],
+            "other_materials": [
+                "PEDOT",
+                "PSS"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Later on, in 2019, 2-methoxyethanol  was used as the precursor solvent and lead acetate  was used as an addictive to grow perovskite films with air-knife assisted D-bar coater",
+            "all_materials": [
+                "2-methoxyethanol",
+                "lead acetate",
+                "air"
+            ],
+            "other_materials": [
+                "2-methoxyethanol",
+                "lead acetate",
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "By controlling crystal growth, the quality of perovskite film was efficiently improved",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In 2020, Ouyang et al",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "reported PSCs with equivalent photovoltaic performance made from rapid thermal processing , which could successfully decrease the annealing time of blade-coated MAPbI3films and managed to make MAPbI3-based PSCs with a PCE of 18.47% for small devices and 17.73% for mini-modules with an active area of over 2.7\u00a0cm2",
+            "all_materials": [
+                "MAPbI3films",
+                "PSCs"
+            ],
+            "other_materials": [
+                "MAPbI3films"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "By changing precursor solvent component, surface passivation and introducing assisted process, the blade-coating technology was promoted continuously.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "There still remain some challenges to overcome during blade-coating, such as the impurities brought in during coating process which can disrupt the uniform liquid film",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Also, since the coating parameters such as coating speeding, blade clearance and gap height have great influence on film quality, slight disturbance during coating process will lead to poor quality films",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, new methods should be developed to obtain continuous and stable thin perovskite films",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Based on the principle of fountain pen, a double-blade slot-die method was invented to \u2018write\u2019 blade-coating perovskite films with little waste in this study",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The perovskite precursor was controllably delivered to the substrate employing a double-blade knife with a filter between them",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This efficient and easy process effectively lowers the precursor concentration required in coating process and thus improves the device reproducibility",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "After annealing, uniform and efficient perovskite films were obtained",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                1,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "By varying different precursor concentration, optimum condition of the doctor-blade film was explored, and finally exhibited an optimal PCE of 19.7%.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The blade coating schematic diagram is shown in Fig",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "1, the filter is sandwiched between two blade knifes, connecting the precursor groove and the substrate",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The clearance between the knifes are controlled to 1\u00a0mm",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "By moving the double-blade knife at a certain speed, the MAPbI3 precursor is delivered to the substrate homogeneously by capillary effect of filter",
+            "all_materials": [
+                "MAPbI3"
+            ],
+            "other_materials": [
+                "MAPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The coating speed is controlled to 7.5\u00a0mm/s, which was found a suitable coating speed in previous researches",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Later on, the substrate",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In summery, we have demonstrated MAPbI3 films with a double-blade slot-die method",
+            "all_materials": [
+                "MAPbI3"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "MAPbI3"
+        },
+        {
+            "sentence": "The double blade and filter design allows for fine control over the coating process, greatly lowering down the precursor concentration needed compared with the spin-coating method and improving the device reproducibility",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "After optimizing the precursor concentration, uniform perovskite layer of with few defect was achieved",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Obtaining a high efficiency perovskite solar cell by blade coating is an important step",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "180\u00a0nm of indium tin oxide  coated glass substrates with a sheet resistance of 12.",
+            "all_materials": [
+                "indium tin oxide"
+            ],
+            "other_materials": [
+                "indium tin oxide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "\u03a9/sq were purchased from Huayulianhe Co",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "SnO2 colloid precursor  oxide, 15% in H2O colloidal dispersion), anhydrous dimethyl sulfoxide , Chlorobenzene were obtained from Alfa AesarLtd",
+            "all_materials": [
+                "SnO2",
+                "H2O",
+                "dimethyl sulfoxide",
+                "Chlorobenzene"
+            ],
+            "other_materials": [
+                "H2O"
+            ],
+            "precursors": [
+                {
+                    "text": "SnO2",
+                    "start": 0,
+                    "end": 4,
+                    "token_ids": [
+                        0
+                    ]
+                },
+                {
+                    "text": "dimethyl sulfoxide",
+                    "start": 75,
+                    "end": 93,
+                    "token_ids": [
+                        14,
+                        15
+                    ]
+                },
+                {
+                    "text": "Chlorobenzene",
+                    "start": 96,
+                    "end": 109,
+                    "token_ids": [
+                        17
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Lead iodide , Methyl ammonium iodide  and 2,2,7,7-tetrakis -9,9-spirobifluorene  were purchased from Xi&#x27;an Polymer Light Technology",
+            "all_materials": [
+                "Lead iodide",
+                "Methyl ammonium iodide",
+                "2,2,7,7-tetrakis -9,9-spirobifluorene"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "Lead iodide",
+                    "start": 0,
+                    "end": 11,
+                    "token_ids": [
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "text": "Methyl ammonium iodide",
+                    "start": 14,
+                    "end": 36,
+                    "token_ids": [
+                        3,
+                        4,
+                        5
+                    ]
+                },
+                {
+                    "text": "2,2,7,7-tetrakis -9,9-spirobifluorene",
+                    "start": 42,
+                    "end": 79,
+                    "token_ids": [
+                        7,
+                        8
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work was supported by the National Natural Science Foundation of China .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Heteroatoms doping is an effective strategy to boost polymer materials with desirable functions for advanced electronics and optoelectronics",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, two N or S heteroatoms were employed to construct large-area two-dimensional N, S-codoped conjugated microporous polymer  film for nonvolatile memory",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The CMP films exhibited excellent thermal stability due to the cross-linked structure",
+            "all_materials": [
+                "CMP"
+            ],
+            "other_materials": [
+                "CMP"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The vertical diode with the sandwich structure of ITO/N, S-CMP/Al showed rewritable flash memory function, with a low switch voltage of 0.9\u00a0V, a high ON/OFF ratio of 1.3\u00a0\u00d7\u00a0102 and long retention time of up to 8\u00a0\u00d7\u00a0103\u00a0s",
+            "all_materials": [
+                "ITO/N, S-CMP/Al"
+            ],
+            "other_materials": [
+                "ITO/N, S-CMP/Al"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The flash behavior is probably attributed to the strongly coordinating S atoms with metal ions, which can lead the reproducible metal filament formation process",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Impressively, even after annealing at 200\u00a0\u00b0C, the device also showed flash performance, indicating its excellent thermal stability",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                4,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Our work provides a promising strategy to prepare CMPs for highly stable polymer memory.",
+            "all_materials": [
+                "CMPs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CMPs"
+        },
+        {
+            "sentence": "Emerging hybrid organic\u2013inorganic perovskites with superior optoelectronic property demonstrate promising prospect for photovoltaic  applications, in particular for low-lighting indoor applications e.g",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "within internet of things  networks or low-energy wireless communication devices",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In order to prepare devices with high power output under low-illumination conditions, scalable fabrication techniques are preferred for large-area perovskite solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In additions, one of the key parameters to achieve high-efficiency large-area perovskite solar cells is to minimize the ohmic loss to further boost the solar cell efficiency",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, a one-step blade-coating method assisted by hexafluorobenzene  was developed to deposit dense, large-area smooth and high-quality perovskite films with low ohmic loss",
+            "all_materials": [
+                "hexafluorobenzene"
+            ],
+            "other_materials": [
+                "hexafluorobenzene"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The as-fabricated devices demonstrated power conversion efficiency  of 20.7%  and 16.5% , respectively, under standard  illumination conditions",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Besides, the large-area  devices demonstrated a remarkable PCE of\u00a0\u223c\u00a033.8% and\u00a0\u223c\u00a030.0% under 1000\u00a0lx and 100\u00a0lx illumination provided by white light-emitting diode  lamp, respectively",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We exhibited a series-connected stack of large-area  perovskite photovoltaic device powering up a LED under common indoor environment as an indoor self-power indicator lamp",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The analysis using a single diode model suggests that the high performance of the large-area devices under low-lighting indoor conditions is highly associated with the largely reduced ohmic losses, which particularly indicate that the perovskite films by a facile and scalable blade-coating method",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The presented scalable approach paves the way to designing high-performance perovskite solar cells for a variety of emerging indoor PV applications.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Organic\u2013inorganic halide perovskites  have attracted tremendous attention because of their outstanding and tunable optoelectronic properties",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "While the progress of perovskite solar cells  through laboratory-scale deposition methods is promising in efficiency, there are still many technological issues to address, including the process transfer from laboratory-scale fabrication to industrial-scale mass production, especially under ambient conditions , to realize their low-cost promise",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this review, we summarize the most recent progress in the upscaling of PSCs processed in an ambient environment",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Along with discussing the underlying challenges and limitations, we provide a brief overview of robust strategies for the fabrication of efficient PSCs using printing-friendly techniques under ambient conditions, which are crucial for the future deployment of this exciting technology.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A deposition strategy is demonstrated for fabricating perovskite solar cells  under ambient laboratory conditions",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                6,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A nitrogen-flow treatment followed by a short , low-temperature  anneal enables control of the nucleation and crystal growth of slot-die coated perovskite layers without the need for an anti-solvent for devices",
+            "all_materials": [
+                "nitrogen-flow"
+            ],
+            "other_materials": [
+                "nitrogen-flow"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                11,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "PSCs using either glass or poly  substrates were prepared with an n-i-p device architecture and comprised a perovskite layer containing formamidinium and cesium cations, with or without the additive of 2--ethylammonium iodide",
+            "all_materials": [
+                "PSCs",
+                "formamidinium",
+                "cesium cations",
+                "2--ethylammonium iodide"
+            ],
+            "other_materials": [
+                "formamidinium",
+                "cesium cations",
+                "2--ethylammonium iodide"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                8,
+                "StartingSynthesis"
+            ],
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "The perovskite layer in glass-based devices was slot-die coated onto a stationary substrate with a moving coating head, whereas the deposition of the perovskite layer in PET-based devices was achieved by slot-die coating onto a moving  web using a stationary coating head",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The processing conditions enabled the fabrication of PSCs displaying excellent temperature and humidity tolerance",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "Devices fabricated on the glass substrates had power-conversion efficiencies  of more than 18%, with PCEs of more than 15% measured for cells on the PET film substrates",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                1,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The use of the FEAI additive improved the environmental stability of encapsulated glass-based PSC devices, which retained up to 70% of their initial PCE after 1000\u00a0h at maximum power point under 1-sun illumination in air",
+            "all_materials": [
+                "PCE",
+                "air"
+            ],
+            "other_materials": [
+                "PCE",
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The scalability of the fabrication techniques used in this work, along with the low annealing temperature and ability to process in an ambient laboratory environment, makes this a promising approach for translation to industrial-scale R2R production processes.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A low-cost and unconventional blade coating technique, called convective deposition, has been introduced for PCDTBT:PC70BM polymer and CH3NH3PbIxCl3-x perovskite solar cell fabrication",
+            "all_materials": [
+                "PCDTBT",
+                "PC70BM",
+                "CH3NH3PbIxCl3-x"
+            ],
+            "other_materials": [
+                "PCDTBT",
+                "PC70BM"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CH3NH3PbIxCl3-x"
+        },
+        {
+            "sentence": "With the new technique, only 10\u201320 microliter droplets per one square inch substrate were used to deposit hole transporting material, as well as photoactive and electron transporting materials, sequentially to create a p-i-n structure solar cell",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Thin film deposition and solar cell fabrication from the standard spin coating and the convective deposition were compared",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Smaller and better distribution of PC70BM domain in the PCDTBT:PC70BM film was observed in the film prepared by the convective deposition",
+            "all_materials": [
+                "PC70BM",
+                "PCDTBT:PC70BM"
+            ],
+            "other_materials": [
+                "PC70BM",
+                "PCDTBT:PC70BM"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                18,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Unlike the conventional doctor-blade coating or the spin coating, the film thickness can simply be adjusted by the convective deposition speed",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The highest averaged power conversion efficiency  of 6.34% was obtained from the polymer solar cell prepared by the convective deposition at the coating speed of 750\u00a0\u03bcm/s compared to 5.60% PCE from the spin coating at the speed of 2500\u00a0rpm",
+            "all_materials": [
+                "PCE"
+            ],
+            "other_materials": [
+                "PCE"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                16,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For perovskite solar cell, a heating stage was used during the convective deposition of perovskite ink, 10.61% PCE was achieved with the stage temperature of 70 \u00b0C and the 2500\u00a0\u03bcm/s deposition speed",
+            "all_materials": [
+                "PCE"
+            ],
+            "other_materials": [
+                "PCE"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Layer-by-layer deposition with the convective deposition used in this study offers benefits over the standard spin coating by reducing amount of material consumption in the fabrication process and being suitable for low-cost fabrication of other solution-based optoelectronic devices.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To make the jump from laboratories to commercial production for perovskite solar cells, it is necessary to develop devices in an ambient environment using materials and methods that can be scalable",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here, blade coating followed by vacuum quenching is used to manufacture the FACs-based perovskite solar cells with the additive of MACl under an ambient environment , where FA is formamidinium and MA is methylammonium",
+            "all_materials": [
+                "MACl",
+                "FA",
+                "formamidinium",
+                "MA",
+                "methylammonium"
+            ],
+            "other_materials": [
+                "MACl",
+                "FA",
+                "formamidinium",
+                "MA",
+                "methylammonium"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The vacuum allows quick removal of solvent to initiate the nucleation process and create the intermediate phase",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To control the nucleation and crystallization, the additive MACl is utilized to manipulate the intermediate phase",
+            "all_materials": [
+                "MACl"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "MACl",
+                    "start": 60,
+                    "end": 64,
+                    "token_ids": [
+                        9
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Besides perovskites, another key component is the hole transport material",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Although nickel oxide exhibits good photostability and can be scalable for the inverted device architecture, the main drawback is low cell efficiency",
+            "all_materials": [
+                "nickel oxide"
+            ],
+            "other_materials": [
+                "nickel oxide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work solves it by tuning the cation ratio of Pb2+ to A+ and light soaking, achieving a champion efficiency of 19.5%",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The encapsulated solar cells exhibit long-term photostability, maintaining 96% of their original efficiency and 91.5% of their maximum efficiency over 648\u00a0h under one sun at 45\u00b0C and 50%\u201360% relative humidity",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work demonstrates an economical and highly scalable process, promising for commercial-scale manufacturing.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

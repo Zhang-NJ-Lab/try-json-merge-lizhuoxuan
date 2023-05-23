@@ -1,0 +1,1799 @@
+{
+    "rest": [
+        {
+            "sentence": "Humidity is one of the main environmental factors that limits performance and stability of perovskite solar cells ; it plays a critical role during the preparation of the perovskite film, influencing the crystal growth",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, it is investigated the effect of the relative humidity  and type of atmosphere  used during the deposition of both perovskite layer and hole extraction layer",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "While humidity and oxygen seem not to affect the HEL deposition step, the perovskite layer is notoriously influenced by the RH and by the presence of oxygen during its deposition",
+            "all_materials": [
+                "oxygen",
+                "oxygen"
+            ],
+            "other_materials": [
+                "oxygen",
+                "oxygen"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Until 10% of RH, the performance of devices prepared with a triple-cation perovskite layer deposited under a nitrogen environment was mostly unaffected, whilst for devices deposited in air that limit is lower",
+            "all_materials": [
+                "RH",
+                "nitrogen",
+                "air"
+            ],
+            "other_materials": [
+                "RH",
+                "nitrogen",
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                10,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "On the other hand, for high RH values , devices prepared with a triple-cation perovskite layer deposited under N2 presented slightly better stability over time than the ones prepared under air",
+            "all_materials": [
+                "N2"
+            ],
+            "other_materials": [
+                "N2"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                [
+                    11,
+                    "StartingSynthesis"
+                ],
+                [
+                    31,
+                    "StartingSynthesis"
+                ]
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The best-performing device was prepared with a triple-cation perovskite layer deposited under dry air, presenting a power conversion efficiency of 16.7%",
+            "all_materials": [
+                "air"
+            ],
+            "other_materials": [
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                6,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "These results are of critical value when designing a plant for fabricating PSC showing that the perovskite layer may be deposited under a simple dry air atmosphere .",
+            "all_materials": [
+                "PSC",
+                "air"
+            ],
+            "other_materials": [
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                11,
+                "StartingSynthesis"
+            ],
+            "targets": "PSC"
+        },
+        {
+            "sentence": "Power conversion efficiency , long-term stability and manufacturing costs represent the three vertices of the golden triangle for photovoltaic technologies",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "More than 90% of the share on the commercialized photovoltaics is dominated by silicon panels presenting efficiencies of ca",
+            "all_materials": [
+                "silicon"
+            ],
+            "other_materials": [
+                "silicon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "20%, a lifetime of more than 25\u00a0years and low manufacturing costs of 0.3 $/W",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Perovskite solar cells  is probably the only PV technology that might rival the silicon monopoly; this technology emerged a decade ago and reached already a certified PCE of over 24% at lab size",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Perovskite solar cells promise to display lower production costs than crystalline silicon with similar PCE",
+            "all_materials": [
+                "silicon"
+            ],
+            "other_materials": [
+                "silicon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, PSC technology still needs to overcome the present major drawback: long-term stability",
+            "all_materials": [
+                "PSC"
+            ],
+            "other_materials": [
+                "PSC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "According to many authors, relative humidity , temperature, oxygen and UV-light seems to play an important role on the device degradation, and for that reason it is very important to understand their degradation mechanisms .",
+            "all_materials": [
+                "oxygen"
+            ],
+            "other_materials": [
+                "oxygen"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "While some research groups allege that humidity is a problem for perovskite films, showing that at high levels of moisture the perovskite starts to degrade with formation of hydrate phases , other groups defend that a certain level of humidity can actually improve the crystallinity of perovskite layer",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In the fabrication of high performance PSCs the quality of the grain boundaries at the perovskite layer can affect not only the PCE, but also the hysteresis",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The formation of a high-quality perovskite layer depends on the deposition process but also on the atmosphere during the crystals growth",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "So, due to the hygroscopic nature of the most common perovskites, RH is a key factor controlling the crystal growth and later on the PSC performance.",
+            "all_materials": [
+                "RH"
+            ],
+            "other_materials": [
+                "RH"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The presence of humidity can affect the quality of the perovskite solar cell in different stages: the precursors solutions used to prepare the devices, during the fabrication of the cells and during the devices operation over time",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "showed that the use of water-containing perovskite precursors  and the exposure to high water content  during the fabrication in air allow to obtain high performance cells with low moisture sensitivity and enhanced crystallization Liu et al",
+            "all_materials": [
+                "water",
+                "water",
+                "air"
+            ],
+            "other_materials": [
+                "water",
+                "water",
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "They also concluded that the water contained in the precursor solution only limits the solubility of the precursors, but it does not influence the device performance",
+            "all_materials": [
+                "water"
+            ],
+            "other_materials": [
+                "water"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Contreras-Bernal et al",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "also observed this same effect for aged CH3NH3PbI3 cells when prepared under high relative humidity, ca",
+            "all_materials": [
+                "CH3NH3PbI3"
+            ],
+            "other_materials": [
+                "CH3NH3PbI3"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                10,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "50%, compared to the ones prepared under dry-conditions",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                7,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "On the other side, Wozny et al",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "assessed the humidity effect during preparation of FAPbI3 planar devices and concluded that the increase of the relative humidity during the preparation of the devices decreased the performance of fresh cells \u2013 from 16.4% to 8.6% of PCE at 40% of RH",
+            "all_materials": [
+                "FAPbI3",
+                "PCE"
+            ],
+            "other_materials": [
+                "FAPbI3",
+                "PCE"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The humidity leads to the formation of voids at the perovskite layer, decreasing the open-circuit voltage and recombination resistance, leading to shorter carrier lifetimes",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Similarly, Salado et al",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "studied the moisture-induced degradation of triple-cation perovskite solar cells and concluded that aging devices by exposing them to moisture enhances interfacial charge accumulation that can accelerate the charge recombination rate",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "proposed the hermetic encapsulation of the PSC devices based on a laser-assisted glass-frit sealing process performed at a process temperature of 120\u00a0\u00b0CEmami et al",
+            "all_materials": [
+                "PSC"
+            ],
+            "other_materials": [
+                "PSC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The sealing procedure was compatible with the requirements of the PSC, which displayed thermal stability after five cycles of a humidity-freeze between \u221240\u00a0\u00b0C and 85\u00a0\u00b0C according to the IEC61646 standard .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As a result of these studies, concerning humidity-induced degradation of complete PSC devices, many researchers tried to overpass this problem by proposing new preparation methods that allow to prepare devices less-sensitive to moisture",
+            "all_materials": [
+                "PSC"
+            ],
+            "other_materials": [
+                "PSC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "showed that the anti-solvent method using diethyl ether can be humidity insensitive since the fast solvent removal minimize the influence of humidity on the crystallization process Wang et al",
+            "all_materials": [
+                "diethyl ether"
+            ],
+            "other_materials": [
+                "diethyl ether"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Troughton et al",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "obtained similar results using ethyl acetate as anti-solvent, which can also protect the perovskite precursor intermediate phase during the spin-coating step due to its ability to sequester airborne moisture",
+            "all_materials": [
+                "ethyl acetate"
+            ],
+            "other_materials": [
+                "ethyl acetate"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "also increased the stability of the PSC to the humidity by improving the perovskite crystallization step: a perovskite-like metal formate  was used into the perovskite precursor solution as a scaffold additive to achieve a well-organized crystalline and compact morphologyLiu et al",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As a consequence, improved grain boundaries were formed, suppressing hole-electron recombination and defect points usually originated by humidity exposure",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "PSCs with 3\u00a0mg\u00b7ml\u22121 of PLMF maintained 85% of their initial performance after 1000\u00a0h of exposure to 40\u00a0\u00b1\u00a05% of RH",
+            "all_materials": [
+                "PSCs",
+                "PLMF",
+                "RH"
+            ],
+            "other_materials": [
+                "PSCs",
+                "PLMF",
+                "RH"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Another strategy considers the use of passivation layers of organic polymers and Al2O3 deposited on top of the perovskite layer as a way to protect it from moisture .",
+            "all_materials": [
+                "Al2O3"
+            ],
+            "other_materials": [
+                "Al2O3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The majority of studies reported until now assess MAPI stability against moisture during aging experiments",
+            "all_materials": [
+                "MAPI"
+            ],
+            "other_materials": [
+                "MAPI"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, triple-cation perovskite based solar cells start now to be the standard configuration as it allows obtaining efficient, stable and reproducible devices",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, it is important to understand how humidity affects triple cation based-devices, still during preparation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work analyzes three different scenarios, all relevant for designing a production plant of PSC:  water content in the solvents used for preparing the devices, resulting from the contact with a humidified atmosphere;  different levels of ambient humidity during preparation of devices  and;  effect of ambient humidity on the prepared cells long term stability",
+            "all_materials": [
+                "PSC",
+                "water"
+            ],
+            "other_materials": [
+                "PSC",
+                "water"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                24,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Besides, it was also investigated the combination of humidity with nitrogen and air atmospheres in the glove box",
+            "all_materials": [
+                "nitrogen",
+                "air"
+            ],
+            "other_materials": [
+                "nitrogen",
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Two perovskite compositions were tested, CH3NH3PbI3 and Cs0.050.95Pb3, both prepared by anti-solvent method with chlorobenzene",
+            "all_materials": [
+                "CH3NH3PbI3",
+                "Cs0.050.95Pb3",
+                "chlorobenzene"
+            ],
+            "other_materials": [
+                "chlorobenzene"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                11,
+                "StartingSynthesis"
+            ],
+            "targets": "CH3NH3PbI3"
+        },
+        {
+            "sentence": "The effect of RH and carrier gas in the hole extraction layer \u2013 spiro-OMeTAD \u2013 was also studied",
+            "all_materials": [
+                "RH",
+                "spiro-OMeTAD"
+            ],
+            "other_materials": [
+                "RH",
+                "spiro-OMeTAD"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The humidity effect was assessed based on the photovoltaic performance of several batches of devices and the morphology and crystallinity were analyzed by SEM and XRD, respectively",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The relation between photovoltaic performance, morphology and structural analysis allowed to conclude about the main degradation pathways of devices prepared under different humid environments, but also about the boundary conditions that can be used until the perovskite films start to degrade or the device performance starts to significantly decrease.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                20,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The preparation procedure of the perovskite solar cells were similar to those outlined by the authors elsewhere",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Fluorine-doped tin oxide  glass substrates  were cleaned with a 10% Hellmanex III  solution, then with a potassium hydroxide saturated solution and finally with water in an ultrasonic bath, 15\u00a0min each step, followed by drying under a stream of air and treatment with UV-ozone for 15\u00a0min",
+            "all_materials": [
+                "tin oxide",
+                "potassium hydroxide",
+                "water",
+                "air",
+                "UV-ozone"
+            ],
+            "other_materials": [
+                "tin oxide",
+                "potassium hydroxide",
+                "water",
+                "air",
+                "UV-ozone"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                40,
+                "DryingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The effect of water content on the precursor solutions was assessed",
+            "all_materials": [
+                "water"
+            ],
+            "other_materials": [
+                "water"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For that, the solvents used to prepare the perovskite layer, namely DMF, DMSO and chlorobenzene, were left opened under dry conditions  and under 15%, 45% and 60% of relative humidity inside a hermetically sealed chamber during 52\u00a0h",
+            "all_materials": [
+                "DMF",
+                "DMSO",
+                "chlorobenzene"
+            ],
+            "other_materials": [
+                "DMF",
+                "DMSO",
+                "chlorobenzene"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The required humidity inside the chamber were achieved with saturated salt aqueous solutions: potassium hydroxide, sodium bromide and potassium bromide for 15%, 45% and 60% of RH,",
+            "all_materials": [
+                "potassium hydroxide",
+                "sodium bromide",
+                "potassium bromide",
+                "RH"
+            ],
+            "other_materials": [
+                "potassium hydroxide",
+                "sodium bromide",
+                "potassium bromide",
+                "RH"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Perovskite solar cell technology is close to industrialization; it is important now to study the cheapest fabrication design and conditions to produce an efficient and stable product",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work addresses the fabrication ambient conditions to produce efficient and stable devices.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The use of humidified solvents to prepare the precursor solutions of triple-cation perovskite displayed a minor effect on the device PCE, demonstrating that to obtain moderate performing PSCs there is no need of using",
+            "all_materials": [
+                "PCE"
+            ],
+            "other_materials": [
+                "PCE"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Mesquita is grateful to FCT  for her Ph.DI",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Lfellow",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Andrade also acknowledges FCT for funding",
+            "all_materials": [
+                "FCT"
+            ],
+            "other_materials": [
+                "FCT"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The research leading to these results has received funding from: European Union&#x27;s Horizon 2020 Programme through a FET Open research and innovation action under Grant agreement no",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "687008; project SolarPerovskite - NORTE-01-0145-FEDER-028966 funded by FEDER funds through NORTE 2020 - Programa Operacional Regional do",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Recently, solar photovoltaic  technology has shown tremendous growth among all renewable energy sectors",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The attractiveness of a PV system depends deeply of the module and it is primarily determined by its performance",
+            "all_materials": [
+                "PV"
+            ],
+            "other_materials": [
+                "PV"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The quantity of electricity and power generated by a PV cell is contingent upon a number of parameters that can be intrinsic to the PV system itself, external or environmental",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Thus, to improve the PV panel performance and lifetime, it is crucial to recognize the main parameters that directly influence the module during its operational lifetime",
+            "all_materials": [
+                "PV"
+            ],
+            "other_materials": [
+                "PV"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Among these parameters there are numerous factors that positively impact a PV system including the temperature of the solar panel, humidity, wind speed, amount of light, altitude and barometric pressure",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "On the other hand, the module can be exposed to simultaneous environmental stresses such as dust accumulation, shading and pollution factors",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "All these factors can gradually decrease the performance of the PV panel",
+            "all_materials": [
+                "PV"
+            ],
+            "other_materials": [
+                "PV"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This review not only provides the factors impacting PV panel&#x27;s performance but also discusses the degradation and failure parameters that can usually affect the PV technology",
+            "all_materials": [
+                "PV",
+                "&#x27;s"
+            ],
+            "other_materials": [
+                "PV",
+                "&#x27;s"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The major points include: 1) Total quantity of energy extracted from a photovoltaic module is impacted on a daily, quarterly, seasonal, and yearly scale by the amount of dust formed on the surface of the module",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "2) Climatic conditions as high temperatures and relative humidity affect the operation of solar cells by more than 70% and lead to a considerable decrease in solar cells efficiency",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "3) The PV module current can be affected by soft shading while the voltage does not vary",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In the case of hard shadowing, the performance of the photovoltaic module is determined by whether some or all of the cells of the module are shaded",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "4) Compared to more traditional forms of energy production, PV systems offer a significant number of advantages to the environment",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Nevertheless, these systems can procure greenhouse gas emissions, especially during the production stages",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In conclusion, this study underlines the importance of considering multiple parameters while evaluating the performance of photovoltaic modules",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Environmental factors can have a major impact on the performance of a PV system",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It is critical to consider these factors, as well as intrinsic and other intermediate factors, to optimize the performance of solar energy systems",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, continuous monitoring and maintenance of PV systems is essential to ensure maximum efficiency and performance.",
+            "all_materials": [
+                "PV"
+            ],
+            "other_materials": [
+                "PV"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The fast-drying spray deposition  technique for perovskite solar cells  is developed to enable the stacking of perovskite absorbers with different work functions, which allows the creation of an additional built-in electric field at the interface during the fermi level realignment process upon contact",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "FDSD is functional under high relative humidity  ambiance and by design, deposits dry film without the need for post-deposition annealing treatment",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Based on a spray coating process, FDSD is also highly scalable",
+            "all_materials": [
+                "FDSD"
+            ],
+            "other_materials": [
+                "FDSD"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Leveraging FDSD\u2019s multilayer deposition capability, this work explores the implementation of graded energy band architectures to achieve PSCs with enhanced carrier extraction and photovoltaic performances",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To demonstrate the potential benefit of this approach, two triple cation mixed halide perovskite formulas are chosen",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The two formulas, when stacked together in correct order, produce a heterojunction PSC device with an extra built-in electric field, which helps drift charge carriers towards desired electrodes",
+            "all_materials": [
+                "PSC"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PSC"
+        },
+        {
+            "sentence": "The architecture with the proper energy band alignment therefore exhibits enhanced carrier extraction efficiency and, despite being subjected to over 60\u201380% RH during fabrication, reaches the mean power conversion efficiency  of 7.4%, with the maximum value of 9.5%",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The average PCE translates to over 9.9% and 10.3% improvements over the devices based on the two constituent formulas individually",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "FDSD demonstrates great flexibility i.e., in-humid-air fabrication process and requiring no post annealing treatments, thereby enabling extremely robust and scalable stacked architecture PSCs with low cost and good performance.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this review, we briefly summarize imidazole  and its derivatives as an additive for perovskite solar cells  to enhance not only efficiency but also long-term stability",
+            "all_materials": [
+                "imidazole"
+            ],
+            "other_materials": [
+                "imidazole"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The energy conversion efficiency of halide PSCs has exceeded 25%, which is one of the most attractive photovoltaic technologies",
+            "all_materials": [
+                "halide PSCs"
+            ],
+            "other_materials": [
+                "halide PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, one of the main bottlenecks toward their commercialization is their long-term stability, which requires that their life span should be more than 20 years",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Additive engineering has been demonstrated to be an effective way to improve the lifetime of devices",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Some organic or inorganic additives have been used to promote grain growth and increase power conversion efficiency",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To enhance the performance of PSCs, the intrinsic defect density of polycrystalline halide perovskite films is required to be low enough to suppress the charge recombination loss",
+            "all_materials": [
+                "halide"
+            ],
+            "other_materials": [
+                "halide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The stability of Im-modified perovskite films was improved by limiting the migration of ions at grain boundaries",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Im as an aromatic and diamine species with a small ionic radius can be alloyed appropriately to increase bond interaction with ABX3 lattice, thus resulting in additional stability to air, light, and heat",
+            "all_materials": [
+                "Im",
+                "ABX3",
+                "air"
+            ],
+            "other_materials": [
+                "Im",
+                "ABX3",
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A-site cation engineering for perovskite by utilizing imidazolium  cation affords a tolerance factor of 1 to modulate the perovskite crystallization",
+            "all_materials": [
+                "imidazolium"
+            ],
+            "other_materials": [
+                "imidazolium"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "These findings will pave an avenue for synergistically modulating crystallization and healing defect in perovskite to achieve efficient and stable solar cells.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "While the conversion efficiency is constantly refreshing, perovskite solar cells are also actively moving towards the goal of commercial application",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, its structure contains Pb, a toxic substance, which violates the original intention of energy saving and environmental protection of solar cells and hinders the development of its commercialization",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The purpose of this paper is to improve the device performance of environment-friendly lead-free tin-based perovskite solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this paper, SnF2 is firstly precipitated in perovskite solution and used as heterogeneous nucleation point, which helps tin-based perovskite precipitate faster and more uniformly, and then grows into a flat and compact film after annealing",
+            "all_materials": [
+                "SnF2"
+            ],
+            "other_materials": [
+                "SnF2"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                40,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "With the increase of x, the lattice shrinkage of perovskite becomes more obvious, and the unit cell size of the film surface becomes larger",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "When x increases from 0 to 0.5, the energy conversion efficiency of the same batch of devices reaches 1.803% and VOC is 0.3283\u00a0V when x=0.5 is used",
+            "all_materials": [
+                "VOC"
+            ],
+            "other_materials": [
+                "VOC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Low dimensional tin-based perovskite is formed by doping phenylethylamine into FASnI3 structure, and perovskite thin films are prepared by one-step method with different anti-solvent spin coating, which improves the device performance and greatly improves the stability of solar cells.",
+            "all_materials": [
+                "phenylethylamine",
+                "FASnI3"
+            ],
+            "other_materials": [
+                "FASnI3"
+            ],
+            "precursors": [
+                {
+                    "text": "phenylethylamine",
+                    "start": 57,
+                    "end": 73,
+                    "token_ids": [
+                        10
+                    ]
+                }
+            ],
+            "operation": [
+                20,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Understanding interfacial mass transfer processes, such as the water vapor adsorption-induced degradation of hybrid perovskites, is vital for improving the durability and performance of their optoelectronic devices in the ambient atmosphere with humidity",
+            "all_materials": [
+                "water"
+            ],
+            "other_materials": [
+                "water"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this paper, vapor adsorption on prototypical MAPbI3, terminated by [MAI]0 and [PbI2]0 surface, at different relative humidity  levels is studied using grand canonical Monte Carlo  and molecular dynamics  simulations",
+            "all_materials": [
+                "MAPbI3",
+                "[MAI]0",
+                "[PbI2]0"
+            ],
+            "other_materials": [
+                "MAPbI3",
+                "[MAI]0",
+                "[PbI2]0"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The resulting vapor adsorption isotherms match the Brunauer-Emmett-Teller  adsorption model with heats of adsorption of 0.510 and 0.609 eV, respectively, for water monolayers on [MAI]0 and [PbI2]0",
+            "all_materials": [
+                "water",
+                "[MAI]0",
+                "[PbI2]0"
+            ],
+            "other_materials": [
+                "water",
+                "[MAI]0",
+                "[PbI2]0"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The formation of water monolayer on [MAI]0  is consistent with its lower hydrophilicity compared to [PbI2]0 , reflected from the larger water contact angle predicted",
+            "all_materials": [
+                "water",
+                "[MAI]0",
+                "[PbI2]0",
+                "water"
+            ],
+            "other_materials": [
+                "water",
+                "[MAI]0",
+                "[PbI2]0",
+                "water"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Based on predicted water surface coverages at various RHs, the moisture-induced surface degradation kinetics is studied using MD simulations and transition-state theory",
+            "all_materials": [
+                "water"
+            ],
+            "other_materials": [
+                "water"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Humidity has a minor impact on the degradation energy barriers due to the similar ion removal pathway by water solvation, but strongly affects the ion dissociation rates through the frequency of attempts to attack surface ions",
+            "all_materials": [
+                "water"
+            ],
+            "other_materials": [
+                "water"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "[MAI]0 is more vulnerable against water than [PbI2]0, despite its lower hydrophilicity, implying that long-term exposed MAPbI3 are mostly terminated by [PbI2]0",
+            "all_materials": [
+                "[MAI]0",
+                "water",
+                "[PbI2]0",
+                "MAPbI3",
+                "[PbI2]0"
+            ],
+            "other_materials": [
+                "[MAI]0",
+                "water",
+                "[PbI2]0",
+                "MAPbI3",
+                "[PbI2]0"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furtherly, averaged degradation material loss rates of 5.8 ~ 13.1 \u03bcm/s are estimated at 30 ~ 80% RH levels and 300 K, which is consistent with experiment observations",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Finally, we offer a picture for the water-diffusion-based degradation mechanism and elucidate interesting hydrogen-bonding features at the vapor-MAPbI3 interface",
+            "all_materials": [
+                "water",
+                "MAPbI3"
+            ],
+            "other_materials": [
+                "water",
+                "MAPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This research provides quantitative insights into the inherent vapor-perovskite interactions and addresses the moisture instability mechanisms in metal halide perovskites towards the rational design of water-resistant, long term stable and efficient optoelectronic devices.",
+            "all_materials": [
+                "water"
+            ],
+            "other_materials": [
+                "water"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In recent years perovskite solar cells  is emerging as dominant technology among the photovoltaic world",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The higher power conversion efficiency, facile deposition &amp; fabrication techniques are making them favorable for many commercial purposes",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Till now, the efficiency of 25.2% had been achieved for solid and up to 19.5% for flexible perovskite solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This advancement in perovskite photovoltaic technology is achieved via massive research over the engineering of different layers of the device",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Charge transporting layer  is one of the most important layers, its modification, deposition, passivation and optimization are the main challenges to be considered while experimenting",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "They are the interfaces among the contacts and the active layer, so, are crucial as they had to efficiently extract and transport the charges along with minimizing the traps between these layers",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here, the charge transporting layers based upon the nanomaterials of carbon and its derivatives are reported for different types of perovskite solar cells",
+            "all_materials": [
+                "carbon"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "carbon",
+                    "start": 69,
+                    "end": 75,
+                    "token_ids": [
+                        11
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "These carbon-based nanomaterials not only enhance the power conversion efficiency and stability, but it also reduces the hysteresis loss",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "These materials include graphene-based materials, carbon nano tubes based and fullerene-based nanomaterials as CTL for perovskite solar cells",
+            "all_materials": [
+                "carbon"
+            ],
+            "other_materials": [
+                "carbon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This review reports the use of carbon-based CTL in different forms for different types of perovskite solar cell applications.",
+            "all_materials": [
+                "CTL"
+            ],
+            "other_materials": [
+                "CTL"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "One of the most effective methods to achieve high-performance perovskite solar cells has been to include additives that serve as dopants, crystallization agents, or passivate defect sites",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Cl-based additives are among the most prevalent in literature, yet their exact role is still uncertain",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, we systematically study the function of methylammonium chloride  additive in formamidinium lead iodide -based perovskite",
+            "all_materials": [
+                "methylammonium chloride",
+                "formamidinium lead iodide"
+            ],
+            "other_materials": [
+                "methylammonium chloride",
+                "formamidinium lead iodide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Using density functional theory, we provide a theoretical framework for understanding the interaction of MACl with a perovskite",
+            "all_materials": [
+                "MACl"
+            ],
+            "other_materials": [
+                "MACl"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We show that MACl successfully induces an intermediate to the pure FAPbI3 \u03b1-phase without annealing",
+            "all_materials": [
+                "MACl",
+                "FAPbI3"
+            ],
+            "other_materials": [
+                "MACl"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "FAPbI3"
+        },
+        {
+            "sentence": "The formation energy is related to the amount of incorporated MACl",
+            "all_materials": [
+                "MACl"
+            ],
+            "other_materials": [
+                "MACl"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "By tuning the incorporation of MACl, the perovskite film quality can be significantly improved, exhibiting a 6\u00d7 increase in grain size, a 3\u00d7 increase in phase crystallinity, and a 4.3\u00d7 increase in photoluminescence lifetime",
+            "all_materials": [
+                "MACl"
+            ],
+            "other_materials": [
+                "MACl"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The optimized solar cells achieved a certified efficiency of 23.48%.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Organic-inorganic perovskite materials, such as methylammonium lead iodide, are good candidates for the next generation of solar cells with an impressive certified 23.7% power conversion efficiency",
+            "all_materials": [
+                "methylammonium lead iodide"
+            ],
+            "other_materials": [
+                "methylammonium lead iodide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, their development is impeded by their poor stability to oxygen, moisture, light and combinations of these",
+            "all_materials": [
+                "oxygen"
+            ],
+            "other_materials": [
+                "oxygen"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The bulk photoluminescence of perovskite films is extremely sensitive to the environment  and has been shown to undergo rapid photobrightening and photodarkening",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here, we study the changes in photoluminescence behaviour  in both air and nitrogen and correlate this with changes in the crystal structure of the films under illumination",
+            "all_materials": [
+                "air",
+                "nitrogen"
+            ],
+            "other_materials": [
+                "air",
+                "nitrogen"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We show that photodarkening is caused by degradation of the perovskite and that both brightening and some degree of darkening are competitive processes occurring simultaneously",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "During photobrightening the fluorescence emission spectrum red-shifts which can be explained by the halide redistribution and passivation of trap states in the perovskite",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We conclude that care is required when measuring fluorescence of perovskite due to the important variations in intensity, emission wavelength and full-width-at-half-maximum.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Now a day\u2019s perovskite materials have great properties of photovoltaics, we are using CH3NH3PbI3 material as a charge carrier generator material in the device",
+            "all_materials": [
+                "CH3NH3PbI3"
+            ],
+            "other_materials": [
+                "CH3NH3PbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "we have studied enhancement of photocurrent by reducing humidity with nitrogen flow at high humidity photocurrent was low, and humidity reduced by nitrogen flow photocurrent of perovskite solar cell is increasing, ion migration can be explained by hysteresis of I\u2013V measurement, the stability of perovskite material can be explained by  measurement and defect in the perovskite explained by noise measurement.",
+            "all_materials": [
+                "nitrogen",
+                "nitrogen"
+            ],
+            "other_materials": [
+                "nitrogen",
+                "nitrogen"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, it is reported for the first time the synthesis of high-purity Lead Sulfide  quantum dot  using the nano-emulsion method assisted by an ultrasonic bath, which was tested as a hole transporting material  in perovskite devices",
+            "all_materials": [
+                "Lead Sulfide"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "Lead Sulfide"
+        },
+        {
+            "sentence": "Further, these PbS QDs were introduced in CH3NH3PbI3 based perovskite device, between the perovskite layer and the HTM to enhance its stability against humidity",
+            "all_materials": [
+                "PbS",
+                "CH3NH3PbI3"
+            ],
+            "other_materials": [
+                "PbS",
+                "CH3NH3PbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The hydrophobic nature of the PbS protects the perovskite by preventing the diffusion of water into the device",
+            "all_materials": [
+                "PbS",
+                "water"
+            ],
+            "other_materials": [
+                "PbS",
+                "water"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To compare the effect, the perovskite devices with and without the layer of PbS QDs were tested under high humidity conditions  without encapsulation",
+            "all_materials": [
+                "PbS QDs"
+            ],
+            "other_materials": [
+                "PbS QDs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The pristine perovskite devices completely degraded after a span of 10\u00a0days, whereas the devices with PbS QDs showed huge resistance to humidity by retaining 76% of its initial efficiency after a span of 60\u00a0days",
+            "all_materials": [
+                "PbS"
+            ],
+            "other_materials": [
+                "PbS"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Such enhanced stability under adverse environmental conditions has never been reported",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Also, these results would open up a new insight of PbS QDs being utilized as a barrier against high humid conditions for making air-stable devices.",
+            "all_materials": [
+                "PbS",
+                "air"
+            ],
+            "other_materials": [
+                "PbS",
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this paper, experimental J\u2013V and external quantum efficiency  have been validated by the simulation model to show the improvement of the perovskite  solar cell  efficiency",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The effect of interface properties at the electron transport layer  /PSK and PSK/hole transport layer  were examined with Solar Cell Capacitance Simulator",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The interfaces between ETL/PSK/HTL were known as important factors for determining high open-circuit voltage  and FF",
+            "all_materials": [
+                "ETL/PSK"
+            ],
+            "other_materials": [
+                "ETL/PSK"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this study, the impact of two kinds of interfaces, i.e., ETL/PSK and PSK/HTL, were examined",
+            "all_materials": [
+                "ETL/PSK",
+                "PSK/HTL"
+            ],
+            "other_materials": [
+                "ETL/PSK",
+                "PSK/HTL"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "When the interface defect density at both interfaces decrease to 102\u202fcm\u22122, the interface recombination became low, and Voc and FF increased",
+            "all_materials": [
+                "FF"
+            ],
+            "other_materials": [
+                "FF"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In contrast, when the trap defect energy at interfaces increased near to the bandgap of the PSK, the collection of photo-generated carriers was enhanced due to the formation of better offset for electron current flow",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Thus, the optimum trap defect energy was 1.4\u202feV for both interfaces",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Also, the capture cross-section for both electron and hole  was 10-20\u202fcm2",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "These results will be useful for new material choice and optimization of ETLs and HTLs.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Surface- or bulk-passivation using organic additives plays a critical role in improving the performance and stability of hybrid perovskite solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here, we report 2-hydroxyethyl acrylate  as an additive to reduce crystallization and passivate defects",
+            "all_materials": [
+                "2-hydroxyethyl acrylate"
+            ],
+            "other_materials": [
+                "2-hydroxyethyl acrylate"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Because of the dual functionality of the HEA additive, the optimized HPSCs yield 22.05% and 21.46% power conversion efficiency , respectively, for mesostructured negative-intrinsic-positive - and planar positive-intrinsic-negative -type device configurations, which is much higher than control devices",
+            "all_materials": [
+                "HPSCs"
+            ],
+            "other_materials": [
+                "HPSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Large devices with 1\u00a0cm2 active area also produce a promising 20.03% PCE, which is comparable to the current efficiency",
+            "all_materials": [
+                "PCE"
+            ],
+            "other_materials": [
+                "PCE"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Time-of-flight secondary ion mass spectroscopy  measurement analysis indicates the HEA settles not only in grain boundaries but also within the perovskite grain, which facilitates passivation and suppresses halogen-ion migration",
+            "all_materials": [
+                "HEA"
+            ],
+            "other_materials": [
+                "HEA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Importantly, photostability analysis reveals negligible efficiency loss over 1,000\u00a0h under continuous 1 sun illumination under different environmental conditions.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

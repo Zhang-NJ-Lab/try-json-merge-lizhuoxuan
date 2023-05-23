@@ -1,0 +1,1089 @@
+{
+    "rest": [
+        {
+            "sentence": "In this study, perovskite solar antenna  is designed and implemented for multifunctional applications",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This PVKSA can translate solar energy into electricity and also transmit high-frequency  signals with long photovoltaic lifespans and high antenna gains",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A perovskite layer and a bottom transparent conducting oxide were used as the ground of the antenna; poly   was used to encapsulate the perovskite solar cell and also as the dielectric layer of the antenna",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                13,
+                "Mixing"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Electromagnetic simulation was performed to optimize the structure of the PVKSA",
+            "all_materials": [
+                "PVKSA"
+            ],
+            "other_materials": [
+                "PVKSA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The use of a highly conductive oxide film as the bottom electrode of the perovskite solar cell was necessary to markedly increase the antenna gain",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Because of the low thickness of perovskite solar cells, the PVKSA&#x27;s resonant frequency and gain were not influenced by the solar cell; these properties were noted to be superior to those of silicon-based solar cell antennas",
+            "all_materials": [
+                "PVKSA&#x27"
+            ],
+            "other_materials": [
+                "PVKSA&#x27"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The PMMA layer effectively blocked the release of water vapor and oxygen from the perovskite solar cell, thus reducing the formation of the delta phase and other secondary phases",
+            "all_materials": [
+                "PMMA",
+                "water",
+                "oxygen"
+            ],
+            "other_materials": [
+                "PMMA",
+                "water",
+                "oxygen"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "PMMA-encapsulated solar cells sustained approximately 80% of the original power conversion efficiency after 48\u00a0h",
+            "all_materials": [
+                "PMMA"
+            ],
+            "other_materials": [
+                "PMMA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, the influence of the absorber on the resonant frequency and gain of the resonator was reduced",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Thus, the proposed multifunctional PVKSAs with long lifespans is useful in communication and electricity generation.",
+            "all_materials": [
+                "PVKSAs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PVKSAs"
+        },
+        {
+            "sentence": "Download : Download high-res image Download : Download full-size image",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Recently, the use of renewable energy for power generation has become popular because of the increasing awareness among people regarding environmental protection",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Solar power is the predominant source of renewable energy because of its low cost per watt and high abundance",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Various solar cells have been explored for this purpose",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Lately, halide perovskites have been developed rapidly and extensively for applications in optoelectronic devices [1,2]",
+            "all_materials": [
+                "halide"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "halide"
+        },
+        {
+            "sentence": "The outstanding performance of perovskite solar cells can be attributed to their tunable bandgap , highlight absorption, high carrier diffusion length, and high carrier mobility .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Solar cells are primarily used in grid-connected power generation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, perovskite solar cells are not suitable for this application because of their limited lifespan",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Most solar power plants require solar modules with &gt;20 years of lifespan",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Nevertheless, perovskite solar cells have high potential for use in stand-alone, unconnected solar cell modules, such as drones or weak-light devices",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In these scenarios, the combination of wireless communication elements and solar cells is essential.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Solar antenna, a device with the functions of an antenna and a solar cell, was first described for aerospace or missile applications\u2014fields where its wireless power transmission is exploited",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Patch solar antenna was first proposed by Deschamps in 1953 and fabricated by Howell et al., in 1972",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                11,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Since then, it has been used primarily for aerospace and missile functions",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Subsequently, with research and development for years, the applications of patch antennas have been expanded to many other functions, such as artificial satellites [, ], global positioning system  [, ], and other portable personal communication devices",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Patch antennas are advantageous because of their light weight, small size, low cost, and simple design; moreover, they can be designed as high-gain array antennas.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In the present study, perovskite solar cells were integrated into a solar antenna; the newly fabricated device was named perovskite solar antenna",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The ground of the PVKSA designed in this study is the bottom electrode",
+            "all_materials": [
+                "PVKSA"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                1,
+                "Mixing"
+            ],
+            "targets": "PVKSA"
+        },
+        {
+            "sentence": "Transparent poly   was used to encapsulate the solar cell and also as the dielectric substrate of the antenna",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The PVKSA was designed on the basis of high-frequency electromagnetic simulation to optimize its performance",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, the effects of PMMA layer and the realization of the PVKSA were explored",
+            "all_materials": [
+                "PMMA",
+                "PVKSA"
+            ],
+            "other_materials": [
+                "PMMA",
+                "PVKSA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The changes in antenna gain and return loss , conductivity, and dielectric constant of the antenna were investigated.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Methylammonium and formamidinium iodides were purchased from GreatCell Solar",
+            "all_materials": [
+                "Methylammonium and formamidinium iodides"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "Methylammonium and formamidinium iodides",
+                    "start": 0,
+                    "end": 40,
+                    "token_ids": [
+                        0,
+                        1,
+                        2,
+                        3
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Lead  iodide  and cesium iodide  were purchased from Tokyo Chemical Industry",
+            "all_materials": [
+                "Lead  iodide",
+                "cesium iodide"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "Lead  iodide",
+                    "start": 0,
+                    "end": 12,
+                    "token_ids": [
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "text": "cesium iodide",
+                    "start": 18,
+                    "end": 31,
+                    "token_ids": [
+                        3,
+                        4
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "CuSCN  was obtained from Sigma",
+            "all_materials": [
+                "CuSCN"
+            ],
+            "other_materials": [
+                "CuSCN"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Dimethyl sulfoxide  and dimethylformamide  were purchased from JT Baker",
+            "all_materials": [
+                "Dimethyl sulfoxide",
+                "dimethylformamide"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "Dimethyl sulfoxide",
+                    "start": 0,
+                    "end": 18,
+                    "token_ids": [
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "text": "dimethylformamide",
+                    "start": 24,
+                    "end": 41,
+                    "token_ids": [
+                        3
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "All chemicals were used as received without further purification",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Cs0.050.95PbI3 perovskite precursors were prepared in an N2-filled glove box with an oxygen concentration of",
+            "all_materials": [
+                "Cs0.050.95PbI3",
+                "N2"
+            ],
+            "other_materials": [
+                "N2"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                4,
+                "StartingSynthesis"
+            ],
+            "targets": "Cs0.050.95PbI3"
+        },
+        {
+            "sentence": "Through simulation, we evaluated the effects of the bottom electrode and PMMA layer thickness on the antenna gain",
+            "all_materials": [
+                "PMMA"
+            ],
+            "other_materials": [
+                "PMMA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Table 2 presents the material parameters of the PVKSA for simulation with various thicknesses and conductivities of the bottom electrode",
+            "all_materials": [
+                "PVKSA"
+            ],
+            "other_materials": [
+                "PVKSA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "S4 illustrates the simplified device for simulation, in which an antenna with a 50-\u03bcm-thick copper ground plane  was used as the referenceFig",
+            "all_materials": [
+                "copper"
+            ],
+            "other_materials": [
+                "copper"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                16,
+                "Mixing"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "2 presents the simulation results for the bottomFig",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, PVKSA was designed and fabricated",
+            "all_materials": [
+                "PVKSA"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                8,
+                "StartingSynthesis"
+            ],
+            "targets": "PVKSA"
+        },
+        {
+            "sentence": "FTO film was used as the bottom electrode",
+            "all_materials": [
+                "FTO"
+            ],
+            "other_materials": [
+                "FTO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Simulation results show that extremely low thickness of the semiconductor layer of a solar cell does not affect antenna gain and resonant frequency.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The optimized solar antenna was compared with an FR4 patch antenna, revealing that the tan\u03b4 of PMMA dielectric substrate must be improved to increase the gain and radiation efficiency of a solar antenna",
+            "all_materials": [
+                "PMMA"
+            ],
+            "other_materials": [
+                "PMMA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The simulated values of gain and radiation efficiency",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We gratefully acknowledge financial support from the Ministry of Science and Technology of the Taiwan  and Taiwan Semiconductor Research Institute",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, we thank Ms",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Hui-Jung Shih\u2014a member of the team at the Core Facility Center of National Cheng Kung University\u2014for facilitating the use of HR-SEM  and BRUKER XFlash 5010 for the present study",
+            "all_materials": [
+                "HR-SEM"
+            ],
+            "other_materials": [
+                "HR-SEM"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We further acknowledge support",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This research investigates the transport and thermoelectric behaviors of the CZTSSe thin films",
+            "all_materials": [
+                "CZTSSe"
+            ],
+            "other_materials": [
+                "CZTSSe"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Both p-type and n-type films were successfully synthesized, allowing us to comprehensively study the characteristics of the full-composition CZTS",
+            "all_materials": [
+                "CZTS"
+            ],
+            "other_materials": [
+                "CZTS"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                11,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Cu contents in CZTS precursors were controlled from Cu/Zn\u00a0+\u00a0Sn\u00a0=\u00a00.7 to 0.9 with a constant Zn/Sn\u00a0=\u00a01",
+            "all_materials": [
+                "Cu",
+                "CZTS"
+            ],
+            "other_materials": [
+                "Cu",
+                "CZTS"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "After salinization, the Cu/Zn\u00a0+\u00a0Sn ratio in CZTS thin films shows positive deviation from the precursor, ranging from 0.78 to 1.1 that indicated a Zn or Sn loss with the increase of Cu contents",
+            "all_materials": [
+                "CZTS"
+            ],
+            "other_materials": [
+                "CZTS"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A decline of Zn/Sn ratio in the films from 1.53 to 1.2 was obtained when Cu/Zn\u00a0+\u00a0Sn in precursors increased from 0.7 to 0.9, indicating a Zn loss",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Hall measurement showed that the increase of Cu contents yielded an increase in the conductivity and carrier concentration",
+            "all_materials": [
+                "Cu"
+            ],
+            "other_materials": [
+                "Cu"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Conducting type of the CZTS changed from p-type to n-type when the Cu/Zn\u00a0+\u00a0Sn exceeded 1",
+            "all_materials": [
+                "CZTS"
+            ],
+            "other_materials": [
+                "CZTS"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Absorption spectroscopy revealed a decrease of band gap of CZTS and Raman spectroscopy indicated an increase in the full width at half maximum when the Cu content was increased",
+            "all_materials": [
+                "CZTS"
+            ],
+            "other_materials": [
+                "CZTS"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Photoluminescence spectroscopy analyses indicated a defect related peak with 47\u00a0meV lower than the band gap",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Accordingly, CuZn\u00a0+\u00a0SnZn was proposed to be the dominated defects of the Cu-rich n-type CZTS thin films, different from the CuZn dominated p-type films",
+            "all_materials": [
+                "CuZn\u00a0+\u00a0SnZn",
+                "CZTS"
+            ],
+            "other_materials": [
+                "CuZn\u00a0+\u00a0SnZn"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CZTS"
+        },
+        {
+            "sentence": "As a result, we proposed that the n-type CZTS with Cu/Zn\u00a0+\u00a0S\u00f11.01 and Zn/S\u00f11.1 CZTS had the best power factor than other composition",
+            "all_materials": [
+                "CZTS",
+                "Cu/Zn\u00a0+\u00a0S\u00f11.01",
+                "Zn/S\u00f11.1 CZTS"
+            ],
+            "other_materials": [
+                "CZTS",
+                "Cu/Zn\u00a0+\u00a0S\u00f11.01",
+                "Zn/S\u00f11.1 CZTS"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The result could be reference for CZTS thermoelectric research in the future.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this study, we present a natural DNA biopolymer device that emulates synaptic plasticity and learning behaviors of biological synapses",
+            "all_materials": [
+                "DNA"
+            ],
+            "other_materials": [
+                "DNA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The two-terminal device consists of a solution-processed DNA biopolymer layer sandwiched in between two electrodes without the need of external doping or surface modification",
+            "all_materials": [
+                "DNA"
+            ],
+            "other_materials": [
+                "DNA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The conductance of the device can be modulated in response to the stimulated voltage pulses, mimicking the typical memory and learning behaviors of biological synapses",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, the device exhibits excellent endurance beyond 1000 potentiation/depression cycles with more than 105 operation pulses",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Our results demonstrate excellent performance of neuromorphic devices based on natural DNA, opening new avenue for further developments of biomaterial-based neuromorphic device technology.",
+            "all_materials": [
+                "DNA"
+            ],
+            "other_materials": [
+                "DNA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this study, we separately observed the synergetic effects of crystal linking and substituting A-site vacancies with the linker molecule oleylamine  alkylamine in metal-halide perovskite films by adopting a simple drying process during perovskite structure formation",
+            "all_materials": [
+                "oleylamine  alkylamine"
+            ],
+            "other_materials": [
+                "oleylamine  alkylamine"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, without the drying process, we observed the synergetic effect of passivation and crystal linking in the OAm films",
+            "all_materials": [
+                "OAm"
+            ],
+            "other_materials": [
+                "OAm"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Owing to the linking effect, the preferred  orientational alignment of the crystals improved compared with that of the pristine film",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, we evaluated surface passivation using X-ray photoelectron spectroscopy",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, when we applied the drying process before thermal annealing, OAm molecules were observed only in the surface region of the film, and the crystal distribution was similar to that of the pristine film without OAm",
+            "all_materials": [
+                "OAm",
+                "OAm"
+            ],
+            "other_materials": [
+                "OAm",
+                "OAm"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                10,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, when the passivation effect is maximized, significantly improved water resistance and stability were obtained",
+            "all_materials": [
+                "water"
+            ],
+            "other_materials": [
+                "water"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Despite the initial device performance of the OAm device showed the most improved power conversion efficiency , the PCE of OAm\u00a0+\u00a0Dry device degraded the least due to strongly induced passivation effect",
+            "all_materials": [
+                "OAm",
+                "OAm\u00a0+\u00a0Dry"
+            ],
+            "other_materials": [
+                "OAm",
+                "OAm\u00a0+\u00a0Dry"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The OAm\u00a0+\u00a0Dry maintained 70.4% of their initial PCE after 1000\u00a0h without encapsulation in the ambient air, but 58.8% and 16.2% for the OAm and the Control devices.",
+            "all_materials": [
+                "OAm\u00a0+\u00a0Dry",
+                "air",
+                "OAm"
+            ],
+            "other_materials": [
+                "OAm\u00a0+\u00a0Dry",
+                "air",
+                "OAm"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                3,
+                "DryingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Organic-inorganic hybrid perovskite materials with distinctive optoelectronic properties have attracted much interest in the field of solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As the light absorber, the quality of perovskite films is crucial to the performances of perovskite solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Anti-solvent engineering seems to be an efficient method in preparing high-quality perovskite films, but mostly used anti-solvents are toxic, such as chlorobenzene \uff0c which is harmful to the environmental protection",
+            "all_materials": [
+                "chlorobenzene"
+            ],
+            "other_materials": [
+                "chlorobenzene"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                9,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In the present work, we used the green anti-solvent diethyl carbonate  instead of CB, demonstrated that the DEC engineered CH3NH3PbI3 film exhibits improved morphology and crystallinity as well as reducing defects, which can be attributed to the interaction between DEC and the solvent dimethyl sulfoxide",
+            "all_materials": [
+                "diethyl carbonate",
+                "CB",
+                "CH3NH3PbI3",
+                "DEC",
+                "dimethyl sulfoxide"
+            ],
+            "other_materials": [
+                "diethyl carbonate",
+                "CB",
+                "CH3NH3PbI3",
+                "DEC",
+                "dimethyl sulfoxide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The DEC anti-solvent assisting yields efficient CH3NH3PbI3 perovskite solar cells with a champion power conversion efficiency of 20.20% and a steady state efficiency of 86% over a period of 20 days of storage under ambient conditions",
+            "all_materials": [
+                "CH3NH3PbI3"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CH3NH3PbI3"
+        },
+        {
+            "sentence": "The present study provides a viable path way to design green and effective perovskite solar cells in the future.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Inorganic hole-transporting materials  with excellent hole extraction and transfer properties are highly desirable for inverted perovskite solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the widely employed oxide HTMs  often suffer from the low p-type conductivity and severe trap-assisted recombination at HTMs/perovskite interface, which significantly limits the final performance of PSCs",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "Herein, the facile template-assisted cation exchange strategy is developed to fabricate nanopatterned Zn:NiOx as efficient HTMs for PSCs, for the first time",
+            "all_materials": [
+                "Zn:NiOx"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "Zn:NiOx"
+        },
+        {
+            "sentence": "Promisingly, by virtue of the advantageous 1D nanoscale architecture and synergistic substitutional Zn doping, high conductivity, high hole mobility and low interfacial charge trap states density have been achieved by such nanopatterned Zn:NiOx HTMs",
+            "all_materials": [
+                "Zn:NiOx HTMs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "Zn:NiOx HTMs"
+        },
+        {
+            "sentence": "These features endow the highly conductive interface for PSCs to accelerate hole extraction and minimize recombination loss",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As a consequence, PSCs with nanopatterned Zn:NiOx deliver a champion efficiency of \u224820\u00a0% with open-circuit voltage of as high as 1.14\u00a0V",
+            "all_materials": [
+                "Zn:NiOx"
+            ],
+            "other_materials": [
+                "Zn:NiOx"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work demonstrates and paves a new insight and avenue for the rational design of efficient oxide HTMs.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Poly  is an attractive hole transport layer  for high efficiency perovskite solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "But there is still some room for improvement in energy level alignment between the highest occupied molecular orbital  of PVK and the perovskite layer",
+            "all_materials": [
+                "PVK"
+            ],
+            "other_materials": [
+                "PVK"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, the solvent of PVK-based HTL was optimized to adjust the energy level of HTLs by changing the volume ratio of chlorobenzene  in dimethylformamide",
+            "all_materials": [
+                "HTL",
+                "HTLs",
+                "chlorobenzene",
+                "dimethylformamide"
+            ],
+            "other_materials": [
+                "HTL",
+                "HTLs",
+                "chlorobenzene",
+                "dimethylformamide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Experimental results shows that 20% is the optimal ratio of CB in DMF, based on which the HOMO level of HTL was lifted from \u22125.62\u00a0eV to \u22125.44\u00a0eV",
+            "all_materials": [
+                "CB",
+                "DMF",
+                "HTL"
+            ],
+            "other_materials": [
+                "CB",
+                "DMF",
+                "HTL"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Meanwhile, the morphology of perovskite layer with larger grain size and lower trap density was obtained",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As a result, the VOC and JSC of PSCs was enhanced, leading to the increase of PCE from 15.41% to 18.27%",
+            "all_materials": [
+                "PSCs",
+                "PCE"
+            ],
+            "other_materials": [
+                "PSCs",
+                "PCE"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work paves the way to realize high-efficiency PSCs based on PVK HTL.",
+            "all_materials": [
+                "PVK"
+            ],
+            "other_materials": [
+                "PVK"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

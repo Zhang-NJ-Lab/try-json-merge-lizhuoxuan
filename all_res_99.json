@@ -1,0 +1,1206 @@
+{
+    "rest": [
+        {
+            "sentence": "Organic-inorganic lead halide based perovskite solar cell has received broad interest due to their merits of low cost, a low temperature solution process, and high power conversion efficiency",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Rare earth ion doped nanomaterials can be used in perovskite solar cell to expand the range of absorption spectra and improve the stability due to its up conversion and down conversion effect",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This article reviews recently progress in using rare earth ion doped nanomaterials in mesoporous electrodes, perovskite active layers, and as an external function layer of perovskite solar cell",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Finally, we discuss the challenges facing the effective use of rare earth ion doped nanomaterials in perovskite solar cell and present some prospects for future research.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Download : Download high-res image Download : Download full-size image",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Due to the continuous progress of human civilization, energy shortage and environmental contamination have posed increasingly serious challenges and become urgent problems to be solved across the world ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The use of renewable energy  is updating, with solar energy being recognized as an effective way to deal with environmental pollution and global warming ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As a result, it is clean renewable, inexhaustible, and clean energy ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Photovoltaic technology is adopted for converting solar energy into electric energy, which can effectively satisfy future energy demands",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Due to low-temperature solution processability, high tolerance for defects, large coefficients of absorption, long charge carrier diffusion lengths, low recombination losses, and tunable bandgap , hybrid metal halide perovskite materials have aroused considerable research concerns as a potentially high-efficient and low-cost material in photovoltaic applications ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In 2009, with the corresponding certified power conversion efficiency  of 3.8%, Miyasaka et al  firstly added perovskite materials to solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "At present, the best certified efficiency is 25.7% with the potential for further improvement , .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Due to the rapid advancement in photovoltaic efficiency over the last decades, it is vital to enhance perovskite materials\u2019 absorption ability and extend the optical response range for devices based on the efficient use of UV and NIR parts in sunlight",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It is generally known that under AM 1.5 G sunlight irradiation, the absorption range of visible light is between 400 and 760\u00a0nm",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In case of low-energy photon loss, the energy in photons cannot trigger semiconductors and generate electron hole pairs",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Photon conversion has emerged as a good alternative to decrease spectral loss and promote solar cell efficiency",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In photon conversion strategies, upconversion can convert photons from the infrared region on the solar spectrum to those from the visible region, thus improving the efficiency in solar energy collection by lowering the transmission loss ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Down-conversion refers to an optical process which converts high-energy photons to lower-energy photons absorbed by solar cells through an efficient way ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Rare earth doped compounds, semiconductor oxides, organic dyes, as well as quantum dots constitute the main down-conversion materials",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Down-conversion exhibits its potential in improving current density  through multiple solar cell techniques ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Rare materials are quickly developed in various fields including bioimaging, medical therapy, lasers, detector, sensors, and solar energy harvesting , .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this review, the rare earth materials, including additive and interface modification layer, were applied in PSC",
+            "all_materials": [
+                "PSC"
+            ],
+            "other_materials": [
+                "PSC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The rare earth materials were introduced in PSC, which can effectively enhance its absorption of sunlight",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "With their emission spectra at 400\u2013700\u00a0nm, the rare earth materials have specific energy band diagrams within PSC absorption range",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Consequently, the use of rare earth materials in PSC is conducive to improving the performance of PSC, also providing new insights into PSC research.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Metal halide perovskite has a typical ABX3 structure, in which A means a monovalent cation, B represents a divalent metal cation and X indicates a halide anion",
+            "all_materials": [
+                "Metal halide",
+                "ABX3"
+            ],
+            "other_materials": [
+                "Metal halide",
+                "ABX3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As shown in Fig",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "1, the crystal structure in CH3NH3PbI3  is widely investigated",
+            "all_materials": [
+                "CH3NH3PbI3"
+            ],
+            "other_materials": [
+                "CH3NH3PbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Crystal structure stability depends heavily upon the corresponding cubic structure with high symmetry",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The ionic radii of A, B, and X need to satisfy the demand of a tolerance factor  near 1 , in which rA, rB, and rX denote",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Organic-inorganic lead halide-based PSC is widely approved because of superior performance in low-cost preparation, low-temperature solution process, and high energy conversion efficiency ,",
+            "all_materials": [
+                "PSC"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PSC"
+        },
+        {
+            "sentence": "So far, amazing efficiency has been obtained in advanced solar cells by generic interface engineering and film morphological manipulation at the perovskite active layer macroscopically",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To further promote PSC efficiency, it is a promising direction to improve the photoelectric",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "With the increasingly prominent environmental problems, the development and utilization of renewable energy is particularly important to solve the problems",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Perovskite solar cell belongs to a novel solar cell that has been extensively studied due to its distinctive photoelectric performance",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To enhance efficiency and stability in perovskite solar cells, our research group has published relevant work ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For instance, Zhao et al ,  reported that NaLuF4:Yb",
+            "all_materials": [
+                "NaLuF4:Yb"
+            ],
+            "other_materials": [
+                "NaLuF4:Yb"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Junmei Sun: Writing \u2013 original draft",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Xiaojie Yang: Writing \u2013 review &amp; editing",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Shaofa Sun: Supervision",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Li Zhao: Funding acquisition, Writing \u2013 review &amp; editing",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Shimin Wang: Funding acquisition",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Yuesheng Li: Writing \u2013 review &amp; editing.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work was financially supported by the Key Program for Intergovernmental S&amp;T Innovation Cooperation Projects of National Key R&amp;D Program of China  and Overseas Expertise Introduction Center for Discipline Innovation .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Junmei Sun is an associate professor in the College of Food and Biological Engineering, Chengdu University",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "She received her Bachelor\u2019s degree in the Chemistry\u00a0Department, Hubei University",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Sun has been engaged in teaching actives for 37 years",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Her courses include organic chemistry, inorganic chemistry, analytical chemistry, etc",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "She has published more than 30 scientific research papers.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Treatment of 16-electron complex Ru  with HC\u2261CC2 in chloroform at\u00a0\u2212\u00a010\u00a0\u00b0C leads to two isomers Ru(CH2CC2) , which are converted readily to the corresponding complexes Ru(CH2CCCH2)  by loss of a water molecule at 62\u00a0\u00b0C",
+            "all_materials": [
+                "Ru",
+                "HC\u2261CC2",
+                "chloroform",
+                "Ru(CH2CC2)",
+                "Ru(CH2CCCH2)",
+                "water"
+            ],
+            "other_materials": [
+                "chloroform",
+                "Ru(CH2CC2)",
+                "Ru(CH2CCCH2)",
+                "water"
+            ],
+            "precursors": [
+                {
+                    "text": "Ru",
+                    "start": 33,
+                    "end": 35,
+                    "token_ids": [
+                        4
+                    ]
+                },
+                {
+                    "text": "HC\u2261CC2",
+                    "start": 42,
+                    "end": 48,
+                    "token_ids": [
+                        6,
+                        7,
+                        8
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "These complexes were characterized by elemental analysis, mass, IR and NMR spectroscopy",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "X-ray structural analysis were performed on 4 and 5",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The formation mechanisms for the title complexes were also studied",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The complex 4 crystallizes in monoclinic system, space group P21/n with a\u00a0=\u00a011.082, b\u00a0=\u00a014.529, c\u00a0=\u00a015.230 \u00c5 , \u03b1\u00a0=\u00a090, \u03b2\u00a0=\u00a0101.022, \u03b3\u00a0=\u00a090\u00b0, C17H30B10RuS2, Mr\u00a0=\u00a0507.70, V\u00a0=\u00a02407.1 \u00c53, Dc\u00a0=\u00a01.401\u00a0g/cm3, Z\u00a0=\u00a04, F\u00a0=\u00a01032, \u00b5\u00a0=\u00a00.828\u00a0mm\u22121, R\u00a0=\u00a00.0424 and \u03c9R\u00a0=\u00a00.1089 for 4470 observed reflections )",
+            "all_materials": [
+                "C17H30B10RuS2"
+            ],
+            "other_materials": [
+                "C17H30B10RuS2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The complex 5 crystallizes in monoclinic system, space group P21/c with a\u00a0=\u00a016.0543, b\u00a0=\u00a010.5758, c\u00a0=\u00a014.0954 \u00c5 , \u03b1\u00a0=\u00a090, \u03b2\u00a0=\u00a099.0430, \u03b3\u00a0=\u00a090\u00b0, C17H30B10RuS2, Mr\u00a0=\u00a0507.70, V\u00a0=\u00a02363.5 \u00c53, Dc\u00a0=\u00a01.427\u00a0g/cm3, Z\u00a0=\u00a04, F\u00a0=\u00a01032, \u00b5\u00a0=\u00a00.844\u00a0mm\u22121, R\u00a0=\u00a00.0444 and \u03c9R\u00a0=\u00a00.1076 for 3745 observed reflections ).",
+            "all_materials": [
+                "C17H30B10RuS2"
+            ],
+            "other_materials": [
+                "C17H30B10RuS2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The complexation of U with N, N, N\u2032, N\u2032-tetramethyl-diglycolamide  has been investigated in 1\u00a0M HCl and 1\u00a0M HNO3 solutions and in a solid compound UL3\u00b74 formed in aqueous solutions in parallel with that in the extraction system using N, N\u2032-dimethyl-N, N\u2032-dioctyl-diglycolamide  as extractant",
+            "all_materials": [
+                "N, N, N\u2032, N\u2032-tetramethyl-diglycolamide",
+                "HCl",
+                "HNO3",
+                "UL3\u00b74",
+                "N, N\u2032-dimethyl-N, N\u2032-dioctyl-diglycolamide"
+            ],
+            "other_materials": [
+                "N, N, N\u2032, N\u2032-tetramethyl-diglycolamide",
+                "HCl",
+                "HNO3",
+                "UL3\u00b74",
+                "N, N\u2032-dimethyl-N, N\u2032-dioctyl-diglycolamide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Three species of U:L complexes being 1:1, 1:2, and 1:3  are identified spectroscopically in each of the two different aqueous media, 1\u00a0M HCl and 1\u00a0M HNO3",
+            "all_materials": [
+                "U:L",
+                "HCl",
+                "HNO3"
+            ],
+            "other_materials": [
+                "U:L",
+                "HCl",
+                "HNO3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The different absorption spectra of the corresponding complexes indicate that the complexes formed in 1\u00a0M HCl and 1\u00a0M HNO3 are not the same, suggesting that the anions Cl- and NO3\u2013 are involved in the complexes",
+            "all_materials": [
+                "HCl",
+                "HNO3",
+                "NO3"
+            ],
+            "other_materials": [
+                "HCl",
+                "HNO3",
+                "NO3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "By comparing the absorption spectra of the two 1:3 species formed in 1\u00a0M HCl, 1\u00a0M HNO3 and the reflectance spectrum of UL3\u00b74 with the spectra of the extracted complexes of U with L\u2032, the participation of anions in the first coordination sphere is discovered in the extracted complexes of U with L\u2032 for the first time in solvent extraction using tetraalkyldiglycoamides as extractants.",
+            "all_materials": [
+                "HCl",
+                "HNO3",
+                "UL3\u00b74",
+                "L\u2032",
+                "tetraalkyldiglycoamides"
+            ],
+            "other_materials": [
+                "HCl",
+                "HNO3",
+                "UL3\u00b74",
+                "L\u2032",
+                "tetraalkyldiglycoamides"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Nitroaromatic compounds are highly toxic, carcinogenic, explosive, and refractory, they do great harm to human health, national security and natural ecosystem, so detecting trace amount of nitroaromatic compounds with high accuracy is crucial to the effective emission control and pollutant treatment",
+            "all_materials": [
+                "Nitroaromatic"
+            ],
+            "other_materials": [
+                "Nitroaromatic"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, we synthesized CaYAlO4:Tb phosphors by citric acid assisted Pechini sol\u2013gel approach",
+            "all_materials": [
+                "CaYAlO4:Tb",
+                "citric acid"
+            ],
+            "other_materials": [
+                "citric acid"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                3,
+                "StartingSynthesis"
+            ],
+            "targets": "CaYAlO4:Tb"
+        },
+        {
+            "sentence": "The samples were characterized by X-ray diffraction  Fourier transformation infrared  spectroscopy, scanning electronic microscopy , laser particle analyzer, and photoluminescence",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The structure and morphology characterizations indicate the samples well crystallize with a K2NiF4 structured CaYAlO4 at 1100\u00a0\u00b0C and the samples show irregular morphology with smooth surface and a grain size of about 300\u00a0nm",
+            "all_materials": [
+                "K2NiF4",
+                "CaYAlO4"
+            ],
+            "other_materials": [
+                "K2NiF4",
+                "CaYAlO4"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Under irradiation of ultraviolet, CaYAlO4:Tb shows the characteristic emission of Tb, dominated by the 5D4-7F5 emission at 548\u00a0nm",
+            "all_materials": [
+                "CaYAlO4:Tb"
+            ],
+            "other_materials": [
+                "CaYAlO4:Tb"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The emission of CaYAlO4:Tb can be selectively quenched by nitroaromatic compounds such as p-nitrophenol, 1,2-dinitrobeneze and 4-nitrotoluene",
+            "all_materials": [
+                "CaYAlO4:Tb",
+                "p-nitrophenol",
+                "1,2-dinitrobeneze",
+                "4-nitrotoluene"
+            ],
+            "other_materials": [
+                "CaYAlO4:Tb"
+            ],
+            "precursors": [
+                {
+                    "text": "p-nitrophenol",
+                    "start": 90,
+                    "end": 103,
+                    "token_ids": [
+                        15
+                    ]
+                },
+                {
+                    "text": "1,2-dinitrobeneze",
+                    "start": 105,
+                    "end": 122,
+                    "token_ids": [
+                        17
+                    ]
+                },
+                {
+                    "text": "4-nitrotoluene",
+                    "start": 127,
+                    "end": 141,
+                    "token_ids": [
+                        19
+                    ]
+                }
+            ],
+            "operation": [
+                9,
+                "QuenchingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The quenching effect  can be well fitted into a linear equation, which make CaYAlO4:Tb an excellent candidate to detect nitroaromatic compounds",
+            "all_materials": [
+                "CaYAlO4:Tb"
+            ],
+            "other_materials": [
+                "CaYAlO4:Tb"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The quenching mechanism is determined to be a dynamic quenching process.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Cancer is one of the leading causes of death in the globe",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Cancer arises when genes that control normal cell cycle and cell division are mutated, resulting in uncontrolled cell division and proliferation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To date, a variety of medications have been utilized to treat cancer; however, traditional chemotherapeutic agents have reduced bioavailability, quick renal clearance, uneven distribution, and significant adverse effects",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Nanotechnology has grown quickly in recent years and offers a wide range of applications in the healthcare field",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Bio-mediated nanoparticles  are low-cost, safe, and biocompatible, and they have piqued the interest of scientists all over the world",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "These nanoscale materials provide a viable cancer therapy due to their low risk profile and fewer side effects",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Various metallic NPs have been developed to cure or diagnose cancer; silver  and gold  are the most often used anti-cancer NPs",
+            "all_materials": [
+                "NPs",
+                "silver",
+                "gold"
+            ],
+            "other_materials": [
+                "silver",
+                "gold"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NPs"
+        },
+        {
+            "sentence": "The production of reactive oxygen species  in cellular compartments is thought to be responsible for these NPs&#x27; anticancer properties, which leads to the activation of autophagic, apoptotic, and necrotic death pathways",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We detailed current advances in the biosynthesis of Ag, Au NPs in this paper, with a focus on their mechanism of action",
+            "all_materials": [
+                "Ag, Au"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "Ag, Au"
+        },
+        {
+            "sentence": "Nanotoxicity is also discussed, as well as the future prospects and opportunities for nanotherapeutics.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "MXenes, incredibly quickly developed two-dimensional  materials such as carbonitrides, metal carbides, and nitrides with a wide variety of possible applications, have sparked a lot of attention in recent times",
+            "all_materials": [
+                "MXenes"
+            ],
+            "other_materials": [
+                "MXenes"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "MXene has a hydrophilic nature, electron richness, abundant surface terminations, a large specific surface area, and an abundance of highly active surface sites",
+            "all_materials": [
+                "MXene"
+            ],
+            "other_materials": [
+                "MXene"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Adsorption of various contaminants such as dyes, heavy metals, pharmaceuticals, and pesticides by MXene shows a demonstrative property",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Since the adsorption study of MXene is continuously increasing, this review discusses the recent advancement of adsorption in the removal of various pollutants",
+            "all_materials": [
+                "MXene"
+            ],
+            "other_materials": [
+                "MXene"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A depth discussion of various contaminants reduction with the help of surface modification like alkalization, acidification, and intercalation has been described in this study",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this paper, mechanism and chemical kinetics are also added",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                10,
+                "Mixing"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Finally, the future perspectives for the young and dynamic researchers are addressed in this review.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Encapsulation of metal nanoparticles  has attracted researchers due to the formation of highly stable, selective, and active catalysts",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Although many metal oxides have been investigated for the encapsulation of MNPs, ceria  has received significant attention due to its unique properties, such as being highly stable, low-cost, and capability of producing active oxygen",
+            "all_materials": [
+                "MNPs",
+                "ceria"
+            ],
+            "other_materials": [
+                "MNPs",
+                "ceria"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Its specific electronic configuration makes it a unique material for oxygen production",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Depending on the application, different methods for encapsulating MNPs by CeO2 have been developed",
+            "all_materials": [
+                "MNPs",
+                "CeO2"
+            ],
+            "other_materials": [
+                "MNPs",
+                "CeO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The current review presents the various fabrication methods used to date for encapsulating MNPs by CeO2 nanoshells, as well as their catalytic applications, with an emphasis on defect chemistry and oxygen storage capacity",
+            "all_materials": [
+                "MNPs",
+                "CeO2",
+                "oxygen"
+            ],
+            "other_materials": [
+                "MNPs",
+                "CeO2",
+                "oxygen"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The review begins with an overview and discussion of the synthetic methods for encapsulating MNPs in CeO2 before moving on to the electrocatalytic applications of CeO2- encapsulated MNPs",
+            "all_materials": [
+                "MNPs",
+                "CeO2",
+                "CeO2-",
+                "MNPs"
+            ],
+            "other_materials": [
+                "MNPs",
+                "CeO2",
+                "CeO2-",
+                "MNPs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Finally, the conclusion summarizes the review and addresses current research challenges and future research development opportunities in this field.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Junmei Sun is an associate professor in the College of Food and Biological Engineering, Chengdu University",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "She received her Bachelor\u2019s degree in the Chemistry\u00a0Department, Hubei University",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Sun has been engaged in teaching actives for 37 years",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Her courses include organic chemistry, inorganic chemistry, analytical chemistry, etc",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "She has published more than 30 scientific research papers.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Xiaojie Yang is a lecturer in the School of Nuclear Technology and Chemistry &amp; Biology, Hubei University of science and technology",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Yang completed his Ph.D at Hubei University under the direction of Prof",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Li Zhao and Prof",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Shimin Wang in June 2021",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "His research interest mainly focused on metal halide perovskites solar cells for energy conversion materials and devices.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Shaofa Sun is a professor the School of Nuclear Technology and Chemistry &amp; Biology, Hubei University of science and technology",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Sun completed his master&#x27;s degree in organic chemistry, Department of chemistry, Wuhan University",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "His researches center on organic synthesis.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Li Zhao is a professor in the School of Materials Science and Engineering",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Zhao completed her Ph.D",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "at Wuhan University of Technology under the direction of Prof",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Jiaguo Yu in June 2006",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Her research program focuses on the preparation and characterization of porous oxide spherical particles",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In July 2006, she became a member of the School of Materials Science and Engineering",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "From April 2016 to March 2017, as a guest researcher, she went to the Institute of Department of Chemical and Petroleum Engineering at the University of Pittsburgh, working on hybrid perovskite solar cells in Prof",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Zhao was promoted to Professor in June 2017Di Gao\u2019s group",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Her researches center on optoelectronic functional nanomaterials, in particular,  inorganic-organic hybrid perovskite,  dye-sensitized solar cells,  inorganic non-metallic nanomaterials,  VO2 thin film and nanopowers.",
+            "all_materials": [
+                "VO2"
+            ],
+            "other_materials": [
+                "VO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Shimin Wang received his bachelor&#x27;s degree and master&#x27;s degree in the School of Chemistry and Materials Science from Hubei University in 1985 and 1988, respectively, and Ph.D",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "degree from Huazhong University of Science and Technology in 1999",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "He worked as a professor in the Institute of piezoelectric ceramic technology from Hubei University in 1988",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "His research areas include preparation of photoelectronic functional materials and films, nanomaterials, nanocomposites; design and synthesis of organic functional molecules; application of these novel materials in new generation of electronic and photoelectronic devices; mechanism investigation of the materials properties and performance.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Yuesheng Li is a professor in the Non-Power Nuclear Technology Collaborative, Innovation Center &amp; Hubei Key Laboratory of Radiation, Chemistry and Functional Materials from Hubei University of Science and Technology",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Li completed his Ph.D",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "at Wuhan University in 2011",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "His researches center on smart hydrogel, advanced photocatalyst, polymer materials, biomedical application, chemical biology, radiation methodology",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

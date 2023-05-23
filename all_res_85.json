@@ -1,0 +1,115 @@
+{
+    "rest": [
+        {
+            "sentence": "NiOx have been considered as an excellent material for hole transport layer  of perovskite solar cells because of its wide band gap, excellent optical transmittance, proper chemical stability and energy level matching with perovskite materials",
+            "all_materials": [
+                "NiOx"
+            ],
+            "other_materials": [
+                "NiOx"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the power conversion efficiency  of inverted perovskite solar cells  is hindered by the low conductivity of unmodified NiOx",
+            "all_materials": [
+                "NiOx"
+            ],
+            "other_materials": [
+                "NiOx"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here, we reported an operative Na2S treated NiOx HTL, which could optimize the conductivity of the NiOx layers and the crystallinity of perovskite",
+            "all_materials": [
+                "Na2S",
+                "NiOx",
+                "NiOx"
+            ],
+            "other_materials": [
+                "Na2S",
+                "NiOx",
+                "NiOx"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                7,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The synergistic effect of Na cations and S anions could strengthen the conductivity of the NiOx HTL, improve the interface contact between NiOx and perovskite, and enhance the quality of the perovskite film, so as to boost photoelectricity performance of the device",
+            "all_materials": [
+                "NiOx HTL",
+                "NiOx"
+            ],
+            "other_materials": [
+                "NiOx HTL",
+                "NiOx"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The carrier dynamics have shown that doping of Na2S could not only diminish the interface defects of the HTL/perovskite layer, but also improve the hole extraction at the NiOx/perovskite interface",
+            "all_materials": [
+                "Na2S",
+                "HTL/perovskite",
+                "NiOx/perovskite"
+            ],
+            "other_materials": [
+                "Na2S",
+                "HTL/perovskite",
+                "NiOx/perovskite"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "All these factors led to the improvements in short-circuit density , fill factor  and PCE of inverted planar perovskite solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Consequently, Na2S-decorated NiOx HTL contributes to a stable device which attains a champion efficiency of 16.9%.",
+            "all_materials": [
+                "Na2S",
+                "NiOx HTL"
+            ],
+            "other_materials": [
+                "Na2S",
+                "NiOx HTL"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Data will be made available on request.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

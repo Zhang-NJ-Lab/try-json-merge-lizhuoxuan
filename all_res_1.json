@@ -1,0 +1,1093 @@
+{
+    "rest": [
+        {
+            "sentence": "W-doped In2O3  films prepared by reactive plasma deposition  technique at 150 \u00b0C have been studied to replace Sn-doped In2O3  serving as transparent electrodes for p-i-n structured perovskite solar cells",
+            "all_materials": [
+                "In2O3",
+                "In2O3"
+            ],
+            "other_materials": [
+                "In2O3",
+                "In2O3"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                5,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The optical and electrical properties of IWO films were found to depend on the oxygen partial pressure of deposition process",
+            "all_materials": [
+                "IWO",
+                "oxygen"
+            ],
+            "other_materials": [
+                "IWO",
+                "oxygen"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Compared with the reference ITO films, the IWO films obtained at an oxygen partial pressure of 0.12\u00a0Pa exhibited prominent performance, including higher near-infrared transmittance and carrier mobility",
+            "all_materials": [
+                "ITO",
+                "IWO",
+                "oxygen"
+            ],
+            "other_materials": [
+                "ITO",
+                "IWO",
+                "oxygen"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, the IWO films showed higher work function than that of the ITO films, resulting in the enhancement of open-circuit voltage  and conversion efficiency",
+            "all_materials": [
+                "IWO",
+                "ITO"
+            ],
+            "other_materials": [
+                "IWO",
+                "ITO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It can be attributed to that high work function of the IWO films reduced the carrier transport barrier at the interface between transparent electrode and PEDOT:PSS and enhanced the carrier collection near the edge of the perovskite bandgap",
+            "all_materials": [
+                "IWO",
+                "PEDOT:PSS"
+            ],
+            "other_materials": [
+                "IWO",
+                "PEDOT:PSS"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The excellent properties of the RPD-prepared IWO films indicate that it is a promising transparent electrode material for p-i-n structured perovskite solar cells, especially for applications requiring low-temperature fabrication.",
+            "all_materials": [
+                "IWO"
+            ],
+            "other_materials": [
+                "IWO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Organic-inorganic halide perovskites are considered as ideal light absorption materials for thin-film solar cells owing to their excellent properties including high optical absorption coefficient, long carrier diffusion lengths  for both electrons and holes, tunable bandgap, and low open-circuit voltage loss ,",
+            "all_materials": [
+                "halide"
+            ],
+            "other_materials": [
+                "halide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The power conversion efficiency  of perovskite solar cells has risen from 3 % to 25.2 % , suggesting that this material has a promising prospect",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The perovskite solar cells can be divided into two categories of p-i-n and n-i-p structures, depending on the first arrival of incident light to p-type or n-type layer ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The characteristics that they can be fabricated on plastic substrates made p-i-n structured perovskite solar cells of increasing attention in flexible and building integrated photovoltaic  applications ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                6,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Transparent conducting oxide  films are crucial as transparent electrodes in perovskite solar cells ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A typical p-i-n structured perovskite solar cell has a structure of glass/TCO/PEDOT:PSS/CH3NH3PbI3/PC61BM/BCP/Ag ,",
+            "all_materials": [
+                "TCO/PEDOT:PSS/CH3NH3PbI3/",
+                "PC61BM/BCP/Ag"
+            ],
+            "other_materials": [
+                "TCO/PEDOT:PSS/CH3NH3PbI3/",
+                "PC61BM/BCP/Ag"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Sn-doped In2O3  is a traditional TCO material because of its excellent electrical properties and high visible transparency",
+            "all_materials": [
+                "In2O3",
+                "TCO"
+            ],
+            "other_materials": [
+                "In2O3",
+                "TCO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the transmittance of ITO decreases in near-infrared  region due to the free carrier absorption  effect , limiting their use in small bandgap and tandem solar cells",
+            "all_materials": [
+                "ITO"
+            ],
+            "other_materials": [
+                "ITO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, in order to obtain ITO films with high carrier mobility and transparency, high substrate temperature of sputtering process or post-annealing treatment is usually required",
+            "all_materials": [
+                "ITO"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "ITO"
+        },
+        {
+            "sentence": "For the flexible solar cell applications using plastic substrates, high temperature fabrication of ITO transparent electrodes would damage the substrate or device itself",
+            "all_materials": [
+                "ITO"
+            ],
+            "other_materials": [
+                "ITO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Potential substitutes for Sn such as Ti, Zr, and Mo have been developed to dope In2O3 ,",
+            "all_materials": [
+                "Sn",
+                "Ti",
+                "Zr",
+                "Mo",
+                "In2O3"
+            ],
+            "other_materials": [
+                "Sn",
+                "In2O3"
+            ],
+            "precursors": [
+                {
+                    "text": "Ti",
+                    "start": 37,
+                    "end": 39,
+                    "token_ids": [
+                        6
+                    ]
+                },
+                {
+                    "text": "Zr",
+                    "start": 41,
+                    "end": 43,
+                    "token_ids": [
+                        8
+                    ]
+                },
+                {
+                    "text": "Mo",
+                    "start": 49,
+                    "end": 51,
+                    "token_ids": [
+                        11
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Despite improved transmittance in the NIR region, high-temperature processes limit their application in solar cells that require low-temperature fabrication",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Recently, W-doped In2O3  films have received attention as TCO electrodes in solar cells due to their high carrier mobility, high transmittance in the visible and NIR region, and relatively low-temperature fabrication process ,",
+            "all_materials": [
+                "In2O3"
+            ],
+            "other_materials": [
+                "In2O3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "prepared IWO electrodes using arc plasma ion plating  method and applied them to perovskite solar cells Kim et al",
+            "all_materials": [
+                "IWO"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "IWO"
+        },
+        {
+            "sentence": "However, the application and optimization of IWO transparent electrodes in p-i-n structured perovskite solar cells are scarce so far",
+            "all_materials": [
+                "IWO"
+            ],
+            "other_materials": [
+                "IWO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, in this study, IWO films prepared by reactive plasma deposition  at relatively low temperature of 150 \u00b0C are proposed to be used in p-i-n structured perovskite solar cells",
+            "all_materials": [
+                "IWO"
+            ],
+            "other_materials": [
+                "IWO"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                8,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The RPD method has the advantages of low ion damage, low-temperature deposition, and high-speed growth ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The determined temperature of 150 \u00b0C is close to that of the annealing process of perovskite and PEDOT:PSS materials, which makes it meet the fabrication requirement of flexible p-i-n structured perovskite solar cells",
+            "all_materials": [
+                "PEDOT:PSS"
+            ],
+            "other_materials": [
+                "PEDOT:PSS"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The effects of different oxygen partial pressure of manufacture on the optical, electrical properties and morphology of IWO films and the corresponding devices characteristics were investigated",
+            "all_materials": [
+                "oxygen",
+                "IWO"
+            ],
+            "other_materials": [
+                "oxygen",
+                "IWO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, the performance of IWO-based perovskite solar cells was compared with that of the reference ITO-based solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The ITO substrates used here were purchased commercially and were heat treated at 320 \u00b0C in air during manufacture.",
+            "all_materials": [
+                "ITO",
+                "air"
+            ],
+            "other_materials": [
+                "ITO",
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                11,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It is challenging to spin-coat high-quality perovskite films on flexible plastics so far, therefore, we used glass as the substrate in this study",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "IWO films with a thickness of 100\u00a0nm were deposited on glass substrates from IWO targets  using RPD",
+            "all_materials": [
+                "IWO",
+                "IWO"
+            ],
+            "other_materials": [
+                "IWO",
+                "IWO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The glass substrates were cleaned using acetone, ethanol, and deionized water for 15\u00a0min by ultrasonication prior to the deposition",
+            "all_materials": [
+                "acetone",
+                "ethanol",
+                "water"
+            ],
+            "other_materials": [
+                "acetone",
+                "ethanol",
+                "water"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Ar and O2 gases were introduced",
+            "all_materials": [
+                "Ar",
+                "O2"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "Ar",
+                    "start": 0,
+                    "end": 2,
+                    "token_ids": [
+                        0
+                    ]
+                },
+                {
+                    "text": "O2",
+                    "start": 7,
+                    "end": 9,
+                    "token_ids": [
+                        2
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For the application of solar cells, the transmittance of the samples between 300 and 1200\u00a0nm was investigated",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "1 shows the optical transmittance spectra of commercial ITO films and the IWO films fabricated at different oxygen partial pressuresFig",
+            "all_materials": [
+                "ITO",
+                "IWO",
+                "oxygen"
+            ],
+            "other_materials": [
+                "ITO",
+                "IWO",
+                "oxygen"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                14,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To be close to practical application, the measurements were performed using the ITO and IWO films deposited on glass substrates",
+            "all_materials": [
+                "ITO",
+                "IWO"
+            ],
+            "other_materials": [
+                "ITO",
+                "IWO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "When the oxygen partial pressure was 0.04\u00a0Pa, the IWO film displayed a metallic luster and the highest transmittance of",
+            "all_materials": [
+                "oxygen",
+                "IWO"
+            ],
+            "other_materials": [
+                "oxygen",
+                "IWO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In conclusion, we report IWO films fabricated at a relatively low temperature of 150 \u00b0C by RPD method and applied to p-i-n structured perovskite solar cells",
+            "all_materials": [
+                "IWO"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                7,
+                "StartingSynthesis"
+            ],
+            "targets": "IWO"
+        },
+        {
+            "sentence": "The optical and electrical properties of the IWO films were sensitive to the oxygen partial pressure of fabrication process",
+            "all_materials": [
+                "IWO",
+                "oxygen"
+            ],
+            "other_materials": [
+                "IWO",
+                "oxygen"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Compared with the commercial ITO films, the IWO films prepared under an oxygen partial pressure of 0.12\u2009Pa presented excellent properties including higher NIR transmittance and carrier mobility",
+            "all_materials": [
+                "ITO",
+                "IWO",
+                "oxygen"
+            ],
+            "other_materials": [
+                "ITO",
+                "oxygen"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                10,
+                "StartingSynthesis"
+            ],
+            "targets": "IWO"
+        },
+        {
+            "sentence": "In addition, the",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Chao Song: Conceptualization, Investigation, Writing \u2013 original draft",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Lubing Jiang: Resources, Investigation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Jianhua Shi: Investigation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Weijie Du: Investigation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Liping Zhang: Writing \u2013 original draft, Formal analysis",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Yiwen Zhang: Writing \u2013 review &amp; editing, Supervision",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Zhengxin Liu: Methodology, Supervision.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work was supported by the National Natural Science Foundation of China , the Science and Technology Commission of Shanghai Municipality , the Innovation Program of Shanghai Municipal Education Commission .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A magnetic field induced hydrothermal method is applied to synthesize precursors, followed by annealing to prepare mesoporous MnO microchains",
+            "all_materials": [
+                "MnO"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                [
+                    9,
+                    "StartingSynthesis"
+                ],
+                [
+                    14,
+                    "HeatingOperation"
+                ]
+            ],
+            "targets": "MnO"
+        },
+        {
+            "sentence": "Different morphologies of the ultimate products can be dominated by changing the magnetic field strength to acquire good electrochemical performances",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The initial high reversible capacity of MnO microchains is 948 mA h g\u22121",
+            "all_materials": [
+                "MnO"
+            ],
+            "other_materials": [
+                "MnO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "After 250 cycles, the reversible capacity retains about 769 mA h g\u22121 at 2\u00a0C, even after 2000 cycles, the reversible capacity maintains around 198 mA h g\u22121 at 8\u00a0C",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The superb electrochemical properties could originate from the mesoporosity of aggregated nanoparticles of the MnO 1D-microchain structure induced by applied magnetic field of 8\u00a0T, which is beneficial for the fast transport of Li+ and electron, and can adapt to the dramatic volume change during the Li+ deintercalation.",
+            "all_materials": [
+                "MnO 1D-microchain"
+            ],
+            "other_materials": [
+                "MnO 1D-microchain"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Copper thiocyanate  is a promising inorganic hole transport material for perovskite solar cells  due to its wide-bandgap, low cost, high carrier mobility and good transmittance",
+            "all_materials": [
+                "Copper thiocyanate"
+            ],
+            "other_materials": [
+                "Copper thiocyanate"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, there are limited reports about CuSCN application in PSCs mainly due to its inferior solubility",
+            "all_materials": [
+                "CuSCN"
+            ],
+            "other_materials": [
+                "CuSCN"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here, we prepared high-quality CuSCN films through a simple solution method named successive ionic layer adsorption and reaction",
+            "all_materials": [
+                "CuSCN"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                3,
+                "StartingSynthesis"
+            ],
+            "targets": "CuSCN"
+        },
+        {
+            "sentence": "Using SILAR method, high-quality CuSCN films could be obtained on ITO  substrate with good morphology and photoelectric properties",
+            "all_materials": [
+                "CuSCN",
+                "ITO"
+            ],
+            "other_materials": [
+                "ITO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CuSCN"
+        },
+        {
+            "sentence": "As a result, efficient inverted PSCs were fabricated with SILAR-prepared CuSCN and the efficiency can be increased from 11.10\u00a0% to 18.71\u00a0%.",
+            "all_materials": [
+                "PSCs",
+                "CuSCN"
+            ],
+            "other_materials": [
+                "CuSCN"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                8,
+                "StartingSynthesis"
+            ],
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "Indium oxide  has been demonstrated as an efficient and stable electron transporting layer for planar heterojunction perovskite solar cells, but dispersive pinholes in the sol-gel derived IO film limit its hole blocking capacity and corresponding device performance",
+            "all_materials": [
+                "Indium oxide",
+                "IO"
+            ],
+            "other_materials": [
+                "Indium oxide",
+                "IO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this study, we introduce an ultrathin TiOx interlayer between Indium Tin Oxide  substrate and IO film via a low temperature TiCl4 treatment method",
+            "all_materials": [
+                "TiOx",
+                "Indium Tin Oxide",
+                "IO",
+                "TiCl4"
+            ],
+            "other_materials": [
+                "TiOx",
+                "Indium Tin Oxide",
+                "IO",
+                "TiCl4"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "By optimizing the process time, we obtain the optimal perovskite solar cells with a 30\u00a0min TiCl4 treatment process, showing an impressive power conversion efficiency of 16.38%",
+            "all_materials": [
+                "TiCl4"
+            ],
+            "other_materials": [
+                "TiCl4"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, the average device efficiency is improved from 13.7% to 15.1%, which is mainly attributed to the greatly improved fill factor",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "By means of investigating film roughness, pinhole effect and open circuit voltage decay, we find that the low-temperature processed TiOx interlayer efficiently enhance the hole blocking capacity of the electron transporting layer, and consequently boost the device performance.",
+            "all_materials": [
+                "TiOx"
+            ],
+            "other_materials": [
+                "TiOx"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Reactive anatase titania  are incorporated into SnO2 to form a single TAc-SnO2 electron transport layer  for mixed-cation perovskite solar cells",
+            "all_materials": [
+                "anatase titania",
+                "SnO2",
+                "TAc-SnO2"
+            ],
+            "other_materials": [
+                "anatase titania",
+                "SnO2",
+                "TAc-SnO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The TAc-SnO2 layer is prepared in a low-temperature process by the advantage of high crystallinity and surface reactivity of TAc",
+            "all_materials": [
+                "TAc-SnO2",
+                "TAc"
+            ],
+            "other_materials": [
+                "TAc"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                6,
+                "StartingSynthesis"
+            ],
+            "targets": "TAc-SnO2"
+        },
+        {
+            "sentence": "The influence and mechanism of the TAc incorporation on the photovoltaic performance of PSCs are investigated",
+            "all_materials": [
+                "TAc"
+            ],
+            "other_materials": [
+                "TAc"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The TAc-SnO2 ETL presents rapid electron transfer, low trap density, high charge recombination resistance, low hysteresis and good stability",
+            "all_materials": [
+                "TAc-SnO2"
+            ],
+            "other_materials": [
+                "TAc-SnO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The 2.5-wt% TAc incorporation reveals the highest power conversion efficiency of 20.12\u00a0%, a 19\u00a0%-fold enhancement compared to the pristine cell with the SnO2 ETL",
+            "all_materials": [
+                "TAc",
+                "SnO2"
+            ],
+            "other_materials": [
+                "TAc",
+                "SnO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The enhancement arises from the fact that the TAc can fill up breaching in the pristine SnO2 layer and adjust the ETL energy level",
+            "all_materials": [
+                "TAc",
+                "SnO2"
+            ],
+            "other_materials": [
+                "TAc",
+                "SnO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The carboxyl groups of TAc facilitate the formation of solid bonding among SnO2/TAc colloids and prevent ions from accumulation at the interface of ETL/perovskite",
+            "all_materials": [
+                "TAc",
+                "SnO2/TAc",
+                "ETL"
+            ],
+            "other_materials": [
+                "TAc",
+                "SnO2/TAc",
+                "ETL"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The work provides a facile way to fabricate a low-temperature, single-layer and effective ETL for highly efficient PSCs.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The carbon-based hole transport layer-free  PSCs show promising potential for commercialization stemming from the economy and chemical inertia of carbon electrodes",
+            "all_materials": [
+                "carbon"
+            ],
+            "other_materials": [
+                "carbon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "While the huge energy barrier between the perovskite layer and carbon electrode results in severe energy loss and poor stability simultaneously",
+            "all_materials": [
+                "carbon"
+            ],
+            "other_materials": [
+                "carbon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, 2D perovskite as a passivation layer is successfully constructed with the help of 3-chlorobenzylamine , which is anchored on the surface of methylamine lead iodine  perovskites by forming NH\u2013I hydrogen, forming Cl\u2013I bond and filling the halide vacancies, thereby suppressing the energy loss and protecting perovskites from moisture ingress",
+            "all_materials": [
+                "3-chlorobenzylamine",
+                "methylamine lead iodine",
+                "NH"
+            ],
+            "other_materials": [
+                "3-chlorobenzylamine",
+                "methylamine lead iodine",
+                "NH"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Detailed experimental characterizations prove that the 3Cl-BA passivation layer could optimize energy level and prolong the carrier lifetime of the perovskites",
+            "all_materials": [
+                "3Cl-BA"
+            ],
+            "other_materials": [
+                "3Cl-BA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As a result, a gratifying power conversion efficiency  of 13.22 % is obtained for carbon-based HTM-free PSCs based on the 3Cl-BA treated MAPbI3 perovskite by optimizing the post-treatment conditions",
+            "all_materials": [
+                "3Cl-BA",
+                "MAPbI3"
+            ],
+            "other_materials": [
+                "3Cl-BA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "MAPbI3"
+        },
+        {
+            "sentence": "What\u2019s more, owing to the existence of the hydrophobic 2D structure, the unencapsulated PSC exhibits better long-term moisture stability",
+            "all_materials": [
+                "PSC"
+            ],
+            "other_materials": [
+                "PSC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It remains at 95 % of the original PCE after aged under the environment of the nitrogen for 800\u00a0h",
+            "all_materials": [
+                "PCE",
+                "nitrogen"
+            ],
+            "other_materials": [
+                "PCE",
+                "nitrogen"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This post-treatment based on 3Cl-BA provides a bright road to preparing efficient and stable PSCs via forming 2D/3D perovskite structures.",
+            "all_materials": [
+                "3Cl-BA",
+                "PSCs"
+            ],
+            "other_materials": [
+                "3Cl-BA"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                10,
+                "StartingSynthesis"
+            ],
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "We report on a simple and efficient process to enhance the performance of perovskite solar cells by using ITO electrodes with a nanoporous surface formed by wet-etching of self-agglomerated Ag nanoparticles",
+            "all_materials": [
+                "ITO",
+                "Ag"
+            ],
+            "other_materials": [
+                "ITO",
+                "Ag"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Effective removal of the Ag nanoparticles embedded in the surface of the ITO electrodes result in a nanoporous structure without changing the ITO&#x27;s sheet resistance  and optical transmittance  at a 550\u202fnm wavelength",
+            "all_materials": [
+                "Ag",
+                "ITO",
+                "ITO&#x27"
+            ],
+            "other_materials": [
+                "Ag",
+                "ITO",
+                "ITO&#x27"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Examinations with a scanning electron microscope, a transmission electron microscope, and two-dimensional porous mapping show that the nanoporous ITO surface has an increased contact area with the electron transport layer, which enhanced the carrier extraction efficiency of the perovskite solar cells",
+            "all_materials": [
+                "ITO"
+            ],
+            "other_materials": [
+                "ITO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Compare to perovskite solar cells fabricated on typical ITO with a flat surface morphology, the perovskite solar cells fabricated on the nanoporous-surface ITO show a higher fill factor of 81.1% and a power conversion efficiency of 20.1%",
+            "all_materials": [
+                "ITO",
+                "ITO"
+            ],
+            "other_materials": [
+                "ITO",
+                "ITO"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                [
+                    5,
+                    "StartingSynthesis"
+                ],
+                [
+                    19,
+                    "StartingSynthesis"
+                ]
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "These results indicate that modified ITO surfaces with nano-scale porosity provide a simple and efficient method to improve the power conversion efficiency of perovskite solar cells without a complicated process.",
+            "all_materials": [
+                "ITO"
+            ],
+            "other_materials": [
+                "ITO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

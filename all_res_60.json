@@ -1,0 +1,103 @@
+{
+    "rest": [
+        {
+            "sentence": "The introduction of up-conversion materials converting near infrared light into useable visible light has been proven to be a promising strategy for improving the performance of perovskite solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, the up-conversion material of NaYF4:Yb3+, Er3+ nanoparticles  were successfully prepared by one-step hydrothermal route and incorporated into Al2O3 as the scaffold layer for the air-processed carbon-based mesoscopic perovskite solar cells",
+            "all_materials": [
+                "NaYF4:Yb3+, Er3+",
+                "Al2O3"
+            ],
+            "other_materials": [
+                "Al2O3"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                18,
+                "StartingSynthesis"
+            ],
+            "targets": "NaYF4:Yb3+, Er3+"
+        },
+        {
+            "sentence": "FESEM shows that the size of NaYF4:Yb3+, Er3+ nanoparticles is about 100\u00a0nm and there is no obvious agglomeration",
+            "all_materials": [
+                "NaYF4:Yb3+, Er3+"
+            ],
+            "other_materials": [
+                "NaYF4:Yb3+, Er3+"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                21,
+                "Mixing"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The UV\u2013vis\u2013NIR absorption spectrum of the mixed scaffold layer demonstrates a distinct infrared light response",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The infrared photoelectric efficiency and EQE tests were used to verify that NaYF4:Yb3+, Er3+ nanoparticles improved the photo response of the device in the infrared region, thereby improved the photoelectric performance of the MPSCs",
+            "all_materials": [
+                "NaYF4:Yb3+, Er3+",
+                "MPSCs"
+            ],
+            "other_materials": [
+                "NaYF4:Yb3+, Er3+",
+                "MPSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "An optimal efficiency of 13.04% was obtained by incorporating 25\u00a0wt% NaYF4:Yb3+, Er3+ nanoparticles into the Al2O3 scaffold layer, which shows a 20.6% increase in conversion efficiency when compared with the device without using the up-conversion material",
+            "all_materials": [
+                "NaYF4:Yb3+, Er3+",
+                "Al2O3"
+            ],
+            "other_materials": [
+                "NaYF4:Yb3+, Er3+",
+                "Al2O3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The optimized carbon-based MPSCs also show an infrared responded PCE value of 0.11% under infrared irradiation from 800 to 1100\u00a0nm",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This paper shows that the up-conversion material expands the light response of solar cells to the infrared region and provides an effective method for the preparation of high-efficiency perovskite solar cells.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

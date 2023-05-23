@@ -1,0 +1,1058 @@
+{
+    "rest": [
+        {
+            "sentence": "Hybrid organic-inorganic perovskite solar cells  lack long-term stability, and this negatively impacts the widespread application of PSCs",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Two-dimensional  perovskite regarded as an emerging of photovoltaic materials, exhibits excellent environmental stability than three-dimensional  perovskite due to existence of the long-chain organic ligands",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, aiming to increase the stability of the device, we introduce a thin 2D perovskite capping layer by the reaction of n-butylamine  with 3D perovskite film to form 2D capping layer",
+            "all_materials": [
+                "n-butylamine"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "n-butylamine",
+                    "start": 123,
+                    "end": 135,
+                    "token_ids": [
+                        23
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Eventually, this process enhances crystallinity of perovskite active layer and photophysical properties of PSCs",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The resulting PSCs based on carbon-counter-electrode yields a power conversion efficiency  from 8.75% to 10.39%",
+            "all_materials": [
+                "carbon-counter-electrode"
+            ],
+            "other_materials": [
+                "carbon-counter-electrode"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Under the protection of carbon electrode and 2D capping layer, the stability of PSCs has been greatly improved",
+            "all_materials": [
+                "carbon"
+            ],
+            "other_materials": [
+                "carbon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The unencapsulated device with 2D/3D active layer remained 93% of the original value of PCE after 55 days in air with humidity of about 50% at room temperature",
+            "all_materials": [
+                "PCE",
+                "air"
+            ],
+            "other_materials": [
+                "PCE",
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work can provide an easy and inexpensive way to improve the stability and efficiency of PSCs.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Download : Download high-res image Download : Download full-size image",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Recent research reported about three-dimensional  organic-inorganic hybrid perovskites have obtained prominent achievements, as represented by the significant progress in photovoltaic performance that has been made",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Although the power conversion efficiency  of PSCs has reported from 3.8% to an impressive 25.7% since 2009 to present, the stability of the champion device is only 450\u00a0h [, ]",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It is widely known that perovskite materials have shown great potential as next-generation photovoltaic materials owning to their special optical and electronic properties, including high light absorption, broad absorption spectra, low exciton binding energy, low exciton binding energy, long carrier lifetime, tunable bandgap and easier processing [, ]",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the PSCs still have stability and cost to surmount before commercialization.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In order to reduce the high cost and enhance the device stability, a new-type PSCs based on carbon-counter-electrode  was prepared in 2014",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                22,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Although the stability of the device with carbon electrode has been improved to some extent, it is still a key issue that limits the wide range of applications of the device",
+            "all_materials": [
+                "carbon"
+            ],
+            "other_materials": [
+                "carbon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "According to the previous works, degradation of traditional 3D perovskite films happens easily in high humidity environment",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The 3D perovskite polycrystalline active layers inevitably have defects on the surface and grain boundary, which could incur charge recombination to reduce efficiency and cause the decomposition of 3D active layer in perovskites solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "So far, the studies on 2D perovskite materials have shown moisture stability more compared to 3D perovskites [, ]",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Due to the existence of insulating spacer layer, high moisture stability inherent in 2D perovskite films are obtained, including hydrophobicity and suppression of ion migration [15,, ]",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, the PCE of traditional 2D PSCs reported in the literature is 13.7%, which was still very low compared 3D PSCs",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In general, PSCs with 2D/3D perovskite film could combined with nonbonding electrons derived from N in amines to form a heterostructure",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The defects on the 3D perovskite active layer surface, such as uncoordinated lead and element vacancies, can be reconstructed by introducing a thin 2D perovskite capping layer",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, using surface passivation by employing 2D perovskites will achieve higher efficiency and stability of PSCs [, ]",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, we believe that the construction of PSCs with 2D/3D active layer can combine the advantages of enhanced stability of 2D perovskite materials with the electronic properties and superior optical of 3D perovskite materials",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Currently, various 2D perovskite materials have been reported for 2D/3D active layer PSCs applications, such as 2PbI4, cyclohexylethylammonium iodide, octyl ammonium iodide, choline iodine etc",
+            "all_materials": [
+                "PSCs",
+                "2PbI4",
+                "cyclohexylethylammonium iodide",
+                "octyl ammonium iodide",
+                "choline iodine"
+            ],
+            "other_materials": [
+                "PSCs",
+                "2PbI4",
+                "cyclohexylethylammonium iodide",
+                "octyl ammonium iodide",
+                "choline iodine"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "N-butylamine  has been widely studied and applied as an additive used in the preparation of 2D perovskite layer[6,29,30]",
+            "all_materials": [
+                "N-butylamine"
+            ],
+            "other_materials": [
+                "N-butylamine"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": " reported phase-pure quantum wells with a single well width by introducing molten salt spacer n-butylamine acetate, instead of the traditional halide spacer n-butylamine iodide, yielding an efficient and stable PSCLiang et al",
+            "all_materials": [
+                "n-butylamine acetate",
+                "n-butylamine iodide",
+                "PSCLiang"
+            ],
+            "other_materials": [
+                "n-butylamine acetate",
+                "n-butylamine iodide",
+                "PSCLiang"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, studies on the preparation of PSCs based on CCE by using the BA additive have rarely been presented.",
+            "all_materials": [
+                "PSCs",
+                "CCE",
+                "BA"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "CCE",
+                    "start": 53,
+                    "end": 56,
+                    "token_ids": [
+                        10
+                    ]
+                },
+                {
+                    "text": "BA",
+                    "start": 70,
+                    "end": 72,
+                    "token_ids": [
+                        14
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "Herein, we used a two-step solution approach to create a 2D capping active layer by reacting BA with 3D perovskite films",
+            "all_materials": [
+                "BA"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "BA",
+                    "start": 93,
+                    "end": 95,
+                    "token_ids": [
+                        19
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The corresponding CCE-based PSCs were prepared to research the effect of different dosages of BA on the device",
+            "all_materials": [
+                "BA"
+            ],
+            "other_materials": [
+                "BA"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                7,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The results showed that the introduce a thin 2D perovskite capping layer can great enhance the stability of the photovoltaic devices.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "N, N-dimethylformamide  was purchased from Aladdin",
+            "all_materials": [
+                "N, N-dimethylformamide"
+            ],
+            "other_materials": [
+                "N, N-dimethylformamide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Titania paste  and PbI2  were provided by Xi&#x27;an Polymer Light Technology Corp",
+            "all_materials": [
+                "Titania",
+                "PbI2"
+            ],
+            "other_materials": [
+                "Titania",
+                "PbI2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Titanium tetrachloride , Dimethyl sulfoxide , N-butylamine  and Chlorobenzene  were provided by Macklin",
+            "all_materials": [
+                "Titanium tetrachloride",
+                "Dimethyl sulfoxide",
+                "N-butylamine",
+                "Chlorobenzene"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "Titanium tetrachloride",
+                    "start": 0,
+                    "end": 22,
+                    "token_ids": [
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "text": "Dimethyl sulfoxide",
+                    "start": 25,
+                    "end": 43,
+                    "token_ids": [
+                        3,
+                        4
+                    ]
+                },
+                {
+                    "text": "N-butylamine",
+                    "start": 46,
+                    "end": 58,
+                    "token_ids": [
+                        6
+                    ]
+                },
+                {
+                    "text": "Chlorobenzene",
+                    "start": 64,
+                    "end": 77,
+                    "token_ids": [
+                        8
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Carbon paste  was provided by jujo printing supplies &amp; technology  Co., Ltd",
+            "all_materials": [
+                "Carbon"
+            ],
+            "other_materials": [
+                "Carbon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, CH3NH3I  , Formamidinium iodide  and Zirconium dioxide (ZrO2",
+            "all_materials": [
+                "CH3NH3I",
+                "Formamidinium iodide",
+                "Zirconium dioxide (",
+                "ZrO2"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "CH3NH3I",
+                    "start": 13,
+                    "end": 20,
+                    "token_ids": [
+                        3
+                    ]
+                },
+                {
+                    "text": "Formamidinium iodide",
+                    "start": 24,
+                    "end": 44,
+                    "token_ids": [
+                        5,
+                        6
+                    ]
+                },
+                {
+                    "text": "Zirconium dioxide (",
+                    "start": 50,
+                    "end": 69,
+                    "token_ids": [
+                        8,
+                        9,
+                        10
+                    ]
+                },
+                {
+                    "text": "ZrO2",
+                    "start": 69,
+                    "end": 73,
+                    "token_ids": [
+                        11
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The structure of PSCs with 2D layer was shown in Fig",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "From the bottom to the top, there are FTO/BL-TiO2/M-TiO2/M-ZrO2/3D perovskite/2D perovskite/carbon respectively1",
+            "all_materials": [
+                "FTO/BL-TiO2",
+                "M-TiO2",
+                "M-ZrO2",
+                "3D",
+                "carbon"
+            ],
+            "other_materials": [
+                "FTO/BL-TiO2",
+                "M-TiO2",
+                "M-ZrO2",
+                "3D",
+                "carbon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We used the traditional one-step spin-coating method to form polycrystalline 3D perovskite 0.30.7PbI3 film",
+            "all_materials": [
+                "0.30.7PbI3"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "0.30.7PbI3"
+        },
+        {
+            "sentence": "To protect 0.30.7PbI3 active layer, the BA chlorobenzene solution was spin-coated on top of 3D perovskite active layer to produce 2D perovskite 2PbI4",
+            "all_materials": [
+                "0.30.7PbI3",
+                "BA chlorobenzene",
+                "2PbI4"
+            ],
+            "other_materials": [
+                "0.30.7PbI3",
+                "BA chlorobenzene"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "2PbI4"
+        },
+        {
+            "sentence": "Then we put carbon paste on the surface of 2D",
+            "all_materials": [
+                "carbon"
+            ],
+            "other_materials": [
+                "carbon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In summary, the perovskite solar cells with 2D/3D active layer were achieved by adopting different of BA solution post-treatment methods",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This thin 2D perovskite layer could be used as a capping layer which can effectively reduce defect density and suppress the nonradiative recombination on the surface of 3D perovskite film",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The photovoltaic performances of devices with 2D/3D active layer were remarkably enhanced, and the optimal device based on BA chlorobenzene solution with concentration of",
+            "all_materials": [
+                "chlorobenzene"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "chlorobenzene",
+                    "start": 126,
+                    "end": 139,
+                    "token_ids": [
+                        22
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work is supported by the National Natural Science Foundation of China , and the Key Scientific Research Project of Colleges and University in Henan Province, and Youth Project of Henan Natural Science Foundation .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Guanidinium organosulfonate  hydrogen-bonded frameworks  constructed from three different naphthalenesulfonates incorporate the electron acceptor tetracyanoquinodimethane  as a guest molecule, with framework architectures that reflect synergy between the persistent 2D hydrogen-bonded GS network and donor-acceptor interactions",
+            "all_materials": [
+                "Guanidinium organosulfonate",
+                "tetracyanoquinodimethane",
+                "GS"
+            ],
+            "other_materials": [
+                "Guanidinium organosulfonate",
+                "tetracyanoquinodimethane",
+                "GS"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The spectroscopic and computational results confirm weak charge-transfer interactions associated with the formation of mixed stacks containing naphthalene donors and TCNQ acceptors that are enforced by the GS framework, suggesting opportunities for the synthesis of new optoelectronic materials through a combination of molecular and crystal design.",
+            "all_materials": [
+                "naphthalene",
+                "TCNQ"
+            ],
+            "other_materials": [
+                "naphthalene",
+                "TCNQ"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Advances in organic electronics necessitates, ultrathin and miniaturized implantable energy storage modules",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here, an approach for the fabrication of on-chip, ultraflexible electrochemical capacitors is demonstrated",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Two different electroactive conjugated polymers are utilized in a fabrication route that allows the patterning of finger electrodes for an ultraflexible energy storage technology",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A strategy is demonstrated to realize supercapacitors with a total device thickness of 4\u00a0\u03bcm, including substrate, polymer electrode, and electrolyte",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Interdigitated 20-finger electrodes from either Poly polystyrene sulfonate  or polythiophene functionalized with tetraethylene glycol side chains P, with 50\u00a0\u03bcm or 90\u00a0\u03bcm electrode spacings, are fabricated using a parylene peel off method, followed by electrolyte deposition",
+            "all_materials": [
+                "Poly polystyrene sulfonate",
+                "polythiophene",
+                "tetraethylene glycol"
+            ],
+            "other_materials": [
+                "Poly polystyrene sulfonate",
+                "polythiophene",
+                "tetraethylene glycol"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                28,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The miniaturized devices show 0.77\u00a0mF/cm2 areal capacitance for PEDOT:PSS and 0.06\u00a0mF/cm2 for P",
+            "all_materials": [
+                "PEDOT:PSS",
+                "P"
+            ],
+            "other_materials": [
+                "PEDOT:PSS",
+                "P"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, the devices exhibit excellent mechanical durability, showing robust operational performance at a bending radius of 6.5\u00a0mm.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Flexibility of thin film encapsulation  in implementing flexible organic light emitting diodes is a very important factor",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, we mainly focus on improving flexibility by using a proper selection of polymers in the 1.5 dyads /polymer/Al2O3) atomic layer deposition processed TFE structure",
+            "all_materials": [
+                "Al2O3",
+                "TFE"
+            ],
+            "other_materials": [
+                "Al2O3",
+                "TFE"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As a pre-requisite, we selected four types of polymers  with different functional groups to compare the flexibility of TFE films",
+            "all_materials": [
+                "TFE"
+            ],
+            "other_materials": [
+                "TFE"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The two factors of polymer, elastic modulus and surface energy, were identified",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The lowering of these two factors of polymer show better flexibility",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, it was confirmed that the interaction between polymer and Al2O3 interaction was not so influenced, but the penetration depth of Al2O3 was important for the flexibility of TFE",
+            "all_materials": [
+                "Al2O3",
+                "Al2O3",
+                "TFE"
+            ],
+            "other_materials": [
+                "Al2O3",
+                "Al2O3",
+                "TFE"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This was visually confirmed using transmission electron microscopy and energy dispersive spectrometry mapping",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "With the surface energy lowering, a deeper penetration depth of Al2O3 into the polymer occurred",
+            "all_materials": [
+                "Al2O3"
+            ],
+            "other_materials": [
+                "Al2O3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As a result, the surface stress of Al2O3 was reduced, which deduces the excellent flexibility of TFE.",
+            "all_materials": [
+                "Al2O3",
+                "TFE"
+            ],
+            "other_materials": [
+                "Al2O3",
+                "TFE"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The hopping mobility in organic semiconductors is strongly influenced by the correlated on-site noise \u2014 i.e",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "the dipole\u2013dipole interaction between neighbouring molecules",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this paper, we use Kinetic Monte Carlo  to study the effect of dipole moment and structural order on the hole mobility of organic molecular semiconductors",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "While the effect on the charge mobility of the dipole\u2013dipole interactions can be approximately reproduced by a global Gaussian disorder model, our present results show that there are non-trivial local effects that are not incorporated into such an approach",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The dipole\u2013dipole interactions give rise to large energy barriers that restrict charged particles to smaller and smaller regions as the dipole magnitude increases",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "While this effect can only reduce the mobility in any given system, we note that if the dipoles self-organize, potentially driven by the dipole moment itself or by an increase in packing density, the negative effect on the mobility can be reduced.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Hole transport material  is vital for further improvement of the power conversion efficiencies  of carbon-based perovskite solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, up to now the available HTMs for C-PSCs are relatively rare compared with those for Au/Ag based PSCs",
+            "all_materials": [
+                "C-PSCs",
+                "Ag",
+                "PSCs"
+            ],
+            "other_materials": [
+                "C-PSCs",
+                "Ag",
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, Cu2ZnGeS4 nanocrystals are synthesized and explored as a potential HTM for C-PSCs for the first time",
+            "all_materials": [
+                "Cu2ZnGeS4",
+                "C-PSCs"
+            ],
+            "other_materials": [
+                "C-PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                7,
+                "StartingSynthesis"
+            ],
+            "targets": "Cu2ZnGeS4"
+        },
+        {
+            "sentence": "The valence band of Cu2ZnGeS4 is slightly shallower than that of perovskite film, at the same time, the conduction band of Cu2ZnGeS4 is much higher than that of perovskite film, indicating a suitable band alignment between Cu2ZnGeS4 and the perovskite layer",
+            "all_materials": [
+                "Cu2ZnGeS4",
+                "Cu2ZnGeS4",
+                "Cu2ZnGeS4"
+            ],
+            "other_materials": [
+                "Cu2ZnGeS4",
+                "Cu2ZnGeS4",
+                "Cu2ZnGeS4"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "When Cu2ZnGeS4 nanocrystals are employed as HTM for C-PSCs, a maximum PCE of 18.02% is demonstrated",
+            "all_materials": [
+                "Cu2ZnGeS4",
+                "C-PSCs"
+            ],
+            "other_materials": [
+                "Cu2ZnGeS4",
+                "C-PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, our results indicate that Cu2ZnGeS4 nanocrystal is a promising inorganic HTM, which can be optimized to further boost the performances of C-PSCs.",
+            "all_materials": [
+                "Cu2ZnGeS4",
+                "C-PSCs"
+            ],
+            "other_materials": [
+                "Cu2ZnGeS4",
+                "C-PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The organic-inorganic perovskite solar cells  have recently attracted significant attention owing to their remarkable photovoltaic performance",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, we fabricate a novel perovskite absorber Cs0.050.95Pb1\u2212xZnx3 by using ZnBr2 as an additive",
+            "all_materials": [
+                "Cs0.050.95Pb1\u2212xZnx3",
+                "ZnBr2"
+            ],
+            "other_materials": [
+                "ZnBr2"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                3,
+                "StartingSynthesis"
+            ],
+            "targets": "Cs0.050.95Pb1\u2212xZnx3"
+        },
+        {
+            "sentence": "The introduction of zinc increases the grain size and reduces the grain boundary defects",
+            "all_materials": [
+                "zinc"
+            ],
+            "other_materials": [
+                "zinc"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "At the optimized concentration of 0.5\u00a0mol% ZnBr2 additive, the x-ray diffraction  shows the perfect crystallization of the perovskite film",
+            "all_materials": [
+                "ZnBr2"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "ZnBr2",
+                    "start": 43,
+                    "end": 48,
+                    "token_ids": [
+                        8
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The enhanced crystallization of the perovskite structure suppresses the non-radiative recombination loss and prolongs the carrier lifetime",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The optimized PSC presents a champion power conversion efficiency  of 15.64 % and shows a negligible hysteresis effect",
+            "all_materials": [
+                "PSC"
+            ],
+            "other_materials": [
+                "PSC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, the increased built-in electric field  between the n-type Zn doped perovskite and the p-type CuSCN creates more driving force for the separation of photogenerated carriers and increases the open-circuit photovoltage  of the device",
+            "all_materials": [
+                "CuSCN"
+            ],
+            "other_materials": [
+                "CuSCN"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The unencapsulated device maintains more than 87 % of its original PCE after aging for 90 days in the ambient condition, while the control device can only maintain 60 % of its original PCE",
+            "all_materials": [
+                "PCE",
+                "PCE"
+            ],
+            "other_materials": [
+                "PCE",
+                "PCE"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "These results suggest that the simple B-site ion-doped perovskite could be a good option for the future improvement of PSCs.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

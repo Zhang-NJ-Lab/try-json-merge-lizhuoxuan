@@ -1,0 +1,70 @@
+{
+    "rest": [
+        {
+            "sentence": "Defect-free perovskite materials are necessary for developing efficient solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "On FTO-glass substrates , cadmium-doped methylammonium lead bromide  films have been deposited",
+            "all_materials": [
+                "FTO",
+                "methylammonium lead bromide"
+            ],
+            "other_materials": [
+                "FTO",
+                "methylammonium lead bromide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Doping does not affect the cubic crystal structure of MAPbBr3; however, it has increased the grain size, according to XRD",
+            "all_materials": [
+                "MAPbBr3"
+            ],
+            "other_materials": [
+                "MAPbBr3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The band gap is decreased at 3% of Cd doping, due to which the deep-level traps are decreased",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Every cell shows good performance, but the cell formed with 3% Cd doping has a high fill factor , open circuit voltage , considerable short-circuit current density , and efficiency",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The high open circuit voltages and current density refer to the accumulation of charges at the holes and electrons transport layers being reduced due to Cd doping.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

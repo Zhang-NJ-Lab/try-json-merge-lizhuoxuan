@@ -1,0 +1,94 @@
+{
+    "rest": [
+        {
+            "sentence": "Stimulated by the extraordinary power conversion efficiency  of hybrid organic-inorganic perovskites  based solar cells , the derivative studies on inorganic perovskites  based SCs have been intensely investigated",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In order to overcome the disadvantages of CsPbBr3, most prominently the unfavorable larger band gap , a grating layer of mesoporous anatase TiO2 has been inserted into the conventional configuration of SCs",
+            "all_materials": [
+                "CsPbBr3",
+                "anatase TiO2",
+                "SCs"
+            ],
+            "other_materials": [
+                "CsPbBr3",
+                "anatase TiO2",
+                "SCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The grating layer acts as the electron transfer layer  and light absorption strengthening layer at the same time",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Due to the combined effects, the increased contacting area increased the fill factor  and enhanced light trapping in the grating layer increased the short-current density, the average PCE of IOP based SCs has increased from 5.67% to 7.58%, which is a ca",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "34% increase relatively",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, research on traditional HOIP-based SCs is also conducted",
+            "all_materials": [
+                "SCs"
+            ],
+            "other_materials": [
+                "SCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Interestingly, the increasing PCE mechanism is quite different from their inorganic counterparts, which should be attributed to the strain effect of different film structures",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Thus, the strain-induced defect charge-state transitions of MAPbI3 by the grating layer increased the open-circuit voltage ; and similarly, the increased contacting area also increased the FF, resulting in a 13% increase for PCE.",
+            "all_materials": [
+                "MAPbI3",
+                "PCE"
+            ],
+            "other_materials": [
+                "MAPbI3",
+                "PCE"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

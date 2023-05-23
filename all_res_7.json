@@ -1,0 +1,1388 @@
+{
+    "rest": [
+        {
+            "sentence": "In this paper, two-dimensional titanium carbide  and vanadium carbide  MXene with appropriate mass content are incorporated into PbI2 precursor solution to fabricate perovskite film via one-step coating method",
+            "all_materials": [
+                "titanium carbide",
+                "vanadium carbide  MXene",
+                "PbI2"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "titanium carbide",
+                    "start": 31,
+                    "end": 47,
+                    "token_ids": [
+                        7,
+                        8
+                    ]
+                },
+                {
+                    "text": "vanadium carbide  MXene",
+                    "start": 53,
+                    "end": 76,
+                    "token_ids": [
+                        10,
+                        11,
+                        12
+                    ]
+                },
+                {
+                    "text": "PbI2",
+                    "start": 129,
+                    "end": 133,
+                    "token_ids": [
+                        20
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The effects of the addition of MXene with different mass ratio on the morphology, crystallinity, light absorption property and stability of the CH3NH3PbI3 film and the photovoltaic performance and stability of the corresponding devices are further investigated",
+            "all_materials": [
+                "MXene",
+                "CH3NH3PbI3"
+            ],
+            "other_materials": [
+                "CH3NH3PbI3"
+            ],
+            "precursors": [
+                {
+                    "text": "MXene",
+                    "start": 31,
+                    "end": 36,
+                    "token_ids": [
+                        6
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The results demonstrate that the introduction of Ti3C2Tx and V2CTx additive can improve the morphology of perovskite film, increase the grain size of perovskite film, enhance the hydrophobicity of the perovskite layer",
+            "all_materials": [
+                "Ti3C2Tx",
+                "V2CTx"
+            ],
+            "other_materials": [
+                "Ti3C2Tx",
+                "V2CTx"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As a result, improved photovoltaic performance can be achieved",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "By modifying the proportion of additives, the power conversion efficiency  of V2CTx MXene modified solar cells is better than those of the devices with Ti3C2Tx additive and the pristine one",
+            "all_materials": [
+                "Ti3C2Tx"
+            ],
+            "other_materials": [
+                "Ti3C2Tx"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Compared with the control device without additive, perovskite solar cells incorporating V2CTx additive with an optimized concentration of 0.0013\u00a0wt% achieve a PCE of 17.61%",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, for perovskite film incorporating V2CTx additive, unique morphology with uniform grain size and ordered layered crystal particle can be noted",
+            "all_materials": [
+                "V2CTx"
+            ],
+            "other_materials": [
+                "V2CTx"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This means the V2CTx additive can regulate the perovskite crystal film growth",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, the V2CTx additive incorporated devices can retain 68.29% of the initial PCE after 15 days, which is higher than the devices without additives  and with Ti3C2Tx as additive , owing to the better crystallinity and higher quality of perovskite film",
+            "all_materials": [
+                "PCE",
+                "Ti3C2Tx"
+            ],
+            "other_materials": [
+                "PCE",
+                "Ti3C2Tx"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Our work provides an effective method for improving performance of perovskite solar cells and expands the applications areas of V2CTx in photovoltaics.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Download : Download high-res image Download : Download full-size image",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In recent years, organic-inorganic hybrid perovskite materials have received extensive attention due to its excellent photoelectric conversion performance, diverse composition, adjustable band gap and low cost",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": " Up to now, the highest power conversion efficiency has increased from 3.8% to 25.2%",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": ",  Many methods have been developed to prepare high quality homogeneous and dense perovskite film to improve the performance of devices, such as sequential deposition,  additive and anti-solvent engineering,  among which additive engineering is widely used",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "used iodine and thiourea as additives in perovskite precursors and found that the additives enhanced crystallization and surface coverage with an efficiency of 20.39%Gao et al",
+            "all_materials": [
+                "iodine",
+                "thiourea"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "iodine",
+                    "start": 5,
+                    "end": 11,
+                    "token_ids": [
+                        1
+                    ]
+                },
+                {
+                    "text": "thiourea",
+                    "start": 16,
+                    "end": 24,
+                    "token_ids": [
+                        3
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "reported addition of 1-methyl-3- imidazolium tetrafluoroborate  ionic liquid and another two analogues into the perovskite absorber with larger grain size, thus enhancing the efficiency and stability of devices Li et al",
+            "all_materials": [
+                "1-methyl-3- imidazolium tetrafluoroborate"
+            ],
+            "other_materials": [
+                "1-methyl-3- imidazolium tetrafluoroborate"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": " In addition to the soluble low molecular additives, application of two-dimensional  materials in photovoltaics has also attracted increasing attention owing to their superior carrier mobility, tunable work function and superior metallic electrical conductivity",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "reported addition of graphene oxide  into perovskite film to obtain improved crystallinityZhang et al",
+            "all_materials": [
+                "graphene oxide"
+            ],
+            "other_materials": [
+                "graphene oxide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, the GO additive is beneficial to accelerate the charge transfer, resulting in increasing efficiency and reducing the hysteresis effect",
+            "all_materials": [
+                "GO"
+            ],
+            "other_materials": [
+                "GO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": " Gan and co-workers introduced Graphite-N doped Graphene Quantum Dots  as additive of perovskite active layer",
+            "all_materials": [
+                "Graphene"
+            ],
+            "other_materials": [
+                "Graphene"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It was found that the addition of GN-GQDs can greatly improve the charge transport in perovskite solar cells  and reduce the interface recombination, achieving a performance of 19.8% without hysteresis and improved stability",
+            "all_materials": [
+                "GN-GQDs"
+            ],
+            "other_materials": [
+                "GN-GQDs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": " In addition, other 2D materials such as WS2, MoS2, and black phosphorus are also used as additives or buffer layer to improve the performance of PSCs",
+            "all_materials": [
+                "WS2",
+                "MoS2",
+                "phosphorus",
+                "PSCs"
+            ],
+            "other_materials": [
+                "WS2",
+                "MoS2",
+                "phosphorus",
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The excellent properties of 2D layered nanomaterials make them a new star as additives to improve the efficiency",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": ".",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As a new member of two-dimensional materials, MXene  was first reported in 2011 by Yury Gogotsi group",
+            "all_materials": [
+                "MXene"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "MXene"
+        },
+        {
+            "sentence": ",  MXenes have attracted extensively attentions in many fields such as lithium-ion batteries,  supercapacitors,  photo catalysis,  water purification,  gas sensors  by virtue of its unique physical and chemical properties such as excellent electrical conductivity and high carrier mobility, transparency and tunable work function",
+            "all_materials": [
+                "water"
+            ],
+            "other_materials": [
+                "water"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "At the same time, MXenes with graphene-like properties and excellent electrical conductivity exhibit promising application prospect in the field of solar cells",
+            "all_materials": [
+                "MXenes"
+            ],
+            "other_materials": [
+                "MXenes"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In the family of MXene, most of the studied MXene materials are titanium carbide",
+            "all_materials": [
+                "MXene",
+                "titanium carbide"
+            ],
+            "other_materials": [
+                "MXene",
+                "titanium carbide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Since the first report of Ti3C2Tx as additive in the active layer of CH3NH3PbI3-based PSCs,  its application field has expanded as hole transport layer ,  electron transport layer ,  additive for HTL/ETL,  interfacial layer,  and the transparent electrode materials",
+            "all_materials": [
+                "Ti3C2Tx",
+                "CH3NH3PbI3"
+            ],
+            "other_materials": [
+                "Ti3C2Tx",
+                "CH3NH3PbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": ".",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Generally, the term \u201cMn+1AXn\u201d phase is abbreviated as MAX phase",
+            "all_materials": [
+                "Mn+1AXn\u201d",
+                "MAX"
+            ],
+            "other_materials": [
+                "Mn+1AXn\u201d",
+                "MAX"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Depending on the value of n, the M2AX, M3AX2 and M4AX3 phases are usually referred to 211, 312 and 413 phases, respectively",
+            "all_materials": [
+                "M2AX",
+                "M3AX2",
+                "M4AX3"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "M2AX"
+        },
+        {
+            "sentence": "In the 312 phase MXenes family, the large majority of studies applied in PSCs have focused on Ti3C2Tx MXene",
+            "all_materials": [
+                "Ti3C2Tx MXene"
+            ],
+            "other_materials": [
+                "Ti3C2Tx MXene"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, to the best of our knowledge, there are very few reports of other 211 or 413 phase MXene applied in the field of PSCs",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, we explored the impact of Ti3C2Tx and vanadium carbide  MXene as additives of the CH3NH3PbI3 active layer on the performance of PSCs.",
+            "all_materials": [
+                "Ti3C2Tx",
+                "vanadium carbide  MXene",
+                "CH3NH3PbI3"
+            ],
+            "other_materials": [
+                "Ti3C2Tx",
+                "vanadium carbide  MXene",
+                "CH3NH3PbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Lead iodide  with purity of 99.9985% was purchased from Alfa Aesar",
+            "all_materials": [
+                "Lead iodide"
+            ],
+            "other_materials": [
+                "Lead iodide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Iodomethylamine  with purity of 99.5% was purchased from Kunshan Institute of Innovation, Nanjing University",
+            "all_materials": [
+                "Iodomethylamine"
+            ],
+            "other_materials": [
+                "Iodomethylamine"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Poly [bis  - amine  was purchased from Xi\u2019an POLED Co., Ltd",
+            "all_materials": [
+                "Poly [bis  - amine"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "Poly [bis  - amine",
+                    "start": 0,
+                    "end": 18,
+                    "token_ids": [
+                        0,
+                        1,
+                        2,
+                        3,
+                        4
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "[6,6]-phenyl-C61-butyric acid methyl ester  was purchased from Solenne BV",
+            "all_materials": [
+                "[6,6]-phenyl-C61-butyric acid methyl ester"
+            ],
+            "other_materials": [
+                "[6,6]-phenyl-C61-butyric acid methyl ester"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "2,9-dimethyl-4,7-diphenyl-1,10-phenanthroline  was purchased from Xi\u2019an POLED",
+            "all_materials": [
+                "2,9-dimethyl-4,7-diphenyl-1,10-phenanthroline"
+            ],
+            "other_materials": [
+                "2,9-dimethyl-4,7-diphenyl-1,10-phenanthroline"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The Ti3C2Tx and V2CTx MXene nanosheets were synthesized by etching the Al layer from the Ti3AlC2 and V2AlC MAX phase powder",
+            "all_materials": [
+                "Ti3C2Tx",
+                "V2CTx MXene",
+                "Ti3AlC2",
+                "V2AlC MAX"
+            ],
+            "other_materials": [
+                "Ti3AlC2",
+                "V2AlC MAX"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                7,
+                "StartingSynthesis"
+            ],
+            "targets": "Ti3C2Tx"
+        },
+        {
+            "sentence": "1a-b show the SEM images of Ti3C2Tx and V2CTx nanosheets after etchingFig",
+            "all_materials": [
+                "Ti3C2Tx",
+                "V2CTx"
+            ],
+            "other_materials": [
+                "Ti3C2Tx",
+                "V2CTx"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To further confirm the transformation of the MAX phase into MXene nanosheets, samples of MAX phase powder and corresponding MXene nanosheets were tested by XRD",
+            "all_materials": [
+                "MAX",
+                "MXene",
+                "MAX",
+                "MXene"
+            ],
+            "other_materials": [
+                "MAX",
+                "MXene"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "MAX"
+        },
+        {
+            "sentence": "The diffraction pattern of the V2AlC MAX phase displays five peaks at about 13.5\u00b0, 27.0\u00b0, 35.5\u00b0, 41.2\u00b0 and 55.5\u00b0,",
+            "all_materials": [
+                "V2AlC"
+            ],
+            "other_materials": [
+                "V2AlC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In summary, two-dimensional MXene materials  are exploited as active layer additive in CH3NH3PbI3-based PSCs",
+            "all_materials": [
+                "MXene",
+                "CH3NH3PbI3"
+            ],
+            "other_materials": [
+                "MXene",
+                "CH3NH3PbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The results demonstrate that the introduction of Ti3C2Tx and V2CTx additive can improve the morphology of perovskite film, increase the grain size of perovskite film, enhance the hydrophobicity",
+            "all_materials": [
+                "Ti3C2Tx",
+                "V2CTx"
+            ],
+            "other_materials": [
+                "Ti3C2Tx",
+                "V2CTx"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As a result, improving the photovoltaic performance of the devices",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "By adjusting the proportion of additives, V2CTx-added device may achieve higher PCE than that of Ti3C2Tx",
+            "all_materials": [
+                "V2CTx-added",
+                "Ti3C2Tx"
+            ],
+            "other_materials": [
+                "V2CTx-added",
+                "Ti3C2Tx"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Yingxue Li: Data curation, Writing \u2013 original draft preparation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Dandan Wang: Conceptualization, Methodology, Writing \u2013 original draft preparation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Liying Yang: Visualization, Investigation, Writing \u2013 review &amp; editing",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Shougen Yin: Supervision, Funding acquisition.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors are grateful to the Natural Science Foundation of Tianjin  for support of this work.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Perovskite solar cells  have been developed over the past decade as the forefront of the state-of-the-art photovoltaic technologies owing to their high efficiency and low cost, where nanostructured functional materials play key roles in performance optimization",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As a versatile class of two-dimensional  materials, transition metal carbides/nitrides MXenes have gained enormous attentions in PSCs since 2018 due to their superior properties such as excellent metallic conductivity, abundant surface functional groups, tunable work functions, high optical transparency, and mechanical robustness",
+            "all_materials": [
+                "MXenes"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "MXenes"
+        },
+        {
+            "sentence": "The explorations of MXenes are of significance in performance promotion and commercialization expansion of devices",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As such, this review focuses on the diversified advantages of MXenes, comprehensively summarizing their applications and developments in PSCs as additives, electron/hole transporting layers, interfacial engineering layers, and electrodes in sequence and explaining the relevant mechanisms behind",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Simultaneously, the problems emerged from the related studies are considered and the corresponding suggestions like opening up the type of MXenes usage, taking further insight of the modulation of surface termination groups on Fermi levels, understanding the effect on energy level structures of perovskite or other functional layers, and realizing commercialization, etc",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "are provided for the future in-depth explorations",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This review is intended to provide overall perspective of the current status of MXenes and highlight the direction for the future advancements in MXenes design and processes towards efficient, stable, large-area, and low-cost PSCs.",
+            "all_materials": [
+                "MXenes",
+                "MXenes",
+                "PSCs"
+            ],
+            "other_materials": [
+                "MXenes",
+                "MXenes",
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A new family of two-dimensional  transition metal carbides, carbonitrides, and nitrides that were discovered and developed at Drexel University in 2011, which is called MXene and is applicable for several critical applications",
+            "all_materials": [
+                "MXene"
+            ],
+            "other_materials": [
+                "MXene"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "These so-called MXene structures possess excellent properties e.g., rich surface chemistry, electronic structures, high electrical conductivity, hydrophilicity, thermal and mechanical stability, and large specific surface area, which have attracted tremendous attention",
+            "all_materials": [
+                "MXene"
+            ],
+            "other_materials": [
+                "MXene"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This review article will focus on some most recent progress and review comprehensively their fabrication methods and compositing with polymers and metals",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A major part has been associated with the electrochemical applications, medical, flame retardance effect in a polymer matrix, and electromagnetic shielding properties",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, briefly, we will delve into a brief discussion on the current limitations, and future research needs, along with the various corresponding challenges in order to provide a better understanding of these new 2D materials.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We developed heterojunction electron-transfer layers  comprising layers of metal oxides and phenyl-C71-butyric acid methyl ester  for use in glass/indium tin oxide/hole transport layer/Perovskite/ETL/LiF/Al solar cells and X-ray detectors",
+            "all_materials": [
+                "phenyl-C71-butyric acid methyl ester",
+                "indium tin oxide"
+            ],
+            "other_materials": [
+                "phenyl-C71-butyric acid methyl ester",
+                "indium tin oxide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Indium gallium zinc oxide , tin oxide , or IGZO/SnO2 layers were stacked on a PCBM layer via radio frequency  magnetron sputtering at various temperatures",
+            "all_materials": [
+                "Indium gallium zinc oxide",
+                "tin oxide",
+                "IGZO/SnO2",
+                "PCBM"
+            ],
+            "other_materials": [
+                "Indium gallium zinc oxide",
+                "tin oxide",
+                "IGZO/SnO2",
+                "PCBM"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The formation of the metal-oxide layers and on a PCBM film were confirmed by conducting compositional and elemental mapping studies",
+            "all_materials": [
+                "PCBM"
+            ],
+            "other_materials": [
+                "PCBM"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Current-voltage experimental results show that the heterojunction fabricated by forming a IGZO/SnO2 layer on a PCBM film possessed higher charge carrier capacity and exciton dissociation properties compared with using either IGZO or SnO2 separately",
+            "all_materials": [
+                "IGZO/SnO2",
+                "PCBM",
+                "IGZO",
+                "SnO2"
+            ],
+            "other_materials": [
+                "IGZO/SnO2",
+                "PCBM",
+                "IGZO",
+                "SnO2"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                9,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The Perovskite solar cell with an IGZO/SnO2@100/PCBM \u00a0ETL attained a power conversion efficiency  of 12.56\u00a0\u00b1\u00a00.15%, which was 36% more efficient than a device with a pure PCBM ETL",
+            "all_materials": [
+                "IGZO/SnO2@100/PCBM"
+            ],
+            "other_materials": [
+                "IGZO/SnO2@100/PCBM"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, an X-ray detector fabricated with an IGZO/SnO2@100/PCBM ETL obtained a maximum sensitivity of 3.98\u00a0mA/Gy\u00b7cm2 and collected charge density -dark current density  of 13.29 \u03bcA/cm2.",
+            "all_materials": [
+                "IGZO/SnO2@100/PCBM"
+            ],
+            "other_materials": [
+                "IGZO/SnO2@100/PCBM"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                5,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Thin nanocrystalline films of gadolinium oxide  were synthesized by means of reactive anodic evaporation technique",
+            "all_materials": [
+                "gadolinium oxide"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                7,
+                "StartingSynthesis"
+            ],
+            "targets": "gadolinium oxide"
+        },
+        {
+            "sentence": "Chemical composition inspection and structural-phase analysis of the samples obtained were performed by XPS and XRD methods",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Optical characteristics  of thin films were determined by means of absorption, transmission and photoluminescence spectroscopies",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It was found that injection of copper leads to an insignificant decrease in the transparency gaps for direct and indirect transitions of Gd2O3 film",
+            "all_materials": [
+                "copper",
+                "Gd2O3"
+            ],
+            "other_materials": [
+                "copper",
+                "Gd2O3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "On the basis of interference effects, a decrease in refractive index and an increase in its dispersion in Gd2O3:Cu film were established",
+            "all_materials": [
+                "Gd2O3:Cu"
+            ],
+            "other_materials": [
+                "Gd2O3:Cu"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The excited by energy transfer from &quot;defective&quot; Gd3+ ions emission bands at 2.9\u00a0eV and 3.2\u00a0eV were associated with oxygen vacancies  localized near C2 and S6 cationic positions in Gd2O3 host",
+            "all_materials": [
+                "C2",
+                "S6",
+                "Gd2O3"
+            ],
+            "other_materials": [
+                "C2",
+                "S6",
+                "Gd2O3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The injection of copper ions into Gd2O3 host stimulates the formation of lattice defects and leads to an increase in the luminescence yield",
+            "all_materials": [
+                "Gd2O3"
+            ],
+            "other_materials": [
+                "Gd2O3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "An analytical expression was obtained for describing luminescence flare-up and quenching",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The corresponding thermal activation barriers were determined",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The transfer of excitation energy between intrinsic defects of Gd2O3 film provides the conversion of hard UV radiation into soft UV and visible radiation.",
+            "all_materials": [
+                "Gd2O3"
+            ],
+            "other_materials": [
+                "Gd2O3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The scanning electron microscopy, X-ray diffraction, positron annihilation spectroscopy, M\u00f6ssbauer spectrometry, and measurements of magnetic characteristics by vibrating sample magnetometer complemented by theoretical simulations are applied in the present investigations of the Fe-Al-Co alloys with 25\u00a0at% Al and Co substituting Fe in amount of 15\u00a0at% or 25\u00a0at%",
+            "all_materials": [
+                "Fe-Al-Co",
+                "Co"
+            ],
+            "other_materials": [
+                "Co"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "Fe-Al-Co"
+        },
+        {
+            "sentence": "The alloys prepared by slightly different technologies resulting in different structural morphologies are subjected to thermal treatment followed by slow cooling and water cooling",
+            "all_materials": [
+                "water"
+            ],
+            "other_materials": [
+                "water"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                2,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It is shown that the alloy with lower Co content and the initial A2 structure is more sensitive to the thermal treatments from the viewpoints of changes in morphology, defects concentration and magnetic properties in comparison to the other one with the initial B2 structure",
+            "all_materials": [
+                "A2",
+                "B2"
+            ],
+            "other_materials": [
+                "A2",
+                "B2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This is reflected almost in all experimentally obtained results.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "All-inorganic CsPbBr3 perovskite quantum dots  are considered as a new generation of photoelectric material for the implementations in photodetection owing to their remarkable optoelectronic properties and optimized stability",
+            "all_materials": [
+                "CsPbBr3"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CsPbBr3"
+        },
+        {
+            "sentence": "However, the combination of the abundant trap states and unfavorable carrier transportation poses a critical hurdle for the fabrication of high- performance photodetectors",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this study, a facile strategy to significantly enhance the performance of CsPbBr3 QD photodetectors via evenly blending 2D Ti3C2TX nanosheets is systematically demonstrated",
+            "all_materials": [
+                "CsPbBr3",
+                "Ti3C2TX"
+            ],
+            "other_materials": [
+                "CsPbBr3"
+            ],
+            "precursors": [
+                {
+                    "text": "Ti3C2TX",
+                    "start": 126,
+                    "end": 133,
+                    "token_ids": [
+                        20
+                    ]
+                }
+            ],
+            "operation": [
+                18,
+                "Mixing"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The uniformly distributed Ti3C2TX nanosheets successfully confine incident fugacious photons throughout CsPbBr3 QD thin films as a result of the spontaneously intensified surface electromagnetic fields, and the transportation of photogenerated carriers from CsPbBr3 QDs are simultaneously accelerated due to the high conductivity and well-matched work function of the nanosheets",
+            "all_materials": [
+                "Ti3C2TX",
+                "CsPbBr3",
+                "CsPbBr3"
+            ],
+            "other_materials": [
+                "Ti3C2TX",
+                "CsPbBr3",
+                "CsPbBr3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Meanwhile, the hot electrons excited from the nanosheets can also partially contribute to the increase in photocurrent, and thereby the performance of the device sensitively develops as a function of the concentration of the nanosheets",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Correspondingly, a 300% enhancement is equally observed with external quantum efficiency and responsivity of the CsPbBr3 QD/MXene nanosheet photodetectors in comparison with the pristine one under 490\u00a0nm light illumination for a long period of 4 months in the atmospheric environment.",
+            "all_materials": [
+                "CsPbBr3"
+            ],
+            "other_materials": [
+                "CsPbBr3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The counter electrode  containing catalyst layer and transparent conducting oxide  layer is by far the most expensive components in Dye sensitized solar cells  due to use of rare earth element such as Pt",
+            "all_materials": [
+                "Pt"
+            ],
+            "other_materials": [
+                "Pt"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The potential replacement of both the TCO layer and Pt-based catalyst would essentially pave the way to mass commercialization of the technology of DSSC",
+            "all_materials": [
+                "TCO"
+            ],
+            "other_materials": [
+                "TCO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this investigation, an attempt has been made to replace both TCO and Pt with a single layer of delaminated 2-D MXene  being produced by the leaching method which acted as both conducting layer and catalyst",
+            "all_materials": [
+                "TCO",
+                "Pt",
+                "MXene"
+            ],
+            "other_materials": [
+                "TCO",
+                "Pt",
+                "MXene"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, the thickness of Ti3C2 has been optimized for maximum conversion efficiency",
+            "all_materials": [
+                "Ti3C2"
+            ],
+            "other_materials": [
+                "Ti3C2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The TCO-Pt-free MXene based CEat optimum thickness exhibited a remarkable 8.68% conversion efficiency outperforming the standard TCO-Pt-based CE by 4.03%",
+            "all_materials": [
+                "TCO-Pt",
+                "CEat",
+                "TCO-Pt",
+                "CE"
+            ],
+            "other_materials": [
+                "TCO-Pt",
+                "CEat",
+                "TCO-Pt",
+                "CE"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The high efficiency is due to high conductivity, high available catalytic cites due to delaminated structure, and good catalytic activity of Ti3C2 towards iodide/triiodide electrolyte.",
+            "all_materials": [
+                "Ti3C2",
+                "triiodide"
+            ],
+            "other_materials": [
+                "Ti3C2",
+                "triiodide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Photo absorbing perovskites i.e",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "MAPbI3 have recently been emerging as promising photocatalysts for H2 evolution from HI solution",
+            "all_materials": [
+                "MAPbI3",
+                "H2",
+                "HI"
+            ],
+            "other_materials": [
+                "MAPbI3",
+                "H2"
+            ],
+            "precursors": [
+                {
+                    "text": "HI",
+                    "start": 85,
+                    "end": 87,
+                    "token_ids": [
+                        12
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the adverse charge recombination of MAPbI3 at the nanoscale domain hinders its photocatalytic H2 evolution reaction  performance",
+            "all_materials": [
+                "MAPbI3",
+                "H2"
+            ],
+            "other_materials": [
+                "MAPbI3",
+                "H2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To address this issue, the metallic Ti3C2 MXene nanosheets is in-situ anchored on MAPbI3 to construct stable and efficient MXene/MAPbI3-HI system for visible-light-driven photocatalytic H2 evolution",
+            "all_materials": [
+                "Ti3C2 MXene",
+                "MAPbI3",
+                "MXene/MAPbI3-HI",
+                "H2"
+            ],
+            "other_materials": [
+                "MAPbI3",
+                "MXene/MAPbI3-HI"
+            ],
+            "precursors": [
+                {
+                    "text": "Ti3C2 MXene",
+                    "start": 36,
+                    "end": 47,
+                    "token_ids": [
+                        7,
+                        8
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "H2"
+        },
+        {
+            "sentence": "The exfoliated MXene is approximate two-layer with the thickness of \u223c2.52\u00a0nm, and a series of optical/optoelectrochemical characterizations demonstrate that the two layered MXene is capable of rapidly transporting the electrons from MAPbI3 to effectively inhibit the charge recombination and simultaneously providing abundant active sites for H+ reduction and H2 evolution",
+            "all_materials": [
+                "MXene",
+                "MXene",
+                "MAPbI3",
+                "H2"
+            ],
+            "other_materials": [
+                "MXene",
+                "MXene",
+                "MAPbI3",
+                "H2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As a result, the photocatalytic performance of the MXene/MAPbI3 in term of HER rate and stability is greatly promoted, with an extremely high HER rate of 3124\u00a0\u03bcmol\u00a0h\u22121\u00a0g\u22121",
+            "all_materials": [
+                "MXene/MAPbI3"
+            ],
+            "other_materials": [
+                "MXene/MAPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work provides a rational route on the reliable design and synthesis of high-efficiency and stable 2D electron transport/3D light absorber perovskite-based photocatalysts.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The purpose of this study is to explore the structural and optoelectronic properties of a two-dimensional MXene, Sc4C3 as a viable choice for charge transport layers and absorber layer additive in emerging photovoltaic technologies such as perovskite solar cells , employing the principles of density functional theory  using the WIEN2k tool",
+            "all_materials": [
+                "MXene",
+                "Sc4C3"
+            ],
+            "other_materials": [
+                "MXene",
+                "Sc4C3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The optimized lattice constant of the material and the volume for which the energy is minimum are estimated as 13.66\u00a0bohr and 2548.66\u00a0bohr3 respectively",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The estimation of elastic properties, viz",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "the bulk modulus, shear modulus and Poisson\u2019s ratio as 115\u00a0GPa, 71\u00a0GPa and 0.25 respectively, reveals that the material is resistant to deformation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The analysis of electronic properties and band structure indicates that Sc4C3 MXene has a direct bandgap of 0.747\u00a0eV at the \u0413 point, and hence can be considered as a narrow bandgap semiconductor material",
+            "all_materials": [
+                "Sc4C3 MXene"
+            ],
+            "other_materials": [
+                "Sc4C3 MXene"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The study shows that the material possesses optimal light absorption properties with an absorption coefficient, dielectric permittivity and refractive index of 1.84\u00a0\u00d7\u00a0102\u00a0cm\u22121, 19.02 and 4.42 respectively, which are suitable for photovoltaic applications.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "These authors contributed equally to this work.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

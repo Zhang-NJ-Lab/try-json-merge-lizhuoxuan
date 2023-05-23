@@ -1,0 +1,161 @@
+{
+    "rest": [
+        {
+            "sentence": "Perovskite solar cells  show great potential for next-generation photovoltaics, due to their excellent optical and electrical properties",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, defects existing inside the perovskite film impair both the performance and stability of the device",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Uncoordinated Pb2+, uncoordinated I\u2212, and metallic Pb  are the main defects occur during perovskite film preparation and device operation, due to the volatilization of organic cationic components",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Passivating these defects is a desirable task, because they are non-radiative recombination centers that cause open-circuit voltage  loss and degradation of the perovskite layer",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, the multifunctional bioactive compound dopamine  is introduced for the first time to control the perovskite film formation and passivate the uncoordinated Pb2+ defects via Lewis acid-base interactions",
+            "all_materials": [
+                "dopamine"
+            ],
+            "other_materials": [
+                "dopamine"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The Pb0 and I\u2212 defects are effectively suppressed by the DA treatment",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "At the same time, the DA treatment results in a stronger crystal orientation along the  plane and upshifts the valence band of perovskite closer to the highest occupied molecular orbital  of the hole transport layer -9,9\u2032-spirobifluorene, spiro-OMeTAD), which is beneficial for charge separation and transport processes",
+            "all_materials": [
+                "spiro-OMeTAD"
+            ],
+            "other_materials": [
+                "spiro-OMeTAD"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Consequently, the stability of MAPbI3  PSCs prepared with the DA additive  is effectively improved due to the better crystallinity and lower number of defect trap states of the perovskite film",
+            "all_materials": [
+                "MAPbI3  PSCs",
+                "DA"
+            ],
+            "other_materials": [
+                "DA"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                7,
+                "StartingSynthesis"
+            ],
+            "targets": "MAPbI3  PSCs"
+        },
+        {
+            "sentence": "The optimized MAPbI3 PSCs maintain approximately 90% of their original power conversion efficiency  upon annealing at 85\u00a0\u00b0C for 120\u00a0h",
+            "all_materials": [
+                "MAPbI3"
+            ],
+            "other_materials": [
+                "MAPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                15,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The best performance triple-cation perovskite 0.95Pb3)  solar cell with ITO/SnO2/Cs0.050.95Pb3:DA/spiro-OMeTAD/MoO3/Ag  structure shows a PCE of 21.03% with negligible hysteresis, which is dramatically enhanced compared to that of the control device",
+            "all_materials": [
+                "0.95Pb3",
+                "ITO/SnO2/Cs0.050.95Pb3:DA/spiro-OMeTAD/MoO3/Ag"
+            ],
+            "other_materials": [
+                "0.95Pb3",
+                "ITO/SnO2/Cs0.050.95Pb3:DA/spiro-OMeTAD/MoO3/Ag"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, this work presents a simple and effective way to improve the efficiency and stability of PSCs by DA treatment.",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Dopamine was introduced for the first time into the perovskite precursor solution to control the perovskite film formation and suppress the formation of ionic defects",
+            "all_materials": [
+                "Dopamine"
+            ],
+            "other_materials": [
+                "Dopamine"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The modified devices show improved performance  and stability.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Download : Download high-res image Download : Download full-size image",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

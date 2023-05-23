@@ -1,0 +1,1451 @@
+{
+    "rest": [
+        {
+            "sentence": "Perovskite solar cells  have revolutionized photovoltaic research",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The power conversion efficiency  of PSCs has now reached 25.7%, which is comparable to current state-of-the-art silicon-based cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, PSCs can only utilize light of 300\u2013850\u00a0nm, resulting in wasted near-infrared  light, which occupies 45%\u201350% of entire solar spectrum, which is one of the main reasons limiting the development of efficiency",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Related strategies to broaden NIR spectroscopy to break the theoretical limit efficiency of PSCs have recently attracted extensive attention",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This review firstly outlines theoretical basis for improving the NIR spectroscopy, then systematically summarizes some key strategies and research progress to improve NIR spectroscopy of PSCs",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We firstly provided a comprehensive overview of historical research experiments on narrow-gap perovskite absorber layers, rare earth up-conversion, tandem devices, and integrated perovskite/organic solar cells and given constructive suggestions for exceeding limit efficiency of PSCs",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Finally, based on the development status of PSCs with NIR utilization, the current issues, solutions and future development directions of important aspects to improve NIR utilization of PSCs are systematically discussed",
+            "all_materials": [
+                "PSCs",
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs",
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This review lays the foundation for the efficiency of PSCs beyond the Shockley-Queisser limit, and provides a certain development prospect.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Download : Download high-res image Download : Download full-size image",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In the past decade, perovskites have been favored by many researchers due to their high extinction coefficient, adjustable band gap, high carrier mobility, long diffusion length and bipolar carrier transport characteristics, as well as low fabrication cost",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Note that the crystal structure of the perovskite should be in accordance with the ABX3 type, which has an equiaxed crystalline structure and can be approximated as the result of dense packing",
+            "all_materials": [
+                "ABX3"
+            ],
+            "other_materials": [
+                "ABX3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A is the large radius cation, B is the small radius cation, and X is the anion",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "By changing its structure and composition, its characteristics can be adjusted",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In the design of the perovskite structure, the parameter &quot;tolerance factor&quot;  and the octahedral factor  should be considered to evaluate the stability of the perovskite structure",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "When the perovskite is in stable structure, its t is between 0.78 and 1.05, and u is between 0.44 and 0.90",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The structure determines the excellent photoelectric properties of perovskite, making it applicable in many aspects",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Taking advantage of its light trapping properties, perovskite is used in photodetectors with higher sensitivity and wider detection range",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, important breakthroughs have also been made in field-effect transistors , scintillators, memristors and lasers",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, the perovskite can emit three primary colors of red, green and blue by adjusting the composition of perovskite, and both the fluorescence efficiency and photovoltaic efficiency based on perovskite are currently the highest .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, the most commonly used fields of perovskite are light-emitting diodes and perovskite solar cells .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                15,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In 2009, the first PSCs with the power conversion efficiency  of 3.8% were prepared by Miyasaka",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "In recent years, researchers have improved the PCE of PSCs to 25.7% in the laboratory , which is very close to the world PCE of 26.7% of silicon solar cells",
+            "all_materials": [
+                "silicon"
+            ],
+            "other_materials": [
+                "silicon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Diverse structures of PSCs have been developed for the preparation of high-performance devices , which are mainly divided into mesoporous PSCs  and ) , planar PSCs  and ) , hole/electron transport layer-free PSCs  and fiber-shaped PSCs [20,28]",
+            "all_materials": [
+                "PSCs",
+                "PSCs",
+                "PSCs",
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs",
+                "PSCs",
+                "PSCs",
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To meet certain special applications, new PSCs structures are also continuously updated",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "At present, the PCE of PSCs has been continuously improved as well as its open circuit voltage , short circuit current density  and fill factor",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, after so many years of development, nowadays, it is difficult to simply improve the PCE from the device preparation method",
+            "all_materials": [
+                "PCE"
+            ],
+            "other_materials": [
+                "PCE"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As is known to all, under AM 1.5\u00a0G, which is so-called 1 sun, the best band gap  of solar absorbers of single junction solar cells  should be 1.3\u20131.4\u00a0eV regarding Shockley-Queisser theory",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In fact, the highest PCE of SJSCs is about 29.8% , while the best SJSCs efficiency based on Ge  is only about 20%",
+            "all_materials": [
+                "SJSCs",
+                "SJSCs"
+            ],
+            "other_materials": [
+                "SJSCs",
+                "SJSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The most critical scientific question at present is the light absorption range of PSCs which is mainly limited to the visible light region",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, it is not evitable to further enable perovskite utilize light with wavelength more than 910\u00a0nm",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To break through the Shockley-Queisser limit, the absorption spectrum of perovskite should be further broadened",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Besides visible light, ultraviolet and near-infrared  light parts should receive more attention for the development of high-PCE PSCs, which can further improve the PCE of PSCs to approach the theoretical limit and is expected to exceed the PCE of SSCs.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The current review mainly focuses on summarizing interface modification to improve the PCE of PSCs",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Note that interface modification can improve the performance and PCE of PSCs, which is a very significant technology, while the absorption spectrum of the whole device has not changed",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "If the absorption spectrum is widened, more sunlight will be converted into electricity, which can greatly improve the PCE of PSCs",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A comprehensive review of the ways to improve device PCE by broadening the NIR of PSCs is still missing",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Some important research work has been carried out in expanding the NIR spectral response of PSCs, and very important progress has been made recently",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The PCE of the device with NIR spectral response has exceeded the highest PCE reported in the literature",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, it is worth reviewing the literature on broadening the NIR spectral response of PSCs to improve the PCE",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "By summarizing the past experience, it is expected that the PCE that exceeds the theoretical limit will be obtained in the future.",
+            "all_materials": [
+                "PCE"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PCE"
+        },
+        {
+            "sentence": "This review mainly discusses the following aspects of extending the absorption of PSCs to NIR:  Research on narrow band gap PSCs;  Research on PSCs incorporating rare earth up-conversion luminescent materials;  Research on perovskite tandem solar cells;  Research on integrated perovskite/organic solar cells;  Research on other methods of broadening the NIR spectrum",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Finally, based on the development status of PSCs with NIR spectral response, the current issues, solutions and future development directions of several important aspects to improve the NIR utilization of PSCs are discussed in detail",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This review lays the foundation for the subsequent application of PSCs efficiency beyond the Shockley-Queisser limit in industrial applications, paves the way, and provides certain development prospects.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As is known to all, the Eg of perovskite can be arbitrarily tuned in the range of 1.2\u20133.1\u00a0eV",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Perovskites with different band gaps have extremely different photovoltaic performance",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The Eg of MAPbI3 is 1.55\u00a0eV, and the absorption spectrum is \u223c800\u00a0nm",
+            "all_materials": [
+                "MAPbI3"
+            ],
+            "other_materials": [
+                "MAPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The NIR light accounts for about 45% of the solar spectrum, and this part of the light loss limits the further improvement of PSCs efficiency",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Consequently, we can change its composition by partial ion substitution or doping to obtain",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In conclusion, this review first briefly outlines the theoretical basis for improving the NIR spectral response of PSCs, and then systematically introduces some strategies and research progress on the successful application of PSC devices to obtain NIR spectral responses",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The relationship between PSCs and NIR spectral response and photovoltaic performance has received extensive attention",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Hot comprehensive research on methods such as the preparation of narrow-Eg absorber layers, rare earth UC,",
+            "all_materials": [
+                "UC"
+            ],
+            "other_materials": [
+                "UC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors declare no conflict of interest.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work was supported by the Key Program of NSFC-Guangdong Joint Funds of China , the National Natural Science Foundation of China , the Special Project of the Province-University Co-constructing Program of Jilin Province , and the Natural Science Foundation of Jilin Province .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Bin Liu received his B.S",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "degree in science from Jilin University in 2018",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In the same year, he studied under Prof",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Hongwei Song at Jilin University for postgraduate studies",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Currently a doctoral student, his main research directions are perovskite solar cells and organic light-emitting diodes.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Eight molecules with D-\u03c0-D molecular motifs coded HTMa,b were designed as efficient symmetric hole transporting materials for perovskite solar cells",
+            "all_materials": [
+                "HTMa,b"
+            ],
+            "other_materials": [
+                "HTMa,b"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "These HTMs are composed of different core moieties, such as spiro [fluorene-9,9\u2032-xanthene]-diol , spiro [fluorene-9,9\u2032-xanthene]-dimethoxy , benzo [c][1,2,5]thiadiazole , and biphenyl  and are gaining lot of attention because of their low-cost, reproducible electrical and optical properties in device performance",
+            "all_materials": [
+                "HTMs",
+                "spiro [fluorene-9,9\u2032-xanthene]-diol",
+                "spiro [fluorene-9,9\u2032-xanthene]-dimethoxy",
+                "benzo [c][1,2,5]thiadiazole",
+                "biphenyl"
+            ],
+            "other_materials": [
+                "HTMs"
+            ],
+            "precursors": [
+                {
+                    "text": "spiro [fluorene-9,9\u2032-xanthene]-diol",
+                    "start": 60,
+                    "end": 95,
+                    "token_ids": [
+                        11,
+                        12
+                    ]
+                },
+                {
+                    "text": "spiro [fluorene-9,9\u2032-xanthene]-dimethoxy",
+                    "start": 98,
+                    "end": 138,
+                    "token_ids": [
+                        14,
+                        15
+                    ]
+                },
+                {
+                    "text": "benzo [c][1,2,5]thiadiazole",
+                    "start": 141,
+                    "end": 168,
+                    "token_ids": [
+                        17,
+                        18
+                    ]
+                },
+                {
+                    "text": "biphenyl",
+                    "start": 175,
+                    "end": 183,
+                    "token_ids": [
+                        21
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Detailed information about the energetic of molecular levels , first singlet excitation energy , equilibrium molecular geometry, charge separation, charge transfer, reorganization energies, polarizability and hyperpolarizability, density of states , solubility and stability of these molecules was attained by systematically performing molecular modeling calculations using density functional theory  and time dependent-DFT calculations utilizing hybrid density functional B3LYP using the basis set 6\u201331g level of theory as a successful method for predicting the photophysical and photovoltaic properties of these conjugated systems",
+            "all_materials": [
+                "B3LYP"
+            ],
+            "other_materials": [
+                "B3LYP"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The results showed that not only the core moieties, but also Schiff-base linkage extended conjugation, have an effect on the photophysical and photovoltaic properties of the proposed HTMs",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It was demonstrated that HTMs incorporating SFO , SFM , and BP  achieved better charge transport, high stability values , low electron-hole binding energy  than HTM3a,b with BTD core, which improves hole mobility and decreases recombination, all of which improved device photocurrent, which can be attributed to the extended \u03c0-conjugation in SFO, SFM and BP cores",
+            "all_materials": [
+                "SFO",
+                "SFM",
+                "BP",
+                "HTM3a,b",
+                "BTD",
+                "SFO",
+                "SFM",
+                "BP"
+            ],
+            "other_materials": [
+                "SFO",
+                "BP",
+                "HTM3a,b",
+                "BTD",
+                "SFO",
+                "SFM",
+                "BP"
+            ],
+            "precursors": [
+                {
+                    "text": "SFM",
+                    "start": 50,
+                    "end": 53,
+                    "token_ids": [
+                        8
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "These findings are strikingly similar to those of Spiro-OMeTAD , indicating that these HTMs are promising candidates for efficient and cost-effective PSCs",
+            "all_materials": [
+                "Spiro-OMeTAD",
+                "PSCs"
+            ],
+            "other_materials": [
+                "Spiro-OMeTAD",
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Interestingly, when the stability of HTMa and HTMb was compared, it was clear that HTMa has lower stability than HTMb, which could be attributed to the presence of Schiff base CN bonds in HTMb, which reduces the molecules stability when compared to HTMb, owing to a strong C\u2013C linkage",
+            "all_materials": [
+                "HTMa",
+                "HTMb",
+                "HTMa",
+                "HTMb",
+                "HTMb",
+                "HTMb"
+            ],
+            "other_materials": [
+                "HTMa",
+                "HTMb",
+                "HTMa",
+                "HTMb",
+                "HTMb",
+                "HTMb"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Meanwhile, HTMa outperforms HTMb in terms of electronic performance and hole mobility.",
+            "all_materials": [
+                "HTMa",
+                "HTMb"
+            ],
+            "other_materials": [
+                "HTMa",
+                "HTMb"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Microstructure and its thermal stability are critical in the development of high-performance Al\u2013Mg alloys",
+            "all_materials": [
+                "Al\u2013Mg"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                22,
+                "StartingSynthesis"
+            ],
+            "targets": "Al\u2013Mg"
+        },
+        {
+            "sentence": "Here, we attempt to tailor Al3 precipitates and thus microstructure characteristics to manipulate mechanical properties and microstructural stability of Al\u20137Mg alloys fabricated by hot extrusion combined with two-pass hard-plate rolling via changing Sc/Zr ratio",
+            "all_materials": [
+                "Al3",
+                "Al\u20137Mg"
+            ],
+            "other_materials": [
+                "Al3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "Al\u20137Mg"
+        },
+        {
+            "sentence": "Increasing Sc/Zr ratio leads to improved strength without any loss of ductility",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A strength-ductility synergy, i.e",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "yield strength of \u223c548\u00a0MPa and ultimate tensile strength of \u223c605\u00a0MPa with an impressive ductility of \u223c10% elongation was achieved in the Al\u20137Mg\u20130.3Sc\u20130.1Zr alloy",
+            "all_materials": [
+                "Al\u20137Mg\u20130.3Sc\u20130.1Zr"
+            ],
+            "other_materials": [
+                "Al\u20137Mg\u20130.3Sc\u20130.1Zr"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The good strength-ductility synergy is ascribed to the multi-scale heterogeneous microstructure promoted by the high Sc/Zr ratio, i.e",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                11,
+                "LiquidGrinding"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "a bimodal grain structure, profuse low angle grain boundaries, dispersed nano-sized Al3 precipitates coexisting with intragranular Mg-Zr co-clusters segregated at dislocations",
+            "all_materials": [
+                "Al3",
+                "Mg-Zr"
+            ],
+            "other_materials": [
+                "Al3",
+                "Mg-Zr"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Upon thermal exposure, the Al\u20137Mg\u20130.3Sc\u20130.1Zr alloy maintained higher hardness at below 250 \u00b0C, whereas Al\u20137Mg\u20130.2Sc\u20130.2Zr and Al\u20137Mg\u20130.1Sc\u20130.3Zr alloys exhibited higher hardness in moderate- and high-temperature range of 250\u2013350 \u00b0C and \u2265 400 \u00b0C, respectively",
+            "all_materials": [
+                "Al\u20137Mg\u20130.3Sc\u20130.1Zr",
+                "Al\u20137Mg\u20130.2Sc\u20130.2Zr",
+                "Al\u20137Mg\u20130.1Sc\u20130.3Zr"
+            ],
+            "other_materials": [
+                "Al\u20137Mg\u20130.3Sc\u20130.1Zr",
+                "Al\u20137Mg\u20130.2Sc\u20130.2Zr",
+                "Al\u20137Mg\u20130.1Sc\u20130.3Zr"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Atom-probe tomography analysis illustrates that slow-diffusing Zr atoms enhance Al3 coarsening resistance through forming a higher-content Zr-enriched protective shell around a Sc-enriched core in Al\u20137Mg\u20130.1Sc\u20130.3Zr",
+            "all_materials": [
+                "Al3",
+                "Al"
+            ],
+            "other_materials": [
+                "Al3",
+                "Al"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Meanwhile, the high Zr content promotes concurrent Al3 precipitation during thermal exposure at high temperatures",
+            "all_materials": [
+                "Al3"
+            ],
+            "other_materials": [
+                "Al3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The improved microstructural thermal stability in Al\u20137Mg\u20130.1Sc\u20130.3Zr alloy is further discussed in terms of the recrystallization resistance and grain growth behavior",
+            "all_materials": [
+                "Al\u20137Mg\u20130.1Sc\u20130.3Zr"
+            ],
+            "other_materials": [
+                "Al\u20137Mg\u20130.1Sc\u20130.3Zr"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The present study reveals the feasibility for designing high-strength and thermally stable hetero-structured Al\u2013Mg\u2013Sc\u2013Zr alloys via tailoring Sc/Zr ratios for different application temperature ranges.",
+            "all_materials": [
+                "Al\u2013Mg\u2013Sc\u2013Zr"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                16,
+                "StartingSynthesis"
+            ],
+            "targets": "Al\u2013Mg\u2013Sc\u2013Zr"
+        },
+        {
+            "sentence": "Quasi two-dimensional  3)nPbnI3n+1  perovskite solar cell with alternating cations in the interlayer space  is fabricated using methylammonium chloride  or guanidinium chloride  as an additive in precursor solution",
+            "all_materials": [
+                "methylammonium chloride",
+                "guanidinium chloride"
+            ],
+            "other_materials": [
+                "methylammonium chloride",
+                "guanidinium chloride"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "With an appropriate molar ratio of MACl or GACl, the 2D perovskite films show better crystallinity, smaller defect density and higher carrier mobility, resulting in more than 30 % enhancement of power conversion efficiency  compared to that of without additives",
+            "all_materials": [
+                "MACl",
+                "GACl"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "MACl",
+                    "start": 35,
+                    "end": 39,
+                    "token_ids": [
+                        6
+                    ]
+                },
+                {
+                    "text": "GACl",
+                    "start": 43,
+                    "end": 47,
+                    "token_ids": [
+                        8
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Particularly, an optimal concentration of GACl eventually leads to the best PCE of 14.3 % here, and importantly, eliminating current density-voltage  curves hysteresis which is prominent in devices from precursor solutions with various concentration of MACl",
+            "all_materials": [
+                "GACl",
+                "MACl"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "GACl",
+                    "start": 42,
+                    "end": 46,
+                    "token_ids": [
+                        6
+                    ]
+                },
+                {
+                    "text": "MACl",
+                    "start": 253,
+                    "end": 257,
+                    "token_ids": [
+                        40
+                    ]
+                }
+            ],
+            "operation": [
+                16,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Thus, GACl is demonstrated firstly as a better additive compared to commonly used MACl in synthesizing ACI perovskite, providing a possible constructive route to fabricate highly efficient and J-V hysteresis-free solar cells.",
+            "all_materials": [
+                "GACl",
+                "MACl",
+                "ACI"
+            ],
+            "other_materials": [
+                "GACl",
+                "MACl"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "ACI"
+        },
+        {
+            "sentence": "Ionic defects at surfaces and interfaces account for the trap-mediated nonradiative loss of perovskite solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Because these defects are composed of positively and negatively charged species, developing surface passivation materials with multi-site defect healing capacity is desirable",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, by replacing the side methoxy group  with a hydroxyl group , we report 2,2\u2032,7,7\u2032-Tetrakis [N,N-di amino]-9,9\u2032-spirobifluorene  for PSCs applications",
+            "all_materials": [
+                "2,2\u2032,7,7\u2032-Tetrakis [N,N-di amino]-9,9\u2032-spirobifluorene",
+                "PSCs"
+            ],
+            "other_materials": [
+                "2,2\u2032,7,7\u2032-Tetrakis [N,N-di amino]-9,9\u2032-spirobifluorene",
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The \u2013OH group of Spiro-OHTAD can bond with uncoordinated Pb2+ through a strong electrostatic interaction",
+            "all_materials": [
+                "Spiro-OHTAD"
+            ],
+            "other_materials": [
+                "Spiro-OHTAD"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Mobile I- and FA+ defects can be stabilized by coordinative hydrogen bonding",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, the metallic Pb0 species, which correlate with the degradation of the PSCs, were largely eliminated after Spiro-OHTAD passivation",
+            "all_materials": [
+                "Pb0",
+                "Spiro-OHTAD"
+            ],
+            "other_materials": [
+                "Pb0",
+                "Spiro-OHTAD"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition to multi-defect healing, the introduced Spiro-OHTAD also improves the energy level mismatch at the perovskite/hole selective interface, facilitating the corresponding hole extraction process",
+            "all_materials": [
+                "Spiro-OHTAD"
+            ],
+            "other_materials": [
+                "Spiro-OHTAD"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Finally, our Spiro-OHTAD-passivated PSCs reached a device efficiency exceeding 20% and improved stability under ambient conditions",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This study provides insights for improving the photocarrier cross-interface transportation of PSCs.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A Pb-free perovskite solar cell has been designed based on methylammonium  tin-iodide",
+            "all_materials": [
+                "methylammonium  tin-iodide"
+            ],
+            "other_materials": [
+                "methylammonium  tin-iodide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The effect of electron transporting layer  material on the performance of the solar cell has been studied through substituting the ETL by TiO2 and C60 nanolayers",
+            "all_materials": [
+                "ETL",
+                "TiO2",
+                "C60"
+            ],
+            "other_materials": [
+                "ETL",
+                "TiO2",
+                "C60"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The energy level and charge carrier concentration profiles of the solar cells have been obtained for better understanding the involved mechanisms",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The TiO2-containing solar cell showed the maximum power conversion efficiency  of \u223c25.5\u00a0% at room temperature, with open circuit voltage, short circuit current density and filling factor of \u223c1.06\u00a0V, 33.0\u00a0mA/cm2 and 73.1\u00a0%, respectively",
+            "all_materials": [
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Although the C60-containing perovskite solar cell presented a lower \u03b7 with the value of \u223c20.8\u00a0%, it could present a higher external quantum efficiency at NIR wavelength region, as compared to the TiO2-containing cell",
+            "all_materials": [
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "These results can excite further investigation about the role of ETL nanomaterials in the performance of Pb-free perovskite solar cells.",
+            "all_materials": [
+                "ETL"
+            ],
+            "other_materials": [
+                "ETL"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To improve the efficiency of the perovskite solar cells  and enhance their optoelectronic properties, modification of the structure of these devices may help",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this regard, two-dimensional  metal carbides, nitrides, and carbonitrides called MXenes have shown desirable potential and electrochemical properties",
+            "all_materials": [
+                "MXenes"
+            ],
+            "other_materials": [
+                "MXenes"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We model the incorporation of Ti3C2TX MXene, where TX is the surface-terminating functional group, into the PSC structure using the SCAPS simulator to investigate the role of the hole transport layers in improving the efficiency and understanding the physics beyond",
+            "all_materials": [
+                "Ti3C2TX MXene",
+                "PSC"
+            ],
+            "other_materials": [
+                "Ti3C2TX MXene",
+                "PSC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, variations of key parameters such as the thickness of the involved layers, defect density of the absorber layer, and doping concentrations are considered",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Meanwhile, the influence of the interface layer defects on the PSC performance is discussed",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Intending to optimized the structure, we proposed several substances for the hole transport layer",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For an optimized device with CuI, CuSCN, Spiro-OMeTAD, and Cu2O HTLs, a power conversion efficiency  of about 20.60% is achieved.",
+            "all_materials": [
+                "CuI",
+                "CuSCN",
+                "Spiro-OMeTAD",
+                "Cu2O"
+            ],
+            "other_materials": [
+                "CuI",
+                "CuSCN",
+                "Spiro-OMeTAD",
+                "Cu2O"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The SnO2 electron transport layer  has been proved to play an important role on the charge extraction and recombination for high efficiency perovskite solar cells",
+            "all_materials": [
+                "SnO2"
+            ],
+            "other_materials": [
+                "SnO2"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                1,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We fabricated added sodium chloride  modification of SnO2 ETL with optimal concentration, and achieved a high photoelectric conversion efficiency  of 21.2% with nearly 20% improvement",
+            "all_materials": [
+                "sodium chloride",
+                "SnO2 ETL"
+            ],
+            "other_materials": [
+                "sodium chloride"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "SnO2 ETL"
+        },
+        {
+            "sentence": "It was demonstrated that the addition of NaCl effectively enhanced the charge transfer between the ETL and perovskite, suppressed the non-radiative recombination in the interface",
+            "all_materials": [
+                "NaCl"
+            ],
+            "other_materials": [
+                "NaCl"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Particularly, it exhibited markedly improved open-voltage and fill factor",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This simple modified strategy provides a practical and fast method to improve the performance of high efficiency PSCs.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Bin Liu received his B.S",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "degree in science from Jilin University in 2018",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In the same year, he studied under Prof",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Hongwei Song at Jilin University for postgraduate studies",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Currently a doctoral student, his main research directions are perovskite solar cells and organic light-emitting diodes.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Yuqi Wang received her B.S",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "degree from Jilin University in 2021.Currently she is pursuing her Ph.D",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "under the supervision of Prof",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Hongwei Song at College of Electronic Science and Engineering, Jilin University",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Her current research interests mainly focus on nanomaterial, rare earth ions doped all-inorganic perovskite nanocrystals.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Yanjie Wu received her M.S",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "degree from Jilin Normal University in 2018",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "She obtained her Ph.D",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "degree in physics electronics from Jilin University in 2021",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Her current research focus on the design of perovskite and Cu2ZnSn4 solar cells.",
+            "all_materials": [
+                "Cu2ZnSn4"
+            ],
+            "other_materials": [
+                "Cu2ZnSn4"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Biao Dong obtained his Ph.D",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "degree in 2008, from Chinese Academy of Science",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "From 2012 to 2014, he worked as a postdoctor 68 in Laboratoire Catalyse et Spectrochimie  de l&#x27;Universite de Caen",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Currently, he serves as a professor in Jilin University, and has published more than 100 SCI-index papers",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "His research fields focus on optical properties of rare earth doped nanomaterials and the bioapplications.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Hongwei Song received his Ph.D",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "degree in Condensed Material Physics from Changchun Institute of Physics, Chinese Academy of Science  in 1996",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "From 1996 to 2000, he worked as a postdoctoral researcher in Institute of Physics, CAS, Nagoya Institute of Technology, and University of California at Berkeley in turn",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "From 2007 he works in Jilin University as a full professor",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "He is currently the editorial advisory board member of Scientific Reports",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "He has published over 300 scientific papers and two book chapters",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "His research interests have been focused on spectral physics of rare earth ions, optoelectronics and its application.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

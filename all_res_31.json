@@ -1,0 +1,500 @@
+{
+    "rest": [
+        {
+            "sentence": "Perovskite solar cells  are the most promising candidate for next-generation photovoltaics",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The carrier dynamics behavior in perovskite is closely related to the performance of the solar cell",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Particularly, manipulating the hot carriers has the potential to achieve ultrahigh-efficiency solar cells beyond the conventional Shockley-Queisser efficiency limit",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, it is crucial to study and understand the carrier transport process in perovskite",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the carrier dynamics behavior in the femtosecond time scale is difficult to be detected",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Nowadays, femtosecond transient absorption techniques address this challenge effectively",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We summarize the monitoring of hot carriers cooling, trapping of defect states, and charge transfer process after photoexcitation of PSCs by transient absorption and analyze the effective utilization of carriers in these processes",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                7,
+                "QuenchingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Finally, an outlook that will encounter in its future development is provided.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Given the global concerns surrounding climate change and energy issues, the employment of solar energy, as a pure and sustainable source of power, is gaining significant momentum",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Thus far, photovoltaics has demonstrated the most promising technology for converting sunlight into electricity",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In recent times, perovskites have garnered substantial attention for their numerous advantages, not only in the domain of solar cells but also in other application fields.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Perovskite represent a class of semiconductor materials boasting a band gap that falls within the range of 1.24\u00a0eV to 3.55\u00a0eV , as well as a relatively low exciton binding energy",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Further, these materials exhibit an impressive carrier diffusion length  of 1 micrometer, and high light absorption coefficient  in the visible region, which can be manipulated via component regulation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "These benefits facilitate wide-ranging applications in the realms of solar cells , light emitting diodes , semiconductor lasers  and photodetectors",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Notably, within the realm of photovoltaics, PSCs have attained a power conversion efficacy of 25.7% , which offers unique advantages in terms of their uncomplicated preparation process and economical cost, rendering them the most encouraging option for next-generation photovoltaic applications",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Currently, researchers are primarily focused on developing high-quality, low-defect perovskite films, as the efficiency of large-area PSCs remains inadequate in comparison to other industrial photovoltaic devices",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This is attributed to the significant presence of vacancy defects on the surface of perovskite films and the consequential non-radiative recombination of carriers at the device interface, resulting in reduced efficiency",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To overcome these challenges, researchers have implemented diverse approaches such as interfacial modification , surface post-treatment to reduce interfacial non-radiative recombination , and process optimization to eliminate surface defect states",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As illustrated in Fig",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "1, the carrier dynamics of PSCs are drawn by us",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The processes governing the motion of photogenerated carriers in perovskite, under ultrashort pulse excitation, occur not in a linear sequence, but rather overlap in time to form a continuous chain of processes spanning the entire range from femtosecond  to microsecond timescales",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Upon absorption of photons by perovskite, excitons or carriers in the femtosecond to picosecond  range are generated, which are subsequently transported via diffusion or drift in the perovskite absorption layer on the nanosecond  timescale",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Under conditions of high flux and excitation well above the band gap, hot carriers with longer lifetimes ranging from a few hundred fs to tens of ps can be observed",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The extraction of the charge transfer layer, typically taking a few microseconds, is necessary to collect the extracted carriers",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "During these process, carrier capture and recombination typically occurs on timescales ranging from hundreds of ps to a few tens of ns ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As can be observed, a quick method of detection is urgently needed for the process of carrier motion quickly following perovskite photoexcitation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The rapid hot carrier cooling , non-radiative processes  within the perovskite and its interface, and charge transfer often take place within the fs to ps timeframe",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                4,
+                "QuenchingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Utilizing femtosecond pumping transient absorption  is an efficacious method for comprehending the carrier dynamics of perovskite films following optical excitation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Investigating and comprehending the carrier dynamics within perovskites are intricately tied to the performance of PSCs",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Specifically, controlling the behavior of hot carriers holds the potential for achieving ultrahigh-efficiency solar cells that surpass the conventional Shockley-Queisser  efficiency limit .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Investigating the cooling of hot carriers , auger recombination of charge carriers , the capture of defect states , and the transfer of interfacial charges  in perovskite absorber layers post photoexcitation are of significant importance",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                2,
+                "QuenchingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Consequently, numerous studies have delved into these processes through femtosecond TA spectroscopy ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Based on our research experiences in the two areas of ultrafast transient absorption and PSCs , this review is presented to highlight the monitoring of photogenerated carrier dynamics processes in PSCs by TA",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "During the operation of the perovskite solar cell, a multitude of processes take place, such as hot carrier cooling, defect capture, interfacial charge transfer, and carrier recombination",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In these processes, achieving rapid carrier extraction and transfer has been the main focus of research",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition to maximizing the lifetime of hot carriers and investigating materials that can efficiently extract hot carriers, reducing internal and interfacial defects in materials to minimize non-radiative carrier recombination is also a prominent research objective",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Additionally, designing and preparing appropriate charge extraction layers to extract charge as much as possible before electron-hole radiative recombination occurs is essential for achieving optimal carrier utilization efficiency",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                4,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The present review is logically divided into five sections:  introduction,  transient absorption technique,  monitoring ultra-short hot carrier lifetimes,  analyzing defect states,  monitoring charge transfer and  conclusion and outlook.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Since 1960, when Maiman invented the first ruby laser, progress in laser pulse mode-locking technology  and enhancements in the performance of laser gain media  have resulted in novel advancements in ultrashort pulse technology",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The detection of chemical reaction processes in ultrafast time, encompassing the unveiling of chemical reaction transition states ,  and the real-time observation of chemical bond breakage , has empowered femtosecond TA techniques to offer direct",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The research on hot carrier dynamics processes in several perovskite types is shown in Table 1",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The rapid relaxation of hot carriers to the bottom of the conduction band after formation is conspicuously displayed in Fig",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "4, with a significant amount of energy lost in the form of heat during this process",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, if the charge can be effectively extracted during the cooling process of the hot carrier, it will be able to exceed the S-Q limit , which will lead to a significant increase in",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "With the gradual improvement of hot carrier lifetime, the utilization of hot carriers in PSCs has become feasible",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the hot carriers are affected by defects in the perovskite as they cool and relax near the conduction band, which affects the efficiency of the solar cell",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "These defects can rapidly trap the hot carriers",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Hence, the use of TA techniques to assess the density of defect states both inside and on the surface of perovskites can effectively accelerate charge",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Interfacial defects that arise during the extraction of photogenerated charge from perovskite materials through the transport layer can give rise to losses",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As such, enhancing charge extraction through the transport layer, as well as passivating defects to mitigate the impact of non-radiative recombination, are critical approaches to improving the efficiency of PSCs",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Through their experimental exploration of spectroscopy and physical processes, the researchers have developed appropriate",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "TA spectroscopy is a potent technique for investigating PSCs",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The exceptional photovoltaic performance in perovskites is intricately linked to its carrier dynamics",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this regard, a comprehensive analyze of TA to study the charge dynamics process in PSCs is presented here",
+            "all_materials": [
+                "TA"
+            ],
+            "other_materials": [
+                "TA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The kinetic behavior of TA is employed to track and detect hot carriers, defect capture and charge transfer, which are described in detail",
+            "all_materials": [
+                "TA"
+            ],
+            "other_materials": [
+                "TA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Appropriate measures are suggested to improve hot carrier lifetime and to decelerate",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Gaoyuan Yang: Writing - Original Draft, Data Curation; Yibo Tu: Conceptualization; Jingchuan Ye: Validation; Ruochuan Liu\uff1aConceptualization; Lijian Zhang: Validation; Qin Zhou: Investigation; Yu Wang: Investigation; Liang Chu: Conceptualization; Guodong Li: Writing - Review &amp; Editing; Yue Zang: Writing - Review &amp; Editing; Wensheng Yan: Writing - Review &amp; Editing, Supervision;",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

@@ -1,0 +1,702 @@
+{
+    "rest": [
+        {
+            "sentence": "Due to its excellent charge extraction ability, fullerene derivative phenyl-C61-butyric acid methyl ester  is widely used as electron transport materials  in invert perovskite solar cells",
+            "all_materials": [
+                "phenyl-C61-butyric acid methyl ester"
+            ],
+            "other_materials": [
+                "phenyl-C61-butyric acid methyl ester"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the complicated synthetic routes and low productivity of PCBM limiting its commercial application",
+            "all_materials": [
+                "PCBM"
+            ],
+            "other_materials": [
+                "PCBM"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, the insufficient defect passivation ability of PCBM is contributed to inferior device performance because it lacks hetero-atoms/groups with lone pair electrons, it is highly desirable for exploration of new fullerene-based ETM with excellent photoelectric properties",
+            "all_materials": [
+                "PCBM",
+                "ETM"
+            ],
+            "other_materials": [
+                "PCBM",
+                "ETM"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, three new fullerene malonate derivatives were synthesized by simple two-step reaction with a high yield, and then developed as electron transport materials in invert perovskite solar cells which fabricated in air condition",
+            "all_materials": [
+                "air"
+            ],
+            "other_materials": [
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                [
+                    8,
+                    "StartingSynthesis"
+                ],
+                [
+                    33,
+                    "StartingSynthesis"
+                ]
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The constituent thiophene and pyridyl group of the fullerene-based ETM can heighten the chemical interaction between under-coordinated Pb2+ and lone pair electrons of N, S atom by electrostatic interaction",
+            "all_materials": [
+                "ETM"
+            ],
+            "other_materials": [
+                "ETM"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Hence, the air-processed unencapsulated device with new fullerene-based electron transport materials  malonate ) can obtain a enhanced power conversion efficiency  of 18.38%, which is significantly higher than the PCBM-based devices",
+            "all_materials": [
+                "air"
+            ],
+            "other_materials": [
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Additionally, the C60-PMME-based devices exhibit significantly more outstanding long-term stability than PCBM-based devices, owing to the strong hydrophobic properties of these new fullerene-based ETM",
+            "all_materials": [
+                "ETM"
+            ],
+            "other_materials": [
+                "ETM"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This study shows the promising potentials of these new low-cost fullerene derivatives as ETM to replace commercially used fullerene derivatives PCBM.",
+            "all_materials": [
+                "ETM",
+                "PCBM"
+            ],
+            "other_materials": [
+                "ETM",
+                "PCBM"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Three low-cost fullerene-based electron transport materials with excellent defect passivation and carrier separation promoting ability have been firstly applied in air-processed invert perovskite solar cells, which exhibit high efficiency up to 18.38% and good device stability.",
+            "all_materials": [
+                "air"
+            ],
+            "other_materials": [
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Download : Download high-res image Download : Download full-size image",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The large use of fossil fuels has brought serious energy problems and environmental problems to human society",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A search for new types of renewable energy sources has become urgent",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Solar power is one of the most promising alternatives to reduce human society&#x27;s dependence on fossil fuels",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Perovskite solar cells  have drawn much attention in the past decade due to their outstanding photoelectric properties",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "With the joint effort of numerous research communities, the power conversion efficiency of perovskite solar cells have surpassed that of silicon-based solar cells, and demonstrated excellent commercial application prospects",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Compared with normal planar structured devices, the inverted p-i-n structured PSCs  possess versatile benefits, such as low-temperature solution processability, low hysteresis effect, and outstanding long-term stability , .",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Electron transport materials play an important role in i-PSCs, which are prone to boost electron transport, passivate defect and shield the light absorption layer from water corrosion",
+            "all_materials": [
+                "i-PSCs",
+                "water"
+            ],
+            "other_materials": [
+                "i-PSCs",
+                "water"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A variety of inorganic and organic electron transport materials have been reported up to this point, but their application has been constrained by the high-temperature calcination technique of inorganic electron transport materials  ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Owing to their ease of synthesis and modification, organic electron transport materials have been extensively investigated and utilized in inverted i-PSCs,",
+            "all_materials": [
+                "i-PSCs"
+            ],
+            "other_materials": [
+                "i-PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Among them, fullerene derivatives  have became indispensable ETM in i-PSCs due to their low-temperature solution fabrication, high electron mobility, and well-matched energy level,",
+            "all_materials": [
+                "ETM",
+                "i-PSCs"
+            ],
+            "other_materials": [
+                "ETM",
+                "i-PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, its synthesis involves complicated multi-steps reaction with low productivity, which hindering the commercial application of PCBM",
+            "all_materials": [
+                "PCBM"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PCBM"
+        },
+        {
+            "sentence": "More important, the PCBM-based devices always demonstrated unsatisfied PCE values due to the inadequate defect passivation ability",
+            "all_materials": [
+                "PCE"
+            ],
+            "other_materials": [
+                "PCE"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Numerous research communities have afford huge effort to develop new ETL alternatives to PCBM or PCBM derivatives, but the PCEs of fullerene-free inverted i-PSCs still lag behind those of fullerene-based devices",
+            "all_materials": [
+                "ETL",
+                "PCBM",
+                "PCBM",
+                "i-PSCs"
+            ],
+            "other_materials": [
+                "ETL",
+                "i-PSCs"
+            ],
+            "precursors": [
+                {
+                    "text": "PCBM",
+                    "start": 89,
+                    "end": 93,
+                    "token_ids": [
+                        13
+                    ]
+                },
+                {
+                    "text": "PCBM",
+                    "start": 97,
+                    "end": 101,
+                    "token_ids": [
+                        15
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Hence, the development of new ETMs that possess both excellent charge extraction properties and more impressive defect passivation ability than PCBM is critical for achieving high performance i-PSCs.",
+            "all_materials": [
+                "ETMs",
+                "PCBM",
+                "i-PSCs"
+            ],
+            "other_materials": [
+                "PCBM"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "ETMs"
+        },
+        {
+            "sentence": "It has been widely reported that functionalized fullerenes with Lewis acid/alkali group can effectively improve interactions with the perovskite layers and enhance defect passivation ability,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As the results, we report the synthesis and characterization of three fullerene malonate derivatives  malonate , C60-bis malonate  and C60-bis malonate ) with different functional groups by succinct two-steps reaction with an impressive yield",
+            "all_materials": [
+                "malonate",
+                "C60-bis malonate",
+                "C60-bis malonate"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "malonate"
+        },
+        {
+            "sentence": "Then we study the influence of interfacial interactions between these fullerene-based ETM and perovskite on the photovoltaic performance",
+            "all_materials": [
+                "ETM"
+            ],
+            "other_materials": [
+                "ETM"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Compared with PCBM, fullerene malonate derivatives with the pyridine and thiophene groups exhibited dramatically enhanced coordination interactions with the under-coordinated Pb atoms at the perovskite interface due to the presence of N, S atom with lone pair electrons, which is contributed to boost device efficiency",
+            "all_materials": [
+                "PCBM"
+            ],
+            "other_materials": [
+                "PCBM"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Among them, the C60-PMME-based device demonstrated a champion PCE of 18.38%, which is significantly higher than the PCBM-based devices",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, the devices based on these fullerene-based ETM exhibited superior long-term stability than PCBM-based devices",
+            "all_materials": [
+                "ETM"
+            ],
+            "other_materials": [
+                "ETM"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work demonstrated a concise and low-cost method to obtain novel efficient fullerene-based ETM, which demonstrated a promising potential for application in i-PSCs to replace PCBM.",
+            "all_materials": [
+                "ETM",
+                "i-PSCs",
+                "PCBM"
+            ],
+            "other_materials": [
+                "i-PSCs",
+                "PCBM"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "ETM"
+        },
+        {
+            "sentence": "The fullerene-based electron transport materials was prepared using classic Bingel reaction",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                8,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The synthesis route and molecular structure of three fullerene malonate derivatives are presented in Scheme 1",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The entire synthetic route only consists of two steps and afford the desired products in 65\u201378% yields under very mild conditions",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The detailed synthetic procedures are presented in Supporting Information",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Compared with the PCBM, these fullerene malonate derivatives demonstrate an absolute",
+            "all_materials": [
+                "PCBM"
+            ],
+            "other_materials": [
+                "PCBM"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In conclusion, three low-cost fullerene based electron transport materials, C60-BAME, C60-TAME, and C60-PMME were synthesized by simple two-steps reaction and successfully employed in air-processed invert perovskite solar cell",
+            "all_materials": [
+                "C60-BAME",
+                "C60-TAME",
+                "C60-PMME",
+                "air"
+            ],
+            "other_materials": [
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                26,
+                "StartingSynthesis"
+            ],
+            "targets": "C60-BAME"
+        },
+        {
+            "sentence": "Among them, the devices based C60-PMME as ETL indicated best photovoltaic performance with a PCE of 18.38%, which significantly higher than the PCBM-based devices",
+            "all_materials": [
+                "C60-PMME"
+            ],
+            "other_materials": [
+                "C60-PMME"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Additionally, the more excellent long-term stability could be achieved by using C60-PMME as the",
+            "all_materials": [
+                "C60-PMME"
+            ],
+            "other_materials": [
+                "C60-PMME"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Tian Zheng: Investigation, Writing \u2013 original draft",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Lisheng Fan: Conceptualization, Supervision",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Bo Jin: Conceptualization, Supervision, Writing \u2013 review &amp; editing, Funding acquisition",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Rufang Peng: Conceptualization, Supervision, Funding acquisition.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work was financially supported by the National Natural Science Foundation of China , Outstanding Youth Science and Technology Talents Program of Sichuan , and the Project of State Key Laboratory of Environment-friendly Energy Materials .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Water dissociation is of fundamental importance in scientific fields and has drawn considerable interest in diverse technological applications",
+            "all_materials": [
+                "Water"
+            ],
+            "other_materials": [
+                "Water"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the high activation barrier of breaking the OH bond within the water molecule has been identified as the bottleneck, even for the water adsorbed on the graphene oxide",
+            "all_materials": [
+                "water",
+                "water",
+                "graphene"
+            ],
+            "other_materials": [
+                "water",
+                "water",
+                "graphene"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                7,
+                "SolutionMixing"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, using the density functional theory calculations, we demonstrate that the water molecule can be spontaneously dissociated on GO supported by the  surface of the copper substrate",
+            "all_materials": [
+                "water",
+                "copper"
+            ],
+            "other_materials": [
+                "water",
+                "copper"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This process involves a proton transferring from water to the interfacial oxygen group, and a hydroxide covalently bonding to GO",
+            "all_materials": [
+                "water"
+            ],
+            "other_materials": [
+                "water"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Compared to that on GO, the water dissociation barrier on Copper-GO is significantly decreased to be less than or comparable to thermal fluctuations",
+            "all_materials": [
+                "GO",
+                "water",
+                "Copper-GO"
+            ],
+            "other_materials": [
+                "GO",
+                "water",
+                "Copper-GO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This is ascribed to the orbital-hybridizing interaction between copper substrate and GO, which enhances the reaction activity of interfacial oxygen groups along the basal plane of GO for water dissociation",
+            "all_materials": [
+                "copper",
+                "GO",
+                "GO",
+                "water"
+            ],
+            "other_materials": [
+                "copper",
+                "GO",
+                "GO",
+                "water"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Our work provides a novel strategy to access water dissociation via the substrate-enhanced reaction activity of interfacial oxygen groups on GO and indicates that the substrate can serve as an essential key to tuning the catalytic performance of various two-dimensional material devices.",
+            "all_materials": [
+                "water",
+                "GO"
+            ],
+            "other_materials": [
+                "water",
+                "GO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, a novel photocatalyst of ZnIn2S4/Ni2 was designed by a simple chemical precipitation method and used to enhance hydrogen evolution under visible light irradiation",
+            "all_materials": [
+                "ZnIn2S4/Ni2",
+                "hydrogen"
+            ],
+            "other_materials": [
+                "hydrogen"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "ZnIn2S4/Ni2"
+        },
+        {
+            "sentence": "Along with vigorous discharges of hydrogen bubbles, an optimal rate of 36.3\u00a0mmol/g/h was reached under UV\u2013Vis light for hydrogen evolution, nearly 4.9 times of the one from pure ZnIn2S4",
+            "all_materials": [
+                "hydrogen",
+                "hydrogen",
+                "ZnIn2S4"
+            ],
+            "other_materials": [
+                "hydrogen",
+                "hydrogen",
+                "ZnIn2S4"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The heterojunction exhibits steady hydrogen evolution capability and owns a high apparent quantum efficiency  of 20.45% under the monochromatic light at 420\u00a0nm",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "By coupling ZnIn2S4 with Ni2, an extraordinary photochromic phenomenon was detected and attributed to the active Ni-S component in situ formed between the nickel and sulfur composites under light irradiation",
+            "all_materials": [
+                "ZnIn2S4",
+                "Ni2",
+                "nickel and sulfur"
+            ],
+            "other_materials": [
+                "ZnIn2S4",
+                "Ni2",
+                "nickel and sulfur"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The emerging sulfide benefits light absorption of the system and separation of photogenerated electron and hole pairs",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Besides providing a promising photocatalyst for visible light hydrogen production, the present work is hoped to inspire new trends of catalytic medium designs and investigations.",
+            "all_materials": [
+                "hydrogen"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "hydrogen"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

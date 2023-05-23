@@ -1,0 +1,810 @@
+{
+    "rest": [
+        {
+            "sentence": "Organic-inorganic hybrid perovskite light-harvesting materials are becoming one of the most capable potential contenders in photovoltaic technology because of their low-cost fabrication, ease of processing, and high power conversion efficiency",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, it is still challenging to extend these perovskite materials with a cost-effective fabrication technique to meet the demand for roll-to-roll manufacturing and mass production",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Several fabrication methods have been developed and tested with different device configurations to enhance properties like device stability and photon-to-current conversion efficiency",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The quality of thin-films has a vital role in determining the suitable fabrication method and appropriate structure to improve the overall performance of perovskite devices",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This review article summarizes various deposition techniques used in fabrication of perovskite solar cells , device technologies for perovskite light-absorbing heterostructures and future research perspectives.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Download : Download high-res image Download : Download full-size image",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Since the development of PSCs, several fabrication methods have been tried and demonstrated for the preparation of the perovskite thin-film layer, such as spin coating method , vacuum vapor deposition , vapor assisted solution process method , atomic layer deposition , chemical vapor deposition , printing method, spray coating, slot-die coating, doctor-blade coating, etc ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Among various fabrication methods, solution process techniques such as one-step spin coating and two-step spin-coating are widely used to prepare a perovskite light-absorbing layer due to the low-cost and easy fabrication process",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the difficulties such as non-uniformity, control of film morphology, and thickness restrict the path of this technique to use at a large fabrication scale ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As an alternative to the solution process technique, the vacuum evaporation method, has been employed to grow a perovskite layer with uniform thickness and controlled morphology",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For a similar purpose, the vapor-assisted solution process  method is derived from the two-step deposition technique",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "VASP follows kinetic reactivity and thermodynamic stability of absorber during the fabrication process",
+            "all_materials": [
+                "VASP"
+            ],
+            "other_materials": [
+                "VASP"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the glove box requirements, versatility, unsuitable for mass production, etc., make this process tedious",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Chemical vapor deposition  has been developed to manipulate the problem associated with the VASP technique",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In the CVD method, solid film formation occurs by reactions between one or more precursors either on the substrate&#x27;s surface or in the gas phase ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Similarly, atomic layer deposition  technique is also a powerful technique for deposing precursor solution on the substrate material because of their self-limiting reaction, which provides additional control on film thickness ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Recently, roll-to-roll compatible process ,  such as slot die coating, doctor-blade, spray coating, etc",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                18,
+                "Mixing"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "has also been investigated as a fabrication technique for perovskite thin-film solar cells in the field of large-area mass production manufacturing , .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This featured review article highlights the fabrication techniques involved in preparing the perovskite light-absorbing layer from the perspective of perovskite-based photovoltaic devices",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                10,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Finally, future research directions based upon the reported results in the area of PSCs are also suggested.",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The solution synthesis method of PSC material is roughly divided into two types: one step spin-coating and two steps spin-coating according to the number of deposition steps , .",
+            "all_materials": [
+                "PSC"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PSC"
+        },
+        {
+            "sentence": "In this review article, the device fabrication techniques of PSCs are discussed",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The benefits and drawbacks associated with various fabrication methods are listed in Table 1 and device output of PSCs fabricated through various deposition methods are shown in Table S1",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                19,
+                "StartingSynthesis"
+            ],
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "Optimum balance between fabrication method and device quality like defects, film purity, and surface coverage is required to enhance the electrical properties and PCE.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Recently, PSCs have emerged as an",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Abhishek Raj: Writing \u2013 original draft, Formal analysis",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Manish Kumar: Visualization, Writing \u2013 original draft, Formal analysis",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Avneesh Anshul: Conceptualization, Formal analysis.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Raj would like thank CSIR-HRDG, CSIR New Delhi, and its constituent laboratory CSIR-NEERI, Nagpur, India for research support.Author A",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this paper, the oxygen reduction reaction  catalyst is synthesized by daylily that needs to absorb phosphorus-containing and sulfur-containing fertilizers during the growth process",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                10,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Excellent phosphorus- and sulfur-containing porous carbon materials derived from daylily were prepared by carbonization at different temperatures",
+            "all_materials": [
+                "carbon"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                13,
+                "StartingSynthesis"
+            ],
+            "targets": "carbon"
+        },
+        {
+            "sentence": "From the analysis of the experimental results, it was concluded that D900-3 derived from daylily by two rapid carbonization methods had the best catalytic effect",
+            "all_materials": [
+                "D900-3"
+            ],
+            "other_materials": [
+                "D900-3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Compared with the commercial Pt/C , the difference in half-peak potential was only 20\u00a0mV",
+            "all_materials": [
+                "Pt/C"
+            ],
+            "other_materials": [
+                "Pt/C"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This paper not only enriches non-Pt-based ORR catalysts, but also provides a new way of phosphorus-sulfur co-doping.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The present studies are focused on the effect of divalent Ca2+ ion on the structural, magnetic, and optical properties of Bi0.80La0.20FeO3  ceramic samples, synthesized via conventional solid-state reaction route",
+            "all_materials": [
+                "Bi0.80La0.20FeO3"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                26,
+                "StartingSynthesis"
+            ],
+            "targets": "Bi0.80La0.20FeO3"
+        },
+        {
+            "sentence": "The addition of Ca2+ ion into BLFO substituting Bi, creates distortion in the structure and leads a phase transition from rhombohedral  to orthorhombic  crystal symmetry, confirmed by Rietveld analysis and further supported by Raman spectroscopy, attributed to a decrease in tilt angle for anti-phase rotation of BO6 octahedra",
+            "all_materials": [
+                "BLFO",
+                "BO6 octahedra"
+            ],
+            "other_materials": [
+                "BLFO",
+                "BO6 octahedra"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Weak ferromagnetic ordering was observed for all Bi0.80-xCaxLa0.20FeO3 samples with Ca at.% of 0.03 , 0.06  and 0.12 , associated to changes in Fe\u2013O\u2013Fe angle",
+            "all_materials": [
+                "Bi0.80-xCaxLa0.20FeO3"
+            ],
+            "other_materials": [
+                "Bi0.80-xCaxLa0.20FeO3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The remnant magnetization has been found to increase from 1.2\u00d710\u22123 emu/g for BLFO to 9.1x10\u22123 emu/g for BCLFO12",
+            "all_materials": [
+                "BLFO",
+                "BCLFO12"
+            ],
+            "other_materials": [
+                "BLFO",
+                "BCLFO12"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Similar trends were found in the deconvoluted ferromagnetic contribution with Ca2+ ion doping",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, Arrott plot analysis suggests a second order meta-magnetic transition for all samples",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Room temperature dielectric properties were improved with Ca2+ ion substitutions",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The optical band gap significantly reduced from 2.10\u00a0eV for BLFO to 1.93\u00a0eV for BCLFO12, indicating the distortion induced by the Ca2+ ion.",
+            "all_materials": [
+                "BLFO",
+                "BCLFO12"
+            ],
+            "other_materials": [
+                "BLFO",
+                "BCLFO12"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Multiferroics are the materials comprising of at least two ferroic orders like ferromagnetism, ferroelectricity, or ferroelasticity all in a single phase",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Extensive research is underway in the field of material science on multiferroism as it is rarely observed in materials",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It has widespread applications especially in spintronics",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this view, bismuth ferrite  is one of the best multiferroic materials among the number of available multiferroic materials",
+            "all_materials": [
+                "bismuth ferrite"
+            ],
+            "other_materials": [
+                "bismuth ferrite"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It is capable of showing ferroelectricity as well as antiferromagnetic nature simultaneously at room temperature",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In the present work, efforts have been made to synthesize the BiFeO3 in pure phase as well as with the doping of Cobalt in the ratio of 2\u00a0%, 4\u00a0%, and 8\u00a0% via solid state reaction route and were denoted by BFC0, BFC2, BFC4 and BFC8 respectively",
+            "all_materials": [
+                "BiFeO3",
+                "BFC0",
+                "BFC2",
+                "BFC4",
+                "BFC8"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "BiFeO3"
+        },
+        {
+            "sentence": "We have optimized our samples on specific calcination as well as sintering temperature",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Structural and dielectric analysis has been done and the enhancement has been concluded in the end results",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The structural analysis confirms the distorted rhombohedral structure along with some impurities",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Impurities reduce on doping BiFeO3 with \u201cCo\u201d",
+            "all_materials": [
+                "BiFeO3"
+            ],
+            "other_materials": [
+                "BiFeO3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The BFC2 has the maximum dielectric constant , dielectric loss  in comparison to other compositions.",
+            "all_materials": [
+                "BFC2"
+            ],
+            "other_materials": [
+                "BFC2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Short flax fibers are by-products that have no current used yet",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "An interesting idea is to convert them as a fully biodegrable nitrogen source possible to spread in the crop fields",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Indeed, intensive agricultural production requires currently nitrogen fertilizers but it induces soil and groundwater pollution",
+            "all_materials": [
+                "nitrogen fertilizers"
+            ],
+            "other_materials": [
+                "nitrogen fertilizers"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, this system can offer the benefit to gradually release the nitrogen in the soil thereby avoiding any form of pollution.",
+            "all_materials": [
+                "nitrogen"
+            ],
+            "other_materials": [
+                "nitrogen"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For this purpose, a protocol was developed to attach casein hydrolysate  on flax fibers yarns using chitosan",
+            "all_materials": [
+                "casein hydrolysate"
+            ],
+            "other_materials": [
+                "casein hydrolysate"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A cellulose coating was then added to contain and to allow a progressive release of the casein hydrolysate",
+            "all_materials": [
+                "cellulose"
+            ],
+            "other_materials": [
+                "cellulose"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                5,
+                "Mixing"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Firstly, the cellulose coating stability and its compatibility with the initial casein hydrolysate attachment was demonstrated",
+            "all_materials": [
+                "cellulose"
+            ],
+            "other_materials": [
+                "cellulose"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Secondly, through an enzymatic model, it was confirmed that natural degradation will lead to casein hydrolysate release into the soil",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, this study demonstrates the short flax fibers yarns functionalization interest to obtain a new eco-friendly nitrogen source, i.e",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "a non-polluting fertilizer for crop fields.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this paper, the multiferroic ceramics Bi0.80La0.10Ca0.10Fe1-xMnxO3  are synthesized via conventional solid-state reaction route and their structural, Raman spectroscopy and magnetic properties are explored",
+            "all_materials": [
+                "Bi0.80La0.10Ca0.10Fe1-xMnxO3"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                9,
+                "StartingSynthesis"
+            ],
+            "targets": "Bi0.80La0.10Ca0.10Fe1-xMnxO3"
+        },
+        {
+            "sentence": "Rietveld analysis carried out for all samples, revealed that the system exhibits coexistence of mainly two crystalline phases with symmetries R3c and Pbnm throughout the whole composition range",
+            "all_materials": [
+                "R3c",
+                "Pbnm"
+            ],
+            "other_materials": [
+                "R3c",
+                "Pbnm"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The presence of two structural phases is further supported by Raman spectroscopy analysis",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The magnetic parameters, that is, magnetization, remanency, coercivity and squareness ratio are found to be enhanced by the Mn incorporation into Bi0.80La0.10Ca0.10FeO3",
+            "all_materials": [
+                "Bi0.80La0.10Ca0.10FeO3"
+            ],
+            "other_materials": [
+                "Bi0.80La0.10Ca0.10FeO3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This is basically due to the structural modification, breaking of the incommensurate spin structure and inter-grain magnetostatic interaction in the Bi0.80La0.10Ca0.10Fe1-xMnxO3 ceramic samples",
+            "all_materials": [
+                "Bi0.80La0.10Ca0.10Fe1-xMnxO3"
+            ],
+            "other_materials": [
+                "Bi0.80La0.10Ca0.10Fe1-xMnxO3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The exchange bias effect  is observed for the Mn doped sample only with 6\u00a0at",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Such high value may be extremely useful for technological applications including magnetoresistive read heads and sensors.%",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "During the boiler operation, ash deposition can result in a decrease in boiler efficiency and an enhanced release of pollutants",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To relieve these issues, the formation mechanism for initial deposition triggered by the coupling effect of sodium and calcium was investigated by the first-principles study in this paper",
+            "all_materials": [
+                "calcium"
+            ],
+            "other_materials": [
+                "calcium"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The results indicated that the binding of sodium and calcium deposited on Fe3O4 surface is non-covalent interaction",
+            "all_materials": [
+                "calcium",
+                "Fe3O4"
+            ],
+            "other_materials": [
+                "calcium",
+                "Fe3O4"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, |V|/G values of different particles on the surface are less than 2 and closed to 1",
+            "all_materials": "NULL",
+            "other_materials": [
+                "|V|"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "So the reactions of sodium and calcium deposited on the Fe3O4 are mainly closed-shell interactions accompanied by partial covalent interaction by Atom-in-Molecule theory",
+            "all_materials": [
+                "Fe3O4"
+            ],
+            "other_materials": [
+                "Fe3O4"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Additionally, the position and form of weak interaction also be further clarified by the independent gradient model",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The thermodynamic calculation results showed that Gibbs free energy change is more affected to the change of the temperature under the existence of sodium and calcium",
+            "all_materials": [
+                "sodium"
+            ],
+            "other_materials": [
+                "sodium"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The reaction equilibrium constants is larger than 1, indicating that sodium and calcium are easily combined with Fe3O4",
+            "all_materials": [
+                "Fe3O4"
+            ],
+            "other_materials": [
+                "Fe3O4"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, calcium is more likely to promote a positive reaction than sodium.",
+            "all_materials": [
+                "calcium",
+                "sodium"
+            ],
+            "other_materials": [
+                "calcium",
+                "sodium"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

@@ -1,0 +1,394 @@
+{
+    "rest": [
+        {
+            "sentence": "In recent years, inverted perovskite solar cells  have attracted significant attention due to their low-temperature and cost-effective fabrication processes, hysteresis-free properties, excellent stability, and wide application",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The efficiency gap between IPSCs and regular structures has shrunk to less than 1%",
+            "all_materials": [
+                "IPSCs"
+            ],
+            "other_materials": [
+                "IPSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Over the past few years, IPSC research has mainly focused on optimizing power conversion efficiency to accelerate the development of IPSCs",
+            "all_materials": [
+                "IPSCs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "IPSCs"
+        },
+        {
+            "sentence": "This review provides an overview of recent improvements in the efficiency of IPSCs, including interface engineering and novel film production techniques to overcome critical obstacles",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Tandem and integrated applications of IPSCs are also summarized",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, prospects for further development of IPSCs are discussed, including the development of new materials, methods, and device structures for novel IPSCs to meet the requirements of commercialization.",
+            "all_materials": [
+                "IPSCs",
+                "IPSCs"
+            ],
+            "other_materials": [
+                "IPSCs",
+                "IPSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Inverted perovskite solar cells  show great promise in commercialization due to easy fabrication, good stability, and wide application",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This review summarized challenges and solutions in IPSCs and guided their development direction.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Download : Download high-res image Download : Download full-size image",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Dongyang Li is a joint Ph.D",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "candidate in the in the Department of Electronic Information and Engineering at the Hong Kong Polytechnic University and the Department of Materials Science and Engineering at Southern University of Science and Technology under the supervision of Prof",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Gang Li and Prof",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "His research interest mainly focused on perovskite-based optoelectronic materials.Chun Cheng",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Yulan Huang is a joint Ph.D",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "candidate in the Department of Materials Science and Engineering at Southern University of Science and Technology and in the Institute of Applied Physics and Materials Engineering at the University of Macau",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "She received her master\u2019s degree from South China Normal University in 2017",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Her current research interests focus on organic\u2010inorganic perovskites and their application in solar cells.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Zhiwei Ren is a research assistant professor at the Hong Kong Polytechnic University",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "He received his Ph.D",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "degree from the Hong Kong Polytechnic University in 2018, and further worked as the postdoctoral fellow in Nazarbayev University and the Hong Kong Polytechnic University, respectively",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "His current research interests include perovskite semiconductors , metal oxide nanostructure fabrication and smart flexible electronic devices.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Abbas Amini is an assistant professor at Western Sydney University and Australian College of ACK working on emerging topics in biotechnology, biomedical, nanotechnology, modern materials, nano-energy, and high-tech industries",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Amini has served in academia and industry in Canada and Australia, mostly for the University of Melbourne, Deakin University, Monash University, Western Sydney University, and ACKDr",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "He was appointed as the member of the graduation supervision committee  in Western Sydney University from 2014, and currently is an Adjunct Graduation Faculty Member of the University of Toledo, Ohio, USA.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Aleksandra BProf",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Djuri\u0161i\u0107\u00a0obtained Ph",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "degree in Electrical Engineering from the School of Electrical Engineering, the University of Belgrade in 1997.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "She has been a postdoctoral fellow at the University of Hong Kong and Alexander von Humboldt postdoctoral fellow at TU DresdenD",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "She joined the department of\u00a0Physics at the University of Hong Kong in 2003 as assistant professor and she is currently a professor",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Her research interests include halide perovskite materials, nanomaterials, wide-bandgap semiconductors, and organic materials, and their applications in areas related to energy and environment, such as photocatalysis, solar cells, and LEDs",
+            "all_materials": [
+                "halide"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "halide"
+        },
+        {
+            "sentence": "She has published 392 research articles including reviews, and has been cited over 22000 times",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Her h-index is 66.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Chun Cheng received his Ph.D",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": " in Nano Science and Technology from the Hong Kong University Science &amp; Technology",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "He did postdoctoral research at the department of physics at Hong Kong University Science &amp; Technology , Lawrence Berkeley National Laboratory and the University of California at Berkeley",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In 2013, Professor Cheng joined in the department of materials science and engineering of Southern University of Science and Technology as an associate professor",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "His research interests include smart materials, energy materials, two-dimensional inorganic flexible electronic materials and devices, etc.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Gang Li obtained his B.Sc",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "degree from Wuhan University, M.Sc",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "from Iowa State Universityand Ph.D",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "He was a postdoc, research professor at UCLA before joining Hong Kong Polytechnic University in 2016 as associate professor, Sir Sze-Yuen Chung Endowed Professor and Associate Director of Research Institute of Smart Energy",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "His research interests are materials, device engineering, and device physics in organic semiconductors, and perovskite semiconductors, focusing on energy applications",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "He has been a Thomson Reuters/Clarivate Analytics Highly Cited Researcher since 2014",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "He has published \u223c200 papers, with over 72\u2009000 citations and H-index of 82",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "He is Fellow of Royal Society of Chemistry , The International Society for Optics and Photonic , Optica , and HK RGC Senior Research Fellow.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "These authors contributed equally to this work.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

@@ -1,0 +1,612 @@
+{
+    "rest": [
+        {
+            "sentence": "Halide perovskite solar cells  have become a representative of novel photovoltaic power generation technologies",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the toxicity and instability problems of lead  halide perovskite constitute a major obstacle to their commercialization",
+            "all_materials": [
+                "lead  halide"
+            ],
+            "other_materials": [
+                "lead  halide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In recent years, a nontoxic, highly stable lead-free double perovskite Cs2AgBiBr6 cells emerged as a promising alternative to Pb-based PSCs, which is quickly becoming one of the hottest topics in photovoltaics",
+            "all_materials": [
+                "Cs2AgBiBr6"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "Cs2AgBiBr6"
+        },
+        {
+            "sentence": "This review identifies the major challenges faced by Cs2AgBiBr6 PSCs and provides a comprehensive review on corresponding solution strategies for the community",
+            "all_materials": [
+                "Cs2AgBiBr6 PSCs"
+            ],
+            "other_materials": [
+                "Cs2AgBiBr6 PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "These results will contribute insights and theoretical guidance to the subsequent development of Cs2AgBiBr6 PSCs",
+            "all_materials": [
+                "Cs2AgBiBr6 PSCs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "Cs2AgBiBr6 PSCs"
+        },
+        {
+            "sentence": "Finally, we propose research perspectives toward efficient, eco-friendly, and practical photovoltaic Cs2AgBiBr6 PSCs.",
+            "all_materials": [
+                "Cs2AgBiBr6"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "Cs2AgBiBr6"
+        },
+        {
+            "sentence": "Download : Download high-res image Download : Download full-size image",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The energy crisis is prompting the development of cost-effective and environmental friendly power generation technologies",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Make full use of solar energy, which is abundant, clean and not restricted by region, attracts extensive attention all over the world",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As an effective means of clean utilization of solar energy, solar cells that can directly and efficiently convert solar energy to electricity have always been a hot research topic in both industry and",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Pb-free Cs2AgBiBr6 PSCs are already-one of the potential commercial photovoltaic technologies, due to the high stability, nontoxicity and excellent photovoltaic properties",
+            "all_materials": [
+                "Cs2AgBiBr6"
+            ],
+            "other_materials": [
+                "Cs2AgBiBr6"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In 2016, Karunadasa et al",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "synthesized the first Cs2AgBiBr6 single crystal that exhibited an indirect band gap of 1.95\u00a0eV and an exciton lifetime of up to 600\u00a0ns",
+            "all_materials": [
+                "Cs2AgBiBr6"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "Cs2AgBiBr6"
+        },
+        {
+            "sentence": "This remarkable discovery hints at Cs2AgBiBr6",
+            "all_materials": [
+                "Cs2AgBiBr6"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "Cs2AgBiBr6"
+        },
+        {
+            "sentence": "The birth of the Cs2AgBiBr6 PSCs together with the characteristics of nontoxicity and high stability has attracted a lot of attention from researchers",
+            "all_materials": [
+                "Cs2AgBiBr6 PSCs"
+            ],
+            "other_materials": [
+                "Cs2AgBiBr6 PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As research progressed in recent years, the obstacles that affect the PCE of Cs2AgBiBr6 PSCs became clear",
+            "all_materials": [
+                "Cs2AgBiBr6 PSCs"
+            ],
+            "other_materials": [
+                "Cs2AgBiBr6 PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In fact, there are several research works have demonstrated strategies for further increasing the PCE of Cs2AgBiBr6 PSCs",
+            "all_materials": [
+                "Cs2AgBiBr6 PSCs"
+            ],
+            "other_materials": [
+                "Cs2AgBiBr6 PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "After summarizing and reorganizing, we highlight strategies as the following five critical issues: i) methods and",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The advantages of Pb-free double perovskite Cs2AgBiBr6, such as nontoxic eco-friendly, high stability and long carrier lifetime, have attracted much attention in the field of PSCs",
+            "all_materials": [
+                "Cs2AgBiBr6"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "Cs2AgBiBr6"
+        },
+        {
+            "sentence": "Through the community&#x27;s efforts in recent years, the Cs2AgBiBr6 PSCs research is progressing well and the highest PCE has reached 6.47\u00a0%",
+            "all_materials": [
+                "Cs2AgBiBr6 PSCs"
+            ],
+            "other_materials": [
+                "Cs2AgBiBr6 PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, there is still a significant distance from the theoretical S-Q limiting efficiency of 16\u00a0% and the achievements of ever achieved by Pb-based PSCs",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This paper provides a",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work was financially supported by the National Natural Science Foundation of China , Natural Science Excellent Youth Foundation of Jiangsu Provincial , Special\u00a0Foundation\u00a0for\u00a0Carbon\u00a0Peak\u00a0Carbon\u00a0Neutralization\u00a0Technology\u00a0Innovation\u00a0Program\u00a0of\u00a0Jiangsu\u00a0Province\u00a0.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Using the full-potential linearized augmented plane wave plus local orbitals method within the frame work of density functional theory, the Sc-based double halide perovskites K2ScAgZ6  are investigated for determining their physical properties",
+            "all_materials": [
+                "K2ScAgZ6"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "K2ScAgZ6"
+        },
+        {
+            "sentence": "To investigate the structural and thermodynamic stability of these Sc-based double halide perovskites we calculate tolerance factor, formation energy, and phonon dispersion curve using GGA-PBEsol approximation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The calculated values of lattice parameters using GGA-PBEsol are found to be consistent with the available data",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Subsequently, the Tran-Blaha modified Becke-Johnson  potential is used for electronic properties",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Implementation of TB-mBJ potential is clearly shows that K2ScAgZ6 have indirect bandgap, which is consistent with the literature",
+            "all_materials": [
+                "TB-mBJ",
+                "K2ScAgZ6"
+            ],
+            "other_materials": [
+                "TB-mBJ",
+                "K2ScAgZ6"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To evaluate these double perovskites and reveal their potential use in optical devices, several optical parameters are computed for an incident photon energy range of 0\u20138\u00a0eV",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The BoltzTraP code is also employed to investigate temperature dependent electrical characteristic of these compounds in the temperature range of 200\u2013600\u00a0K",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Investigated halide double-perovskites have been shown to display excellent physical properties for solar cells and renewable energy device applications.",
+            "all_materials": [
+                "halide double"
+            ],
+            "other_materials": [
+                "halide double"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Double perovskites A2CuSbX6  have been investigated by first principles calculations",
+            "all_materials": [
+                "A2CuSbX6"
+            ],
+            "other_materials": [
+                "A2CuSbX6"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "According to the tolerance factor, formation energy, binding energy and elastic stability criterion, the other materials except Cs2CuSbI6 can be judged to have mechanical and thermodynamic stability",
+            "all_materials": [
+                "Cs2CuSbI6"
+            ],
+            "other_materials": [
+                "Cs2CuSbI6"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "All the materials are ductile and show potential in wearable devices",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The perovskites possess indirect band structures with bandgaps as 1.163\u00a0eV, 0.850\u00a0eV, 0.305\u00a0eV, 1.140\u00a0eV and 1.123\u00a0eV for Cs2CuSbCl6, Cs2CuSbBr6, Cs2CuSbI6, Rb2CuSbCl6 and K2CuSbCl6, respectively",
+            "all_materials": [
+                "Cs2CuSbCl6",
+                "Cs2CuSbBr6",
+                "Cs2CuSbI6",
+                "Rb2CuSbCl6",
+                "K2CuSbCl6"
+            ],
+            "other_materials": [
+                "Cs2CuSbCl6",
+                "Cs2CuSbBr6",
+                "Cs2CuSbI6",
+                "Rb2CuSbCl6",
+                "K2CuSbCl6"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Compared with the other two Cl-based perovskites, K2CuSbCl6 exhibits better optoeletronic properties because of its smaller average effective mass, longer carrier lifetime and higher light absorption coefficient  in visible region",
+            "all_materials": [
+                "K2CuSbCl6"
+            ],
+            "other_materials": [
+                "K2CuSbCl6"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, K2CuSbCl6 has a high Debye temperature which represents better stability",
+            "all_materials": [
+                "K2CuSbCl6"
+            ],
+            "other_materials": [
+                "K2CuSbCl6"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The results indicate that K2CuSbCl6 is an excellent candidate for photovoltaic and optoeletronic devices.",
+            "all_materials": [
+                "K2CuSbCl6"
+            ],
+            "other_materials": [
+                "K2CuSbCl6"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Organic-inorganic hybrid perovskite light-harvesting materials are becoming one of the most capable potential contenders in photovoltaic technology because of their low-cost fabrication, ease of processing, and high power conversion efficiency",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, it is still challenging to extend these perovskite materials with a cost-effective fabrication technique to meet the demand for roll-to-roll manufacturing and mass production",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Several fabrication methods have been developed and tested with different device configurations to enhance properties like device stability and photon-to-current conversion efficiency",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The quality of thin-films has a vital role in determining the suitable fabrication method and appropriate structure to improve the overall performance of perovskite devices",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This review article summarizes various deposition techniques used in fabrication of perovskite solar cells , device technologies for perovskite light-absorbing heterostructures and future research perspectives.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this comment, we analyze the challenges we are facing for the further development of perovskite solar cells for their commercialization and offer our recommendations",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It includes the following aspects: upscaling of lab-sized devices to different sized modules, further improving their efficiencies and stability, establishing proper characterization tools to help understand the underlying mechanisms of defect formation and develop needed methods to reduce them, riding on the rapid development of several perovskite-based tandem cells to facilitate the commercialization of perovskite PV, establishing suitable accelerated testing protocols and standards to evaluate perovskite-based modules and panels.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The comparison study of arsenic-based double halide perovskite materials concentrated on the physical properties is initiated based on first principle",
+            "all_materials": [
+                "double halide"
+            ],
+            "other_materials": [
+                "double halide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The structure stability is confirmed by the tolerance factor, formation energy and elastic constant",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The materials are ductile and ionic compounds through elastic properties",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The range of band gap is from 0.882eV to 2.125eV, close to the recommended values for optoelectronic and photovoltaic application",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The halogen atoms have great effects on electronic band structures while alkali metal does rarely",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "All small effective masses for the studied materials indicate high mobilities, favorable for carrier transport",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The excellent light absorption properties corresponding to ultraviolet\u2013visible\u2013infrared region reveal great applicable potential for solar energy utilization",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Among these materials, K2AgAsBr6 is the most suitable for use as a solar cell material and photocatalytic material because it has an ideal band gap value, high dielectric constant and good optical absorption properties.",
+            "all_materials": [
+                "K2AgAsBr6"
+            ],
+            "other_materials": [
+                "K2AgAsBr6"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Currently, the development of CsSnI3 perovskite is still greatly hindered by their intrinsic deficiencies, such as their easy phase transformation",
+            "all_materials": [
+                "CsSnI3"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CsSnI3"
+        },
+        {
+            "sentence": "To address this issue, we theoretically constructed Dion-Jacobson  perovskites intercalated by divalent 1,5-pentamethylenediamine  exhibit significantly enhanced phase stability",
+            "all_materials": [
+                "1,5-pentamethylenediamine"
+            ],
+            "other_materials": [
+                "1,5-pentamethylenediamine"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the carrier mobility is always depressed owing to the charge localization and severe lattice distortion in the presence of spacers among wafers",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Thus, the alkyl ligand cations , 1,3-propanediamine , 1,4-butanediamine ) with varying lengths as organic intercalators are examined for optimizing charge transfer",
+            "all_materials": [
+                "1,3-propanediamine",
+                "1,4-butanediamine"
+            ],
+            "other_materials": [
+                "1,3-propanediamine",
+                "1,4-butanediamine"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Compared with the other configures, the Cs2Sn3I10 exhibits the most significantly improved stability due to the enhanced chemical bonding and faintest structural distortions, as evidenced by computed the formation enthalpy",
+            "all_materials": [
+                "Cs2Sn3I10"
+            ],
+            "other_materials": [
+                "Cs2Sn3I10"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Formation energy and transition level of tin-vacancy defect further confirm the improved stability and depressed defect-trapping states",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Meanwhile, 2D-Cs2Sn3I10 exhibit obviously increased electrical conductivity and reduced carrier effective masses, which might benefit the photoelectric conversion of solar cells.",
+            "all_materials": [
+                "2D-Cs2Sn3I10"
+            ],
+            "other_materials": [
+                "2D-Cs2Sn3I10"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

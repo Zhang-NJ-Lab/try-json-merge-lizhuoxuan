@@ -1,0 +1,1157 @@
+{
+    "rest": [
+        {
+            "sentence": "Many research groups work on overcoming the 30% power conversion efficiency  level for perovskite/silicon tandem solar cells with various approaches",
+            "all_materials": [
+                "silicon"
+            ],
+            "other_materials": [
+                "silicon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The most common tandem architectures employ a transparent conductive oxide  front electrode",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Due to its fast deposition and up-scalability, sputter deposition is the preferred method for TCO deposition",
+            "all_materials": [
+                "TCO"
+            ],
+            "other_materials": [
+                "TCO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The sensitive layers of perovskite solar cells are protected from sputter damage by a thermal atomic layer  deposited tin oxide  buffer layer, which induces parasitic absorption",
+            "all_materials": [
+                "tin oxide"
+            ],
+            "other_materials": [
+                "tin oxide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here, we propose a method to reveal the impact of sputter damage on SnO2 buffer layer-free devices",
+            "all_materials": [
+                "SnO2"
+            ],
+            "other_materials": [
+                "SnO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "By performing light intensity-dependent current density-voltage  measurements and thereby reconstructing the single-junction solar cell pseudo J-V characteristics, we could associate sputter damage with trap-assisted non-radiative recombination losses",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Additionally, we demonstrate a simple method to minimize sputter damage to the perovskite solar cell to the point where a protective SnO2 buffer layer is no longer required",
+            "all_materials": [
+                "SnO2"
+            ],
+            "other_materials": [
+                "SnO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "By lowering the sputter power density during the TCO deposition, we regained \u223c13\u00a0mV open-circuit voltage and \u223c3% fill factor of the devices, improving the efficiency from 13.55 to 14.17%",
+            "all_materials": [
+                "TCO"
+            ],
+            "other_materials": [
+                "TCO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We show that these improvements are linked to a reduction of transport and non-radiative recombination losses",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Finally, we fabricated optically superior and sputter damage-free monolithic perovskite/silicon tandem devices without needing a protective SnO2 buffer layer",
+            "all_materials": [
+                "silicon",
+                "SnO2"
+            ],
+            "other_materials": [
+                "silicon",
+                "SnO2"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                3,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "By doing so, we increased the tandem device current density by 0.52\u00a0mA/cm2, representing a crucial step toward further optimizing the optical performance of tandem devices.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Due to their high efficiency potential of over 30%, perovskite/silicon tandem solar cells have captivated the attention of scientific and industrial research and development",
+            "all_materials": [
+                "silicon"
+            ],
+            "other_materials": [
+                "silicon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A monolithically integrated tandem device currently holds the current world record power conversion efficiency  for perovskite/silicon tandem solar cells, at 29.8%",
+            "all_materials": [
+                "silicon"
+            ],
+            "other_materials": [
+                "silicon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The efficient conversion of light to electrical energy over a wide wavelength range without high losses from thermalization accounts for its outstanding efficiency",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The tandem top-cell consists of a perovskite absorber with a wide band gap , and the silicon bottom-cell has a low band gap",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A highly transparent conductive oxide  front-electrode, meaning a high optical band gap, low free charge carrier absorption, and sufficient thickness to assure a low enough series resistance that does not reduce the fill factor, is required in order to minimize optical losses",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Sputtering is the method of choice to deposit TCOs as it is known to be capable of producing high-quality films and it is easy to scale up to mass production environments [, ]",
+            "all_materials": [
+                "TCOs"
+            ],
+            "other_materials": [
+                "TCOs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, sputtering is known to induce sputter damage to sensitive substrates [4,, ]",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "observed damage on the hydrogenated amorphous/crystalline silicon interface passivation when sputter depositing indium tin oxide  in a reactive direct current  process, while they partly assigned the carrier lifetime reduction to UV irradiation during the plasma deposition process Demaurex et al",
+            "all_materials": [
+                "silicon",
+                "indium tin oxide"
+            ],
+            "other_materials": [
+                "silicon",
+                "indium tin oxide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "deposited indium zinc oxide  from a ceramic target in a radio frequency  magnetron sputter process onto the organic hole transport layer  Spiro-MeOTAD Werner et al",
+            "all_materials": [
+                "indium zinc oxide",
+                "Spiro-MeOTAD"
+            ],
+            "other_materials": [
+                "indium zinc oxide",
+                "Spiro-MeOTAD"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "They observed s-shapes in the J-V characteristics reducing the fill factor  and the efficiency",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "By applying light intensity-dependent J-V measurements following Tress and colleagues , they could identify that the sputter damage resulted in an extraction barrier, which was dependent on the applied sputter power",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Likewise, Kanda et al",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "observed an s-shaped J-V characteristic for their perovskite solar cells after depositing ITO on Spiro-MeOTAD in an RF sputter process",
+            "all_materials": [
+                "ITO",
+                "Spiro-MeOTAD"
+            ],
+            "other_materials": [
+                "ITO",
+                "Spiro-MeOTAD"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Their model approach revealed a Schottky barrier in the HTL/TCO interface that is dependent on the sputtering time",
+            "all_materials": [
+                "TCO"
+            ],
+            "other_materials": [
+                "TCO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Sputter damage for the p-i-n  perovskite solar cell designs was observed by Wahl et al",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In a DC sputter process, they deposited IZO electrodes on the electron transport layer",
+            "all_materials": [
+                "IZO"
+            ],
+            "other_materials": [
+                "IZO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The damage also leads to s-shaped J-V curves originating from a disorder of the organic ETL in the interface, which a short annealing step could cure",
+            "all_materials": [
+                "ETL"
+            ],
+            "other_materials": [
+                "ETL"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Recently, Liu et al",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "presented their results on sputter damage in perovskite/silicon tandem solar cells",
+            "all_materials": [
+                "silicon"
+            ],
+            "other_materials": [
+                "silicon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "They deposited IZO in an RF sputtering process onto either bathocuproine  or SnO2 in order to compare the impact of sputter damage and stress on the underlying films",
+            "all_materials": [
+                "IZO",
+                "bathocuproine",
+                "SnO2"
+            ],
+            "other_materials": [
+                "IZO",
+                "bathocuproine",
+                "SnO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, they varied the target to substrate distance",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "According to their results, a SnO2 buffer layer is necessary to protect against sputter damage",
+            "all_materials": [
+                "SnO2"
+            ],
+            "other_materials": [
+                "SnO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Their simulation showed that sputtered atoms with energies of as low as 6\u00a0eV could break C\u2013C bonds in the BCP",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, during cathode sputtering, kinetic energies of sputtered species range between a few eV and up to several hundred eVs",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Among them, oxygen ions  and reflected neutrals were found to have the highest kinetic energy, reaching values as high as the target discharge voltage , which are still detectable at the substrate [8,14]",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Several groups have looked into ways to reduce the impact of the kinetic energy of the O\u2212 species by either tuning the target discharge voltage , by performing an indirect deposition where only scattered particles reach the substrate , or by sputtering through a negatively biased mesh electrode, thereby repelling the O\u2212 species",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The target discharge voltage is dependent on several factors, such as the applied sputter power, the process pressure, the target&#x27;s conductivity, the magnetic field strength at the target surface, or the discharge mode",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The target discharge voltage is commonly higher for DC processes compared to RF processes",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, we observed a target voltage as high as 200\u00a0V for our highest RF sputter power, leading to high and possibly damaging kinetic particle energies.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, we propose a method to reveal and correlate the actual impact of sputter damage on the perovskite solar cell performance with recombination dynamics in the device by performing light intensity-dependent J-V measurements to reveal sputter damage-induced losses",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To the best of our knowledge, this approach in this context is unprecedented",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, we show that reducing the sputter power, a simple modification of the sputter process, is sufficient to reduce sputter damage-induced transport and non-radiative recombination losses, improving the solar cell performance",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We simultaneously assure optically and electrically equal IZO films",
+            "all_materials": [
+                "IZO"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "IZO"
+        },
+        {
+            "sentence": "This approach was tested on perovskite solar cells by directly sputtering on the sensitive electron charge transport layer without a protective SnO2 buffer layer",
+            "all_materials": [
+                "SnO2"
+            ],
+            "other_materials": [
+                "SnO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We refer to the approach as soft sputtering",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Finally, we discuss the applicability of SnO2 buffer layer free perovskite top-cell in the monolithic tandem configuration and show the optical superiority of this approach over the conventional design.",
+            "all_materials": [
+                "SnO2"
+            ],
+            "other_materials": [
+                "SnO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For optical and electrical analysis of the TCO, 100\u00a0nm thick IZO layers were sputter deposited via RF magnetron sputtering in a Roth&amp;Rau MicroSys 200 PVD system on quartz glass substrates",
+            "all_materials": [
+                "TCO",
+                "IZO",
+                "quartz"
+            ],
+            "other_materials": [
+                "TCO",
+                "IZO",
+                "quartz"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The target used had a size of 2 inches and a composition of 90\u00a0wt% In2O3 and 10\u00a0wt% ZnO",
+            "all_materials": [
+                "In2O3",
+                "ZnO"
+            ],
+            "other_materials": [
+                "In2O3",
+                "ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Two RF power densities were investigated, 4.21\u00a0W/cm2 and 2.41\u00a0W/cm2",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Both processes were dynamic, meaning the substrate oscillates at a 30\u00b0 angle below the target surface at a distance",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We designed a TCO sputter deposition process, which aims at minimizing sputter damage to the sensitive  layers of the perovskite solar cell",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The flux and energy of highly energetic O\u2212 ions are considered to be directly dependent on the applied power",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, we reduced the RF sputter power density from 4.21\u00a0W/cm2 to 2.41\u00a0W/cm2",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The reduction in applied RF power leads to a reduction of the target bias voltage  from \u223c200\u00a0V to \u223c140\u00a0V",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We expect that the reduced target bias",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We demonstrated a method to reveal the impact of sputter damage on the perovskite solar cell performance by correlating sputter damage-induced losses with recombination dynamics in the device",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We achieved this by performing light intensity-dependent J-V measurements",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, we demonstrated a clear correlation between the applied IZO top contact sputter deposition power density and the perovskite solar cell performance by directly sputtering on the sensitive electron charge transport layer",
+            "all_materials": [
+                "IZO"
+            ],
+            "other_materials": [
+                "IZO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Marlene H\u00e4rtel: Writing \u2013 review &amp; editing, Writing \u2013 original draft, Visualization, Methodology, Investigation, Formal analysis, Data curation, Conceptualization",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Bor Li: Writing \u2013 review &amp; editing, Investigation, Formal analysis",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Silvia Mariotti: Writing \u2013 review &amp; editing, Formal analysis",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Philipp Wagner: Resources, Formal analysis",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Florian Ruske: Writing \u2013 review &amp; editing, Investigation, Formal analysis",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Steve Albrecht: Writing \u2013 review &amp; editing, Supervision, Project administration,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work was funded by the German Federal Ministry for Education and Research  for funding of the Young Investigator Group Perovskite Tandem Solar Cells within the program \u201cMaterialforschung f\u00fcr die Energiewende\u201d , the German Federal Ministry for Economic Affairs and Energy  , the Helmholtz Association through the HySPRINT innovation lab project",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors would like to thank Dr",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Philipp Tockhorn and Dr",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Klaus J\u00e4ger from",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Whereas the growth of PV installations is well under way in highly developed countries mainly by installing highly efficient monocrystalline silicon modules in larger and larger PV installations, the progress of electrification especially in cities as well as in poor countries providing access to electricity grids stays far behind the targets agreed on when accepting the UN Sustainable Development Goals",
+            "all_materials": [
+                "PV",
+                "silicon",
+                "PV"
+            ],
+            "other_materials": [
+                "PV",
+                "silicon",
+                "PV"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Still more than 40% of the world population  have no possibility to use clean fuels and technologies for clean cooking",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Low cost decentralized and flexible PV may provide a fast solution allowing also to harvest solar energy from building facades and on rooftops in densely populated regions as well as on tents or provisional shelters if needed",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here the monograin technology offers a versatile solution allowing for very low-cost local printing of very high quality single crystalline earth abundant solar powders as well as complete recycling of valuable materials in a circular economy.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We here report the latest progress of this technology based on Kesterite materials",
+            "all_materials": [
+                "Kesterite"
+            ],
+            "other_materials": [
+                "Kesterite"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The outline of a completely vacuum-free printing process for the solar cell powder as well as for all contact materials will be shown, currently being set up as a prototype in our lab",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As has been demonstrated already for most of the process steps, also commercially available printing lines as used in screen printing e.g., for traffic signs can directly be used",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The design for a circular  economy makes it the currently only PV technology fully sustainable with very low material losses and energy input",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The main commercial advantage is the possibility to produce already in relatively small scale  for very low costs, so that this technology is especially suitable also for developing countries interested in decentralized power production in remote areas.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Polycrystalline silicon on silicon oxide  passivating contacts can be used for ultra-high-efficiency interdigitated back contact  monocrystalline silicon solar cells",
+            "all_materials": [
+                "silicon",
+                "silicon oxide",
+                "silicon"
+            ],
+            "other_materials": [
+                "silicon",
+                "silicon oxide",
+                "silicon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We evaluate the use of intrinsic poly-Si for the region that isolates the p- and n-type fingers at the back side of IBC devices",
+            "all_materials": [
+                "IBC"
+            ],
+            "other_materials": [
+                "IBC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To mitigate shunt across the isolation region between the doped p- and n-type fingers, we demonstrate self-aligned subtractive processing by etching the poly-Si in the isolation region using SF6 plasma followed by etching in a tetramethylammonium hydroxide  solution",
+            "all_materials": [
+                "poly-Si",
+                "SF6",
+                "tetramethylammonium hydroxide"
+            ],
+            "other_materials": [
+                "poly-Si",
+                "SF6",
+                "tetramethylammonium hydroxide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "After removal of the poly-Si, the isolation region was passivated with SiNx and Al2O3, which resulted in an 11.7% increase in the fill factor in a 19.8% efficient device",
+            "all_materials": [
+                "poly-Si",
+                "SiNx",
+                "Al2O3"
+            ],
+            "other_materials": [
+                "poly-Si",
+                "SiNx",
+                "Al2O3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, we evaluate the limitations of this device through Suns-Voc analysis and simulations using SunSolve and Quokka3 solar cell simulation software",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Through Quokka3, we show that the most significant efficiency losses come from junction recombination current  in the isolation region between doped fingers",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We predict that the cell efficiency can be most improved with reduced J02 through better isolation of heavily doped fingers by etching the isolation region deeper into the bulk or through enhanced surface chemical passivation in this region.",
+            "all_materials": [
+                "J02"
+            ],
+            "other_materials": [
+                "J02"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Aluminum-doped zinc oxide  has long been known as a promising low-cost alternative contact to conventional expensive indium-doped tin oxide  on silicon heterojunction  solar cells",
+            "all_materials": [
+                "zinc oxide",
+                "tin oxide",
+                "silicon"
+            ],
+            "other_materials": [
+                "zinc oxide",
+                "tin oxide",
+                "silicon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, low fill factor  of the AZO-based SHJ solar cell greatly limits the device performance as well as poses concerns about its commercial potential",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here, we present ITO/AZO/ITO stack as front contact on rear-junction SHJ cell, solving three challenges including sputter damage, bad contact and low conductivity simultaneously that are encountered on pure front AZO-based devices",
+            "all_materials": [
+                "ITO/AZO/ITO",
+                "AZO-based"
+            ],
+            "other_materials": [
+                "ITO/AZO/ITO",
+                "AZO-based"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Additionally, mechanism underlying the superior performance of ITO/AZO/ITO stack is unveiled by the analysis of phase, lifetime and electrical properties followed by Quokka3 simulation of vertical and lateral carrier transport",
+            "all_materials": [
+                "ITO/AZO/ITO"
+            ],
+            "other_materials": [
+                "ITO/AZO/ITO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Then, successfully direct use of pure AZO at rear side of SHJ cell is demonstrated, though with a small increase of total series resistance",
+            "all_materials": [
+                "AZO",
+                "SHJ"
+            ],
+            "other_materials": [
+                "AZO",
+                "SHJ"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Finally, a champion efficiency of 23.8% with &gt;85% indium reduction is achieved on M2+ size cell by using ITO/AZO/ITO at n-side and pure AZO at p-side, showing a high average efficiency  close to that of totally ITO-based references",
+            "all_materials": [
+                "ITO",
+                "AZO",
+                "ITO",
+                "AZO",
+                "ITO"
+            ],
+            "other_materials": [
+                "ITO",
+                "AZO",
+                "ITO",
+                "AZO",
+                "ITO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "These findings provide a promising way to fabricate low-indium and high-efficiency SHJ cells with commercial potential.",
+            "all_materials": [
+                "SHJ"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "SHJ"
+        },
+        {
+            "sentence": "Perovskite solar cells  represent a promising emerging photovoltaic technology, though its commercialization could be limited by toxicity of lead halides used as absorber materials",
+            "all_materials": [
+                "lead halides"
+            ],
+            "other_materials": [
+                "lead halides"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Lead replacement with other less toxic elements is actively discussed and intensively investigated in many research laboratories over the world",
+            "all_materials": [
+                "Lead"
+            ],
+            "other_materials": [
+                "Lead"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the comparative study of the toxicity/hazard effects induced by different metal halides , as well as organic counterparts of perovskites  is still missing",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, we present the first systematic in vitro and in vivo study of the acute toxicity effects of a panel of the precursors commonly applied in the fabrication of PSCs",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "Surprisingly, we found that bio-effects of methylammonium iodide  are similar to that of lead iodide  in in vitro models",
+            "all_materials": [
+                "methylammonium iodide",
+                "lead iodide"
+            ],
+            "other_materials": [
+                "methylammonium iodide",
+                "lead iodide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, tin iodide  is just about ten times less toxic than PbI2 which makes questionable its potential use as \u201ceco-friendly\u201d material",
+            "all_materials": [
+                "tin iodide",
+                "PbI2"
+            ],
+            "other_materials": [
+                "tin iodide",
+                "PbI2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In vivo experiments demonstrated that MAI and formamidinium iodide  are three times more toxic than PbI2 in terms of the lethal dose 50%",
+            "all_materials": [
+                "MAI",
+                "formamidinium iodide",
+                "PbI2"
+            ],
+            "other_materials": [
+                "MAI",
+                "formamidinium iodide",
+                "PbI2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Thus, the presented here results show that the high acute toxicity effects of organic halides were largely overlooked by the community in the shadow of the actively discussed lead toxicity",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Still, the potential mass application of PSCs is not expected to cause significant environmental impact or health hazard in comparison with other sources of lead pollution associated with the common use of lead-acid batteries, lead-containing pigments, fuel additives, roofing and electronics soldering materials, lead glassware and even tobacco smoke.",
+            "all_materials": [
+                "PSCs",
+                "lead",
+                "lead",
+                "lead"
+            ],
+            "other_materials": [
+                "PSCs",
+                "lead",
+                "lead",
+                "lead"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In recent years, there has been rapid developments of both single-junction and tandem solar cells based on metal halide perovskite, which both require metal electrodes or transparent conductive electrodes",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In the present study, interference effects induced by electrodes are investigated to reveal the light field distribution in perovskite absorbers",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The results show that the interference effect occurring near the absorption edge will lead to complicated light distribution, which supposedly influences the location of carrier generation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The interference effect introduced by transparent electrodes can influence the current matching between sub-cells of perovskite/silicon monolithic tandem solar cells",
+            "all_materials": [
+                "silicon"
+            ],
+            "other_materials": [
+                "silicon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As revealed through calculations, an indium zinc oxide  electrode with a thickness of 200\u00a0nm is beneficial for current matching",
+            "all_materials": [
+                "indium zinc oxide"
+            ],
+            "other_materials": [
+                "indium zinc oxide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The optimal power conversion efficiency  is achieved when the thickness is increased to 250\u00a0nm, which could be attributed to lower sheet resistance of the IZO electrode improving the fill factor of the current density\u2013voltage  curve",
+            "all_materials": [
+                "IZO"
+            ],
+            "other_materials": [
+                "IZO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, further increasing the thickness results in reduced PCE due to the decreased average transmittance of the IZO electrode",
+            "all_materials": [
+                "IZO"
+            ],
+            "other_materials": [
+                "IZO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work provides a strategy for selecting the proper thickness of a transparent electrode and perovskite absorber for a solar cell, and thus, can facilitate design and fabrication of devices for practical application.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Now at Energy Material and Surface Sciences Unit, Okinawa Institute for Science and Technology Graduate University , 1919-1, Tancha, Onna Son, Okinawa, 904-0495, Japan",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

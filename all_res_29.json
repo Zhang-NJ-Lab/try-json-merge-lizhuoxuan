@@ -1,0 +1,887 @@
+{
+    "rest": [
+        {
+            "sentence": "Planar perovskite solar cells have shown great promise as a photovoltaic technology",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The formation of a 2D/3D bulk heterostructure has positive effects on solar cell stability; however, it can increase the charge transport barrier and lead to lattice mismatch between the conventional amino-based ligands and the FAPbI3 3D framework",
+            "all_materials": [
+                "FAPbI3"
+            ],
+            "other_materials": [
+                "FAPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, we demonstrate a 2D/3D composite based on an amidino-based Dion-Jacobson 2D perovskite and reveal how the addition of 2D perovskites influences the crystallization pathways of 3D perovskites by using in situ optical diagnostics",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We found that 2D perovskites can provide a skeleton for the growth of 3D films, thus avoiding volume collapse and reducing bulk defects",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Finally, the rigid and flexible devices realized a PCE of 24.9%  and a PCE of 22.3%, respectively",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The results not only provide a promising route toward efficient and stable perovskite solar cells but also highlight a fundamental understanding of the formation mechanism of FAPbI3-based 2D/3D composites.",
+            "all_materials": [
+                "FAPbI3"
+            ],
+            "other_materials": [
+                "FAPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In metal halide perovskite solar cells the formation of a 2D/3D bulk heterostructure has a positive effect on device stability but can be detrimental to charge transport and power conversion efficiency",
+            "all_materials": [
+                "metal"
+            ],
+            "other_materials": [
+                "metal"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, we report that amidino-based Dion-Jacobson 2D perovskite enables the creation of an efficient and stable FAPbI3-based 2D/3D heterostructure in perovskite solar cells",
+            "all_materials": [
+                "FAPbI3"
+            ],
+            "other_materials": [
+                "FAPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The 2D-perovskite-assisted nucleation/growth of 3D perovskites during film formation was found by using time-resolved optical diagnostics, which decrease concentrations of voids and bulk defects of perovskite films for efficient charge transport",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The planar perovskite solar cells based on 2D/3D heterostructures achieved efficiencies of 24.9% and 22.3% on rigid and flexible substrates, respectively, which are the highest efficiencies among all 2D/3D composite solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Improved stability was further demonstrated, with 97% of original efficiency retained for rigid solar cells without encapsulation after 1,000\u00a0h of storage under ambient conditions  and 92% for flexible solar cells after 3,000 bending cycles.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Download : Download high-res image Download : Download full-size image",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Organic-inorganic metal halide perovskite solar cells  are the foremost contenders for future photovoltaic technology owing to their rapidly increasing power conversion efficiency , which has exceeded 25.7% in just over a decade, and their low-cost, solution-processable preparation.1,2 However, the long-term stability of PSCs is still a major obstacle limiting their commercialization",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Dimensional engineering is an effective strategy to improve both efficiency and stability.3,4 Compared with three-dimensional  perovskites, two-dimensional  perovskites possess significant advantages in terms of improved stability, such as enhanced resistance to moisture and heat, suppressed ion migration, and efficient carrier transport paths.5,6 However, the current PCE of 2D/3D PSCs is still lower than that of 3D PSCs",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, it is of great research significance to further develop more efficient 2D/3D PSCs to improve both efficiency and stability for commercial applications.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In 2D/3D perovskites, bulky organic amine salts are generally used as spacers to tailor the [PbI6]4\u2212 framework, such as phenylethylammonium , butylammonium , and amylamine  for Ruddlesden-Popper  2D perovskites7,8,9,10,11,12,13 and propane-1,3-diammonium , 1,4-phenylenedimethanammonium , and 3-piperidinium  for Dion-Jacobson  2D perovskites.14,15,16,17 2D/3D perovskites have achieved tremendous improvements using different organic amino-ligands and preparation methods; particularly, formamidinium lead iodide -based 2D/3D perovskites have shown promising device performance",
+            "all_materials": [
+                "[PbI6]4\u2212",
+                "phenylethylammonium",
+                "butylammonium",
+                "amylamine",
+                "propane-1,3-diammonium , 1,4-phenylenedimethanammonium , and 3-piperidinium",
+                "formamidinium lead iodide"
+            ],
+            "other_materials": [
+                "[PbI6]4\u2212",
+                "phenylethylammonium",
+                "butylammonium",
+                "amylamine",
+                "propane-1,3-diammonium , 1,4-phenylenedimethanammonium , and 3-piperidinium",
+                "formamidinium lead iodide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For instance, we previously reported high-performance and ambient-stable solar cells by combining RP/3D heterostructures with molecular passivation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The passivated RP/3D heterostructured devices deliver a well-stabilized PCE\u2014as high as 20.6%\u2014and significantly improve the ambient stability, exceeding 2,800 h.10 Thomas et\u00a0al.18 used dual-isomer alkylammonium cations  to passivate the upper and lower interfaces of 3D perovskites, and the obtained 2D/3D heterostructured films achieved an open-circuit voltage  of 1.21\u00a0V and a PCE of 23.3%.18 Noh et\u00a0al.4 adopted a solid-phase in-plane growth to grow RP-type 2D (2PbI4) film on 3D perovskites to form a 2D/3D heterojunction with an efficiency approaching 24.6%",
+            "all_materials": [
+                "2PbI4"
+            ],
+            "other_materials": [
+                "2PbI4"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Zhu et\u00a0al.3 constructed 2D/3D heterojunctions by designing metastable DJ-type 2D  structure and obtained a PCE of 24.7%.3 Although there is a high diversity of organic ligands for 2D perovskites in the literature, the A+ cation in most published studies is limited to amino-based ligands",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Lattice matching between the amino group from organic ligands and FAPbI3 lattices is one of the key factors determining the energy-band alignment and device performance of 2D/3D heterojunctions",
+            "all_materials": [
+                "FAPbI3"
+            ],
+            "other_materials": [
+                "FAPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For FA-based perovskites, the relatively large FA cations distort the [PbI6]4\u2212 octahedra,19 resulting in the lattice mismatch of their reassembly into 2D structures with amino-ligands.20 Compared with the traditional amino-based ligands, amidino-based ligands are expected to better match FA-based perovskites because of their suitable size and more abundant N\u2013H structures, which can form multiple hydrogen bonding interactions with the [PbI6]4\u2212 octahedra for fewer\u00a0defects and better intrinsic stability.21,22 However, there is little precedent for amidino-based 2D perovskites, not to mention 2D/3D bulk heterostructures based on amidino-2D perovskites and FAPbI3.",
+            "all_materials": [
+                "[PbI6]4\u2212 octahedra,19",
+                "N\u2013H",
+                "[PbI6]4\u2212 octahedra",
+                "FAPbI3"
+            ],
+            "other_materials": [
+                "[PbI6]4\u2212 octahedra,19",
+                "N\u2013H",
+                "[PbI6]4\u2212 octahedra",
+                "FAPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Meanwhile, film formation kinetics has proven to be one of the key factors that determines the solid-film physical properties.10,23,24,25,26,27,28,29,30,31 Despite the widespread use of 2D/3D heterostructures to augment device stability or performance, their formation mechanism remains unresolved",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For example, conflicts still remain for methylammonium lead iodide -based 2D/3D perovskites in terms of nucleation/growth, as to whether they begin at the air/liquid interface or liquid/substrate interface, and with the low-n phases or high-n phases nucleate first.11,32,33 For 2D/3D bulk heterostructures based on amidino-2D perovskites and FAPbI3, the location where nucleation/growth begins and the influence of the addition of 2D perovskites on the crystallization pathway of 3D perovskites remains unknown.",
+            "all_materials": [
+                "methylammonium lead iodide",
+                "FAPbI3"
+            ],
+            "other_materials": [
+                "methylammonium lead iodide",
+                "FAPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this study, we first designed a 2D/3D heterostructure based on FAPbI3 3D perovskites and amidino-based DJ-type 2D perovskites PbI4, 4AP\u00a0= 4-amidinopyridine )",
+            "all_materials": [
+                "FAPbI3",
+                "PbI4",
+                "4AP"
+            ],
+            "other_materials": [
+                "4AP"
+            ],
+            "precursors": [
+                {
+                    "text": "FAPbI3",
+                    "start": 66,
+                    "end": 72,
+                    "token_ids": [
+                        14
+                    ]
+                },
+                {
+                    "text": "PbI4",
+                    "start": 129,
+                    "end": 133,
+                    "token_ids": [
+                        24
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Further, we gained insight into the formation mechanism of 2D/3D perovskites using in situ optical diagnostics, which showed the influence of 2D perovskites on the crystallization pathways of 3D perovskites during spin coating and subsequent thermal annealing",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                40,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Next, we demonstrated how crystallization pathways modulate the crystal volume collapse and defect concentration in the solid state",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Devices based on 2D/3D heterostructures deliver PCEs of up to 24.9% on rigid substrates and 22.3% on flexible substrates, with excellent long-term and mechanical stability",
+            "all_materials": [
+                "PCEs"
+            ],
+            "other_materials": [
+                "PCEs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Our study highlights the critical role of crystallization modulation on the design of superior solar cells.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The amidino-based molecular ligand 4AP , which has both\u00a0\u2013NH=C\u2013 on\u00a0the\u00a0pyridine ring and an NH=C\u2013 terminal group interacting with the [PbI6]4\u2212 framework, was selected to construct a DJ perovskite",
+            "all_materials": [
+                "4AP",
+                "[PbI6]4\u2212"
+            ],
+            "other_materials": [
+                "4AP",
+                "[PbI6]4\u2212"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Single-crystal analysis of PbI4 indicates that the inorganic octahedra are connected through corner sharing , with a unit cell displacement of",
+            "all_materials": [
+                "PbI4"
+            ],
+            "other_materials": [
+                "PbI4"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The NH=C\u2013 and\u00a0\u2013NH=C\u2013 between the layers were connected to the adjacent upper and lower inorganic",
+            "all_materials": [
+                "NH=C",
+                "NH=C"
+            ],
+            "other_materials": [
+                "NH=C",
+                "NH=C"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In summary, we successfully prepared amidino-based 2D/3D bulk-phase heterojunction perovskite films by incorporating amidino-based DJ-type 2D perovskites",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                5,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We first revealed the crystallization mechanism of an amidino-based 2D/3D heterojunction via in situ optical diagnostics",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The fabricated rigid and flexible solar cells had PCEs as high as 24.9%  and 22.3%, respectively, which are the highest values among all 2D/3D composite PSCs so far, with excellent device stability",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Further information and requests for resources and materials should be directed to and will be fulfilled by the lead contact, Kui Zhao .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The materials synthesized as part of this study are available from the corresponding authors upon request.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                2,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work was supported by the Key Program Project of the National Natural Science Foundation of China , National Natural Science Foundation of China , National University Research Fund , and the 111 Project .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "designed the studyK.Z",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "and S.LK.Z",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "supervised the work",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "conducted most of the experimental work, data analysis, and wrote the first manuscriptT.Y",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "and L.GC.M",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "synthesized the PbI4 single crystal",
+            "all_materials": [
+                "PbI4"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PbI4"
+        },
+        {
+            "sentence": "helped prepare the flexible PSCs.W.C",
+            "all_materials": [
+                "PSCs.W.C"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PSCs.W.C"
+        },
+        {
+            "sentence": "Perovskite solar cells  have revolutionized the field of sustainable energy research",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, their limited stability has so far impeded commercial exploitation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here, we present two alkylammonium halide modulators that synergistically improve both power conversion efficiency  and stability of PSCs based on \u03b1-FAPbI3 and FA0.65MA0.35Pb3, while also suppressing light-induced halide phase segregation in the latter",
+            "all_materials": [
+                "\u03b1-FAPbI3",
+                "FA0.65MA0.35Pb3",
+                "halide"
+            ],
+            "other_materials": [
+                "\u03b1-FAPbI3",
+                "FA0.65MA0.35Pb3",
+                "halide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Champion PCEs of 24.9%  and 21.2% (FA0.65MA0.35Pb3) are reported, with \u223c90% and \u223c80% of initial PCEs retained after 1,200 and 250\u00a0h of continuous operation, respectively",
+            "all_materials": [
+                "PCEs",
+                "FA0.65MA0.35Pb3",
+                "PCEs"
+            ],
+            "other_materials": [
+                "PCEs",
+                "FA0.65MA0.35Pb3",
+                "PCEs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "2D NMR shows that the modulators are located at surfaces and grain boundaries, while their superior passivation effect compared with established compounds is rationalized using computational studies",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "By addressing the critical issue of stability, our results represent an important step toward large-scale practical applications of PSCs.",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "Perovskite solar cells  have emerged as the most promising photovoltaics because of the solution processability of the ambipolar perovskite absorber, although the adjacent transporting layers  generally bring about severe cost and processing consumptions",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, we propose an ultrathick solution-processed FAPbI3 /MAPbI3  bilayer for efficient solar cells without TLs, which only consists of two perovskites sandwiched between two electrodes",
+            "all_materials": [
+                "FAPbI3 /MAPbI3"
+            ],
+            "other_materials": [
+                "FAPbI3 /MAPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The developed room-temperature dynamic dropping technique enables fast crystallization of MAPbI3 onto the as-fabricated FAPbI3 without harmful redissolution and unlocks the limitation of film thickness via repeatedly dropping",
+            "all_materials": [
+                "MAPbI3",
+                "FAPbI3"
+            ],
+            "other_materials": [
+                "MAPbI3",
+                "FAPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "By carefully controlling the thickness, buried alignment, and self-doping of two perovskites, superior semiconductor qualities and sufficient light capture of the perovskite hetero-bilayer promote the resultant TL-free PSC to a record efficiency of 16.57%",
+            "all_materials": [
+                "PSC"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PSC"
+        },
+        {
+            "sentence": "Our pioneer efforts take advantage of hetero-bilayer merits in constructing efficient all-perovskite TL-free PSCs for easily processed and cost-effective commercial requirements.",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "Reducing nonradiative recombination in SnO2\u2212x has been a critical point for fabricating efficient and stable perovskite solar cells",
+            "all_materials": [
+                "SnO2\u2212x"
+            ],
+            "other_materials": [
+                "SnO2\u2212x"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                11,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Controlling oxygen vacancies in SnO2\u2212x is an efficient strategy, but most research only presents the consequential results without scrutinizing the phenomenological part of the strategy",
+            "all_materials": [
+                "SnO2\u2212x"
+            ],
+            "other_materials": [
+                "SnO2\u2212x"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here, we deeply examined and revealed a new beneficial effect of controlling oxygen vacancies in SnO2\u2212x",
+            "all_materials": [
+                "SnO2\u2212x"
+            ],
+            "other_materials": [
+                "SnO2\u2212x"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Oxygen atoms of SnO2\u2212x were responsible for retaining \u03b1-FAPbI3 at the FAPbI3/SnO2\u2212x interface by controlling the formation of iodine interstitials, which are strong initiators of unfavorable perovskite phase transitions",
+            "all_materials": [
+                "SnO2\u2212x",
+                "\u03b1-FAPbI3",
+                "FAPbI3",
+                "SnO2\u2212x"
+            ],
+            "other_materials": [
+                "SnO2\u2212x",
+                "\u03b1-FAPbI3",
+                "FAPbI3",
+                "SnO2\u2212x"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Using crystallographic analysis, we observed suppression of these phase transitions when oxygen vacancies were mitigated in SnO2\u2212x by oxidized black phosphorus quantum dots",
+            "all_materials": [
+                "SnO2\u2212x",
+                "phosphorus"
+            ],
+            "other_materials": [
+                "SnO2\u2212x",
+                "phosphorus"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, formamidinium  cation retention was also observed as a beneficial effect of the strategy by introducing hydrogen bonding sources for FA cations at the interface",
+            "all_materials": [
+                "formamidinium  cation",
+                "FA"
+            ],
+            "other_materials": [
+                "formamidinium  cation",
+                "FA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Our findings suggest the genuine necessity of oxygen vacancy reduction in SnO2\u2212x.",
+            "all_materials": [
+                "SnO2\u2212x"
+            ],
+            "other_materials": [
+                "SnO2\u2212x"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Discovering the top-performing facets of perovskite crystals holds the secret to highly efficient perovskite solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the dominated facet properties of perovskite ,  facets) remain elusive",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here, we demonstrate that exquisite control of the perovskite film formation enables the formation of perovskite polyhedral single crystals with well-defined facets",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It is found that facets with variant densities and symmetries of atoms govern the perovskite surface chemical and electronic environment and generate significant effects on the photovoltaic performance",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Carrier mobility and photocurrent of the  crystal facet are almost comparable with those of the  facets, which are much higher than those of the  one",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "With the single-crystal-assembled perovskite thin film, the PSC achieves a quasi-steady-state  efficiency of 24.64% with improved stability to light",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Our work provides a deep understanding of the optoelectronic properties of halide perovskite facets.",
+            "all_materials": [
+                "halide"
+            ],
+            "other_materials": [
+                "halide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Flexible perovskite solar cells  are the best candidates to complement silicon solar cells in the photovoltaic market",
+            "all_materials": [
+                "silicon"
+            ],
+            "other_materials": [
+                "silicon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, their power conversion efficiencies  and mechanical stability are far behind the industry standards because of the uncontrollable growth of perovskites on plastic substrates and intrinsically high Young\u2019s modulus",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We explored an in situ crosslinking bis methyl) thiophene-2,5-dicarboxylate along with perovskite growth, and its coordination ability and crosslinking temperature enabled the fine regulation of the quality of perovskite in real time",
+            "all_materials": [
+                "bis methyl) thiophene-2,5-dicarboxylate"
+            ],
+            "other_materials": [
+                "bis methyl) thiophene-2,5-dicarboxylate"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The resultant perovskite film exhibits an enlarged grain size, compact stacking, and a preferential crystal orientation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, the crosslinked elastomer polymer gathered at the perovskite grain boundaries can effectively release the mechanical stress",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As a result, the flexible pero-SC based on this perovskite film achieved a record PCE of 23.4% , which is comparable with that of the rigid device",
+            "all_materials": [
+                "pero-SC"
+            ],
+            "other_materials": [
+                "pero-SC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Importantly, the flexible pero-SCs also display a robust bending durability.",
+            "all_materials": [
+                "pero-SCs"
+            ],
+            "other_materials": [
+                "pero-SCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Although halide perovskite solar cells  have shown tremendous progress in device performance, state-of-the-art PSCs are still far below the theoretical efficiency",
+            "all_materials": [
+                "halide"
+            ],
+            "other_materials": [
+                "halide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To further reach the theoretical limit, it is essentially required to maximize radiative recombination in the full device stack",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here, we report that boosting radiation in the full device stack is an effective way for reaching the radiative limit of power conversion efficiency  by demonstrating the correlation between external photoluminescence quantum efficiency  of the full device stack and PCE of the devices",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We found that controlling the bottom charge transporting layer /perovskite interface is a main factor to boost radiation in the full device stack",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The device combined with the interface and bulk engineering exhibited an improved external PLQE of 15.57%, resulting in an improved PCE of over 25%  and almost 95% achievement rate of the radiative limit open-circuit voltage .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Lead contact",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "rest": [
+        {
+            "sentence": "Low temperature processed carbon-based perovskite solar cells  have gained great interest because of low cost and ease of fabrication",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "By replacing the Au electrode with carbon, stable solar cells suited for mass-production process can be made",
+            "all_materials": [
+                "Au",
+                "carbon"
+            ],
+            "other_materials": [
+                "Au",
+                "carbon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, power conversion efficiencies  of C\u2013PSCs still lag behind that of PSCs with Au contact.",
+            "all_materials": [
+                "C",
+                "PSCs",
+                "Au"
+            ],
+            "other_materials": [
+                "C",
+                "PSCs",
+                "Au"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here we explore low temperature  processed C-PSCs with, where a two-step method is used to prepare mixed-ion lead perovskite films, with tin oxide  electron transport layer, poly  hole transport layer and carbon electrode, resulting in devices with a PCE of 14.0%",
+            "all_materials": [
+                "C-PSCs",
+                "lead",
+                "tin oxide",
+                "carbon"
+            ],
+            "other_materials": [
+                "tin oxide",
+                "carbon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "C-PSCs"
+        },
+        {
+            "sentence": "Moreover, hexyl trimethylammonium bromide  was introduced to improve the interface between perovskite and P3HT",
+            "all_materials": [
+                "hexyl trimethylammonium bromide",
+                "P3HT"
+            ],
+            "other_materials": [
+                "hexyl trimethylammonium bromide",
+                "P3HT"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Perovskite grains were remarkably enlarged into micrometer-size and defects were reduced",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As a result, a champion PCE of 16.1% was obtained, mainly due to enhanced fill factor from 0.67 to 0.73",
+            "all_materials": [
+                "PCE"
+            ],
+            "other_materials": [
+                "PCE"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The interface modification by HTAB molecule is an effective way to passivate the perovskite defects and facilitate the carrier transport at the perovskite/HTL interface",
+            "all_materials": [
+                "HTAB"
+            ],
+            "other_materials": [
+                "HTAB"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Unencapsulated devices showed excellent stability over 1500\u00a0h stored under ambient air .",
+            "all_materials": [
+                "air"
+            ],
+            "other_materials": [
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Download : Download high-res image Download : Download full-size image",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Data will be made available on request.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

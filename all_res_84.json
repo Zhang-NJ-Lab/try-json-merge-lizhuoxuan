@@ -1,0 +1,1136 @@
+{
+    "rest": [
+        {
+            "sentence": "Inorganic perovskites are receiving growing attention due to good thermal stability and fast-improving photovoltaic performance",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, most of the high-efficiency inorganic perovskite solar cells  were fabricated in inert atmosphere",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                13,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, we report an additive-assisted airflow drying  method to make mixed-halide inorganic perovskite films in ambient air",
+            "all_materials": [
+                "airflow",
+                "air"
+            ],
+            "other_materials": [
+                "airflow",
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The nucleation and crystal growth during film formation are controlled by using airflow dying and lead acetate trihydrate additive, producing pinhole-free film with low defect density",
+            "all_materials": [
+                "airflow",
+                "lead acetate trihydrate"
+            ],
+            "other_materials": [
+                "airflow",
+                "lead acetate trihydrate"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Consequently, efficiency of CsPbI2.25Br0.75 PSCs is improved to 18.49%, which is the highest for wide-bandgap  inorganic PSCs",
+            "all_materials": [
+                "CsPbI2.25Br0.75 PSCs",
+                "PSCs"
+            ],
+            "other_materials": [
+                "CsPbI2.25Br0.75 PSCs",
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "An efficiency of 17.08% is achieved for PSCs made under moderate relative humidity",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, PCEs of 17.39% and 11.54% are achieved for CsPbI2Br and CsPbIBr2 PSCs, respectively, which are among the best PCEs for CsPbI2Br and CsPbIBr2 PSCs",
+            "all_materials": [
+                "CsPbI2Br",
+                "CsPbIBr2 PSCs",
+                "CsPbI2Br",
+                "CsPbIBr2 PSCs"
+            ],
+            "other_materials": [
+                "CsPbI2Br",
+                "CsPbIBr2 PSCs",
+                "CsPbI2Br",
+                "CsPbIBr2 PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work provides a convenient and efficient method to make efficient inorganic PSCs in ambient air.",
+            "all_materials": [
+                "PSCs",
+                "air"
+            ],
+            "other_materials": [
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "Download : Download high-res image Download : Download full-size image",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Organic-inorganic halide perovskite solar cells  showed rapid improvement in power conversion efficiency  over the last decade, with a state-of-the-art certified PCE of 25.7% ,",
+            "all_materials": [
+                "halide"
+            ],
+            "other_materials": [
+                "halide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, organic-inorganic halide PSCs are easy to degrade at high temperature and/or under light illumination due to the volatile and unstable organic cations  or CH32+ )",
+            "all_materials": [
+                "halide PSCs"
+            ],
+            "other_materials": [
+                "halide PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Hence, inorganic perovskites  are considered as potential candidates for stable and efficient PSCs due to their chemical stability , .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Among inorganic perovskites, perovskite-phase CsPbI3 is easy to turn into \u03b4 phase at room temperature due to its low tolerance factor  ,",
+            "all_materials": [
+                "CsPbI3"
+            ],
+            "other_materials": [
+                "CsPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Strictly controlled conditions and additives were usually used to obtain perovskite-phase CsPbI3",
+            "all_materials": [
+                "CsPbI3"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CsPbI3"
+        },
+        {
+            "sentence": "Introducing Br into CsPbI3 can increase the tolerance factor, resulting in better phase stability for mixed-halide inorganic perovskites  ,",
+            "all_materials": [
+                "Br",
+                "CsPbI3"
+            ],
+            "other_materials": [
+                "Br",
+                "CsPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Mixed-halide inorganic perovskites are widely studied because of their simple preparation conditions and potential application in indoor photovoltaic and tandem solar cells ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Mixed-halide inorganic perovskites can be synthesized by using simple raw materials  without HPbI3 or DMAI additives as used in I-rich perovskites",
+            "all_materials": [
+                "HPbI3",
+                "DMAI"
+            ],
+            "other_materials": [
+                "HPbI3",
+                "DMAI"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                7,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Due to the insufficient light absorption caused by large bandgap , CsPbI2Br PSCs suffer from low short-circuit current density",
+            "all_materials": [
+                "CsPbI2Br PSCs"
+            ],
+            "other_materials": [
+                "CsPbI2Br PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "CsPbI2Br PSCs display a record PCE of 17.51%, which is much lower than I-rich inorganic PSCs  ,",
+            "all_materials": [
+                "CsPbI2Br PSCs",
+                "PSCs"
+            ],
+            "other_materials": [
+                "CsPbI2Br PSCs",
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Better efficiencies were reported for CsPbI2.25Br0.75 PSCs  and CsPbI2.4Br0.6 PSCs  mainly because of better light absorption , .",
+            "all_materials": [
+                "CsPbI2.25Br0.75 PSCs",
+                "CsPbI2.4Br0.6 PSCs"
+            ],
+            "other_materials": [
+                "CsPbI2.25Br0.75 PSCs",
+                "CsPbI2.4Br0.6 PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, most of the reported mixed-halide inorganic PSCs are prepared under inert conditions in glovebox, and very few works have reported air-processed mixed-halide inorganic PSCs",
+            "all_materials": [
+                "PSCs",
+                "PSCs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                12,
+                "StartingSynthesis"
+            ],
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "developed a low-dimensional intermediate-assisted growth method to prepare CsPbI2Br PSC under ambient conditions, achieving a PCE of 17.26% Yang et al",
+            "all_materials": [
+                "CsPbI2Br PSC"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CsPbI2Br PSC"
+        },
+        {
+            "sentence": "reported a modified precursor system  for preparing CsPbI2Br films under high relative humidity  condition , but the PCE of the cell is not good  Duan et al",
+            "all_materials": [
+                "CsPbI2Br"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                6,
+                "StartingSynthesis"
+            ],
+            "targets": "CsPbI2Br"
+        },
+        {
+            "sentence": "used a N2 drying process to make CsPbI2Br PSC in air by blade-coating, achieving a PCE of 14.7% Fan et al",
+            "all_materials": [
+                "N2",
+                "CsPbI2Br PSC",
+                "air"
+            ],
+            "other_materials": [
+                "N2",
+                "CsPbI2Br PSC",
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Recently, air-processed CsPbI2Br PSC with record efficiency  was fabricated by using high-temperature  airflow assisted crystallization during spin coating, which is energy-wasting and not suitable for large-scale manufacturing",
+            "all_materials": [
+                "air",
+                "CsPbI2Br PSC",
+                "airflow"
+            ],
+            "other_materials": [
+                "air",
+                "airflow"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                11,
+                "StartingSynthesis"
+            ],
+            "targets": "CsPbI2Br PSC"
+        },
+        {
+            "sentence": "Therefore, it is necessary to develop a low-cost and facile strategy which could control the crystallization process to get high-quality inorganic perovskite films in ambient air.",
+            "all_materials": [
+                "air"
+            ],
+            "other_materials": [
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We have reported a self-spreading  method to fabricate various perovskite films ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "CsPbI2Br solar cells made by self-spreading showed higher PCE than the cells made by spin coating, but a N2-flow drying process was used to protect the precursor from humidity",
+            "all_materials": [
+                "CsPbI2Br",
+                "N2"
+            ],
+            "other_materials": [
+                "N2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CsPbI2Br"
+        },
+        {
+            "sentence": "Preparation of inorganic perovskites directly in humid air  is still challenging.",
+            "all_materials": [
+                "air"
+            ],
+            "other_materials": [
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, we report an additive-assisted airflow drying  method to make mixed-halide inorganic PSCs in ambient air",
+            "all_materials": [
+                "airflow",
+                "PSCs",
+                "air"
+            ],
+            "other_materials": [
+                "airflow",
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "The perovskite crystallization is controlled by adding critical amount of lead acetate trihydrate  into precursor solution",
+            "all_materials": [
+                "lead acetate trihydrate"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "lead acetate trihydrate",
+                    "start": 74,
+                    "end": 97,
+                    "token_ids": [
+                        10,
+                        11,
+                        12
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The film morphology, crystallinity, defect states, and photovoltaic performance of perovskite films made by using the AAD method were investigated",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "CsPI2.25Br0.75 solar cells made by using the AAD method gave a remarkable PCE of 18.49%, which is the highest among wide-bandgap  inorganic PSCs",
+            "all_materials": [
+                "CsPI2.25Br0.75"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CsPI2.25Br0.75"
+        },
+        {
+            "sentence": "Performance of PSCs made by using different drying conditions and under different humidity was also investigated.",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "1a shows a schematic illustration of the deposition process for perovskite filmsFig",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The process consists of three stages",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The first stage is self-spreading of the precursor solution on 65\u00a0\u00b0C substrate, producing a round precursor films",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                6,
+                "Mixing"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "At the second stage, the wet films were dried by airflow",
+            "all_materials": [
+                "airflow"
+            ],
+            "other_materials": [
+                "airflow"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                9,
+                "DryingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "PbAc2\u00b73\u00a0H2O additive was found critical to obtain high-quality perovskite film",
+            "all_materials": [
+                "PbAc2\u00b73\u00a0H2O"
+            ],
+            "other_materials": [
+                "PbAc2\u00b73\u00a0H2O"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Perovskite solutions without PbAc2\u00b73\u00a0H2O  took 15\u201320\u00a0s to change from colorless wet film",
+            "all_materials": [
+                "PbAc2\u00b73\u00a0H2O"
+            ],
+            "other_materials": [
+                "PbAc2\u00b73\u00a0H2O"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In summary, we developed an AAD method to make mixed halide inorganic PSCs",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "The combination of airflow drying and PbAc2\u00b73\u2009H2O additive enable preparation of high-quality inorganic perovskite films in ambient air",
+            "all_materials": [
+                "airflow",
+                "PbAc2\u00b73\u2009H2O",
+                "air"
+            ],
+            "other_materials": [
+                "airflow",
+                "PbAc2\u00b73\u2009H2O",
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The method doesn\u2019t need glovebox, spin-coater, N2 or hot-air blowing, or antisolvent quenching",
+            "all_materials": [
+                "N2",
+                "air"
+            ],
+            "other_materials": [
+                "N2",
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                20,
+                "QuenchingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The perovskite films made by using the AAD method have larger grains, higher crystallinity, and less defects than the control film",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Solar cells with CsPbI2.25Br0.75 made by using the AAD",
+            "all_materials": [
+                "CsPbI2.25Br0.75"
+            ],
+            "other_materials": [
+                "CsPbI2.25Br0.75"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Hanrui Xiao: Conceptualization, Methodology, Investigation, Data curation, Writing \u2013 original draft, Writing \u2013 review &amp; editing",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Chuantian Zuo: Conceptualization, Data curation, Writing \u2013 review &amp; editing, Supervision",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Lixiu Zhang: Investigation, Writing \u2013 review &amp; editing",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Wenhua Zhang: Investigation, Writing \u2013 review &amp; editing",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Feng Hao: Writing \u2013 review &amp; editing",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Chenyi Yi: Writing \u2013 review &amp; editing",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Fangyang Liu: Writing \u2013 review &amp; editing, Supervision, Funding acquisition, Project",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We thank the National Key Research and Development Program of China , the National Natural Science Foundation of China , the open research fund of Songshan Lake Materials Laboratory , and the Opening Project of Key Laboratory of Optoelectronic Chemical Materials and Devices , Jianghan University  for financial support.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, we develop direct current-generating triboelectric nanogenerators  based on the tribovoltaic p-n junction using n-type perovskite  and p-type conductive polymer ; CsFAMA based DC-TENG is shown to generate a high DC power output of about 2.1\u00a0\u00b5A\u00a0cm\u22122  and 0.33\u00a0V",
+            "all_materials": [
+                "DC-TENG"
+            ],
+            "other_materials": [
+                "DC-TENG"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We also introduce choline chloride  to passivate the defects inside CsFAMA to improve the power-generating performance of DC-TENG by increasing triboelectric charge density, carrier mobility, and built-in potential, which are the key factors that determine device performance",
+            "all_materials": [
+                "choline chloride",
+                "CsFAMA",
+                "DC-TENG"
+            ],
+            "other_materials": [
+                "choline chloride",
+                "CsFAMA",
+                "DC-TENG"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Due to the synergetic effect of reduced defect sites , enhanced electron mobilities , and modulated work function, the passivated CsFAMA-based DC-TENG generates an output current density of 11\u00a0\u00b5A\u00a0cm\u22122 and an output voltage of 0.80\u00a0V",
+            "all_materials": [
+                "CsFAMA",
+                "DC-TENG"
+            ],
+            "other_materials": [
+                "CsFAMA",
+                "DC-TENG"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Our results are expected to contribute to the development of high-performance DC-TENGs by presenting a promising strategy that involves controlling the triboelectric semiconducting interface.",
+            "all_materials": [
+                "DC-TENGs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "DC-TENGs"
+        },
+        {
+            "sentence": "Due to the unpredictable composition and vulnerable nature of the grain boundaries , grain boundaries engineering with improving the order degree of perovskite GBs would be the breakthrough for high-performance polycrystalline perovskite solar cells",
+            "all_materials": [
+                "GBs"
+            ],
+            "other_materials": [
+                "GBs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, there are rare works on the stacking structures of passivators and on their influence on performance",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, based on the easily aggregate nature, a bicarbazole molecule featuring cyanogroup was used as a GB passivator to self-assemble ordered porous framework structures in GBs",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The formation of pores depends on the inversion of the carbazole plane",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Besides defect passivation, humidity barrier and crystallization promotion abilities, the ordered porous stacking structure shows extra advantages on lead leakage elimination and tensile stress relief",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The easily deformable quadrilateral pores, which are connected by weak forces with adjustable bond length, give the skeleton a function of \u201cturning joint\u201d that releases tensile stresses during the thermal process by its structural expansion, and thus, restricting perovskite expansion with ion migration/evaporation suppression, which is commendable for passivators",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As a result, a champion PCE of 23.15% is realized, and PSCs show significantly enhanced thermal and operational stability, as well as diminished lead leakage",
+            "all_materials": [
+                "PSCs",
+                "lead"
+            ],
+            "other_materials": [
+                "PSCs",
+                "lead"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work reveals more possibilities in grain boundary engineering and provides a new avenue for stable and environmental-friendly PSCs.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Excess PbI2 can improve the efficiency of perovskite solar cells",
+            "all_materials": [
+                "PbI2"
+            ],
+            "other_materials": [
+                "PbI2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, it usually leads to poor cell stability due to the chemically active nature of PbI2",
+            "all_materials": [
+                "PbI2"
+            ],
+            "other_materials": [
+                "PbI2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Improving the stability of PbI2-rich perovskite solar cells without scarifying the efficiency remains challenging",
+            "all_materials": [
+                "PbI2"
+            ],
+            "other_materials": [
+                "PbI2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, it is found that the non-uniform and multiple nucleation of perovskite induces crystallographic disorders at grain boundaries  of PbI2-rich perovskite",
+            "all_materials": [
+                "PbI2"
+            ],
+            "other_materials": [
+                "PbI2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "These disorders working as the n-type shallow dopant reduces the energy barrier for photogenerated electrons to reach GBs, triggering the decomposition of excess PbI2 there",
+            "all_materials": [
+                "PbI2"
+            ],
+            "other_materials": [
+                "PbI2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, the instability of PbI2-rich PSCs is related with the remote coupling of excess PbI2 with the disorders at GBs",
+            "all_materials": [
+                "PbI2",
+                "PSCs",
+                "PbI2"
+            ],
+            "other_materials": [
+                "PbI2",
+                "PSCs"
+            ],
+            "precursors": [
+                {
+                    "text": "PbI2",
+                    "start": 91,
+                    "end": 95,
+                    "token_ids": [
+                        17
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In light of this finding, we introduced a small amount  of CdI2 into precursor solution to optimize the crystallization of PbI2-rich perovskite, and finally achieved a trade-off between efficiency and stability in PbI2-rich PSCs",
+            "all_materials": [
+                "CdI2",
+                "PbI2",
+                "PbI2",
+                "PSCs"
+            ],
+            "other_materials": [
+                "PbI2",
+                "PbI2",
+                "PSCs"
+            ],
+            "precursors": [
+                {
+                    "text": "CdI2",
+                    "start": 59,
+                    "end": 63,
+                    "token_ids": [
+                        12
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The optimized PSCs with 10\u00a0mol% excess PbI2  achieved a champion efficiency of 24.26% at the bandgap 1.55\u00a0eV with robust stability",
+            "all_materials": [
+                "PSCs",
+                "PbI2"
+            ],
+            "other_materials": [
+                "PSCs",
+                "PbI2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "PC-Devices maintain more than 90% of the initial efficiency after being stressed under UV light in ambient with a relative humidity of 50% for 500\u00a0h, and 70% under heat at 85\u02daC for 400\u00a0h, both of which are far superior to the pristine PbI2-rich solar cells.",
+            "all_materials": [
+                "PbI2"
+            ],
+            "other_materials": [
+                "PbI2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The notorious defects in the grain boundaries  and surfaces trigger serious nonradiative recombination and interfacial charge losses, concomitantly exacerbating the deterioration of photovoltaic performance and phase stability of CsPbI2Br perovskite solar cells",
+            "all_materials": [
+                "CsPbI2Br"
+            ],
+            "other_materials": [
+                "CsPbI2Br"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, a comprehensive dual-passivation strategy enabled by formamidine salts  is developed to annihilate defects both inside the GBs and over the surface",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It is shown that formamidinothiourea  additive could effectively modulate crystallization and afford to passivate both shallow-/deep-level defects at GBs, thereby endowing CsPbI2Br films with reduced lattice micro-strains and enlarged grains over 2\u00a0\u00b5m",
+            "all_materials": [
+                "formamidinothiourea",
+                "CsPbI2Br"
+            ],
+            "other_materials": [
+                "formamidinothiourea",
+                "CsPbI2Br"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Meanwhile, formamidinium bromine  post-treatment can efficiently heal the defective surface and realize cationic exchange with below CsPbI2Br films, forming a gradient band alignment at the CsPbI2Br/HTL interface",
+            "all_materials": [
+                "formamidinium bromine",
+                "CsPbI2Br",
+                "CsPbI2Br/HTL"
+            ],
+            "other_materials": [
+                "formamidinium bromine",
+                "CsPbI2Br",
+                "CsPbI2Br/HTL"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Profiting from ameliorated crystallization, inhibited GBs/surface charge recombination and facilitated hole transport ability, the novel FADP strategy substantially lifts the Voc from 1.22\u00a0V to 1.34\u00a0V, yielding a champion PCE of 16.74% with greatly reduced hysteresis",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Coincidently, the unencapsulated FADP devices maintained 86.2% of initial PCE after aging at 25% RH for 40 days and 83.8% after 480\u00a0h aging under continuous illumination, which is pertinent to the inhibited defective region as well as Br-rich surface.",
+            "all_materials": [
+                "FADP",
+                "PCE",
+                "RH"
+            ],
+            "other_materials": [
+                "FADP",
+                "PCE",
+                "RH"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Wide-bandgap perovskite is considered an ideal absorber for the top component cell of a tandem configuration, in addition to having proven advantageous for indoor light conversion and semitransparent solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, we demonstrate an ambient aging process that appears to further raise the performance of wide-bandgap perovskite solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Systematic study shows that that secondary recrystallization arises during the aging process",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The defect density is further attenuated by air passivation and the self-healing effect induced by halogen redistribution",
+            "all_materials": [
+                "air"
+            ],
+            "other_materials": [
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As such, the nonradiative recombination in the perovskite films is suppressed, and the carrier lifetime is prolonged during the ambient aging",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The champion wide-bandgap  perovskite solar cell delivered a power-conversion efficiency as high as 20.12%, coupled with a high open-circuit voltage of 1.27\u00a0V, which is among the highest values reported for this type of wide-bandgap solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work reveals the impact of the air aging process on the properties of perovskite films from various aspects and demonstrates a scalable post-treatment strategy capable of producing state-of-the-art semiconducting films.",
+            "all_materials": [
+                "air"
+            ],
+            "other_materials": [
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Nickel oxide  is a prospective hole transporting layer  material for inverted  perovskite solar cells ; however, inevitable surface defects on the NiOx surface interfere with the realization of high-performance PSCs",
+            "all_materials": [
+                "Nickel oxide",
+                "NiOx"
+            ],
+            "other_materials": [
+                "Nickel oxide",
+                "NiOx"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, nickel nitrate is used to eliminate defect sites and hydroxyl groups on the NiOx surface",
+            "all_materials": [
+                "nickel nitrate",
+                "NiOx"
+            ],
+            "other_materials": [
+                "nickel nitrate",
+                "NiOx"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For the first time, it is found that a uniform and ultra-thin nickel nitride  layer can be formed on the NiOx surface through the spin coating of the nickel nitrate solution at low temperatures",
+            "all_materials": [
+                "nickel nitride",
+                "NiOx",
+                "nickel nitrate"
+            ],
+            "other_materials": [
+                "nickel nitride",
+                "NiOx",
+                "nickel nitrate"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Promisingly, this new approach allows to overcome interface losses originating from defect sites and hydroxyl groups on the NiOx surface and to achieve high efficiency and long-term operational stability in PSCs",
+            "all_materials": [
+                "NiOx",
+                "PSCs"
+            ],
+            "other_materials": [
+                "NiOx",
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, NixN serves better energy level alignment between NiOx HTL and perovskite layer, resulting in improved charge extraction and transportation and reduced charge recombination",
+            "all_materials": [
+                "NixN",
+                "NiOx HTL"
+            ],
+            "other_materials": [
+                "NixN",
+                "NiOx HTL"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The NixN-modified NiOx-based PSC demonstrates an outstanding efficiency of 20.45% and it shows long-term operational stability about 82% of the initial efficiency after 1000\u00a0h under ambient air conditions",
+            "all_materials": [
+                "PSC",
+                "air"
+            ],
+            "other_materials": [
+                "PSC",
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Thus, this simple approach using nickel nitrate can be a promising and universal strategy to revive nickel oxide-perovskite interfaces and boost the performance and operational stability of PSCs.",
+            "all_materials": [
+                "nickel nitrate",
+                "nickel oxide",
+                "PSCs"
+            ],
+            "other_materials": [
+                "nickel nitrate",
+                "nickel oxide",
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

@@ -1,0 +1,1296 @@
+{
+    "rest": [
+        {
+            "sentence": "Mixed-halide alloying inorganic perovskite CsPbI2Br with prominent thermal stability has been considered as a promising candidate for wide-bandgap solar cells",
+            "all_materials": [
+                "CsPbI2Br"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CsPbI2Br"
+        },
+        {
+            "sentence": "However, the thermally driving coordination configuration evolution and phase transition during the crystallization of the perovskite CsPbI2Br were still not understood in depth, which was not conducive to the controllable preparation of high-quality CsPbI2Br thin films and the enhancement of photovoltaic performance",
+            "all_materials": [
+                "CsPbI2Br",
+                "CsPbI2Br"
+            ],
+            "other_materials": [
+                "CsPbI2Br"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CsPbI2Br"
+        },
+        {
+            "sentence": "In this study, the phase segregation and unfavorable phase transition during the crystallization of CsPbI2Br that lead to the low quality of the perovskite thin films were investigated systematically",
+            "all_materials": [
+                "CsPbI2Br"
+            ],
+            "other_materials": [
+                "CsPbI2Br"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, the existing issue was overcome through intermediate engineering by introducing volatile organic amine acetates",
+            "all_materials": [
+                "amine acetates"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "amine acetates",
+                    "start": 107,
+                    "end": 121,
+                    "token_ids": [
+                        14,
+                        15
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Specially, the introduction of 0.5 equiv",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "of formamidine acetate  in the precursor of CsPbI2Br generated a phase-pure intermediate, which facilitated the crystallization of high-quality CsPbI2Br perovskite thin films, and thus improved the device performance",
+            "all_materials": [
+                "formamidine acetate",
+                "CsPbI2Br",
+                "CsPbI2Br"
+            ],
+            "other_materials": [
+                "CsPbI2Br",
+                "CsPbI2Br"
+            ],
+            "precursors": [
+                {
+                    "text": "formamidine acetate",
+                    "start": 3,
+                    "end": 22,
+                    "token_ids": [
+                        1,
+                        2
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As a result, the champion device achieved a power conversion efficiency  of 16.36%.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Download : Download high-res image Download : Download full-size image",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Organic-inorganic hybrid perovskites with the formula of ABX3 2+] ,   or Cs+, B = Pb2+, Sn2+ or Ge2+, and X\u00a0\u200b=\u00a0\u200bI\u2212, Br\u2212 or Cl\u2212) have been demonstrated to be a kind of promising photovoltaic materials due to their excellent photoelectric properties, such as outstanding light-harvesting capability and long electron-hole diffusion lengths, as well as tunable bandgap [, ]",
+            "all_materials": [
+                "ABX3 2+]"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "ABX3 2+]"
+        },
+        {
+            "sentence": "Up to date, remarkable progress was made in single-junction organic-inorganic hybrid perovskite solar cells , achieving the recorded power conversion efficiency of single-junction up to 25.7% at an astonishing rate",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Besides, perovskites have been also received increasing attentions in tandem solar cells, with enormous potential for higher power conversion efficiency",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For example, tandem solar cells based on the configurations of perovskite/silicon [Si], perovskite/copper indium gallium diselenide [CIGS], and perovskite/perovskite have been investigated intensively with conspicuous breakthroughs [, ]",
+            "all_materials": [
+                "perovskite/silicon [Si]",
+                "perovskite/copper indium gallium diselenide",
+                "perovskite/perovskite"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "perovskite/silicon [Si]",
+                    "start": 63,
+                    "end": 86,
+                    "token_ids": [
+                        11,
+                        12,
+                        13,
+                        14
+                    ]
+                },
+                {
+                    "text": "perovskite/copper indium gallium diselenide",
+                    "start": 88,
+                    "end": 131,
+                    "token_ids": [
+                        16,
+                        17,
+                        18,
+                        19,
+                        20,
+                        21
+                    ]
+                },
+                {
+                    "text": "perovskite/perovskite",
+                    "start": 144,
+                    "end": 165,
+                    "token_ids": [
+                        25,
+                        26,
+                        27
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "No matter what kind of tandem devices, wide-bandgap perovskite materials are an important component of the top cells in these tandem devices",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Initially, organic-inorganic hybrid wide-bandgap perovskites have been employed as light absorbers in the top device of tandem solar cells [16,17]",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the volatility of the organic cations part limited their thermal stability and practical application [18,19]",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this regard, all-inorganic wide bandgap perovskites CsPbX3 have been considered as alternative candidates thanks to their inherent excellent thermal durability and appropriate photoelectronic properties [, ].",
+            "all_materials": [
+                "CsPbX3"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CsPbX3"
+        },
+        {
+            "sentence": "Among them, \u03b1-phase CsPbI3 with a cubic crystal structure possesses a desirable band gap of 1.73\u00a0\u200beV has been investigated for its application in the top cells of tandem solar cells [32,33]",
+            "all_materials": [
+                "CsPbI3"
+            ],
+            "other_materials": [
+                "CsPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Unfortunately, the ideal cubic structure of CsPbI3 suffered from severe phase instability and readily transformed from black phase into a yellow \u03b4-phase under ambient conditions, which seriously deteriorated the photovoltaic performance [, ]",
+            "all_materials": [
+                "CsPbI3"
+            ],
+            "other_materials": [
+                "CsPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "On the other hand, the analogue CsPbBr3 has superior phase stability, but the band gap is too large to be suitable as a light absorber for top cells in tandem devices [39,40]",
+            "all_materials": [
+                "CsPbBr3"
+            ],
+            "other_materials": [
+                "CsPbBr3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Recently, mixed-halide alloying inorganic perovskites have been developed to address the critical issues mentioned above",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "CsPbI2Br with a bandgap around 1.9\u00a0\u200beV and good phase stability has been demonstrated to be an ideal wide-bandgap absorber for tandem solar cells [, ]",
+            "all_materials": [
+                "CsPbI2Br"
+            ],
+            "other_materials": [
+                "CsPbI2Br"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To guarantee the efficient photovoltaic conversion, tremendous efforts were divided into the preparation of high quality CsPbI2Br thin films with durable phase stability, high crystallinity, well-oriented and enlarged grains, uniform, pinhole-free and dense surfaces [44,45]",
+            "all_materials": [
+                "CsPbI2Br"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CsPbI2Br"
+        },
+        {
+            "sentence": "Many valid strategies involving crystallization engineering, defect passivation and interface engineering were reported",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the efficiency of CsPbI2Br-based devices is still well below the Shockley-Queisser  limit [42,, ]",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "So far, the thermally driving coordination configuration evolution and phase transition during the crystallization of the mixed halide perovskite CsPbI2Br were still not understood in depth, which was not conducive to the controllable preparation of high-quality CsPbI2Br thin films and the improvement of device performance .",
+            "all_materials": [
+                "CsPbI2Br",
+                "CsPbI2Br"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CsPbI2Br"
+        },
+        {
+            "sentence": "Herein, the thermal annealing and crystallization process of CsPbI2Br thin films were investigated systematically to gain insight into the phase evolution mechanism under different annealing temperature",
+            "all_materials": [
+                "CsPbI2Br"
+            ],
+            "other_materials": [
+                "CsPbI2Br"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The perovskite CsPbI2Br suffered from phase segregation to bromine rich spices and iodide rich spices under low temperature annealing, which were alloying again under high temperature, suggested by XRD patterns, absorption spectra, photoluminescence spectra and fluorescence images",
+            "all_materials": [
+                "CsPbI2Br"
+            ],
+            "other_materials": [
+                "CsPbI2Br"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                18,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The phase segregation and unfavorable phase transition lead to the low quality of the perovskite thin films",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To address this issue, intermediate engineering was conducted by introducing volatile organic amine acetates , formamidine acetate  and methylamine acetate ) to facilitate the crystallization of CsPbI2Br",
+            "all_materials": [
+                "amine acetates",
+                "formamidine acetate",
+                "methylamine acetate",
+                "CsPbI2Br"
+            ],
+            "other_materials": [
+                "CsPbI2Br"
+            ],
+            "precursors": [
+                {
+                    "text": "amine acetates",
+                    "start": 94,
+                    "end": 108,
+                    "token_ids": [
+                        13,
+                        14
+                    ]
+                },
+                {
+                    "text": "formamidine acetate",
+                    "start": 111,
+                    "end": 130,
+                    "token_ids": [
+                        16,
+                        17
+                    ]
+                },
+                {
+                    "text": "methylamine acetate",
+                    "start": 136,
+                    "end": 155,
+                    "token_ids": [
+                        19,
+                        20
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Fortunately, the introduction of 0.5 equiv",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "of FAAc in the precursor of CsPbI2Br generated a phase-pure intermediate and further produced high-quality CsPbI2Br perovskite thin films, and resulted in enhanced device performance.",
+            "all_materials": [
+                "FAAc",
+                "CsPbI2Br",
+                "CsPbI2Br"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "FAAc",
+                    "start": 3,
+                    "end": 7,
+                    "token_ids": [
+                        1
+                    ]
+                },
+                {
+                    "text": "CsPbI2Br",
+                    "start": 28,
+                    "end": 36,
+                    "token_ids": [
+                        6
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "CsPbI2Br"
+        },
+        {
+            "sentence": "The SnO2 colloid precursor was purchased from Alfa Aesar",
+            "all_materials": [
+                "SnO2"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "SnO2",
+                    "start": 4,
+                    "end": 8,
+                    "token_ids": [
+                        1
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Cesium bromide , lead iodide , bissulfonamide lithium salt  and 4-tert-butylpyridine  were purchased from Sigma-Aldrich",
+            "all_materials": [
+                "Cesium bromide",
+                "lead iodide",
+                "bissulfonamide lithium",
+                "4-tert-butylpyridine"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "Cesium bromide",
+                    "start": 0,
+                    "end": 14,
+                    "token_ids": [
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "text": "lead iodide",
+                    "start": 17,
+                    "end": 28,
+                    "token_ids": [
+                        3,
+                        4
+                    ]
+                },
+                {
+                    "text": "bissulfonamide lithium",
+                    "start": 31,
+                    "end": 53,
+                    "token_ids": [
+                        6,
+                        7
+                    ]
+                },
+                {
+                    "text": "4-tert-butylpyridine",
+                    "start": 64,
+                    "end": 84,
+                    "token_ids": [
+                        10
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Ethylamine alcohol solution  was purchased from Sinpharm Chemical Reagent Co., Ltd",
+            "all_materials": [
+                "Ethylamine alcohol"
+            ],
+            "other_materials": [
+                "Ethylamine alcohol"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Formamidine acetate  and methylamine acetate  were purchased from TCI",
+            "all_materials": [
+                "Formamidine acetate",
+                "methylamine acetate"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "Formamidine acetate",
+                    "start": 0,
+                    "end": 19,
+                    "token_ids": [
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "text": "methylamine acetate",
+                    "start": 25,
+                    "end": 44,
+                    "token_ids": [
+                        3,
+                        4
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Acetic acid, dimethyl sulfoxide (DMSO, anhydrous,",
+            "all_materials": [
+                "Acetic acid",
+                "dimethyl sulfoxide",
+                "DMSO"
+            ],
+            "other_materials": [
+                "Acetic acid",
+                "dimethyl sulfoxide",
+                "DMSO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As shown in Fig.\u00a01a, the as prepared CsPbI2Br thin films exhibited an \u03b1-phase with dark color, suggesting the dynamic control generation of \u03b1-phase CsPbI2Br",
+            "all_materials": [
+                "CsPbI2Br",
+                "CsPbI2Br"
+            ],
+            "other_materials": [
+                "CsPbI2Br"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CsPbI2Br"
+        },
+        {
+            "sentence": "During the annealing process, the CsPbI2Br-based perovskite thin films showed a color change from dark brown to light brown, and then recovered to dark brown under high temperature",
+            "all_materials": [
+                "CsPbI2Br"
+            ],
+            "other_materials": [
+                "CsPbI2Br"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The phenomena implied that the composition variation of the pervoskite thin films during the annealing temperature",
+            "all_materials": [
+                "pervoskite"
+            ],
+            "other_materials": [
+                "pervoskite"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To investigate the origin and",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In summary, we developed a new strategy based on intermediate engineering for the preparation of high-quality CsPbI2Br thin films",
+            "all_materials": [
+                "CsPbI2Br"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CsPbI2Br"
+        },
+        {
+            "sentence": "The introduction of 0.5 equiv",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "of FAAc in the CsPbI2Br-based precursor lead to the generation of a phase-pure intermediate and suppressed the thermodynamic phase segregation and unfavorable phase transition during the thermal annealing of CsPbI2Br thin films, which facilitated the crystallization of high-quality CsPbI2Br thin films, with high crystallinity,",
+            "all_materials": [
+                "FAAc",
+                "CsPbI2Br",
+                "CsPbI2Br"
+            ],
+            "other_materials": [
+                "CsPbI2Br",
+                "CsPbI2Br"
+            ],
+            "precursors": [
+                {
+                    "text": "FAAc",
+                    "start": 3,
+                    "end": 7,
+                    "token_ids": [
+                        1
+                    ]
+                }
+            ],
+            "operation": [
+                31,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Fan Yu: Conceptualization, Synthesis, Investigation, Formal analysis, Analysis, Writing \u2013 original draft",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Jian Liu: Conceptualization, Writing-Reviewing and Editing, Supervision, Funding acquisition",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Pan Xu: Investigation, Formal analysis, Analysis",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Jiahao Huang: Investigation, Analysis, Formal analysis",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Cheng-Hui Li: Writing-Reviewing and Editing",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "You-Xuan Zheng: Writing-Reviewing and Editing, Supervision.",
+            "all_materials": [
+                "You-Xuan"
+            ],
+            "other_materials": [
+                "You-Xuan"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work was supported in part by the National Natural Science Foundation of China , the Natural Science Foundation of Jiangsu Province  and the High Level Talent Project of Nanjing Forestry University .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The conversion efficiency of perovskite solar cells has increased rapidly in recent years, however, the balance between sustainability, efficiency and cost has become a serious challenge on the way to a competitive commercial product",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Currently, ongoing research is strongly focused on how to effectively combine those issues together",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, the sustainability and efficiency were shown to be improved by using a simple low-cost fabrication process: with a single electron transporting layer with low-temperature heat treatment , a single-step perovskite layer 3) fabricated and annealed in air atmosphere, and low-cost imprinted carbon as the upper electrode",
+            "all_materials": [
+                "air",
+                "carbon"
+            ],
+            "other_materials": [
+                "air",
+                "carbon"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                [
+                    44,
+                    "StartingSynthesis"
+                ],
+                [
+                    46,
+                    "HeatingOperation"
+                ]
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The annealing process of the active layer was studied to improve crystallinity and achieve the best grain boundary self-passivation under these conditions",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, to develop sustainability, an easy-to-use superhydrophobic layer with a contact angle of \u223c160o was successfully deposited using an invented method",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Morphology, crystallization, and optoelectronic properties of the devices were investigated using various measurement methods",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It was found that a 15-min annealing at 130\u00a0\u00b0C is required to obtain an appropriate self-induced passivation layer of PbI2 and a high-performance crystallized active layer with the lowest defect density",
+            "all_materials": [
+                "PbI2"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                6,
+                "HeatingOperation"
+            ],
+            "targets": "PbI2"
+        },
+        {
+            "sentence": "An optimum energy conversion efficiency of 17.34% was achieved with FF, VOC and JSC values of 76.43%, 1.04\u00a0V, and 21.67\u00a0mA\u00a0cm\u22122, respectively",
+            "all_materials": [
+                "VOC"
+            ],
+            "other_materials": [
+                "VOC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It is hoped that these results will provide new perspectives for the commercialization of perovskite solar cells.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Two-step sequential spin-coating method has been widely used to prepare mixed FA/Cs and FA/MA/Cs perovskite solar cells",
+            "all_materials": [
+                "FA/Cs",
+                "FA/MA/Cs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "FA/Cs"
+        },
+        {
+            "sentence": "However, due to the extremely low solubility of Cs salts in the commonly used isopropanol solvent, which is used to dissolve the organic salts, the Cs salts can only be dissolved into the PbI2 precursors with mixed DMF/DMSO solvent",
+            "all_materials": [
+                "isopropanol",
+                "PbI2",
+                "DMF",
+                "DMSO"
+            ],
+            "other_materials": [
+                "isopropanol",
+                "PbI2",
+                "DMF",
+                "DMSO"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                33,
+                "SolutionMixing"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, we have proposed a modified two-step sequential spin-coating method to solve the above problem",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A mixed solvent consisting of ethanol and methanol is used to dissolve the CsI, FAI, and MACl at the same time",
+            "all_materials": [
+                "ethanol",
+                "methanol",
+                "CsI",
+                "FAI",
+                "MACl"
+            ],
+            "other_materials": [
+                "ethanol",
+                "methanol"
+            ],
+            "precursors": [
+                {
+                    "text": "CsI",
+                    "start": 75,
+                    "end": 78,
+                    "token_ids": [
+                        13
+                    ]
+                },
+                {
+                    "text": "FAI",
+                    "start": 80,
+                    "end": 83,
+                    "token_ids": [
+                        15
+                    ]
+                },
+                {
+                    "text": "MACl",
+                    "start": 89,
+                    "end": 93,
+                    "token_ids": [
+                        18
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The solubility of CsI in the mixed ethanol/methanol solvent can be tuned by varying the ethanol/methanol ratio",
+            "all_materials": [
+                "CsI",
+                "ethanol",
+                "methanol",
+                "ethanol",
+                "methanol"
+            ],
+            "other_materials": [
+                "CsI",
+                "ethanol",
+                "methanol",
+                "ethanol",
+                "methanol"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "After optimizing the ethanol/methanol ratio, high quality FA1-xCsxPbI3 perovskite film with large perovskite crystal, low defect density and long carrier life time can be obtained using our modified two-step sequential spin-coating method, which can result in a perovskite solar cell with champion power conversion efficiencies of 21.17%  and 14.65%  respectively",
+            "all_materials": [
+                "ethanol",
+                "methanol",
+                "FA1-xCsxPbI3"
+            ],
+            "other_materials": [
+                "ethanol",
+                "methanol"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "FA1-xCsxPbI3"
+        },
+        {
+            "sentence": "Our study provides a new method for fabricating mixed FA/Cs perovskite solar cells using CsI containing organic salts solution, which can be further optimized to fabricate highly efficient perovskite solar cells.",
+            "all_materials": [
+                "FA/Cs",
+                "CsI"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "CsI",
+                    "start": 89,
+                    "end": 92,
+                    "token_ids": [
+                        16
+                    ]
+                }
+            ],
+            "operation": [
+                7,
+                "StartingSynthesis"
+            ],
+            "targets": "FA/Cs"
+        },
+        {
+            "sentence": "Carbon-based CsPbIBr2 perovskite solar cells  have attracted much attention due to their excellent photoelectric properties and low cost fabrication processes",
+            "all_materials": [
+                "CsPbIBr2"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CsPbIBr2"
+        },
+        {
+            "sentence": "The TiO2 has been diffusely employed as electron-transporting layer  for carbon-based CsPbIBr2 PSC",
+            "all_materials": [
+                "TiO2",
+                "CsPbIBr2 PSC"
+            ],
+            "other_materials": [
+                "TiO2",
+                "CsPbIBr2 PSC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the lower electron mobility for TiO2 restricts the performance improvement",
+            "all_materials": [
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The tactics of ion doping is normally used to improve the ETL performance",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this study, Li-doped TiO2  is used as a novel ETL for carbon-based planar CsPbIBr2 PSC",
+            "all_materials": [
+                "TiO2",
+                "CsPbIBr2 PSC"
+            ],
+            "other_materials": [
+                "TiO2",
+                "CsPbIBr2 PSC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "There is no change in the optical band gap of TiO2 after the incorporation of Li",
+            "all_materials": [
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, Li-doping can effectively improve the crystallinity of TiO2 film and reduce the dark current and charge recombination of CsPbIBr2 PSC",
+            "all_materials": [
+                "TiO2",
+                "CsPbIBr2 PSC"
+            ],
+            "other_materials": [
+                "TiO2",
+                "CsPbIBr2 PSC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Comparing with the TiO2-based CsPbIBr2 PSC, the efficiency of CsPbIBr2 PSC with the Li: TiO2 ETL increases from 6.63% to 8.09%",
+            "all_materials": [
+                "CsPbIBr2 PSC",
+                "CsPbIBr2 PSC",
+                "Li: TiO2"
+            ],
+            "other_materials": [
+                "CsPbIBr2 PSC",
+                "CsPbIBr2 PSC",
+                "Li: TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Additionally, the use of the Li: TiO2 ETL also has a positive impact on the long-term stability of the CsPbIBr2 PSC",
+            "all_materials": [
+                "Li: TiO2 ETL",
+                "CsPbIBr2 PSC"
+            ],
+            "other_materials": [
+                "Li: TiO2 ETL",
+                "CsPbIBr2 PSC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work indicates that ion doping can offer a new route to produce effective ETL for the development of highly-efficient CsPbIBr2 solar cell with a interface engineering concept.",
+            "all_materials": [
+                "ETL",
+                "CsPbIBr2"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "ETL"
+        },
+        {
+            "sentence": "Carbon-based all-inorganic perovskite solar cells  have attracted tremendous attention due to the higher intrinsic stability, which is beneficial to lower fabrication costs and further commercial applications",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, for the purpose of promoting the industrialization of PSCs, it is crucial to explore preparation methods in ambient air condition",
+            "all_materials": [
+                "air"
+            ],
+            "other_materials": [
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, ammonium acetate  is added into the antisolvent for the first time in carbon-based all-inorganic PSCs under the full ambient air condition",
+            "all_materials": [
+                "ammonium acetate",
+                "air"
+            ],
+            "other_materials": [
+                "air"
+            ],
+            "precursors": [
+                {
+                    "text": "ammonium acetate",
+                    "start": 8,
+                    "end": 24,
+                    "token_ids": [
+                        2,
+                        3
+                    ]
+                }
+            ],
+            "operation": [
+                5,
+                "SolutionMixing"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It could improve the quality of perovskite films by adjusting the nucleation density and utilizing intermediate phase to retard crystallization",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "By regulating the concentrations of NH4Ac, the perovskite films with dense and pinhole-free, large grain size, few grain boundaries and less defects are finally formed",
+            "all_materials": [
+                "NH4Ac"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "NH4Ac",
+                    "start": 36,
+                    "end": 41,
+                    "token_ids": [
+                        5
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Ultimately, the optimal device achieved a high efficiency of 15.43%, which is a new record value for carbon-based all-inorganic PSCs.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Organic-inorganic metal halide perovskite solar cells have achieved impressive results in the past dozen years",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the unstable organic components methylamine , formamidine , and expensive hole transport layer  materials  have been stumbling blocks to their commercial development",
+            "all_materials": [
+                "methylamine",
+                "formamidine"
+            ],
+            "other_materials": [
+                "methylamine",
+                "formamidine"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, an all-inorganic HTL-free CsGeI3 perovskite solar cell is constructed",
+            "all_materials": [
+                "CsGeI3"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CsGeI3"
+        },
+        {
+            "sentence": "In order to explore the internal influencing factors of the device as well as suitable materials, we numerically simulated the device with SCAPS-1D",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The research demonstrates that when ZnOS is used as the electron transport layer , the generated energy band offset forms a recess structure, which makes the device exhibit excellent performance",
+            "all_materials": [
+                "ZnOS"
+            ],
+            "other_materials": [
+                "ZnOS"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Then, the effects of different metal back electrodes on HTL-free structure perovskite solar cells are explored, and the results indicate that when W is used as the metal back electrode, a potential barrier of 0.3\u00a0eV is formed between the metal back electrode and the absorber layer, effectively preventing carrier recombination",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The critical parameters of the device including thickness, defect density, doping concentration, band gap, and electron affinity are optimized, based on which the optimum power conversion efficiency  of the proposed device structure  reaches up to 26.70%, significantly improving the performance of germanium-based perovskite solar cells while reducing the cost",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work would provide a new avenue for realizing inorganic, low-cost, and efficient germanium-based perovskite solar cells.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In recent years, carbon-based all-inorganic perovskite solar cells without hole transport layers have attracted much attention due to their good stability",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, because of the lack of hole transport layers, there are problems such as poor interface charge extraction and poor energy band alignment",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here, the surface of CsPbIBr2 is treated with Ti3C2Clx MXene, where the formed Pb-Cl bonds play a role in passivating defects and improving crystallization, and the adjustable work function of MXene can form a good gradient energy band at the CsPbIBr2/carbon interface",
+            "all_materials": [
+                "CsPbIBr2",
+                "Ti3C2Clx MXene",
+                "MXene",
+                "CsPbIBr2/carbon"
+            ],
+            "other_materials": [
+                "CsPbIBr2",
+                "Ti3C2Clx MXene",
+                "MXene",
+                "CsPbIBr2/carbon"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                7,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As a result, the Ti3C2Clx MXene passivation strategy successfully improves the hole extraction efficiency and inhibits the charge recombination at the interface based on the improved morphology and crystallization of the CsPbIBr2 film",
+            "all_materials": [
+                "Ti3C2Clx MXene",
+                "CsPbIBr2"
+            ],
+            "other_materials": [
+                "Ti3C2Clx MXene",
+                "CsPbIBr2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, the power conversion efficiency of CsPbIBr2 solar cells has increased from 8.16\u00a0% to 10.43\u00a0%, and the long-term stability exceeds 900\u00a0h under environmental conditions of 40\u00a0% relative humidity.",
+            "all_materials": [
+                "CsPbIBr2"
+            ],
+            "other_materials": [
+                "CsPbIBr2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

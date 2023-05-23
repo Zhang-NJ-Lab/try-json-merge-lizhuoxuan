@@ -1,0 +1,1688 @@
+{
+    "rest": [
+        {
+            "sentence": "Two-dimensional  layered semiconductors have emerged as promising materials for state-of-the-art photovoltaic devices  due to their unique optoelectronic properties",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The 2D materials have the potential to develop highly efficient solar cells because of their high transparency, large charge carrier mobility, and, in particular, tunable electronic structures",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The development of PVs using mechanical exfoliation and chemical vapor deposition enables the utilization of intrinsic semiconductors such as 2D transition metal dichalcogenides",
+            "all_materials": [
+                "PVs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PVs"
+        },
+        {
+            "sentence": "In this focused review, we summarize the recent progress and advanced strategies adopted for developing efficient and stable solar cells using 2D TMD materials",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The review systematically discusses the crucial impacts of TMDs on the performance of PVs alongside their integration with perovskite solar cells for stability improvement",
+            "all_materials": [
+                "PVs"
+            ],
+            "other_materials": [
+                "PVs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It also addresses the synergetic role of TMDs as metal interfaces and transparent conducting electrodes for PV applications",
+            "all_materials": [
+                "TMDs"
+            ],
+            "other_materials": [
+                "TMDs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Finally, it concludes with a comparison of the performance and characteristics of 2D solar cell devices, as well as a discussion of current challenges and potential solutions.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Download : Download high-res image Download : Download full-size imageTwo-dimensional  layered semiconductors have emerged as promising materials for state-of-the-art photovoltaic devices  due to their unique optoelectronic properties",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The 2D materials have the potential to develop highly efficient solar cells because of their high transparency, large charge carrier mobility, and, in particular, tunable electronic structures.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In recent years, the carbon dioxide  emissions in the environment have exponentially increased with the industrial revolution",
+            "all_materials": [
+                "carbon dioxide"
+            ],
+            "other_materials": [
+                "carbon dioxide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A major share of the CO2 emission can be traced to power consumption from fossil fuels",
+            "all_materials": [
+                "CO2"
+            ],
+            "other_materials": [
+                "CO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To create a carbon-free society, photovoltaic systems  which involve the conversion of light energy into electricity are promising alternatives",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Notably, conventional amorphous and crystalline silicon  solar cells currently account for approximately 95% of the photovoltaics  market because of their easy access and high power conversion efficiencies  under outdoor illumination",
+            "all_materials": [
+                "silicon"
+            ],
+            "other_materials": [
+                "silicon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, conventional Si solar cells possess several drawbacks including brittleness, fixed bandgaps, low absorption coefficients, complex fabrication processes, and poor performance in an indoor environment that limit their applicability in self-powered wearable devices, implantable devices, architecture, and the internet of things  applications , .",
+            "all_materials": [
+                "Si"
+            ],
+            "other_materials": [
+                "Si"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Emerging semiconducting two-dimensional  transition metal dichalcogenides  offer promising potential for developing versatile high-specific power technologies in photovoltaics",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "TMDs exhibit high optical transparency, large carrier mobilities, and tunable energy band structures",
+            "all_materials": [
+                "TMDs"
+            ],
+            "other_materials": [
+                "TMDs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Light absorption coefficients can be achieved with TMDs up to one order of magnitude higher than conventional direct-bandgap semiconductors",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "There are also self-passivated surfaces, near-ideal band gaps for solar energy harvesting, and near-ideal band gaps ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In the visible spectrum, even 20-nm thin TMDs can absorb almost all of the light over a wide range of wavelengths ,",
+            "all_materials": [
+                "TMDs"
+            ],
+            "other_materials": [
+                "TMDs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "TMDs with band gaps between 1.0 and 2.5\u00a0eV work perfectly well in single-junction or tandem double-junction solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, the absence of dangling bonds on the surfaces of stacked TMDs allows for the creation of heterostructures without the need for lattice matching",
+            "all_materials": [
+                "TMDs"
+            ],
+            "other_materials": [
+                "TMDs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This greatly improves the efficiency of the photovoltaic process",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "These advantages open up a plethora of new design possibilities for TMD-based photovoltaics",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Realistic precision balancing models show that ultrathin single-junction TMD solar cells can have a PCE of less than 27%, which means they can have a very high PS if built on light and flexible substrates , .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Because of their exceptional electronic and optoelectronic properties, van der Waals  layered semiconductors such as rhenium disulfide , molybdenum disulfide , tungsten diselenide , and others have recently emerged as potential effective absorbers for thin-film PV systems.,  Traditional semiconductors like Si and GaAs absorb much less light per unit of thickness than vdW semiconductors, which have a strong interaction between light and matter",
+            "all_materials": [
+                "rhenium disulfide",
+                "molybdenum disulfide",
+                "tungsten diselenide",
+                "Si",
+                "GaAs",
+                "vdW"
+            ],
+            "other_materials": [
+                "rhenium disulfide",
+                "molybdenum disulfide",
+                "tungsten diselenide",
+                "Si",
+                "GaAs",
+                "vdW"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, it is expected that vdW semiconductors will make it possible to make high-performance PV devices with a PCE of more than 25% by keeping the thickness on the nanoscale scale ,",
+            "all_materials": [
+                "PV"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PV"
+        },
+        {
+            "sentence": "Though, developing vdW semiconductors-based PVs with PCEs higher than 5% and thickness constraints is quite challenging",
+            "all_materials": [
+                "PVs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PVs"
+        },
+        {
+            "sentence": "One of the primary reasons for low PCE is inefficient exciton separation due to poor charge generation and collection efficiency",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Strong geometric confinement, highly anisotropic bonding in the crystal, and a relatively low dielectric constant are the properties because of which vdW layered materials have a much higher exciton binding energy than traditional semiconductors",
+            "all_materials": [
+                "vdW"
+            ],
+            "other_materials": [
+                "vdW"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As a result, many researchers have focused their efforts on developing methods to improve the efficiency of exciton separation in PV devices by initiating or augmenting the presence of an internal electric field",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Different types of heterogeneous and homogeneous p-n junctions have been shown to generate an internal electric field",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "These junctions can be formed by stacking two different vdW semiconductors on top of each other or by doping them in different ways",
+            "all_materials": [
+                "vdW"
+            ],
+            "other_materials": [
+                "vdW"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, the strength of the internal electric field may be improved by using procedures that depinch at the Fermi level",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This method has been shown in devices made of materials other than vdW, such as silicon and organic compounds .",
+            "all_materials": [
+                "vdW"
+            ],
+            "other_materials": [
+                "vdW"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In vdW semiconductors, however, a significant Fermi-level pinning effect of metals frequently inhibits photo carrier extraction and makes contact tuning difficult, resulting in low PCE values",
+            "all_materials": [
+                "vdW"
+            ],
+            "other_materials": [
+                "vdW"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The difficult nature of contact optimization is to blame for this outcome",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Using passivation contacts that are hole-and electron-selective to reduce the amount of energy lost to recombination is another way to greatly improve the efficiency of a PV system",
+            "all_materials": [
+                "PV"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PV"
+        },
+        {
+            "sentence": "This can be accomplished by employing hole-and electron-selective passivation contacts",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The development of such ties has resulted in perovskite photovoltaic devices, which have recently gained immense attention",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Despite this, the Si PV sector has yet to make significant progress",
+            "all_materials": [
+                "Si PV"
+            ],
+            "other_materials": [
+                "Si PV"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Recently, it was demonstrated that super acid-treated monolayers of MoS2 and WS2 exhibit an internal radiative efficiency greater than 99% , implying that the criteria for extremely high exterior radiative efficiency in TMDs can be attained",
+            "all_materials": [
+                "MoS2",
+                "WS2"
+            ],
+            "other_materials": [
+                "MoS2",
+                "WS2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The second requirement is that when the photovoltaic device is short-circuited, it must turn every photon that comes in from above the bandgap into an extracted electron, or have a unity external quantum efficiency .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Organometallic halide perovskite solar cells  are a promising future direction for solar cell technology",
+            "all_materials": [
+                "halide"
+            ],
+            "other_materials": [
+                "halide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Organometallic halide-based perovskites have large carrier mobility , a high light absorption coefficient , and long electron and hole diffusion lengths  ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "High defect tolerance for electron-hole recombination is explained by low-frequency lattice phonons in halide perovskites",
+            "all_materials": [
+                "halide"
+            ],
+            "other_materials": [
+                "halide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The softness of the perovskite lattice, which permits separation of electrons and holes upon defect formation and only permits carriers to couple to the low-frequency vibrations, is responsible for the strong tolerance",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Both elements significantly reduce non-adiabatic coupling and slow down energy dissipation to heat",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "By contrast, the stability of PSCs has become a major obstacle to their long-term commercial viability ,",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Perovskites are very sensitive to various factors including ambient air, water, UV light, thermal stress, etc",
+            "all_materials": [
+                "air",
+                "water"
+            ],
+            "other_materials": [
+                "air",
+                "water"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In conventional PSCs, hole transporting layers  and electron transport layers  are sandwiched between the perovskite absorbing layer and the top and bottom electrodes,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "These layers aid in the separation and collection of charge carriers produced when light strikes the perovskite layer",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Titanium dioxide  is the most common corrosion-prevention ETL material used in perovskite solar cells ,",
+            "all_materials": [
+                "Titanium dioxide",
+                "ETL"
+            ],
+            "other_materials": [
+                "Titanium dioxide",
+                "ETL"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This type of ETL usually has two layers: a compact TiO2 layer  and a mesoporous TiO2 layer  ,",
+            "all_materials": [
+                "ETL",
+                "TiO2",
+                "TiO2"
+            ],
+            "other_materials": [
+                "ETL",
+                "TiO2",
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Due to their high carrier mobility, low cost, and ability to be processed in a solution, 2D materials are becoming more likely to be used as an HTL or a buffer layer ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The use of 2D MoS2 nanoflakes increased charge extraction while decreasing recombination at interfaces",
+            "all_materials": [
+                "MoS2"
+            ],
+            "other_materials": [
+                "MoS2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "By combining 2D MoS2 and perovskite, solar cells with high efficiency with long-term stability can be developed",
+            "all_materials": [
+                "MoS2"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "MoS2",
+                    "start": 16,
+                    "end": 20,
+                    "token_ids": [
+                        3
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The cooperation of iodine and sulfur vacancies helps to promote ultrafast charge extraction at the MAPbI3/MoS2 interface .",
+            "all_materials": [
+                "iodine",
+                "sulfur",
+                "MAPbI3",
+                "MoS2"
+            ],
+            "other_materials": [
+                "iodine",
+                "sulfur",
+                "MAPbI3",
+                "MoS2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this review, we aim to highlight the most recent and promising methodologies for developing high-performance solar cell architecture and integrating them with perovskites to achieve high stability",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To investigate the electrical behavior of ultrathin 2D materials, the majority of solar cells use mechanical exfoliation as well as chemical vapor deposition",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This allows for the development of solar cells made of an inherent semiconductor or other nanomaterials",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A comparison of device performance and characteristics, including 2D solar cells, is also carried out",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Finally, a summary of current challenges is presented along with the potential future solutions",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The various 2D TMDs solar cells designed are shown in Fig",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "1.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Semiconducting TMDs show promise for moderate to high efficiency, moderate specific power, and flexibility due to their maximum absorption coefficients, self-passivated surfaces, and variation in the band gap",
+            "all_materials": [
+                "TMDs"
+            ],
+            "other_materials": [
+                "TMDs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, problems like Fermi-level pinning at the interface between the metal and the TMD and the inability to use standard doping procedures have kept most TMD solar cells from reaching 2% PCE",
+            "all_materials": [
+                "TMD",
+                "TMD"
+            ],
+            "other_materials": [
+                "TMD",
+                "TMD"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, manufacturing on flexible substrates pollutes or degrades TMD connections,",
+            "all_materials": [
+                "TMD"
+            ],
+            "other_materials": [
+                "TMD"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The testing of large-scale perovskite modules and panels in an outdoor environment is a critical step in the process of industrializing perovskite solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Pescetelli et al., demonstrate how to construct large-area perovskite solar panels  using 40 modules and 2D interfaces",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The panels are half a square meter in size",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Following that, the system&#x27;s scalability is demonstrated by connecting nine GRAPE panels with a total panel size of 4.5\u2009m2 in a",
+            "all_materials": [
+                "GRAPE"
+            ],
+            "other_materials": [
+                "GRAPE"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A middle MoS2 thin-film layer grown by CVD significantly increased the PV performance of Gr/Si Schottky junction-based solar cells",
+            "all_materials": [
+                "MoS2"
+            ],
+            "other_materials": [
+                "MoS2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The MX2/Gr heterostructure adhesion energy is increased by nitrogen doping of both pristine Gr  and Gr with Stone-Wales defects, favoring the growth of ultrathin MX2 layers",
+            "all_materials": [
+                "MX2/Gr",
+                "Gr",
+                "Gr",
+                "MX2"
+            ],
+            "other_materials": [
+                "MX2/Gr",
+                "Gr",
+                "Gr",
+                "MX2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Enhancing the stability of the interface is one of the functions of doping",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This layer serves as an electron blocking layer as well as an HTL",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It was also",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Finally, the purpose of this review was to shed light on the most recent and promising 2D solar cell assembly methodologies as well as how they impact the stability of perovskite PVs",
+            "all_materials": [
+                "PVs"
+            ],
+            "other_materials": [
+                "PVs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The review discussed the PV devices, composed of ultrathin layers of TMDs that have been mechanically exfoliated and deposited using CVD processes",
+            "all_materials": [
+                "TMDs"
+            ],
+            "other_materials": [
+                "TMDs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Firstly, it discussed the influence of WSe2 layers in the development of effective electron-selective contacts of PVs as well as efficient flexible PV devices.",
+            "all_materials": [
+                "WSe2",
+                "PVs",
+                "PV"
+            ],
+            "other_materials": [
+                "WSe2",
+                "PVs",
+                "PV"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Sikandar Aftab: Supervision, Conceptualization, Methodology, software, Writing- Original draft preparation, Writing- Reviewing and Editing the revised manuscript: Muhammad Zahir Iqbal: Proofread the Original draft: Sajjad Hussain: Proofread the revised draft: Hosameldin Helmy Hegazy: Facilitate in Original draft preparation: Muhammad Ahsan Saeed: Facilitate to design a comparison table.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work was supported by the National Research Foundation of Korea  grant funded by the Korea government",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors gratefully thank the Deanship of Scientific Research at King Khalid University for funding this work through the Small Groups Project under grant number .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Sikandar Aftab earned his Ph.DDr",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "in Physics from Department of Physics and Graphene Research Institute, Sejong University, South Korea",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "He also completed a two-year post-doctoral fellowship at Simon Fraser University in Burnaby, Canada",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Aftab is currently employed as an Assistant Professor at Sejong University&#x27;s Department of Intelligent Mechatronics Engineering in Seoul, South KoreaDr",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "His research interests include nanodevices based on two-dimensional materials heterostructures, energy",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, Sol-gel auto combustion is used to successfully synthesize M\u2212type La3+ and Ni2+ substituted strontium nano-hexaferrite, Sr1-xLaxFe12-yNiyO19 , powders",
+            "all_materials": [
+                "Sr1-xLaxFe12-yNiyO19"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "Sr1-xLaxFe12-yNiyO19"
+        },
+        {
+            "sentence": "The prepared materials are sintered at a temperature of 1200\u00a0\u00b0C for 2\u00a0h",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                4,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Characterization techniques like XRD, FT-IR, FE-SEM, VSM, and LCR Meter Bridge are used to study the structural, morphological, magnetic, and dielectric properties at room temperature",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The XRD analysis of samples confirmed the formation of a single-phase hexagonal structure with P63/mmc space group",
+            "all_materials": [
+                "P63/mmc"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "P63/mmc"
+        },
+        {
+            "sentence": "The saturation magnetization values initially increased and then decreased after\u00a0\u00d7\u00a0\u00a0=\u00a00.15 with the increase in La3+ and Ni2+ ions content",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The coercivity showed irregular variation with the increase in dopants concentration",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The loss tangent and dielectric constant parameters were also obtained to investigate the dielectric nature of prepared samples.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The semiconducting transition metal dichalcogenide  materials, tungsten disulfide  and molybdenum disulfide , holding a hexagonal structure, acquiring much attention for energy storage applications",
+            "all_materials": [
+                "tungsten disulfide",
+                "molybdenum disulfide"
+            ],
+            "other_materials": [
+                "tungsten disulfide",
+                "molybdenum disulfide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, various film thicknesses of silver sputtered molybdenum\u2011tungsten-disulfide  were deposited via magnetron sputtering technique",
+            "all_materials": [
+                "silver",
+                "molybdenum\u2011tungsten-disulfide"
+            ],
+            "other_materials": [
+                "silver",
+                "molybdenum\u2011tungsten-disulfide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The surface and structural morphology of MoWS2@Ag samples were analyzed via scanning electron microscope, X-ray diffraction, energy dispersive X-ray, and atomic force microscopy",
+            "all_materials": [
+                "MoWS2@Ag"
+            ],
+            "other_materials": [
+                "MoWS2@Ag"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "MoWS2@Ag exhibits the best performance in three electrode configuration by showing a maximum specific capacity of 367C/g",
+            "all_materials": [
+                "MoWS2@Ag"
+            ],
+            "other_materials": [
+                "MoWS2@Ag"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A hybrid supercapacitor device was assembled using MoWS2@Ag and activated carbon as the electrodes",
+            "all_materials": [
+                "MoWS2@Ag",
+                "carbon"
+            ],
+            "other_materials": [
+                "MoWS2@Ag",
+                "carbon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The device possessed maximum energy and power of 35\u00a0Wh/kg and 5950\u00a0W/kg, respectively",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To confirm the hybrid nature of the device, b values were calculated",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The remarkable performance of MoWS2@Ag makes it an excellent electrode for hybrid supercapacitors.",
+            "all_materials": [
+                "MoWS2@Ag"
+            ],
+            "other_materials": [
+                "MoWS2@Ag"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Van der Waals semiconductors, with ultrathin body thickness and dangling-bond-free surfaces, have been employed to fabricate a vast range of electronic and optoelectronic devices such as transistors, photodiodes and memories",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The integration of these different functional elements into one single device, usually referred to as multifunctional device, has received great research attention in the recent years",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, we realized a multifunctional device, based on the van der Waals semiconductor Indium Selenide , which can work both as a high-quality Schottky diode with current rectification and photovoltaic characteristics and as a memory",
+            "all_materials": [
+                "Indium Selenide"
+            ],
+            "other_materials": [
+                "Indium Selenide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "By exploiting the all-dry deterministic transfer fabrication method, we deposited the 2D InSe channel onto pre-deposited graphite and platinum electrodes, whose theoretical work functions differ of \u223c1.0\u20131.4\u00a0eV",
+            "all_materials": [
+                "InSe",
+                "graphite",
+                "platinum"
+            ],
+            "other_materials": [
+                "InSe",
+                "graphite",
+                "platinum"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Thanks to a controllable InSe air passivation treatment, these devices, which start in a non-rectifying state with negligible electrodes-InSe barriers, gradually evolve into Schottky diodes, presenting a final sizeable Schottky barrier height of 556\u00a0\u00b1\u00a050\u00a0meV at the Pt-InSe interface, thus resulting in a gradual tuning of the device photoresponsivity and photovoltaic parameters",
+            "all_materials": [
+                "InSe air",
+                "-InSe",
+                "Pt-InSe"
+            ],
+            "other_materials": [
+                "InSe air",
+                "-InSe",
+                "Pt-InSe"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The multifunctional capabilities of these devices were demonstrated by using them as optoelectronic memories, which can achieve on-off ratios between the logical \u20181\u2019 and \u20180\u2019 up to 100 and retention times of thousands of seconds",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This multifunctional behavior can be ascribed to the traps present in the system, which on one side influences the metal-semiconductor barriers and on the other introduces charge storage capabilities at the base of the memory operation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Our results demonstrate that trap state modulation can be an important tuning knob for thin InSe in the field of electronics and optoelectronics.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The carrier non-radiative recombination loss caused by numerous interfacial defects existing between perovskite and neighboring charge transport layers, such as SnO2/perovskite and perovskite/spiro-OMeTAD, which greatly restricts the performance improvement of flexible perovskite solar cells",
+            "all_materials": [
+                "SnO2/perovskite",
+                "perovskite/spiro-OMeTAD"
+            ],
+            "other_materials": [
+                "SnO2/perovskite",
+                "perovskite/spiro-OMeTAD"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, we devised a novel dual-modification strategy using Ce-containing compounds 3 and Ce2) to minimize interfacial defect density at the interface of SnO2/perovskite and perovskite/spiro-OMeTAD respectively, thus enhancing the performance and stability of flexible PSCs",
+            "all_materials": [
+                "Ce2",
+                "SnO2",
+                "perovskite",
+                "spiro-OMeTAD",
+                "PSCs"
+            ],
+            "other_materials": [
+                "SnO2",
+                "perovskite",
+                "spiro-OMeTAD",
+                "PSCs"
+            ],
+            "precursors": [
+                {
+                    "text": "Ce2",
+                    "start": 90,
+                    "end": 93,
+                    "token_ids": [
+                        17
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It was revealed that the introduction of Ce23 interface layer was conducive to ameliorating the electrical properties of SnO2 and significantly reducing the SnO2/perovskite interface defects",
+            "all_materials": [
+                "Ce23",
+                "SnO2",
+                "SnO2/"
+            ],
+            "other_materials": [
+                "Ce23",
+                "SnO2",
+                "SnO2/"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, the Ce2 was adopted as a novel oxidant to achieve the rapid oxidation of spiro-OMeTAD, thus enhancing the hole mobility of bulk spiro-OMeTAD and suppressing perovskite/spiro-OMeTAD interface defects",
+            "all_materials": [
+                "Ce2",
+                "spiro-OMeTAD",
+                "spiro-OMeTAD",
+                "spiro-OMeTAD"
+            ],
+            "other_materials": [
+                "Ce2",
+                "spiro-OMeTAD",
+                "spiro-OMeTAD",
+                "spiro-OMeTAD"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, reduced non-radiative recombination losses near the two interfaces of the perovskite layer could be achieved by such a novel and comprehensive modification strategy",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In consequence, the Ce-modified flexible and rigid PSCs achieved excellent photoelectric conversion efficiency  of 19.34 % and 22.62 %, respectively",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Notably, the optimized flexible PSCs exhibited outstanding mechanical durability, and 83.2 % of the initial PCE was maintained after 3000 bending cycles.",
+            "all_materials": [
+                "PSCs",
+                "PCE"
+            ],
+            "other_materials": [
+                "PSCs",
+                "PCE"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Excess PbI2 can improve the efficiency of perovskite solar cells",
+            "all_materials": [
+                "PbI2"
+            ],
+            "other_materials": [
+                "PbI2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, it usually leads to poor cell stability due to the chemically active nature of PbI2",
+            "all_materials": [
+                "PbI2"
+            ],
+            "other_materials": [
+                "PbI2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Improving the stability of PbI2-rich perovskite solar cells without scarifying the efficiency remains challenging",
+            "all_materials": [
+                "PbI2"
+            ],
+            "other_materials": [
+                "PbI2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, it is found that the non-uniform and multiple nucleation of perovskite induces crystallographic disorders at grain boundaries  of PbI2-rich perovskite",
+            "all_materials": [
+                "PbI2"
+            ],
+            "other_materials": [
+                "PbI2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "These disorders working as the n-type shallow dopant reduces the energy barrier for photogenerated electrons to reach GBs, triggering the decomposition of excess PbI2 there",
+            "all_materials": [
+                "PbI2"
+            ],
+            "other_materials": [
+                "PbI2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, the instability of PbI2-rich PSCs is related with the remote coupling of excess PbI2 with the disorders at GBs",
+            "all_materials": [
+                "PbI2",
+                "PSCs",
+                "PbI2"
+            ],
+            "other_materials": [
+                "PbI2",
+                "PSCs"
+            ],
+            "precursors": [
+                {
+                    "text": "PbI2",
+                    "start": 91,
+                    "end": 95,
+                    "token_ids": [
+                        17
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In light of this finding, we introduced a small amount  of CdI2 into precursor solution to optimize the crystallization of PbI2-rich perovskite, and finally achieved a trade-off between efficiency and stability in PbI2-rich PSCs",
+            "all_materials": [
+                "CdI2",
+                "PbI2",
+                "PbI2",
+                "PSCs"
+            ],
+            "other_materials": [
+                "PbI2",
+                "PbI2",
+                "PSCs"
+            ],
+            "precursors": [
+                {
+                    "text": "CdI2",
+                    "start": 59,
+                    "end": 63,
+                    "token_ids": [
+                        12
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The optimized PSCs with 10\u00a0mol% excess PbI2  achieved a champion efficiency of 24.26% at the bandgap 1.55\u00a0eV with robust stability",
+            "all_materials": [
+                "PSCs",
+                "PbI2"
+            ],
+            "other_materials": [
+                "PSCs",
+                "PbI2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "PC-Devices maintain more than 90% of the initial efficiency after being stressed under UV light in ambient with a relative humidity of 50% for 500\u00a0h, and 70% under heat at 85\u02daC for 400\u00a0h, both of which are far superior to the pristine PbI2-rich solar cells.",
+            "all_materials": [
+                "PbI2"
+            ],
+            "other_materials": [
+                "PbI2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Inorganic perovskites are receiving growing attention due to good thermal stability and fast-improving photovoltaic performance",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, most of the high-efficiency inorganic perovskite solar cells  were fabricated in inert atmosphere",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                13,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, we report an additive-assisted airflow drying  method to make mixed-halide inorganic perovskite films in ambient air",
+            "all_materials": [
+                "airflow",
+                "air"
+            ],
+            "other_materials": [
+                "airflow",
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The nucleation and crystal growth during film formation are controlled by using airflow dying and lead acetate trihydrate additive, producing pinhole-free film with low defect density",
+            "all_materials": [
+                "airflow",
+                "lead acetate trihydrate"
+            ],
+            "other_materials": [
+                "airflow",
+                "lead acetate trihydrate"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Consequently, efficiency of CsPbI2.25Br0.75 PSCs is improved to 18.49%, which is the highest for wide-bandgap  inorganic PSCs",
+            "all_materials": [
+                "CsPbI2.25Br0.75 PSCs",
+                "PSCs"
+            ],
+            "other_materials": [
+                "CsPbI2.25Br0.75 PSCs",
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "An efficiency of 17.08% is achieved for PSCs made under moderate relative humidity",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, PCEs of 17.39% and 11.54% are achieved for CsPbI2Br and CsPbIBr2 PSCs, respectively, which are among the best PCEs for CsPbI2Br and CsPbIBr2 PSCs",
+            "all_materials": [
+                "CsPbI2Br",
+                "CsPbIBr2 PSCs",
+                "CsPbI2Br",
+                "CsPbIBr2 PSCs"
+            ],
+            "other_materials": [
+                "CsPbI2Br",
+                "CsPbIBr2 PSCs",
+                "CsPbI2Br",
+                "CsPbIBr2 PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work provides a convenient and efficient method to make efficient inorganic PSCs in ambient air.",
+            "all_materials": [
+                "PSCs",
+                "air"
+            ],
+            "other_materials": [
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "Sikandar Aftab earned his Ph.DDr",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "in Physics from Department of Physics and Graphene Research Institute, Sejong University, South Korea",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "He also completed a two-year post-doctoral fellowship at Simon Fraser University in Burnaby, Canada",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Aftab is currently employed as an Assistant Professor at Sejong University&#x27;s Department of Intelligent Mechatronics Engineering in Seoul, South KoreaDr",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "His research interests include nanodevices based on two-dimensional materials heterostructures, energy storage devices and solar cells.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Muhammad Zahir Iqbal\u2019s research output is prolific, ranging from spin and quantum electronics to optoelectronics and renewable energyDr",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "He holds two doctoral degrees, from Sejong University, South Korea, and with a mark of excellence from Universitat Polit\u00e8cnica de Catalunya , Spain; and carried out his postdoctoral research at Georgia State University, USA",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "He is currently working as an Associate Professor at the Ghulam Ishaq Khan Institute of Engineering Sciences and Technology , Pakistan",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "His research work has won him accolades both at home and abroad; bringing him five consecutive GIK researcher of the year awards , the Pakistan Academy of Sciences  Gold Medal , and the HEC Best Paper Award",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Since 2020 he has been included in the prestigious list of top 2% globally influential researchers working in the field of renewable energy released by Stanford University.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Sajjad Hussain received his MS degree in 2008 from the Department of Physics, Chemistry and Biology  at Link\u00f6ping University, SwedenDr",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "He worked at Ecospark AB  during the period 2009\u20132011 as a development engineer",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "He got his Ph.D",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "from the Department of Nanotechnology and Advanced Materials Engineering Sejong University, Seoul in 2016",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Currently, he is working as Assistant Professor in the same department",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "His research interests currently focus on the synthesis of two-dimensional chalcogenides  materials.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Hosameldin Helmy Hegazy is currently working as an associate professor in the Department of Physics, Faculty of Science, King University, Abha, Saudi ArabiaDr",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "He earned his Ph.D",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "in Semiconductor Physics from Saint Petersburg Electrotechnical University \u201cLETI,\u201d Russia",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "His main scientific interests are fabrication, characterization, and applications for thin film photovoltaics, energy storage-related materials, and low-dimensional heterostructures.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Muhammad Ahsan Saeed holds a Ph.DDr",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "degree in Microelectronics Engineering from Dongguk University, Seoul, South Korea",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "He is currently a Research Professor at Korea University, South Korea",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "His research interests are focused on the applications of organic polymers and 2D materials in emerging photovoltaic devices",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Further, he is interested in interface and electrode engineering for developing high-performance energy harvesting systems.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

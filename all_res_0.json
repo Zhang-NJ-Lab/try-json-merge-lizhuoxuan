@@ -1,0 +1,1350 @@
+{
+    "rest": [
+        {
+            "sentence": "An antireflection  film on the surface of the photovoltaic glass can significantly improve the photoelectric conversion efficiency of solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, AR films prepared by a facile and low-cost sol-gel method usually exhibit poor mechanical properties, which limits their applications",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                4,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, hexamethoxy methyl melamine resin  was employed as a pore-forming agent in the sol and sacrificial template to prepare porous SiO2 film on glass by a facile sol-gel method and subsequent heat treatment",
+            "all_materials": [
+                "hexamethoxy methyl melamine resin",
+                "SiO2"
+            ],
+            "other_materials": [
+                "hexamethoxy methyl melamine resin"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "SiO2"
+        },
+        {
+            "sentence": "The obtained SiO2 film showed a high solar transmittance increase of 3.24% in the wavelength range of 380\u20131100\u00a0nm and a good hardness of H when the dosage of CYMEL 303LF is 10\u00a0wt%, the short circuit current density and photoelectric conversion efficiency of the solar cell are increased respectively by 1.44\u00a0mA/cm2 and 1.08%, compared with the substrate, which is better than most SiO2 films in the previous works",
+            "all_materials": [
+                "SiO2",
+                "CYMEL 303LF",
+                "SiO2"
+            ],
+            "other_materials": [
+                "SiO2",
+                "CYMEL 303LF",
+                "SiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "With increasing the dosage of CYMEL 303LF from 0% to 12%, the solar transmittance gain was increased at first and then decreased, while the film hardness was decreased straightly",
+            "all_materials": [
+                "CYMEL 303LF"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "CYMEL 303LF",
+                    "start": 30,
+                    "end": 41,
+                    "token_ids": [
+                        5,
+                        6
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This was probably because that the introduction of CYMEL 303LF can facilitate the formation of more pores in the SiO2 film, leading to a decrease in the refractive index and film adhesion",
+            "all_materials": [
+                "CYMEL 303LF",
+                "SiO2"
+            ],
+            "other_materials": [
+                "CYMEL 303LF",
+                "SiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, this work can provide a facile method to prepare high-performance SiO2 as AR film for solar cells.",
+            "all_materials": [
+                "SiO2"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "SiO2"
+        },
+        {
+            "sentence": "Download : Download high-res image Download : Download full-size imagePorous superhydrophilic SiO2 antireflection membrane with good optical and mechanical properties was prepared by CYMEL 303LF as pore forming agent.",
+            "all_materials": [
+                "SiO2"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                25,
+                "StartingSynthesis"
+            ],
+            "targets": "SiO2"
+        },
+        {
+            "sentence": "In recent years, with the gradual exhaustion of non-renewable energy sources such as coal, oil, and natural gas, and increasingly aggravated environmental problems [1,2], solar photovoltaic power generation technology has been paid more and more attention for developing clean and renewable energy sources",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, due to the limitation of the semiconductor material itself and the reflection of sunlight by the photovoltaic glass as a protective cover, the current photoelectric conversion efficiency of solar cells is low",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "There are two main ways to improve the photoelectric conversion efficiency of solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                4,
+                "Mixing"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "One is to develop semiconductor materials with higher conversion efficiency, the other is to improve the transmittance of photovoltaic glass",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Due to the time-consuming and high cost of developing new materials, it is relatively simple and feasible to improve the transmittance of photovoltaic glass.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In order to improve the transmittance of photovoltaic glass , a thin film is usually coated on the surface of photovoltaic glass, when the refractive index of the thin film is the square root of the refractive index of air and substrate , and the thickness satisfies d\u00a0=\u00a0\u03bb/4n , two adjacent beams of light vibrate in opposite directions, resulting in interference cancellation, reducing the reflectivity of the film, thereby improving the photoelectric conversion efficiency of the solar cell",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "SiO2 is often used as a material for preparing photovoltaic glass antireflection  films because of its low refractive index , abundant content in nature, low cost, and simple preparation process",
+            "all_materials": [
+                "SiO2"
+            ],
+            "other_materials": [
+                "SiO2"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                8,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The preparation methods of AR coatings mainly include evaporation coating method, sputtering coating method , ion coating method , microemulsion method , chemical vapor deposition method, etching method, and sol-gel method",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The sol-gel method has been widely used due to its advantages of less required raw materials, simple preparation method and equipment , low production cost, good ability to prepare large-area thin films, and easy industrial production",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The traditional sol-gel method for the preparation of SiO2 AR film generally uses tetraethyl orthosilicate  as a hydrolysis precursor, ethanol  as the solvent, and acid or alkali as catalysts for reactions",
+            "all_materials": [
+                "SiO2 AR",
+                "tetraethyl orthosilicate",
+                "ethanol"
+            ],
+            "other_materials": [
+                "ethanol"
+            ],
+            "precursors": [
+                {
+                    "text": "tetraethyl orthosilicate",
+                    "start": 82,
+                    "end": 106,
+                    "token_ids": [
+                        15,
+                        16
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "SiO2 AR"
+        },
+        {
+            "sentence": "After aging for several days, the film is coated by pulling or spin coating [10,11]",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Among them, when alkali is used as a catalyst, the hydrolysis of TEOS is a nucleophilic reaction, SiO2 is in the form of particles, there is point contact between particles and particles and between particles and the matrix , the binding force is van der Waals force, leading to a higher transmittance higher while lower hardness",
+            "all_materials": [
+                "TEOS",
+                "SiO2"
+            ],
+            "other_materials": [
+                "TEOS",
+                "SiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "When acid is used as a catalyst, the hydrolysis of TEOS is an electrophilic reaction, the product has a higher degree of cross-linking, the surface of the film is denser, which increases the reflection of light, resulting in a lower transmittance while higher hardness",
+            "all_materials": [
+                "acid",
+                "TEOS"
+            ],
+            "other_materials": [
+                "acid",
+                "TEOS"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "From the perspective of the reaction mechanism of TEOS in different catalytic systems, the transmittance and hardness of the AR coating cannot be achieved simultaneously",
+            "all_materials": [
+                "TEOS",
+                "AR"
+            ],
+            "other_materials": [
+                "TEOS",
+                "AR"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, it is only possible to appropriately improve one while sacrificing the other.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In order to improve the transmittance of acid-catalyzed films, a template or pore-forming agent is usually introduced during the preparation of the sol, and then decomposed to generate pores through high-temperature heating treatment, thereby increasing the transmittance of the film while sacrificing a certain hardness",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Poloxamer  was employed as a pore-forming agent to prepare a superhydrophilic SiO2 AR film with good optical and mechanical properties",
+            "all_materials": [
+                "Poloxamer",
+                "SiO2"
+            ],
+            "other_materials": [
+                "Poloxamer"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "SiO2"
+        },
+        {
+            "sentence": "The average transmittance of the AR coating in the visible light region is 92.01%, the transmittance gain is 2.53%, the water contact angle  is 9\u00b0, and the hardness of H",
+            "all_materials": [
+                "AR",
+                "water"
+            ],
+            "other_materials": [
+                "AR",
+                "water"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Dimethyldiethoxysilane  was used as a pore-forming agent to prepare a new type of monolayer microporous SiO2 AR film on both sides of the substrate",
+            "all_materials": [
+                "Dimethyldiethoxysilane",
+                "SiO2"
+            ],
+            "other_materials": [
+                "Dimethyldiethoxysilane"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "SiO2"
+        },
+        {
+            "sentence": "The transmittance of the film is increased by 5%\u223c6% compared with the substrate, while the hardness remains above 2\u00a0H, the WCA is 33\u00b0, and it has good friction resistance and adhesion",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Jinghua Sun et\u00a0al",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "used triblock polymer  as a pore-forming agent , the ordered mesoporous silica optical AR coating was successfully prepared by ammonia and HMDS post-treatment",
+            "all_materials": [
+                "silica",
+                "ammonia"
+            ],
+            "other_materials": [
+                "ammonia"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                19,
+                "StartingSynthesis"
+            ],
+            "targets": "silica"
+        },
+        {
+            "sentence": "The light transmittance of AR coating on quartz substrate is as high as 99.99%, and the WCA is 88\u00b0.In addition, cetyl trimethyl ammonium bromide , polyvinylpyrrolidone , polyethylene glycol , polyethylene glycol monomethyl ether  were also used as a pore-forming agent [, ], and thus can effectively improve the transmittance of acid-catalyzed films",
+            "all_materials": [
+                "AR",
+                "quartz",
+                "cetyl trimethyl ammonium bromide",
+                "polyvinylpyrrolidone",
+                "polyethylene glycol",
+                "polyethylene glycol monomethyl ether"
+            ],
+            "other_materials": [
+                "AR",
+                "quartz",
+                "cetyl trimethyl ammonium bromide",
+                "polyvinylpyrrolidone",
+                "polyethylene glycol",
+                "polyethylene glycol monomethyl ether"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Although a lot of work was focused on the AR film of photovoltaic glass, it is still difficult to apply in practice, mainly because the three performance requirements of transmittance, hardness and wettability can not be satisfied at the same time.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "CYMEL 303LF is a commercial-grade hexamethoxy methyl melamine resin that can be dissolved in most common organic solvents and mainly contains methoxy methyl functional groups, making it useful as a cross-linker for polymers containing hydroxyl, carboxyl, and other functional groups",
+            "all_materials": [
+                "CYMEL 303LF",
+                "hexamethoxy methyl melamine resin",
+                "methoxy methyl"
+            ],
+            "other_materials": [
+                "CYMEL 303LF",
+                "hexamethoxy methyl melamine resin",
+                "methoxy methyl"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                14,
+                "SolutionMixing"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Its high monomer content and low self-condensation tendency can obtain films with high flexibility and formability",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Also, it exhibits high stability as well as good miscibility and solubility, and thus can be uniformly dispersed in acid-catalyzed polysiloxane polymer sol systems",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                19,
+                "LiquidGrinding"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, CYMEL 303LF can be employed as a pore former and sacrificial template to improve the transmittance of acid-catalyzed films",
+            "all_materials": [
+                "CYMEL 303LF"
+            ],
+            "other_materials": [
+                "CYMEL 303LF"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In order to balance the transmittance and hardness of acid-catalyzed film, CYMEL 303LF was added to the acid-catalyzed system as a pore-forming agent and sacrificial template, and then a porous SiO2 AR film was successfully prepared by spin coating and subsequent high-temperature heating treatment",
+            "all_materials": [
+                "CYMEL 303LF",
+                "SiO2 AR"
+            ],
+            "other_materials": [
+                "CYMEL 303LF"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                [
+                    17,
+                    "SolutionMixing"
+                ],
+                [
+                    43,
+                    "StartingSynthesis"
+                ]
+            ],
+            "targets": "SiO2 AR"
+        },
+        {
+            "sentence": "The effect of the additional amount of CYMEL 303LF on the microstructure and properties of the films was investigated in detail.",
+            "all_materials": [
+                "CYMEL 303LF"
+            ],
+            "other_materials": [
+                "CYMEL 303LF"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Tetraethyl orthosilicate , hydrochloric acid , ethanol , hexamethoxy methyl melamine resin , Formamidine iodide , Lead bromide , Lead iodide , 2,2\u2032,7,7\u2032-Tetrakis[N,N-diamino]-9,9\u2032-spirobifluorene",
+            "all_materials": [
+                "Tetraethyl orthosilicate",
+                "hydrochloric acid",
+                "ethanol",
+                "hexamethoxy methyl melamine resin",
+                "Formamidine iodide",
+                "Lead bromide",
+                "Lead iodide",
+                "2,2\u2032,7,7\u2032-Tetrakis[N,N-diamino]-9,9\u2032-spirobifluorene"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "Tetraethyl orthosilicate",
+                    "start": 0,
+                    "end": 24,
+                    "token_ids": [
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "text": "hydrochloric acid",
+                    "start": 27,
+                    "end": 44,
+                    "token_ids": [
+                        3,
+                        4
+                    ]
+                },
+                {
+                    "text": "ethanol",
+                    "start": 47,
+                    "end": 54,
+                    "token_ids": [
+                        6
+                    ]
+                },
+                {
+                    "text": "hexamethoxy methyl melamine resin",
+                    "start": 57,
+                    "end": 90,
+                    "token_ids": [
+                        8,
+                        9,
+                        10,
+                        11
+                    ]
+                },
+                {
+                    "text": "Formamidine iodide",
+                    "start": 93,
+                    "end": 111,
+                    "token_ids": [
+                        13,
+                        14
+                    ]
+                },
+                {
+                    "text": "Lead bromide",
+                    "start": 114,
+                    "end": 126,
+                    "token_ids": [
+                        16,
+                        17
+                    ]
+                },
+                {
+                    "text": "Lead iodide",
+                    "start": 129,
+                    "end": 140,
+                    "token_ids": [
+                        19,
+                        20
+                    ]
+                },
+                {
+                    "text": "2,2\u2032,7,7\u2032-Tetrakis[N,N-diamino]-9,9\u2032-spirobifluorene",
+                    "start": 143,
+                    "end": 195,
+                    "token_ids": [
+                        22
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The XRD patterns of SiO2 films with different mass fractions of CYMEL 303LF was shown in Fig.\u00a03a",
+            "all_materials": [
+                "SiO2",
+                "CYMEL 303LF"
+            ],
+            "other_materials": [
+                "SiO2",
+                "CYMEL 303LF"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It can be seen that there was no characteristic diffraction peak in the XRD pattern of each sample, only a broad diffraction peak appears between 20\u00b0 and 35\u00b0, indicating that all prepared SiO2 films were amorphous [20,21], and the addition of the pore-forming agent CYMEL 303LF did not change the amorphous phase of the SiO2 film.",
+            "all_materials": [
+                "SiO2",
+                "CYMEL 303LF",
+                "SiO2"
+            ],
+            "other_materials": [
+                "SiO2",
+                "CYMEL 303LF",
+                "SiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "FTIR spectra of SiO2 films with different mass fractions of CYMEL 303LF",
+            "all_materials": [
+                "SiO2",
+                "CYMEL 303LF"
+            ],
+            "other_materials": [
+                "SiO2",
+                "CYMEL 303LF"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, hexamethoxy methyl melamine resin as the pore-forming agent was decomposed at high temperature through subsequent heat treatment to prepare the porous superhydrophilic SiO2 AR film",
+            "all_materials": [
+                "hexamethoxy methyl melamine resin",
+                "SiO2"
+            ],
+            "other_materials": [
+                "hexamethoxy methyl melamine resin"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                15,
+                "HeatingOperation"
+            ],
+            "targets": "SiO2"
+        },
+        {
+            "sentence": "The effects of the pore-forming agent content on the microstructure and properties of the films were investigated in detail",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The introduction of hexamethoxy methyl melamine resin can significantly increase the porosity of the film, reduce the refractive index of the film, and further improve the",
+            "all_materials": [
+                "hexamethoxy methyl melamine resin"
+            ],
+            "other_materials": [
+                "hexamethoxy methyl melamine resin"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Mengfan Lu: Investigation, Data curation, Writing-Original draft preparation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Qiufen Liu: Formal analysis, Investigation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Ziao Wang: Visualization, Investigation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Xuemin Zhang: Investigation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Gan Luo: Data curation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Jianfeng Lu, Dawen Zeng, Xiujian Zhao: Writing-Reviewing and Editing",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Shouqin Tian: Supervision, Writing-Reviewing and Editing.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work was supported by the National Natural Science Foundation of China , the 111 project , the National Key R&amp;D Program of China , Key R&amp;D Project of Hubei Province , Open Foundation of the State Key Laboratory of Silicate Materials for Architectures at WUT , Open Research Fund Program of Science and Technology on Aerospace Chemical Power Laboratory , and State",
+            "all_materials": [
+                "Silicate"
+            ],
+            "other_materials": [
+                "Silicate"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Metal nanoparticles, particularly silver nanoparticles , exhibit excellent antibacterial properties",
+            "all_materials": [
+                "Metal",
+                "silver"
+            ],
+            "other_materials": [
+                "Metal",
+                "silver"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, their high mobility and Ag+ release rate can damage normal tissues and cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, their application in wound healing is limited",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Reducing Ag+ to AgNs using tannic acid  and Fe complexes  could effectively prevent the migration of AgNs and slow the release of Ag+ to achieve effective inhibition of bacteria",
+            "all_materials": [
+                "AgNs",
+                "tannic acid",
+                "Fe",
+                "AgNs"
+            ],
+            "other_materials": [
+                "AgNs",
+                "AgNs"
+            ],
+            "precursors": [
+                {
+                    "text": "tannic acid",
+                    "start": 27,
+                    "end": 38,
+                    "token_ids": [
+                        5,
+                        6
+                    ]
+                },
+                {
+                    "text": "Fe",
+                    "start": 44,
+                    "end": 46,
+                    "token_ids": [
+                        8
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Ag+ was reduced to AgNs using TA/Fe coating on the surface of calcium alginate and silk fibroin peptide microspheres  to prepare novel litchi-like microspheres",
+            "all_materials": [
+                "AgNs",
+                "TA/Fe",
+                "calcium alginate",
+                "silk"
+            ],
+            "other_materials": [
+                "AgNs",
+                "TA/Fe",
+                "calcium alginate",
+                "silk"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "CA/[email&#160;protected] showed good biocompatibility",
+            "all_materials": [
+                "CA"
+            ],
+            "other_materials": [
+                "CA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The growth and reproduction of Staphylococcus aureus and Pseudomonas aeruginosa were completely inhibited at a CA/[email&#160;protected] concentration of 20\u00a0mg/mL",
+            "all_materials": [
+                "Staphylococcus aureus",
+                "Pseudomonas aeruginosa"
+            ],
+            "other_materials": [
+                "Staphylococcus aureus",
+                "Pseudomonas aeruginosa"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The redox reaction of Ag+ with TA/Fe resulted in the oxidation of Fe2+ to Fe3+",
+            "all_materials": [
+                "TA"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "TA",
+                    "start": 31,
+                    "end": 33,
+                    "token_ids": [
+                        6
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The hemostatic ability of CA/[email&#160;protected] was significantly enhanced owing to the good coagulation ability of TA/Fe3+ in the blood, which reduced the bleeding time and hemostatic volume of the femoral artery to 109\u00a0s and 0.115\u00a0g, respectively",
+            "all_materials": [
+                "CA/",
+                "blood"
+            ],
+            "other_materials": [
+                "CA/",
+                "blood"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, TA/Fe-modified microspheres are good carriers of AgNs that can be used for efficient bacteriostasis, rapid hemostasis, and wound healing.",
+            "all_materials": [
+                "TA/Fe",
+                "AgNs"
+            ],
+            "other_materials": [
+                "TA/Fe",
+                "AgNs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In developing quicker, smaller, and more efficient optoelectronic devices, composite thin films are becoming progressively crucial",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "One reason for using composite thin films is to improve materials optical and electrical properties",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Thermal Evaporation is a type of physical vapor deposition that can produce thin films with well-controlled nanostructures that are pure, homogeneous, and conformal",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                1,
+                "DryingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The prime focus of this study was to fabricate TiO2 and composite TiO2:ZnO thin films on ITO-coated glass substrates by thermal Evaporation",
+            "all_materials": [
+                "TiO2",
+                "TiO2:ZnO",
+                "ITO"
+            ],
+            "other_materials": [
+                "ITO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "TiO2"
+        },
+        {
+            "sentence": "The goal of this study was to investigate the optical, structural, and electrical properties of deposited thin films",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The optical properties were assessed using UV\u2013Vis and Photoluminescence spectroscopy, and FTIR spectroscopy was used to identify the fingerprint of materials",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The crystal structure of deposited thin films was investigated using X-ray diffraction",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The changes in morphology induced by adding ZnO content to TiO2 were examined using optical microscopy",
+            "all_materials": [
+                "ZnO",
+                "TiO2"
+            ],
+            "other_materials": [
+                "ZnO",
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "SEM investigation corroborated the granular-like structure of thin films, whereas EDX demonstrated the doping and composition of ZnO concentration in TiO2",
+            "all_materials": [
+                "ZnO",
+                "TiO2"
+            ],
+            "other_materials": [
+                "ZnO",
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The electrical measurements were performed using the Van der Pauw technique",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Adding ZnO into TiO2 improved transmission, photoconductivity, and optical bandgap to generate a viable electron transport material  for efficient perovskite solar cells",
+            "all_materials": [
+                "ZnO",
+                "TiO2"
+            ],
+            "other_materials": [
+                "ZnO",
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "XRD results revealed the grain size increase after adding ZnO into TiO2",
+            "all_materials": [
+                "ZnO",
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2"
+            ],
+            "precursors": [
+                {
+                    "text": "ZnO",
+                    "start": 58,
+                    "end": 61,
+                    "token_ids": [
+                        9
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The transmission was increased to 95%, while the bandgap was decreased from 3.8\u00a0eV to 3.68\u00a0eV",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It was also revealed that after integrating ZnO into TiO2, the generated thin films have stronger visible photoluminescence peaks, and the material&#x27;s conductivity has been improved",
+            "all_materials": [
+                "ZnO",
+                "TiO2"
+            ],
+            "other_materials": [
+                "ZnO",
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The results indicate that TiO2:ZnO could be employed as an ETM in PSC to improve productivity.",
+            "all_materials": [
+                "TiO2:ZnO"
+            ],
+            "other_materials": [
+                "TiO2:ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Photocatalytic reduction is currently one of the most promising methods for the removal of heavy metal hexavalent chromium ions from aqueous environments, for which increasing focus has been directed towards heterostructure engineering of the existing photocatalysts, like SrTiO3",
+            "all_materials": [
+                "SrTiO3"
+            ],
+            "other_materials": [
+                "SrTiO3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, mesoporous heterostructured SrCO3-SrTiO3 microspheres constructed from nanosheets were synthesized by a facile one-step solvothermal method using ethylene glycol  and water as mixed solvents and exhibited enhanced photocatalytic performance in the degradation of 99.78% for the reduction of Cr under UV irradiation for 3\u00a0min compared with pure SrTiO3 microspheres, which is better than that of most photocatalysts in the previous works",
+            "all_materials": [
+                "SrCO3-SrTiO3",
+                "ethylene glycol",
+                "water",
+                "Cr",
+                "SrTiO3"
+            ],
+            "other_materials": [
+                "ethylene glycol",
+                "water",
+                "Cr",
+                "SrTiO3"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                14,
+                "StartingSynthesis"
+            ],
+            "targets": "SrCO3-SrTiO3"
+        },
+        {
+            "sentence": "The enhancement in the photocatalytic performance was probably attributed to the formed heterostructures between SrCO3 and SrTiO3 grains which can facilitate the transfer of photo-induced electrons from the conduction band  of SrTiO3 to CB of SrCO3, and adsorbed EG molecules which can consume the holes in valence band  of SrTO3, thus reducing the recombination of photo-induced carriers",
+            "all_materials": [
+                "SrCO3",
+                "SrTiO3",
+                "SrTiO3",
+                "CB",
+                "SrCO3",
+                "EG",
+                "SrTO3"
+            ],
+            "other_materials": [
+                "SrCO3",
+                "SrTiO3",
+                "SrTiO3",
+                "CB",
+                "SrCO3",
+                "EG",
+                "SrTO3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, the mesoporous structures with a large surface area can provide more active sites for the adsorption of Cr and thus accelerate subsequent reduction reaction of Cr with photo-induced electrons",
+            "all_materials": [
+                "Cr",
+                "Cr"
+            ],
+            "other_materials": [
+                "Cr",
+                "Cr"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, this work can provide a facile way to prepare high-performance photocatalysts for highly efficient and low-cost removal of Cr.",
+            "all_materials": [
+                "Cr"
+            ],
+            "other_materials": [
+                "Cr"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Defect-free perovskite materials are necessary for developing efficient solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "On FTO-glass substrates , cadmium-doped methylammonium lead bromide  films have been deposited",
+            "all_materials": [
+                "FTO",
+                "methylammonium lead bromide"
+            ],
+            "other_materials": [
+                "FTO",
+                "methylammonium lead bromide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Doping does not affect the cubic crystal structure of MAPbBr3; however, it has increased the grain size, according to XRD",
+            "all_materials": [
+                "MAPbBr3"
+            ],
+            "other_materials": [
+                "MAPbBr3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The band gap is decreased at 3% of Cd doping, due to which the deep-level traps are decreased",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Every cell shows good performance, but the cell formed with 3% Cd doping has a high fill factor , open circuit voltage , considerable short-circuit current density , and efficiency",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The high open circuit voltages and current density refer to the accumulation of charges at the holes and electrons transport layers being reduced due to Cd doping.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "SiO2 nanomaterials are widely used for antireflection and self-cleaning, but the preparation process is usually complex and time-consuming",
+            "all_materials": [
+                "SiO2"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "SiO2"
+        },
+        {
+            "sentence": "Hence, we present a facile one-step synthesis of a hydrophobic two-dimensional SiO2 nanomesh by tuning the reaction temperature using dodecylamine as a catalyst",
+            "all_materials": [
+                "SiO2",
+                "dodecylamine"
+            ],
+            "other_materials": [
+                "dodecylamine"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "SiO2"
+        },
+        {
+            "sentence": "SiO2 nanomesh has the advantages of an adjustable refractive index, simple preparation process, and low cost, which affords both antireflection and self-cleaning functions for solar cells",
+            "all_materials": [
+                "SiO2"
+            ],
+            "other_materials": [
+                "SiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Two types of perovskite solar cells were used to verify the stability and universality of the SiO2 nanomesh coatings",
+            "all_materials": [
+                "SiO2"
+            ],
+            "other_materials": [
+                "SiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The antireflection effect of the SiO2 nanomesh is found to increase the current density of both perovskite solar cells fabricated at 500\u00a0\u00b0C and 150\u00a0\u00b0C, with the efficiency increased by 4.48% and 4.79%, respectively.",
+            "all_materials": [
+                "SiO2"
+            ],
+            "other_materials": [
+                "SiO2"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                19,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Poor performance and instability due to high trap-state density severely restrict commercial application of perovskite solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Interface modification with appropriate materials is an effective way to passivate perovskite defects and improve device stability",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, a second-phase of perovskite [TA]PbClI2 was in-situ grown from first-phase of TACl reacted with remnant PbI2 atop perovskite film during the post-treatment process",
+            "all_materials": [
+                "[TA]PbClI2",
+                "TACl",
+                "PbI2"
+            ],
+            "other_materials": [
+                "PbI2"
+            ],
+            "precursors": [
+                {
+                    "text": "TACl",
+                    "start": 86,
+                    "end": 90,
+                    "token_ids": [
+                        17
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "[TA]PbClI2"
+        },
+        {
+            "sentence": "As the spacer ion of lead-halide polyhedron, TA+ effectively passivates the defects at the interface through chemical bond cooperation and hydrogen bond interaction, and synergies with well-formed energy level arrangement and improved carrier transportation",
+            "all_materials": [
+                "lead-halide",
+                "TA+",
+                "hydrogen"
+            ],
+            "other_materials": [
+                "lead-halide",
+                "TA+",
+                "hydrogen"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Ultimately, the power conversion efficiency  of the devices is promoted from 20.27% to 22.53%",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, [TA]PbClI2 acts as a robust barrier on the perovskite surface due to its low-dimensional structure and hydrophobicity, which obviously enhances the long-term and humidity stability of the solar cells",
+            "all_materials": [
+                "[TA]PbClI2"
+            ],
+            "other_materials": [
+                "[TA]PbClI2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "PSCs with [TA]PbClI2 can retain 83% of its initial efficiency after 255 days in N2 atmosphere, and maintain 60% after 216\u00a0h in air under 60% relative humidity, compared to 67% and 28% for the control one, respectively.",
+            "all_materials": [
+                "[TA]PbClI2",
+                "N2",
+                "air"
+            ],
+            "other_materials": [
+                "[TA]PbClI2",
+                "N2",
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors contributed equally.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

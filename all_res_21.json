@@ -1,0 +1,1606 @@
+{
+    "rest": [
+        {
+            "sentence": "Lead amine halide perovskite solar cells have been dominating photovoltaic research in this decade",
+            "all_materials": [
+                "Lead amine halide"
+            ],
+            "other_materials": [
+                "Lead amine halide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The quality of the perovskite layer plays a significant role in the photovoltaic performance of planar perovskite devices, and solvent engineering is an effective method to improve the quality of the perovskite layer",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here, we introduce acetonitrile  as an effective solvent additive in the preparation of cation-anion-mixed perovskite of Cs0.050.95Pb3",
+            "all_materials": [
+                "acetonitrile",
+                "Cs0.050.95Pb3"
+            ],
+            "other_materials": [
+                "acetonitrile"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "Cs0.050.95Pb3"
+        },
+        {
+            "sentence": "The morphology observation indicates that a large grain, compact and pinhole-free perovskite layer is obtained by ACN adding",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Steady-state and time-resolved photoluminescence measurements demonstrate fewer defects and less carrier recombination in the perovskite layer with ACN adding",
+            "all_materials": [
+                "ACN"
+            ],
+            "other_materials": [
+                "ACN"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                22,
+                "Mixing"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The planar perovskite solar cell with ACN adding achieves a power conversion efficiency of 19.15% with slight hysteresis and stable output, while the device without ACN adding gets an efficiency of 17.47% under the same experiment conditions",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                7,
+                "Mixing"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The simple and green preparation process and the significant improvement of the device performance render this method promising.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Download : Download high-res image Download : Download full-size image",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Lead amine halide perovskite solar cells have been dominating photovoltaic research in this decade , owing to their lower cost, easier preparation, and higher efficiency compared with other photovoltaic devices , as well as the unique features of the lead amine halide perovskite\u2014broad and strong light absorption, low exciton binding energy, and the long diffusion length and long life time of the charge carrier",
+            "all_materials": [
+                "Lead amine halide",
+                "lead amine halide"
+            ],
+            "other_materials": [
+                "Lead amine halide",
+                "lead amine halide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The perovskite solar cells  have obtained a great progress with a power conversion efficiency  of 3.8% in 2009 to more than 22% at present ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Still, there is plenty of room to improve their power conversion efficiencies",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Many technologies have been developed to improve the performance of the PSCs, including solvent engineering, interfacial engineering, bandgap engineering, etc",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Solvent engineering improves the quality of perovskite layers by optimizing the solvent compositions and regulating the crystallization process,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Solvent engineering includes mixed solvents, solvent treatments, and deposition procedure optimization; it is an effective way to obtain high quality perovskite films, and is thus widely used .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Among various kinds of perovskite solar cell structures, planar sandwich configuration is widely used on account of its simple preparation procedure and low cost",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Lead amine halide perovskite is not only a light absorber; it can also function as the electron transporter and the hole transporter in the device",
+            "all_materials": [
+                "Lead amine halide"
+            ],
+            "other_materials": [
+                "Lead amine halide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It is the most important component in perovskite solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The anion-cation-mixed perovskite, such as the Cs0.050.95Pb3 [MA: methylammonium cation, CH3NH3; FA: formamidinium, HC], has become a research hotspot, owing to its high device efficiency and good stability",
+            "all_materials": [
+                "Cs0.050.95Pb3",
+                "MA: methylammonium cation",
+                "CH3NH3",
+                "FA",
+                "HC"
+            ],
+            "other_materials": [
+                "FA",
+                "HC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "Cs0.050.95Pb3"
+        },
+        {
+            "sentence": "The quality of the perovskite layer has a large impact on the photovoltaic performance of the planar perovskite solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The perovskite film, with free-pinholes, fewer crystal defects, and fewer grain boundaries, can reduce non-radiative recombination and extend the charge carrier diffusion distance and life time .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In the preparation of perovskites, dimethyl sulfoxide  and N,N-dimethylformamide  are widely utilized, as polar aprotic solvents in precursor solution, to form Lewis acid-base adduct",
+            "all_materials": [
+                "dimethyl sulfoxide",
+                "N,N-dimethylformamide"
+            ],
+            "other_materials": [
+                "dimethyl sulfoxide",
+                "N,N-dimethylformamide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Some other solvents with lone pairs on oxygen, sulfur or nitrogen atoms are also used, such as \u03b3-butyrolactone , dimethylacetamide  , N-methyl-2-pyrrolidone , hexamethylphosphoramide  and thiourea ,",
+            "all_materials": [
+                "\u03b3-butyrolactone",
+                "dimethylacetamide",
+                "N-methyl-2-pyrrolidone",
+                "hexamethylphosphoramide",
+                "thiourea"
+            ],
+            "other_materials": [
+                "\u03b3-butyrolactone",
+                "dimethylacetamide",
+                "N-methyl-2-pyrrolidone",
+                "hexamethylphosphoramide",
+                "thiourea"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Solvents are removed as an intermediate by anti-solvent extraction or thermal annealing",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                11,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, most of these solvents are toxic and high boiling point compounds",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "How to reduce the utilization of toxic solvents and develop low boiling point solvents is a significant challenge.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Acetonitrile  is a highly polar aprotic solvent, which can be used as a Lewis acid to form Lewis pairs with pervoskite precursors",
+            "all_materials": [
+                "Acetonitrile"
+            ],
+            "other_materials": [
+                "Acetonitrile"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the utilization of ACN is limited in a two-step method because ACN cannot dissolve PbI2",
+            "all_materials": [
+                "ACN",
+                "ACN",
+                "PbI2"
+            ],
+            "other_materials": [
+                "ACN",
+                "ACN",
+                "PbI2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In order to improve the solvation of the perovskite precursor salts, Wu et al",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "introduced methylamine  to slice the 3D CH3NH3PbI3 crystals into 2D layered perovskite intermediates",
+            "all_materials": [
+                "methylamine",
+                "CH3NH3PbI3"
+            ],
+            "other_materials": [
+                "methylamine",
+                "CH3NH3PbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "ACN can dissolve the layered intermediate phase, and high-quality CH3NH3PbI3 perovskite films were thus prepared and a device efficiency of 16.4% was obtained",
+            "all_materials": [
+                "ACN",
+                "CH3NH3PbI3"
+            ],
+            "other_materials": [
+                "ACN"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                17,
+                "StartingSynthesis"
+            ],
+            "targets": "CH3NH3PbI3"
+        },
+        {
+            "sentence": "bubbled MA gas into the ACN to form ACN/MA mixed solventsNoel et al",
+            "all_materials": [
+                "MA",
+                "ACN",
+                "ACN/MA"
+            ],
+            "other_materials": [
+                "ACN"
+            ],
+            "precursors": [
+                {
+                    "text": "MA",
+                    "start": 8,
+                    "end": 10,
+                    "token_ids": [
+                        1
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "ACN/MA"
+        },
+        {
+            "sentence": "Using the mixed solvent, a dense and pinhole-free perovskite film was prepared and a device efficiency of 18.2% was obtained .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                14,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here, we introduce ACN as an effective solvent additive in the precursor preparation of cation-anion-mixed perovskites",
+            "all_materials": [
+                "ACN"
+            ],
+            "other_materials": [
+                "ACN"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The addition of ACN not only lowers the boiling point of the mixed solution, but also acts as Lewis acid to promote the formation of Lewis acid-base pair PbI2-ACN, thereby improving the crystallization process",
+            "all_materials": [
+                "ACN",
+                "PbI2-ACN"
+            ],
+            "other_materials": [
+                "PbI2-ACN"
+            ],
+            "precursors": [
+                {
+                    "text": "ACN",
+                    "start": 16,
+                    "end": 19,
+                    "token_ids": [
+                        3
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Consequently, we obtain a compact, large grain and pinhole-free perovskite film",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Based on the perovskite film fabricated by adding ACN, the device exhibits a high PCE of 19.15%, which is better than that of the device without ACN additives",
+            "all_materials": [
+                "ACN",
+                "ACN"
+            ],
+            "other_materials": [
+                "ACN",
+                "ACN"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                5,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Besides, we replace toxic DMF with ACN in perovskite precursor solution, and replace high toxic carcinogenic solvent chlorobenzene   with green solvent ethyl acetate  in anti-solution extraction",
+            "all_materials": [
+                "DMF",
+                "ACN",
+                "chlorobenzene",
+                "ethyl acetate"
+            ],
+            "other_materials": [
+                "DMF",
+                "chlorobenzene",
+                "ethyl acetate"
+            ],
+            "precursors": [
+                {
+                    "text": "ACN",
+                    "start": 35,
+                    "end": 38,
+                    "token_ids": [
+                        7
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "These replacements make the preparation of perovskite solar cells greener and more sustainable.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "All of the materials were purchased from Sigma-Aldrich Corp, China or Alfa Aesar Corp, China, unless otherwise specified",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "2,2\u2032,7,7\u2032-tetrakis -9,9-spirobifluorene  was purchased from Luminescence Technology Corp, Taiwan, China",
+            "all_materials": [
+                "2,2\u2032,7,7\u2032-tetrakis -9,9-spirobifluorene"
+            ],
+            "other_materials": [
+                "2,2\u2032,7,7\u2032-tetrakis -9,9-spirobifluorene"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Fluorine-doped tin oxide-coated  glass substrate with a sheet resistance of 14\u202f\u03a9\u202fsq\u22121 was obtained from Pilkington.",
+            "all_materials": [
+                "tin oxide"
+            ],
+            "other_materials": [
+                "tin oxide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The perovskite precursor solution was prepared in a dry atmosphere in a glove box",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                5,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "0.2\u202fM MABr, 0.22\u202fM PbBr2,",
+            "all_materials": [
+                "MABr",
+                "PbBr2"
+            ],
+            "other_materials": [
+                "MABr",
+                "PbBr2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "1 shows the X-ray diffraction pattern of perovskite films prepared with different ACN/DMF ratiosFig",
+            "all_materials": [
+                "ACN/DMF ratiosFig"
+            ],
+            "other_materials": [
+                "ACN/DMF ratiosFig"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                9,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The main characteristic peaks of all samples at 14.12\u00b0, 28.44\u00b0, and 43.2\u00b0 are corresponding with the characteristic crystal planes , and , respectively, which indicate the formation of the tetragonal perovskite crystal structure",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Obviously, with the increase of the ACN/DMF ratios, the intensities of the main peaks increase first; when the ratio reaches 1:16, the",
+            "all_materials": [
+                "ACN",
+                "DMF"
+            ],
+            "other_materials": [
+                "ACN",
+                "DMF"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In conclusion, we develop a simple and green method to prepare mix-anion-cation perovskite Cs0.050.95Pb3 by introducing an effective solvent addictive of ACN",
+            "all_materials": [
+                "Cs0.050.95Pb3",
+                "ACN"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "ACN",
+                    "start": 154,
+                    "end": 157,
+                    "token_ids": [
+                        26
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "Cs0.050.95Pb3"
+        },
+        {
+            "sentence": "The introduction of ACN improves the crystal growth of perovskites, and a dense, pinhole-free, large grain, fewer defect and boundary perovskite film is thus obtained",
+            "all_materials": [
+                "ACN"
+            ],
+            "other_materials": [
+                "ACN"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Photoelectrical measurement indicates less electron-hole recombination and faster carrier transportation in the perovskite layers owing to ACN",
+            "all_materials": [
+                "ACN"
+            ],
+            "other_materials": [
+                "ACN"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors acknowledge the financial joint support by the National Natural Science Foundation of China , and the Cultivation Program for Postgraduate in Scientific Research Innovation Ability of Huaqiao University .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Even though the perovskite solar cells  have progressed very quickly with exceptional performance uptake from 3.8% to &gt;\u00a026%, poor stability and toxicity are the major challenges preventing its commercialization",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To make its commercialization possible, numerous modifications and fabrications techniques were explored till date",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, all the advancements made are still not good enough to scale its production at industry level and commercial use",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The current work addresses recent advancements in the large-scale production and fabrication of PSCs, the accompanying benefits and drawbacks, and techniques for increasing the effectiveness of large-area perovskite films for industrial use",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "The review highlights all the basics of PSCs, fabrication methods, drawbacks, strategies for improving PSC efficiency, alternative PSCs, and multidimensional application",
+            "all_materials": [
+                "PSC",
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSC",
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Additionally, we effectively envisioned the future scopes and possibilities of commercial uptake",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In order to encourage PSC industrialization in the long-term, we also sought to obtain insight into the functional stability of PSCs as well as useful knowledge on how to extend their functional lifespan through sensible device design and materials processing",
+            "all_materials": [
+                "PSC",
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSC",
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, this review offers a quick look at insights for upcoming research while protecting the environment, human health, and safety.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "One of the potential photovoltaic possibilities for generating renewable energy is organometallic perovskite-based solar cell",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the presence of grain boundaries and defects\u00a0in the bulk or interfacial sites\u00a0of perovskites prevents\u00a0future device efficiency increases",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, a green\u00a0EA solvent was utilized to enhance the crystallization of triple-cation\u00a0perovskite polycrystals, enlarge the perovskite grain size, and minimize the density of trap states, resulting in high-quality\u00a0films",
+            "all_materials": [
+                "EA"
+            ],
+            "other_materials": [
+                "EA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Under AM 1.5G\u00a0irradiation, perovskite solar cell\u00a0with an efficiency of 18.63%\u00a0and a fill factor of 79.78%\u00a0were obtained",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This photovoltaic outperformed standard cells in terms of efficiency, stability, and reproducibility, which was attributable to the high-quality perovskite merits",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The environmental and thermal stabilities of unsealed cells are also improved, with only 8% and 9% degradation of the original efficiency after storage for 50 days and 350 hours in environment  and thermal  conditions, respectively",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Our research established a simple and practical method for developing photovoltaic cells with good stability\u00a0and high efficiency\u00a0for commercialization.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Lead-free inorganic Cs2AgBiBr6 double perovskites have emerged as promising materials in perovskite solar cells  to tackle the inferior stability and toxicity issues of organic\u2013inorganic hybrid PSCs",
+            "all_materials": [
+                "Cs2AgBiBr6"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "Cs2AgBiBr6"
+        },
+        {
+            "sentence": "However, the power conversion efficiencies  of Cs2AgBiBr6 solar cells are remarkably restricted by the intrinsic and extrinsic defects of Cs2AgBiBr6 films",
+            "all_materials": [
+                "Cs2AgBiBr6",
+                "Cs2AgBiBr6"
+            ],
+            "other_materials": [
+                "Cs2AgBiBr6",
+                "Cs2AgBiBr6"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "More specifically, the fast crystallization process in the formation of Cs2AgBiBr6 films strongly prevents the homogeneous growth of perovskite crystals, leading to inferior Cs2AgBiBr6 film quality",
+            "all_materials": [
+                "Cs2AgBiBr6",
+                "Cs2AgBiBr6"
+            ],
+            "other_materials": [
+                "Cs2AgBiBr6"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "Cs2AgBiBr6"
+        },
+        {
+            "sentence": "This work introduces a facile strategy to retard the crystallization of Cs2AgBiBr6 perovskites by introducing Lewis base additives into the precursor solution",
+            "all_materials": [
+                "Cs2AgBiBr6"
+            ],
+            "other_materials": [
+                "Cs2AgBiBr6"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The incorporation of a strongly coordinated thiourea additive with a sulfur donor leads to the generation of a Lewis acid base adduct, which retards the crystallization process for Cs2AgBiBr6 crystals, improves the quality of the Cs2AgBiBr6 film, decreases the defect density and inhibits charge carrier recombination",
+            "all_materials": [
+                "thiourea",
+                "Lewis acid base",
+                "Cs2AgBiBr6",
+                "Cs2AgBiBr6"
+            ],
+            "other_materials": [
+                "Lewis acid base",
+                "Cs2AgBiBr6",
+                "Cs2AgBiBr6"
+            ],
+            "precursors": [
+                {
+                    "text": "thiourea",
+                    "start": 44,
+                    "end": 52,
+                    "token_ids": [
+                        6
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "After optimization, the cell delivers a superior PCE of 3.07%, surpassing that reported for most Cs2AgBiBr6-based solar cells in the literature, and exhibits outstanding stability with a PCE retention rate of 95% after 20\u00a0days of storage in air",
+            "all_materials": [
+                "Cs2AgBiBr6",
+                "PCE",
+                "air"
+            ],
+            "other_materials": [
+                "Cs2AgBiBr6",
+                "PCE",
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work provides an effective strategy for further improvements in the performance of inorganic lead-free Cs2AgBiBr6-based photovoltaic cells.",
+            "all_materials": [
+                "Cs2AgBiBr6"
+            ],
+            "other_materials": [
+                "Cs2AgBiBr6"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, we report a family of co-halogenated two-dimensional hybrid perovskites  based on phenethylammonium lead halogen 2Pb4) in which the organic cation-site  is substituted with halogen at the para-site, namely the formation of 4-halophenethylamine",
+            "all_materials": [
+                "phenethylammonium lead halogen 2Pb4",
+                "4-halophenethylamine"
+            ],
+            "other_materials": [
+                "phenethylammonium lead halogen 2Pb4"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "4-halophenethylamine"
+        },
+        {
+            "sentence": "The organic cations are regulated by introducing halogen ions at the para-site of the benzene ring to promote the structural distortion of the lead halide octahedral inorganic layer",
+            "all_materials": [
+                "lead halide"
+            ],
+            "other_materials": [
+                "lead halide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore,  causes a shift in the energy band distribution of 2DHPs",
+            "all_materials": [
+                "2DHPs"
+            ],
+            "other_materials": [
+                "2DHPs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this case, the photoluminescence competition of free excitons  and self-trapped excitons  changes the microscopic relaxation process of excitons",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, we found that  can increase the photoluminescence quantum yield",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "At the same time, we regulate the halogen-site of perovskites from lead-chloride perovskites  to lead bromine perovskites , achieving emission from white light to blue light",
+            "all_materials": [
+                "lead-chloride",
+                "lead bromine"
+            ],
+            "other_materials": [
+                "lead-chloride",
+                "lead bromine"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, the co-halogenation regulation strategy of organic cation-site and halogen-site can effectively regulate the photoluminescence wavelength and improve the PLQY",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This is of great significance for the development of perovskite materials with specific optoelectronic applications.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Incredible progress in the efficiency of hybrid perovskite solar cells  has nominated perovskites as a promising light-harvesting for new-generation photovoltaic devices",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Additive engineering in PSCs is a valid and straightforward method to increase the surface quality of perovskite films",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, we prepared mixed cation of cesium /formamidinium /methylammonium  PSCs via an air-processed sequential deposition method",
+            "all_materials": [
+                "cesium /formamidinium /methylammonium  PSCs",
+                "air"
+            ],
+            "other_materials": [
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                3,
+                "StartingSynthesis"
+            ],
+            "targets": "cesium /formamidinium /methylammonium  PSCs"
+        },
+        {
+            "sentence": "Acetonitrile  was used as an effective additive to improve the surface properties of perovskite layer",
+            "all_materials": [
+                "Acetonitrile"
+            ],
+            "other_materials": [
+                "Acetonitrile"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Our measurements demonstrated that with the incorporation of ACN in the FAI/MABr/MACl precursor surface defects on the perovskite film well passivated, and consequently, crystal grain size increased",
+            "all_materials": [
+                "ACN",
+                "FAI/MABr/MACl"
+            ],
+            "other_materials": [
+                "FAI/MABr/MACl"
+            ],
+            "precursors": [
+                {
+                    "text": "ACN",
+                    "start": 61,
+                    "end": 64,
+                    "token_ids": [
+                        8
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A PCE of 15.64% was achieved for ACN-based PSCs higher than of 13.06% one for without additive devices",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Additionally, ACN-containing devices showed a lower hysteresis effect as compared to the control devices",
+            "all_materials": [
+                "ACN"
+            ],
+            "other_materials": [
+                "ACN"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Most importantly, ACN additive based PSCs showed more stable behavior in ambient air, thermal, and humidity stability tests",
+            "all_materials": [
+                "air"
+            ],
+            "other_materials": [
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work introduces a simple approach for the fabrication of high-performance perovskite materials in ambient air.",
+            "all_materials": [
+                "air"
+            ],
+            "other_materials": [
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Hybrid perovskite solar cells  have come into prominence as a potential alternative to crystalline silicon solar cells due to their outstanding photovoltaic performance and the simple manufacturing process",
+            "all_materials": [
+                "silicon"
+            ],
+            "other_materials": [
+                "silicon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Over the past few years, the performance has greatly benefited from the emergence of advanced fabrication technologies capable of producing high quality perovskite films",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The transforming process from precursor to perovskite film directly influences the film quality by controlling the nucleation and crystal growth",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In particular, the coordination of electron-rich atoms in solvent or additives with Pb ions in perovskite precursor has been widely used to modulate the crystal growth to obtain compact and dense perovskite film with fewer defects",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here, a systematic review is presented to describe the effect of coordination interaction on perovskite crystallization process, defects passivation, hysteresis behavior and long-term stability for efficient perovskite thin film and related photovoltaics",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Functional additives with carbonyl-, acyl- and cyano- group bearing lone electron pairs have been widely adopted to coordinate with PbI2 to retard crystallization and obtain a high-quality perovskite film",
+            "all_materials": [
+                "PbI2"
+            ],
+            "other_materials": [
+                "PbI2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Meanwhile, these additives can modify the surface or grain boundary of as-formed perovskite film to passivate defects, mitigate hysteresis and prevent the moisture permeation to prolong the device lifetime",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The coordination interaction provides a feasible strategy to improve the perovskite film quality, which is crucial to increase the efficiency and longevity of PSCs and other related optoelectronic devices towards future upscaling and commercialization.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Organometallic halide perovskite absorption layer with excellent surface morphology and large grain size is very important for fabricating efficient perovskite solar cells",
+            "all_materials": [
+                "halide"
+            ],
+            "other_materials": [
+                "halide"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                17,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The antisolvent assisted crystallization  has been proved to be an effective tactic to prepare compact and uniform polycrystalline perovskite film",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, most of the antisolvents currently used are highly toxic, and the perovskite crystallization process is difficult to control using pure antisolvent",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here, a green strategy is developed to improve the nucleation kinetics of perovskite precursor and the perovskite crystallization process",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A mixed green antisolvent of ethyl acetate /petroleum ether  is employed to regulate the crystallization of perovskite and replace traditional chlorobenzene  and pure EA",
+            "all_materials": [
+                "ethyl acetate",
+                "petroleum ether",
+                "chlorobenzene"
+            ],
+            "other_materials": [
+                "ethyl acetate",
+                "petroleum ether",
+                "chlorobenzene"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "With optimized proportion of EA and PE, the supersaturation degree is controlled via reducing the solvent evaporation rate and the nucleation rate, and it is good for crystal growth",
+            "all_materials": [
+                "EA",
+                "PE"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "EA",
+                    "start": 29,
+                    "end": 31,
+                    "token_ids": [
+                        4
+                    ]
+                },
+                {
+                    "text": "PE",
+                    "start": 36,
+                    "end": 38,
+                    "token_ids": [
+                        6
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, the grain growth rate and grain size are easily regulated, which contribute to the uniform, large grain and non-pinhole perovskite film",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Correspondingly, the intrinsic perovskite solar cells based on CH3NH3PbI3 achieve a power conversion efficiency of 17.19% and an average efficiency of 16.25% .",
+            "all_materials": [
+                "CH3NH3PbI3"
+            ],
+            "other_materials": [
+                "CH3NH3PbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Hybrid inorganic-organic perovskite solar cells have attracted great attention with power conversion efficiencies exceeding 20% using dimethylformamide or dimethyl sulfoxide for the deposition of the perovskite films",
+            "all_materials": [
+                "dimethylformamide",
+                "dimethyl sulfoxide"
+            ],
+            "other_materials": [
+                "dimethylformamide",
+                "dimethyl sulfoxide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Replacing the toxic solvents with non-toxic solvents is one of the key challenges to realize industrial scale commercialization for the perovskite photovoltaics",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here, environmentally friendly solvent systems are employed for processing the perovskite active layer by a two-step spin-coating approach: aqueous Pb2 is first spin-coated on mesoporous TiO2 film, and followed by spin-coating of methylammonium iodide in isopropanol",
+            "all_materials": [
+                "Pb2",
+                "TiO2",
+                "methylammonium iodide",
+                "isopropanol"
+            ],
+            "other_materials": [
+                "Pb2",
+                "TiO2",
+                "methylammonium iodide",
+                "isopropanol"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We found that the resulting perovskite was homogeneously covered on the TiO2 surface with relatively high coverage",
+            "all_materials": [
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The best performing perovskite solar cell shows a power conversion efficiency of 13.7% under standard conditions .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Power conversion efficiency  of perovskite solar cells  was reported to be over 23% with a variety of configurations including the optimization of photoactive material, selection of carrier transport layers and interface engineering",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Critical concerns pertaining to the instability, hysteretic effects, reproduction, flexibility, large area and transparency, which may potentially hinder their commercialization still remain",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, an effective low-temperature electron beam  approach for depositing lanthanides  doped TiO2 as electron transport layer was developed for planar PSCs application",
+            "all_materials": [
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The lanthanide dopants, especially for Gd3+, could facilitate the charge transport behaviour and band gap optimization of TiO2",
+            "all_materials": [
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Additionally, small molecule DRCN5T was selected as an effective additive in anti-solvent to fill grain boundary and modify the quality of the perovskite film with a grain size of 1.3\u20132.0\u202f\u00b5m",
+            "all_materials": [
+                "DRCN5T"
+            ],
+            "other_materials": [
+                "DRCN5T"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The modified PSCs exhibit a noticeably increased PCE from 19.0% to 20.53% with excellent long-term and light stability",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "More importantly, flexible, large area and transparent PSCs were also achieved",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "The flexible devices show more than 20% of their initial PCE values after 1000 bending cycles",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The dual interfacial modification mechanism represents an attractive approach to achieve full functional PSCs.",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "Solvent effect was systematically studied on the hole-conductor-free fully printable perovskite solar cells with pristine MAPbI3 via one-step deposition",
+            "all_materials": [
+                "MAPbI3"
+            ],
+            "other_materials": [
+                "MAPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The contact angle measurement shows that the polarity and viscosity of solvents possess a significant effect on the wettability of perovskite precursor solution for both of mesoscopic carbon counter electrode films and metal dioxide layers",
+            "all_materials": [
+                "carbon"
+            ],
+            "other_materials": [
+                "carbon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "XRD and FTIR results confirm the existence of different intermediate phases whose stability is affected by their coordination ability with PbI2",
+            "all_materials": [
+                "PbI2"
+            ],
+            "other_materials": [
+                "PbI2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The wettability and the stability of intermediate phases influence the light harvesting ability and charge separation of the perovskite layer as confirmed by UV\u2013visible absorption and steady-state PL results",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Due to the suitable interplay and compromise of polarity, viscosity, wettability and coordination ability, DMF/DMSO  solvent-based device achieved a promising PCE of 13.89% under 100\u00a0mW\u00a0cm\u22122 simulated sunlight illumination.",
+            "all_materials": [
+                "DMF/DMSO"
+            ],
+            "other_materials": [
+                "DMF/DMSO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Tin halide perovskite is the most prospective lead-free perovskite material due to its close to ideal band gap and similar optoelectronic properties to the lead counterparts",
+            "all_materials": [
+                "Tin halide",
+                "lead"
+            ],
+            "other_materials": [
+                "Tin halide",
+                "lead"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Nevertheless, the lack of a regulated crystallization process leads to considerable defects and pinholes in those tin perovskite films, further deteriorating the achievable power conversion efficiency  for related solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, we employed a facile Lewis base thiourea  into the perovskite precursor to form a SnI2-TU as an intermediate adduct to guide the crystallization kinetics, where the interaction between SnI2 and TU was detected by Fourier transform infrared , X-ray diffraction  and X-ray photoelectron spectroscopy  measurements, respectively",
+            "all_materials": [
+                "SnI2-TU",
+                "SnI2",
+                "TU"
+            ],
+            "other_materials": [
+                "SnI2-TU",
+                "SnI2",
+                "TU"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Improving the perovskite morphology with TU contributed to significant suppression of the non-radiative recombination and fast charge extraction through carrier dynamics analysis",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "These benefits delivered a remarkable PCE of over 10% in inverted tin perovskite solar cells, which was 24% higher than the original device",
+            "all_materials": [
+                "tin"
+            ],
+            "other_materials": [
+                "tin"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The unencapsulated device with TU retained 90% of the initial efficiency after over 1600\u00a0h in N2 atmosphere.",
+            "all_materials": [
+                "TU",
+                "N2"
+            ],
+            "other_materials": [
+                "TU",
+                "N2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Carbon materials have been gradually applied to perovskite solar cells as counter electrode",
+            "all_materials": [
+                "Carbon"
+            ],
+            "other_materials": [
+                "Carbon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, there always exists a poor interface contact between carbon and perovskite layer , resulting in inferior performances",
+            "all_materials": [
+                "carbon"
+            ],
+            "other_materials": [
+                "carbon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, we introduce an additive of acetonitrile  into carbon slurry, which effectively improves the interface contact of C/CH3NH3PbI3",
+            "all_materials": [
+                "acetonitrile",
+                "carbon",
+                "C/CH3NH3PbI3"
+            ],
+            "other_materials": [
+                "carbon",
+                "C/CH3NH3PbI3"
+            ],
+            "precursors": [
+                {
+                    "text": "acetonitrile",
+                    "start": 36,
+                    "end": 48,
+                    "token_ids": [
+                        7
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Because of a medium solubility for perovskite, ACN will dissolve the surface crystal of perovskite layer when the carbon slurry is doctor-bladed on the top of CH3NH3PbI3 film, which will form a liquid/liquid interface between C/CH3NH3PbI3, leading to a tighter contact",
+            "all_materials": [
+                "ACN",
+                "carbon",
+                "CH3NH3PbI3",
+                "C",
+                "CH3NH3PbI3"
+            ],
+            "other_materials": [
+                "ACN",
+                "carbon",
+                "CH3NH3PbI3",
+                "C",
+                "CH3NH3PbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, many surface grains of perovskite layer will get smaller after treated with ACN, which will enhance the light scattering performance of perovskite layer",
+            "all_materials": [
+                "ACN"
+            ],
+            "other_materials": [
+                "ACN"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                13,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "By optimization toward the content of ACN in carbon slurry, the interface contact of C/CH3NH3PbI3 and the photovoltaic performance have been significantly improved",
+            "all_materials": [
+                "ACN",
+                "carbon",
+                "C/CH3NH3PbI3"
+            ],
+            "other_materials": [
+                "ACN",
+                "carbon",
+                "C/CH3NH3PbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Compared to 7.45% of the control device, an optimal power conversion efficiency of 8.32% has been achieved for low-temperature carbon based perovskite solar cells, which shows great potential in future application.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

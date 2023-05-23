@@ -1,0 +1,1890 @@
+{
+    "rest": [
+        {
+            "sentence": "In order to meet the demand for fabricating flexible and wearable solar cell products, low-temperature preparation technology of perovskite solar cells  has become critical",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                7,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As a highly promising electron transport layer  material, SnO2 has many advantages, such as high charge mobility, wide band gap, and could be prepared at relatively low temperatures",
+            "all_materials": [
+                "SnO2"
+            ],
+            "other_materials": [
+                "SnO2"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                27,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the application of SnO2-based PSCs is limited by the expensive hole transport material  and electrode material  in the common device structure",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this paper, with SnO2 as the ETL, cheap carbon as the counter electrode, HTM\u2013free PSCs structured as FTO/SnO2/CH3NH3PbI3/Carbon was fabricated by the full low-temperature technology",
+            "all_materials": [
+                "SnO2",
+                "carbon",
+                "PSCs",
+                "FTO/SnO2/CH3NH3PbI3/Carbon"
+            ],
+            "other_materials": [
+                "SnO2",
+                "carbon"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                31,
+                "StartingSynthesis"
+            ],
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "The thickness of the SnO2 ETL was optimized by adjusting the concentration of the SnO2 precursor",
+            "all_materials": [
+                "SnO2 ETL",
+                "SnO2"
+            ],
+            "other_materials": [
+                "SnO2 ETL"
+            ],
+            "precursors": [
+                {
+                    "text": "SnO2",
+                    "start": 82,
+                    "end": 86,
+                    "token_ids": [
+                        14
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The highest PCE of 8.32% was obtained and after 32 days in an air environment without packaging, the PCE still remained approximately 92% of its original performance",
+            "all_materials": [
+                "PCE",
+                "air",
+                "PCE"
+            ],
+            "other_materials": [
+                "PCE",
+                "air",
+                "PCE"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The factors affecting the stability of the cell were analyzed according to the structure of the PSCs.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "HTM\u2013free PSCs structured as FTO/SnO2/CH3NH3PbI3/Carbon was fabricated by a full low-temperature technology , which have good contact and efficient charge carrier transport between the SnO2/Perovskite and Perovskite/Carbon interfaces, yielding a high PCE of 8.32% and long-term stability.Download : Download high-res image Download : Download full-size image",
+            "all_materials": [
+                "FTO/SnO2/CH3NH3PbI3/Carbon",
+                "SnO2/",
+                "Carbon"
+            ],
+            "other_materials": [
+                "SnO2/",
+                "Carbon"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                14,
+                "StartingSynthesis"
+            ],
+            "targets": "FTO/SnO2/CH3NH3PbI3/Carbon"
+        },
+        {
+            "sentence": "Over the past few years, Perovskite Solar Cells  have attracted a great deal of attention due to their easy fabrication, high absorption coefficient, high charge carrier mobility and high power conversion efficiency",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Their PCEs have increased dramatically from 3.8%  in 2009 to a certified 23.7%  in 2018.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In the PSCs, the electron transport layer  plays a crucial role on the extraction and transportation of charge and stability",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A lot of inorganic n-type metal oxides have been investigated as the ETL, such as TiO2 [3,4], SnO2 , ZnO [6,7], Zn2SO4 , WO3 , In2O3 , SrTiO3 , Nb2O5 , and BaSnO3",
+            "all_materials": [
+                "TiO2",
+                "SnO2",
+                "ZnO",
+                "Zn2SO4",
+                "WO3",
+                "In2O3",
+                "SrTiO3",
+                "Nb2O5",
+                "BaSnO3"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "TiO2",
+                    "start": 82,
+                    "end": 86,
+                    "token_ids": [
+                        18
+                    ]
+                },
+                {
+                    "text": "SnO2",
+                    "start": 94,
+                    "end": 98,
+                    "token_ids": [
+                        21
+                    ]
+                },
+                {
+                    "text": "ZnO",
+                    "start": 101,
+                    "end": 104,
+                    "token_ids": [
+                        23
+                    ]
+                },
+                {
+                    "text": "Zn2SO4",
+                    "start": 112,
+                    "end": 118,
+                    "token_ids": [
+                        26
+                    ]
+                },
+                {
+                    "text": "WO3",
+                    "start": 121,
+                    "end": 124,
+                    "token_ids": [
+                        28
+                    ]
+                },
+                {
+                    "text": "In2O3",
+                    "start": 127,
+                    "end": 132,
+                    "token_ids": [
+                        30
+                    ]
+                },
+                {
+                    "text": "SrTiO3",
+                    "start": 135,
+                    "end": 141,
+                    "token_ids": [
+                        32
+                    ]
+                },
+                {
+                    "text": "Nb2O5",
+                    "start": 144,
+                    "end": 149,
+                    "token_ids": [
+                        34
+                    ]
+                },
+                {
+                    "text": "BaSnO3",
+                    "start": 156,
+                    "end": 162,
+                    "token_ids": [
+                        37
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Among them, TiO2 is the most commonly used ETL material, and its preparation temperature is usually higher than 500\u202f\u00b0C",
+            "all_materials": [
+                "TiO2",
+                "ETL"
+            ],
+            "other_materials": [
+                "TiO2",
+                "ETL"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "High-temperature condition  tends to cause nano-scale pinholes and crack between TiO2 and transparent conductive oxides due to crystallization and thermal stress , which deteriorates the cell performance and limits the use of many flexible substrates",
+            "all_materials": [
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Mriganka Singh et\u00a0al",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "reported a simple ball milling method to obtain TiO2 and SnO2 at low temperature processing, which achieved champion PCEs of 17.43% and 17.92% based Ag and Au counter electrodes , respectively [15,16]",
+            "all_materials": [
+                "TiO2",
+                "SnO2",
+                "Ag",
+                "Au"
+            ],
+            "other_materials": [
+                "Ag",
+                "Au"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "TiO2"
+        },
+        {
+            "sentence": "To reduce the toxicity of lead, lead-free single-layer 2Sn4 hybrid halide perovskite is expected to manufacture high performance PSCs",
+            "all_materials": [
+                "2Sn4",
+                "halide",
+                "PSCs"
+            ],
+            "other_materials": [
+                "2Sn4",
+                "halide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "Furthermore, as the demands for flexible and wearable solar cell products increase, low-temperature preparation technology of PSCs is becoming increasingly important",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Other wide band gap n-type metal oxides, such as SnO2 and ZnO, have higher transparency and electron mobility  and are more suitable for low temperature preparation",
+            "all_materials": [
+                "SnO2",
+                "ZnO"
+            ],
+            "other_materials": [
+                "SnO2",
+                "ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Nevertheless, the chemical instability of ZnO and the thermally induced degradation of the ZnO/perovskite interface may hinder its application as an ETL in PSCs",
+            "all_materials": [
+                "ZnO",
+                "ZnO"
+            ],
+            "other_materials": [
+                "ZnO",
+                "ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Comparatively, n-type SnO2 is a highly promising photovoltaic material with deep conduction band , valence band , excellent stability and good band alignment to perovskites",
+            "all_materials": [
+                "SnO2"
+            ],
+            "other_materials": [
+                "SnO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In 2018, Yang et\u00a0al",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "used EDTA-complexed SnO2  as the ETL in the planar-type PSCs and achieved a PCE of 21.60% , which was the highest value reported for the planar-type PSCs",
+            "all_materials": [
+                "EDTA",
+                "SnO2"
+            ],
+            "other_materials": [
+                "EDTA",
+                "SnO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Some optimization strategies are used to improve the properties of PSCs",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "CdSe quantum dots/PCBM composites as an ETL can reduce the roughness of perovskites and form high quality films with compact morphology",
+            "all_materials": [
+                "CdSe"
+            ],
+            "other_materials": [
+                "CdSe"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, the application of superalkali perovskite achieves stable and efficient kinetic performance",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The band gap tuning of perovskite by iodide ion concentration gradient can also improve the photovoltaic performance .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In order to make solar cells widely used as important energy source, environmentally friendly, low cost, high stability, high efficiency are all factors that should be considered in commercialization",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "At present, the CEs of most PSCs still uses precious metal gold or silver",
+            "all_materials": [
+                "silver"
+            ],
+            "other_materials": [
+                "silver"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, due to the synergistic effect of perovskite decomposition and metal migration, both gold and silver can react with halide  ions in perovskites, which results in poor long-term stability and increases cost of the device",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Carbon can be used as an alternative material for CE because its work function  is close to Au , and the carbon material is inexpensive",
+            "all_materials": [
+                "Carbon",
+                "CE",
+                "Au"
+            ],
+            "other_materials": [
+                "Carbon",
+                "CE",
+                "Au"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To reduce the cost of the device, it&#x27;s a wonderful choice to replace hole-transfer materials  and noble metal CEs, such as spiro-OMeTAD and gold, with commercial cheap conductive-carbon materials",
+            "all_materials": [
+                "CEs",
+                "spiro-OMeTAD",
+                "gold"
+            ],
+            "other_materials": [
+                "CEs",
+                "spiro-OMeTAD",
+                "gold"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the usual carbon electrodes preparation process also requires a high temperature above 400\u202f\u00b0C to volatilize organic solvents, which limits the application of flexible devices fabricated on the plastic substrates",
+            "all_materials": [
+                "carbon"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                29,
+                "StartingSynthesis"
+            ],
+            "targets": "carbon"
+        },
+        {
+            "sentence": "Therefore, further development of more low-temperature processes for the preparation of carbon electrodes is also needed.",
+            "all_materials": [
+                "carbon"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "carbon"
+        },
+        {
+            "sentence": "In this paper, SnO2 ETL, the perovskite CH3NH3PbI3 light absorber and carbon electrode were all prepared at low temperatures, and HTM-free planar heterojunction PSCs structured as FTO/SnO2/CH3NH3PbI3/Carbon were fabricated",
+            "all_materials": [
+                "SnO2",
+                "CH3NH3PbI3",
+                "carbon",
+                "PSCs",
+                "FTO/SnO2/CH3NH3PbI3/Carbon"
+            ],
+            "other_materials": [
+                "carbon"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                [
+                    17,
+                    "StartingSynthesis"
+                ],
+                [
+                    39,
+                    "StartingSynthesis"
+                ]
+            ],
+            "targets": "SnO2"
+        },
+        {
+            "sentence": "The thickness of the SnO2 ETL was optimized, and the effect of diverse SnO2 ETL films thickness on the device performance, as well as stability, was investigated.",
+            "all_materials": [
+                "SnO2 ETL",
+                "SnO2 ETL"
+            ],
+            "other_materials": [
+                "SnO2 ETL",
+                "SnO2 ETL"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "PbI2  was obtained from Xi&#x27;an Polymer Light Technology Corp",
+            "all_materials": [
+                "PbI2"
+            ],
+            "other_materials": [
+                "PbI2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "CH3NH3I  was obtained from Dyesol",
+            "all_materials": [
+                "CH3NH3I"
+            ],
+            "other_materials": [
+                "CH3NH3I"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "SnCl2\u00b72H2O , ethylacetate , N, N-dimethylformamide , dimethyl sulfoxide , and chlorobenzene  were purchased from Aladdin",
+            "all_materials": [
+                "SnCl2\u00b72H2O",
+                "ethylacetate",
+                "N, N-dimethylformamide",
+                "dimethyl sulfoxide",
+                "chlorobenzene"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "SnCl2\u00b72H2O",
+                    "start": 0,
+                    "end": 10,
+                    "token_ids": [
+                        0
+                    ]
+                },
+                {
+                    "text": "ethylacetate",
+                    "start": 13,
+                    "end": 25,
+                    "token_ids": [
+                        2
+                    ]
+                },
+                {
+                    "text": "N, N-dimethylformamide",
+                    "start": 28,
+                    "end": 50,
+                    "token_ids": [
+                        4,
+                        5,
+                        6
+                    ]
+                },
+                {
+                    "text": "dimethyl sulfoxide",
+                    "start": 53,
+                    "end": 71,
+                    "token_ids": [
+                        8,
+                        9
+                    ]
+                },
+                {
+                    "text": "chlorobenzene",
+                    "start": 78,
+                    "end": 91,
+                    "token_ids": [
+                        12
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Besides, commercial conductive carbon paste was received from Shenzhen Dongdalai",
+            "all_materials": [
+                "carbon"
+            ],
+            "other_materials": [
+                "carbon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "All the Chemical reagents directly used without any processing.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "SnO2 precursor solution was obtained via a low-temperature processed sol-gel",
+            "all_materials": [
+                "SnO2"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "SnO2"
+        },
+        {
+            "sentence": "The structure and corresponding energy gap of the SnO2 based planar PSCs are demonstrated in Fig.\u00a02 and",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The VB and CB values of perovskite are\u00a0\u22125.4\u202feV and\u00a0\u22123.9\u202feV, respectively",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The ambipolar properties of perovskite material is beneficial to manufacture a series of structure types of flexible devices because perovskite layer can replace the electron transport layer or the hole transport layer",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, SnO2 is a stable n-type wide bandgap semiconductor material with high",
+            "all_materials": [
+                "SnO2"
+            ],
+            "other_materials": [
+                "SnO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In summary, the SnO2 ETLs were successfully prepared by a simple sol-gel process and the carbon CE was obtained from a commercially available conductive carbon paste treated by a solvent-exchange method",
+            "all_materials": [
+                "SnO2",
+                "carbon CE",
+                "carbon"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "carbon",
+                    "start": 153,
+                    "end": 159,
+                    "token_ids": [
+                        27
+                    ]
+                }
+            ],
+            "operation": [
+                [
+                    8,
+                    "StartingSynthesis"
+                ],
+                [
+                    29,
+                    "HeatingOperation"
+                ]
+            ],
+            "targets": "SnO2"
+        },
+        {
+            "sentence": "The PCEs with the structure of FTO/SnO2/CH3NH3PbI3/Carbon were fabricated at a low temperature and the thickness of the SnO2 ETL was optimized by adjusting the concentration of the SnO2 precursor",
+            "all_materials": [
+                "FTO/SnO2/CH3NH3PbI3/Carbon",
+                "SnO2",
+                "SnO2"
+            ],
+            "other_materials": [
+                "FTO/SnO2/CH3NH3PbI3/Carbon",
+                "SnO2"
+            ],
+            "precursors": [
+                {
+                    "text": "SnO2",
+                    "start": 181,
+                    "end": 185,
+                    "token_ids": [
+                        34
+                    ]
+                }
+            ],
+            "operation": [
+                14,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The highest PCE of 8.32% was obtained when the thickness of SnO2 ETL was 400\u202fnm",
+            "all_materials": [
+                "SnO2 ETL"
+            ],
+            "other_materials": [
+                "SnO2 ETL"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "And after 32 days",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This research was financially supported by Xinjiang Uygur Autonomous Region Natural Science Foundation of China",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors also acknowledge the facilities and staffs at the Physical and Chemical Testing Center of Xinjiang University.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Perovskite solar cells could strongly compete with the silicon solar cells in the market soon as illustrated in recent studies",
+            "all_materials": [
+                "silicon"
+            ],
+            "other_materials": [
+                "silicon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, promising and stable metal-free perovskite solar cells  has been successfully fabricated using an inorganic SnO2/Quantum dot SnO2  double layer as an efficient electron transport layer via a low-temperature solution process",
+            "all_materials": [
+                "SnO2",
+                "SnO2"
+            ],
+            "other_materials": [
+                "SnO2",
+                "SnO2"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                16,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The fully-air fabricated PSCs in the form of FTO/SnO2/QD-SnO2/CH3NH3PbI3/Carbon were tested at different annealed QD-SnO2 between 300 and 500 \u00b0C",
+            "all_materials": [
+                "PSCs",
+                "FTO/SnO2/QD-SnO2/CH3NH3PbI3/Carbon",
+                "QD-SnO2"
+            ],
+            "other_materials": [
+                "PSCs",
+                "FTO/SnO2/QD-SnO2/CH3NH3PbI3/Carbon",
+                "QD-SnO2"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                25,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The as-prepared QD-SnO2 and the fabricated devices are characterized by various techniques, including XRD, XPS, HR-TEM, FE-SEM, UV\u2013vis\u2013NIR spectroscopy, PL, and solar simulator",
+            "all_materials": [
+                "QD-SnO2"
+            ],
+            "other_materials": [
+                "QD-SnO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The prepared QD-SnO2 at 300 \u00b0C has shown well-ordered nanoparticles of 5.6\u00a0nm in diameter with superior carrier density  and highest carrier mobility , accelerating the carriers separation process within the cell",
+            "all_materials": [
+                "QD-SnO2"
+            ],
+            "other_materials": [
+                "QD-SnO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The best devices demonstrated a maximum power conversion efficiency  of 11.7%, VOC 0.81\u00a0V, JSC 19.5\u00a0mA\u00b7cm\u22122, and FF 74%",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The presence of an interfacial layer of QD-SnO2 over the blocking SnO2 upsurges the band gaps alignment and accelerates the carriers extraction rate affecting the performance of the fabricated perovskite devices",
+            "all_materials": [
+                "QD-SnO2",
+                "SnO2"
+            ],
+            "other_materials": [
+                "QD-SnO2",
+                "SnO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, the optimized fabricated devices revealed a shelf stability-life of four months in humid air  with &gt;83% of its initial PCE",
+            "all_materials": [
+                "air"
+            ],
+            "other_materials": [
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This simple synthetic approach can develop the opportunities to transfer the cell from the lab to the market, which will be compatible with large-scale production.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Recently, perovskite solar cells  have attracted widespread attention due to their outstanding advantages",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Hole-transport-material-free carbon-based PSCs  are some of the most potential devices",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, intrinsically inferior contact at perovskite/carbon interfaces and low conductivity of carbon electrode are restricting the commercial application of C-PSCs",
+            "all_materials": [
+                "carbon",
+                "carbon",
+                "C-PSCs"
+            ],
+            "other_materials": [
+                "carbon",
+                "carbon",
+                "C-PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this study, an N, O co-doped biomass porous composite carbon electrode based on KOH-activated soybean dregs carbon, conductive carbon black and polymethylmethacrylate\u2014N-KSDC\u2014is prepared via a spraying method to efficiently improve perovskite/carbon interface qualities as well as enhance the efficiency and stability of C-PSCs",
+            "all_materials": [
+                "carbon",
+                "KOH",
+                "carbon",
+                "carbon",
+                "polymethylmethacrylate",
+                "N-KSDC",
+                "carbon",
+                "C-PSCs"
+            ],
+            "other_materials": [
+                "KOH",
+                "carbon",
+                "C-PSCs"
+            ],
+            "precursors": [
+                {
+                    "text": "carbon",
+                    "start": 111,
+                    "end": 117,
+                    "token_ids": [
+                        21
+                    ]
+                },
+                {
+                    "text": "carbon",
+                    "start": 130,
+                    "end": 136,
+                    "token_ids": [
+                        24
+                    ]
+                },
+                {
+                    "text": "polymethylmethacrylate",
+                    "start": 147,
+                    "end": 169,
+                    "token_ids": [
+                        27
+                    ]
+                },
+                {
+                    "text": "N-KSDC",
+                    "start": 170,
+                    "end": 176,
+                    "token_ids": [
+                        29
+                    ]
+                }
+            ],
+            "operation": [
+                28,
+                "StartingSynthesis"
+            ],
+            "targets": "carbon"
+        },
+        {
+            "sentence": "The results showed that the best power conversion efficiencies of N-KSDC-based C-PSCs with an active area of 0.08 and 1\u00a0cm2 were 13.45% and 11.08%, respectively",
+            "all_materials": [
+                "C-PSCs"
+            ],
+            "other_materials": [
+                "C-PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, unencapsulated PSCs retained 92% of their initial power conversion efficiencies under ambient conditions without intentionally controlling humidity for 62 days",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this study, we propose a feasible and effective strategy to improve the performance and stability of perovskite/carbon interfaces in C-PSCs.",
+            "all_materials": [
+                "carbon",
+                "C-PSCs"
+            ],
+            "other_materials": [
+                "carbon",
+                "C-PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "SnO2 has gathered wide attention as an electron transport layer  in perovskite solar cells  for its outstanding properties such as low-temperature process, high mobility, and matched energy level",
+            "all_materials": [
+                "SnO2"
+            ],
+            "other_materials": [
+                "SnO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the low-temperature annealing of SnO2 may lead to the formation of large quantities of oxygen vacanices, which can give rise to nonradiative recombination",
+            "all_materials": [
+                "SnO2"
+            ],
+            "other_materials": [
+                "SnO2"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                6,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, we introduce an alanine  with a high fusion point to modify the quality of SnO2 film in solution processing at a low temperature",
+            "all_materials": [
+                "alanine",
+                "SnO2"
+            ],
+            "other_materials": [
+                "alanine",
+                "SnO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The carboxylic acid group of alanine can crosslink to SnO2 via a chelating interaction, leading to the decreasing in traps and increasing in carrier transmission",
+            "all_materials": [
+                "alanine",
+                "SnO2"
+            ],
+            "other_materials": [
+                "alanine",
+                "SnO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, the amino group of alanine could also promote the crystallization and suppress ion migration of the perovskite film through hydrogen bonds",
+            "all_materials": [
+                "alanine"
+            ],
+            "other_materials": [
+                "alanine"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The result demonstrates that using the C3H7NO2 modified SnO2 ETL with the optimal concentration, the highest power conversion efficiency  of carbon-based CsPbIBr2 PSC was obviously improved from 5.09% to 6.80%, leading to an increase by almost 33.60% compared to the PSC with pristine SnO2",
+            "all_materials": [
+                "C3H7NO2",
+                "SnO2 ETL",
+                "CsPbIBr2 PSC",
+                "PSC",
+                "SnO2"
+            ],
+            "other_materials": [
+                "C3H7NO2",
+                "SnO2 ETL",
+                "CsPbIBr2 PSC",
+                "PSC",
+                "SnO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "More importantly, the PSCs with modified SnO2 had better long-term stability",
+            "all_materials": [
+                "SnO2"
+            ],
+            "other_materials": [
+                "SnO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This paper demonstrates the utility of the alanine modification approach boosting the performance of carbon-based PSCs.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "One of the important factors that limit the efficiency of perovskite solar cells  involves mobility and charge separation process in perovskite and electron transport layer",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this study, we showed that a simple introduction of a passivation layer at the surface of ETL helped increase the optical absorption, electron mobility, charge separation, and conductivity of ETL",
+            "all_materials": [
+                "ETL",
+                "ETL"
+            ],
+            "other_materials": [
+                "ETL",
+                "ETL"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The passivation layer was prepared by doping the titanium dioxide nanotube with Ag, Cu, or Ag-Cu composite via photo-deposition method",
+            "all_materials": [
+                "titanium dioxide",
+                "Ag",
+                "Cu",
+                "Ag-Cu"
+            ],
+            "other_materials": [
+                "titanium dioxide"
+            ],
+            "precursors": [
+                {
+                    "text": "Ag",
+                    "start": 80,
+                    "end": 82,
+                    "token_ids": [
+                        12
+                    ]
+                },
+                {
+                    "text": "Cu",
+                    "start": 84,
+                    "end": 86,
+                    "token_ids": [
+                        14
+                    ]
+                },
+                {
+                    "text": "Ag-Cu",
+                    "start": 91,
+                    "end": 96,
+                    "token_ids": [
+                        17
+                    ]
+                }
+            ],
+            "operation": [
+                4,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "PSC with Ag- and Ag-Cu -doped passivation layer showed average conversion efficiency of 11.68% and 10.58%, respectively; the control device showed 8.68% in efficiency under high relative humidity of 50\u201352%",
+            "all_materials": [
+                "PSC"
+            ],
+            "other_materials": [
+                "PSC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Such enhancement in performance was largely contributed by the increase in current density  of about 35% and 14% relative to the control device for the passivation layer doped with Ag and Ag-Cu  composite, respectively",
+            "all_materials": [
+                "Ag",
+                "Ag-Cu"
+            ],
+            "other_materials": [
+                "Ag",
+                "Ag-Cu"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The increase in the current density can be attributed to a decreased recombination caused by better charge mobility and quenching of the improved ETL, as well as better optical absorption of perovskite",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The developed passivation layer demonstrates a simple, yet powerful method to enhance solar cell performance, having good potential for various perovskite recipes and structures.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Organic/inorganic hybrid perovskite architectures have shown tremendous potential in the photovoltaic  device community owing to the remarkable performance and concise solution-synthesized scheme",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In the past decade, the perovskite solar cells  achieved a significant improvement in the photovoltaic performances from a modest 3.81% to the recently certified highest values\u00a0surpassing 24%",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Nevertheless, issues constraining long-term stability and large-scale production still hinder the commercialization process of PSCs",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "Carbon nanomaterials, scoping from carbon-based quantum dots  to the two-dimensional graphene materials, have been widely utilized in perovskite device structures to enhance both the efficiency and stability of PSCs due to their outstanding chemical, electrical, and mechanical characteristics",
+            "all_materials": [
+                "Carbon",
+                "graphene"
+            ],
+            "other_materials": [
+                "Carbon",
+                "graphene"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In particular, the water-resistance property of specific carbon nanomaterials has significantly prevented the degradation of various function layers through impeding ambient moisture ingress, subsequently improving the long-term stability for PSCs",
+            "all_materials": [
+                "water",
+                "carbon"
+            ],
+            "other_materials": [
+                "water",
+                "carbon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "All of those unique properties have made nanocarbon one of the most potential materials to construct excellent photovoltaic performance PSCs with long-term stability",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this review, we conducted a comprehensive overview of extraordinary and notable efforts in implementing different carbon materials into individual function layers of perovskite device structure to simultaneously enhance their device efficiency and operating stability",
+            "all_materials": [
+                "carbon"
+            ],
+            "other_materials": [
+                "carbon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Finally, we outline the prospects with a perspective on facing challenges and research directions of utilizing carbon materials in efficient and stable PSCs.",
+            "all_materials": [
+                "carbon"
+            ],
+            "other_materials": [
+                "carbon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Carbon-based perovskite solar cells  facilitate modularization and commercialization due to their excellent thermal stability and low cost",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, C-PSCs show the poor performance that charge carrier extraction by the carbon electrode alone is not as efficient as in the case of conventional hole transport materials  based PSCs",
+            "all_materials": [
+                "C-PSCs",
+                "carbon"
+            ],
+            "other_materials": [
+                "C-PSCs",
+                "carbon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, an inorganic hole buffer layer of nitrogen-doped carbon/Co3O4  nanoparticles derived from MOFs is introduced to adjust energy alignment and passivate perovskite  grain boundaries",
+            "all_materials": [
+                "carbon/Co3O4"
+            ],
+            "other_materials": [
+                "carbon/Co3O4"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, a simple processing method on the Co3O4@NC nanoparticles manipulated by controllable ultraviolet/ozone  treatment is employed, to further improve the interfacial performance of MAPbI3/Co3O4@NC and reduce the hysteresis",
+            "all_materials": [
+                "Co3O4@NC",
+                "MAPbI3/Co3O4@NC"
+            ],
+            "other_materials": [
+                "Co3O4@NC",
+                "MAPbI3/Co3O4@NC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Through interface engineering, it is found that Co3O4@NC inorganic hole buffer layer effectively promotes photo\u2010generated charge separation and extraction, and suppresses charge recombination at the MAPbI3/Carbon electrode  interface, resulting in improved photovoltaic performance",
+            "all_materials": [
+                "Co3O4@NC",
+                "MAPbI3",
+                "Carbon"
+            ],
+            "other_materials": [
+                "Co3O4@NC",
+                "MAPbI3",
+                "Carbon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Consequently, the optimal C-PSCs without encapsulation achieved a maximum PCE of 14.63%, which is 22.3% more efficient than the pristine device , and exhibited outstanding long-term stability.",
+            "all_materials": [
+                "C-PSCs"
+            ],
+            "other_materials": [
+                "C-PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Commercial carbon-based perovskite solar cells have rapidly developed due to its low cost and long-term stability",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, commercial carbon paste as counter electrode always produces a large number of defects at the perovskite interface, thereby greatly affecting the performance of the perovskite solar cells",
+            "all_materials": [
+                "carbon"
+            ],
+            "other_materials": [
+                "carbon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, a grinding process is used to compact the thin carbon film",
+            "all_materials": [
+                "carbon"
+            ],
+            "other_materials": [
+                "carbon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The process effectively eliminates defects and improves the extraction efficiency of holes from the photoexcited layer, resulting in 21.2% increase in the efficiency of the carbon-based perovskite solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, open-circuit voltage decay on the order of tens of seconds is analyzed in detail",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A new capacitor-like model is established to successfully explain the hysteresis phenomenon",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Perovskite solar cells show 700\u202fh of stability with ground carbon counter electrode.",
+            "all_materials": [
+                "carbon"
+            ],
+            "other_materials": [
+                "carbon"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                9,
+                "Mixing"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Organic-inorganic lead halide perovskite solar cells have high power conversion efficiency; however, their poor environmental stability is still a problem that needs to be solved",
+            "all_materials": [
+                "lead halide"
+            ],
+            "other_materials": [
+                "lead halide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this study, a tetrabutylammonium cation is introduced into mixed-cation lead a mixed-halide Cs0.050.95Pb3 perovskite as a sacrificial cation to enhance the stability of the corresponding solar cells",
+            "all_materials": [
+                "tetrabutylammonium",
+                "lead a",
+                "Cs0.050.95Pb3"
+            ],
+            "other_materials": [
+                "tetrabutylammonium",
+                "lead a",
+                "Cs0.050.95Pb3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Tetrabutylammonium cations located at grain boundaries are beneficial for the formation of two-dimensional perovskite grains perpendicular to the substrate during heat treatment, which can enhance the stability of solar cells against moisture",
+            "all_materials": [
+                "Tetrabutylammonium"
+            ],
+            "other_materials": [
+                "Tetrabutylammonium"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "By optimizing the content of tetrabutylammonium iodide ions, a maximum power conversion efficiency of 12% is achieved for the solar cell with the structure of FTO/c-TiO2/m-TiO2/perovskite/carbon",
+            "all_materials": [
+                "tetrabutylammonium iodide",
+                "FTO/c-TiO2/m-TiO2/perovskite/carbon"
+            ],
+            "other_materials": [
+                "tetrabutylammonium iodide",
+                "FTO/c-TiO2/m-TiO2/perovskite/carbon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Without encapsulation, the tetrabutylammonium contained perovskite solar cell does not obviously degrade at ambient atmosphere  for over 1000\u202fh",
+            "all_materials": [
+                "tetrabutylammonium"
+            ],
+            "other_materials": [
+                "tetrabutylammonium"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, this solar cell can retain over 80% of its initial efficiency for 500\u202fh at 85\u202f\u00b0C and in dry air.",
+            "all_materials": [
+                "air"
+            ],
+            "other_materials": [
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Hole-conductor-free perovskite solar cells  were fabricated using carbon as counter electrodes  and TiO2 nanosheet  layers as photoanode",
+            "all_materials": [
+                "carbon",
+                "TiO2"
+            ],
+            "other_materials": [
+                "carbon",
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                9,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The effect of TiO2 NS layer thickness on the performance and charge carrier recombination of PSCs was investigated and discussed",
+            "all_materials": [
+                "TiO2",
+                "PSCs"
+            ],
+            "other_materials": [
+                "TiO2",
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "With increasing the thickness of TiO2 NS layer, more CH3NH3PbI3 was adsorbed into the TiO2 NS photoanode and the interfacial recombination of electrons and holes at TiO2 NS/perovskite interface was reduced, leading to the higher short-circuit current density  and open-circuit voltage",
+            "all_materials": [
+                "TiO2",
+                "CH3NH3PbI3",
+                "TiO2 NS",
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2",
+                "CH3NH3PbI3",
+                "TiO2 NS",
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, over-thick TiO2 layer not only caused a low fill factor  but also decreased the performance of PSCs",
+            "all_materials": [
+                "TiO2",
+                "PSCs"
+            ],
+            "other_materials": [
+                "TiO2",
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The optimized PSC with the thickness of 1.0\u00a0\u03bcm TiO2 NS layer obtained Jsc of 14.11\u00a0mA\u00a0cm\u22122,\u2009Voc of 0.85\u00a0mV, FF of 0.68 and the power conversion efficiency  of 8.11%",
+            "all_materials": [
+                "PSC",
+                "TiO2 NS"
+            ],
+            "other_materials": [
+                "PSC",
+                "TiO2 NS"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The above results suggested that the thickness of TiO2 NS layer played an important role in the performance of devices.",
+            "all_materials": [
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The high cost of hole transporting materials  and noble metallic electrodes limits the applications of perovskite solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Carbon materials, including carbon nanotube, graphene, and carbon paste, have been utilized for HTMs and noble-metal-free PSCs",
+            "all_materials": [
+                "Carbon",
+                "carbon",
+                "graphene",
+                "carbon"
+            ],
+            "other_materials": [
+                "Carbon",
+                "carbon",
+                "graphene",
+                "carbon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Unlike other carbon materials, coal has extensive sources and lower price",
+            "all_materials": [
+                "coal"
+            ],
+            "other_materials": [
+                "coal"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A simple preparation process and an effective sandwich structure for the use of this material in PSCs were obtained by hot-pressing method",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "After the key parameters were adjusted, the power conversion efficiencies are 10.87%  and 8.72%",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, devices with coal-based carbon electrodes have better stability than conventional devices",
+            "all_materials": [
+                "carbon"
+            ],
+            "other_materials": [
+                "carbon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Our work proposes a promising future for the commercialization of low-cost and highly stable PSCs.",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "Organic-inorganic lead halide perovskite solar cells have garnered enormous interest in scientific communities due to comparable power conversion efficiencies and solution-processed fabrication techniques",
+            "all_materials": [
+                "lead halide"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "lead halide"
+        },
+        {
+            "sentence": "Among them, carbon-based perovskite solar cells seem to be one of the most promising candidates for addressing the stability issue while suffering from inferior efficiency or high processing temperature",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, we introduce low-temperature processed Zn-doped SnO2  as an effective electron transport layer in perovskite solar cells for the first time, and demonstrate a low-temperature carbon-based device with Cu-phthalocyanine as hole transport layer",
+            "all_materials": [
+                "SnO2",
+                "Cu-phthalocyanine"
+            ],
+            "other_materials": [
+                "SnO2",
+                "Cu-phthalocyanine"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We find that Zn doping contributes to a more suitable energy level alignment and an improved conductivity for SnO2 films",
+            "all_materials": [
+                "SnO2"
+            ],
+            "other_materials": [
+                "SnO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As a result, the electron transfer and extraction are enhanced and the charge recombination is suppressed",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, devices with Zn-doped SnO2 have a wider depletion region, leading to an enhanced photovoltaic performance",
+            "all_materials": [
+                "SnO2"
+            ],
+            "other_materials": [
+                "SnO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "An optimal efficiency of 17.78% can be obtained after 2\u202fmM Zn doping",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, these devices, introducing highly stable and hydrophobic Cu-phthalocyanine and carbon, maintain almost 100% of their initial efficiencies over 1200\u202fh in ambient air",
+            "all_materials": [
+                "Cu-phthalocyanine",
+                "carbon",
+                "air"
+            ],
+            "other_materials": [
+                "Cu-phthalocyanine",
+                "carbon",
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Our study paves the way for developing highly efficient and flexible carbon-based perovskite solar cells.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Hole transporting material -free carbon-based perovskite solar cells  have attracted widespread attention for their notable characteristics of excellent long-term stability and low cost",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the power conversion efficiency  of C\u2013PSCs is significantly lower than that of HTM-based PSCs",
+            "all_materials": [
+                "C",
+                "PSCs"
+            ],
+            "other_materials": [
+                "C",
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This is mostly due to the unexpected electron recombination happening at the interface of perovskite/carbon",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this study, biomass-based carbon materials were obtained from discarded soybean dregs with sufficient pore size and good conductivity through programmed temperature carbonization and KOH activation processes",
+            "all_materials": [
+                "carbon",
+                "soybean",
+                "KOH"
+            ],
+            "other_materials": [
+                "KOH"
+            ],
+            "precursors": [
+                {
+                    "text": "soybean",
+                    "start": 75,
+                    "end": 82,
+                    "token_ids": [
+                        13
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "carbon"
+        },
+        {
+            "sentence": "Composites of KOH-activated soybean dregs carbon and conductive carbon were used as the counter electrodes  of C\u2013PSCs, the electrode interface performance was significantly improved and a PCE of 12.05% was obtained, which was 50% higher than that of pure carbon-based C\u2013PSCs",
+            "all_materials": [
+                "KOH",
+                "carbon",
+                "carbon",
+                "C",
+                "C\u2013PSCs"
+            ],
+            "other_materials": [
+                "KOH",
+                "carbon",
+                "carbon",
+                "C",
+                "C\u2013PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Through long-term stability tests, it was found that the efficiency of the unpackaged cell did not decrease in after 960\u00a0h in the air.",
+            "all_materials": [
+                "air"
+            ],
+            "other_materials": [
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

@@ -1,0 +1,156 @@
+{
+    "rest": [
+        {
+            "sentence": "\u2022KBr buffer layer was inserted to modify the interface between NiOx HTL and perovskite film.",
+            "all_materials": [
+                "\u2022KBr",
+                "NiOx HTL"
+            ],
+            "other_materials": [
+                "\u2022KBr",
+                "NiOx HTL"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "KBr modification can facilitates charge separation and optimizes the energy level alignment.",
+            "all_materials": [
+                "KBr"
+            ],
+            "other_materials": [
+                "KBr"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The as-optimized device gains a champion PCE of 19.21% for inverted perovskite solar cells.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Unencapsulated device maintain 80% of its initial PCE after 1100\u00a0h high humidity storage.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "NiOx-based inverted structure perovskite devices possess advantages in the application of single junction and tandem solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, energy loss and instability originating from interface defects commonly result in inferior device performance",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, Potassium Bromide , as a buffer layer, was inserted between the perovskite and NiOx hole transport layer to modify the interface",
+            "all_materials": [
+                "Potassium Bromide",
+                "NiOx"
+            ],
+            "other_materials": [
+                "Potassium Bromide",
+                "NiOx"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The valence band maximum of NiOx improved to \u22125.37\u00a0eV which matches better with perovskite",
+            "all_materials": [
+                "NiOx"
+            ],
+            "other_materials": [
+                "NiOx"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The lifetime of hot carriers and intrinsic charge recombination revealed by Femtosecond transient absorption spectroscopy  confirm that KBr modification can facilitate charge separation",
+            "all_materials": [
+                "KBr"
+            ],
+            "other_materials": [
+                "KBr"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Benefiting from the improvement of perovskite quality which results from K+ diffusion and enhanced charge transport, the power conversion efficiency  of the modified device reaches up to 19.21%, whereas the pristine is 17.56%",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Meanwhile, the air stability of the unencapsulated device also improved dramatically, which maintains 80% of its initial PCE after 1100\u00a0h high humidity storage",
+            "all_materials": [
+                "air"
+            ],
+            "other_materials": [
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work unambiguous reveals the mechanism of perovskite/NiOx interface modification and provides a facile and effective strategy for interface optimization.",
+            "all_materials": [
+                "/NiOx"
+            ],
+            "other_materials": [
+                "/NiOx"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Data will be made available on request.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "These two authors contributed equally to this work.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

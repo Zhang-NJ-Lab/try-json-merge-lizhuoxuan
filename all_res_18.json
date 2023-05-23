@@ -1,0 +1,1084 @@
+{
+    "rest": [
+        {
+            "sentence": "Integration of two-dimensional graphite nanosheets into one-dimensional graphite nanofibers is essential for deep application of graphite materials",
+            "all_materials": [
+                "graphite",
+                "graphite",
+                "graphite"
+            ],
+            "other_materials": [
+                "graphite",
+                "graphite"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "graphite"
+        },
+        {
+            "sentence": "Here, we report preparation of crystallized graphite nanofibers by nozzle-less electrospinning and subsequent low-temperature heat treatment",
+            "all_materials": [
+                "graphite"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "graphite"
+        },
+        {
+            "sentence": "Depending on this graphitized one-dimensional nanostructure, we first apply the graphite nanofibers as scaffold for perovskite solar cells , which would provide a charge transfer highway in the light absorb layer and then improve the performance of devices",
+            "all_materials": [
+                "graphite"
+            ],
+            "other_materials": [
+                "graphite"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A high power conversion efficiency of 18.23% was recorded for the graphite nanofibers based PSC with high fill factor of 76%.",
+            "all_materials": [
+                "graphite",
+                "PSC"
+            ],
+            "other_materials": [
+                "graphite",
+                "PSC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Carbon materials, such as graphite, carbon nanosheet, carbon nanofibers, carbon nanotube et al",
+            "all_materials": [
+                "graphite",
+                "carbon",
+                "carbon",
+                "carbon"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "graphite"
+        },
+        {
+            "sentence": "have attracted intense attention as available and inexpensive materials due to its excellent in plane mechanical, thermal and electrical properties, which has been wide applied in catalysis, optoelectronics, gas separation and memory storage",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "These excellent properties may be amplified if planar graphite can be designed to be one-dimensional fiber-shape nanostructure",
+            "all_materials": [
+                "graphite"
+            ],
+            "other_materials": [
+                "graphite"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Typical techniques used to produce graphite nanofibers or carbonaceous one-dimensional nanomaterials involve chemical vapor deposition , solid-phase synthesis and electrospinning",
+            "all_materials": [
+                "graphite"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "graphite"
+        },
+        {
+            "sentence": "Electrospinning with subsequent thermal treatment, involving stabilization and carbonization processes, is a simple, cost-effective and versatile approach to produce carbon nanofibers from polymer-based precursor solutions",
+            "all_materials": [
+                "carbon"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "carbon"
+        },
+        {
+            "sentence": "However, so far, most carbon nanofibers produced by electrospinning exhibits relatively poor graphitic structures, consequently, non-optimial properties",
+            "all_materials": [
+                "carbon"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "carbon"
+        },
+        {
+            "sentence": "Increasing carbonization temperature  is an effect approach to improve graphitization of carbon nanofibers",
+            "all_materials": [
+                "carbon"
+            ],
+            "other_materials": [
+                "carbon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, such high temperature requires specialized, expensive equipment that limits economic manufacturing and its applications to some low melting-point substrates for electronic devices.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Another strategy for improving graphitization of carbon nanofibers is incorporating oriented inclusions  that can increase the alignment of the polymer chains inside the spun-polymer nanofibers",
+            "all_materials": [
+                "carbon"
+            ],
+            "other_materials": [
+                "carbon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Carbon nanotube has been used as nanoscale inclusion for several types of fibers, and it indeed increased chains alingnment, however, the improvements were modest, and at some architectures, carbon nanotube ends sticked out of carbon nanofibers",
+            "all_materials": [
+                "Carbon",
+                "carbon",
+                "carbon"
+            ],
+            "other_materials": [
+                "Carbon",
+                "carbon",
+                "carbon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "incorporated a small amount of graphene oxide in precursor solution and showed improved graphitic order and orientation in carbon nanofibers, however, the carbonization temperature was still higher than 800\u202f\u00b0C Dzenis et al",
+            "all_materials": [
+                "graphene oxide",
+                "carbon"
+            ],
+            "other_materials": [
+                "carbon"
+            ],
+            "precursors": [
+                {
+                    "text": "graphene oxide",
+                    "start": 31,
+                    "end": 45,
+                    "token_ids": [
+                        5,
+                        6
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, fabrication of carbon nanofibers with quality graphitic structures at low carbonization temperatures is a great challenge.",
+            "all_materials": [
+                "carbon"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "carbon"
+        },
+        {
+            "sentence": "Here, we show that crystallized graphite nanofibers with high quality can be produced at significant yield by nozzle-less electrospinning and following low graphitization temperature",
+            "all_materials": [
+                "graphite"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "graphite"
+        },
+        {
+            "sentence": "Incorporating one-dimensional nanostructure materials or carbon based materials, such as TiO2 nanofibers, carbon nanotubes/TiO2 nanofibers, carbon nanotubes, fullerene, etc., in photoelectrodes to improve the electron extract and transfer properties of solar cells have been widely reported",
+            "all_materials": [
+                "TiO2",
+                "carbon",
+                "TiO2",
+                "carbon"
+            ],
+            "other_materials": [
+                "TiO2",
+                "carbon",
+                "TiO2",
+                "carbon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Benefiting from crystallized one-dimensional nanostructure, graphite nanofibers should be suitable for using as electrodes for perovskite solar cells , especially for 1D",
+            "all_materials": [
+                "graphite"
+            ],
+            "other_materials": [
+                "graphite"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, in this paper, high quality graphite nanofibers have been utilized as scaffold for PSCs to improve electron transfer property and then enhance performance of devices.",
+            "all_materials": [
+                "graphite"
+            ],
+            "other_materials": [
+                "graphite"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Graphite powder  was dissolved in DMF  and dispersed by ultrasonic cell disruption for 12\u202fh to obtain graphite nanosheets",
+            "all_materials": [
+                "Graphite",
+                "DMF",
+                "graphite"
+            ],
+            "other_materials": [
+                "DMF"
+            ],
+            "precursors": [
+                {
+                    "text": "Graphite",
+                    "start": 0,
+                    "end": 8,
+                    "token_ids": [
+                        0
+                    ]
+                }
+            ],
+            "operation": [
+                [
+                    3,
+                    "SolutionMixing"
+                ],
+                [
+                    7,
+                    "LiquidGrinding"
+                ]
+            ],
+            "targets": "graphite"
+        },
+        {
+            "sentence": "Polyvinylpyrrolidone  and polyacrylonitrile  were dissolved in DMF  and stirred for 4\u202fh",
+            "all_materials": [
+                "Polyvinylpyrrolidone",
+                "polyacrylonitrile",
+                "DMF"
+            ],
+            "other_materials": [
+                "DMF"
+            ],
+            "precursors": [
+                {
+                    "text": "Polyvinylpyrrolidone",
+                    "start": 0,
+                    "end": 20,
+                    "token_ids": [
+                        0
+                    ]
+                },
+                {
+                    "text": "polyacrylonitrile",
+                    "start": 26,
+                    "end": 43,
+                    "token_ids": [
+                        2
+                    ]
+                }
+            ],
+            "operation": [
+                [
+                    4,
+                    "SolutionMixing"
+                ],
+                [
+                    8,
+                    "LiquidGrinding"
+                ]
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Then, the precursor for electrospinning was prepared by mixed solution 1  with solution 2  and stirred for 30\u202fmin",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                [
+                    7,
+                    "StartingSynthesis"
+                ],
+                [
+                    16,
+                    "LiquidGrinding"
+                ]
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Using nozzle-less apparatus,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As shown, synthesis of graphite nanofibers by nozzle-less electrospinning is illustrated in Fig",
+            "all_materials": [
+                "graphite"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "graphite"
+        },
+        {
+            "sentence": "First of all, through high-energy sonication, graphite powders partially separated in connected graphite nanosheets with diameter around 2\u202f\u00b5m and thickness about 6\u202fnm, as confirmed by AFM in Fig1",
+            "all_materials": [
+                "graphite",
+                "graphite"
+            ],
+            "other_materials": [
+                "graphite",
+                "graphite"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "And then, PVP, PAN, graphite nanosheets were dissolved in DMF as precursor solution for electrospinning2",
+            "all_materials": [
+                "PVP",
+                "PAN",
+                "graphite",
+                "DMF"
+            ],
+            "other_materials": [
+                "DMF"
+            ],
+            "precursors": [
+                {
+                    "text": "PVP",
+                    "start": 10,
+                    "end": 13,
+                    "token_ids": [
+                        3
+                    ]
+                },
+                {
+                    "text": "PAN",
+                    "start": 15,
+                    "end": 18,
+                    "token_ids": [
+                        5
+                    ]
+                },
+                {
+                    "text": "graphite",
+                    "start": 20,
+                    "end": 28,
+                    "token_ids": [
+                        7
+                    ]
+                }
+            ],
+            "operation": [
+                10,
+                "SolutionMixing"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "PVP and PAN were chosen as carriers to adjust the viscosity of precursor solution, graphite",
+            "all_materials": [
+                "PVP",
+                "PAN",
+                "graphite"
+            ],
+            "other_materials": [
+                "PVP",
+                "PAN",
+                "graphite"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In summary, we have demonstrated a simple and low temperature method to fabricate high quality graphite nanofibers from graphite powder and they can be efficient applied as scaffold in PSCs",
+            "all_materials": [
+                "graphite",
+                "graphite"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "graphite",
+                    "start": 120,
+                    "end": 128,
+                    "token_ids": [
+                        19
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "graphite"
+        },
+        {
+            "sentence": "The graphitized one dimensional graphite nanofibers provide a charge transfer highway in perovskite layer and then improve the performance of PSCs devices",
+            "all_materials": [
+                "graphite"
+            ],
+            "other_materials": [
+                "graphite"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A high efficiency of 18.23% was obtained for the device with the graphite nanofibers scaffold, 21% improvement in performance compare with device with m",
+            "all_materials": [
+                "graphite"
+            ],
+            "other_materials": [
+                "graphite"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "There are no conflicts to declare.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work was supported by the National Natural Science Foundation of China , and the Open Project of State Key Laboratory of Environment-friendly Energy Materials .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The emergence of new-generation geostationary satellites  provides us an opportunity to obtain more accurate global horizontal irradiance  data",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this study, instantaneous GHI estimates  are produced using the cloud products from the new-generation geostationary satellite Himawari-8 with a physically based algorithm",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The hourly, daily, and monthly GHI estimates are aggregated using \u201csnapshots\u201d  at two different sampling frequencies , and validated against surface radiometry measurements collected in China",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                10,
+                "Mixing"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The root mean square errors  for hourly, daily and monthly GHI estimates calculated using 1-h snapshots were 106.6, 27.9, and 17.7\u202fW\u202fm\u22122, respectively, whereas those for hourly, daily and, monthly GHI calculated using 10-min snapshots decreased to 94.0, 24.0, and 16.6\u202fW\u202fm\u22122, respectively",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This result demonstrates that the accuracies of hourly, daily, and monthly GHI estimates are improved by increasing the frequency of satellite observations from 1\u202fh  to 10\u202fmin .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work involves an experimental study on a trapezoidal Double-Pass Solar Air Heater  to analyse its performance under natural and forced convection cases for the purpose of comparison",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The experiments have been conducted in winter and compared for each case in same time and weather conditions",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The collector has been carefully designed and constructed to prevent as possible the heat losses",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A uniform fins have been fixed on both sides of the absorber plate to enhance the heat exchange rate",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Effects of solar radiation and air mass flowrate on DPSAH performance have been investigated",
+            "all_materials": [
+                "air"
+            ],
+            "other_materials": [
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The results show that DPSAH produces higher efficiency when the system is operated under natural convection case in comparison to forced convection case",
+            "all_materials": [
+                "DPSAH"
+            ],
+            "other_materials": [
+                "DPSAH"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The maximum efficiency has been found equal to 73.5% and 65% for natural and forced convection, respectively",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A significant temperature difference has been obtained under natural convection case compared to forced convection",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The results confirmed that DPSAH with adding fins leads to considerable performance improvement compared to conventional DPSAH due to enhance the absorbing solar energy caused by increasing surface area",
+            "all_materials": [
+                "DPSAH",
+                "DPSAH"
+            ],
+            "other_materials": [
+                "DPSAH",
+                "DPSAH"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The increasing in air mass flowrate has inverse influence on the performance of DPSAH",
+            "all_materials": [
+                "air",
+                "DPSAH"
+            ],
+            "other_materials": [
+                "air",
+                "DPSAH"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For natural circulation case, the outlet, plate and glass temperatures have been always observed higher than the forced convection case",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It is evident that type of heat transfer has considerably affect the system performance and consequently, the selection of air circulation process are required to be satisfactorily chosen according to the application to achieve the desired objective.",
+            "all_materials": [
+                "air"
+            ],
+            "other_materials": [
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The use of dish systems is among the most potential methods for solar power collection",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the popularization of the application of traditional dish systems has been impeded because they are heavy, structurally complex, and costly",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Accordingly, a novel ultralight dish system is proposed; it consists of a cable mesh reflector, an ultralight thermoelectric conversion device, and a three-extensible-rod  solar tracker",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Compared with previous reflectors consisting of rigid solid panels, the reflector of the proposed dish system  adopts an ultralight rigid\u2013flexible combined structure based on a space cable mesh reflector antenna",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The lightweight thermoelectric conversion device of the PDS is reasonably considered",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Thereafter, a TER solar tracker  is mainly selected and designed for the PDS",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Through an inverse kinematic analysis of the tracker, a sun-tracking control strategy of height variation is employed to reduce the number of sections in each extensible rod from three to two and to decrease total energy consumption",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Meanwhile, a compound joint consisting of hook and rotary joints is substituted for the spherical joint of the solar tracker to overcome its inadequate rotational range and facilitate fabrication",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "By setting the PDS to an extreme orientation and subjecting it to wind and gravitational loads, its structural parameters are further determined through analysis and optimization",
+            "all_materials": [
+                "PDS"
+            ],
+            "other_materials": [
+                "PDS"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Although the surface density of the PDS is only approximately 1\u202fkg/m2, the system performs satisfactorily even when subjected to loads",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The dynamic model of the PDS is established by the Newton\u2013Euler formulation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The power requirement of the PDS is determined through the dynamic analysis; it is found that during winter solstice, its maximum power is only 0.024\u202fW, and the daily energy consumption is only 210.05\u202fJ",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Finally, sun-tracking experiments on the TER solar tracker are performed to verify the theoretical and simulation analysis results; the sun-tracking accuracy is estimated to be within \u00b10.7\u00b0, which satisfies the PDS requirement although the machining precision of its components is not high.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Texturization of multi-crystalline silicon wafers for photovoltaic application comprises the removal of the saw damage and shaping the topography of the bulk surface to create a surface with a low reflectivity, the so-called texture",
+            "all_materials": [
+                "silicon"
+            ],
+            "other_materials": [
+                "silicon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Etching of multi-crystalline silicon wafers is usually carried out with acid mixtures consisting of hydrofluoric acid , nitric acid  and hexafluorosilicic acid",
+            "all_materials": [
+                "silicon",
+                "hydrofluoric acid",
+                "nitric acid",
+                "hexafluorosilicic acid"
+            ],
+            "other_materials": [
+                "silicon",
+                "hydrofluoric acid",
+                "nitric acid",
+                "hexafluorosilicic acid"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The present study reveals that such acid mixtures diluted by water or modified by the addition of ammonia solution, NH3  can create textures with a significantly increased surface area exceeding that obtained by standard etching mixtures by a factor of 2.5\u20133",
+            "all_materials": [
+                "water",
+                "ammonia",
+                "NH3"
+            ],
+            "other_materials": [
+                "water",
+                "ammonia",
+                "NH3"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                8,
+                "SolutionMixing"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This yields a significantly reduced reflectivity of the etched wafer surface",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the addition of water or NH3 causes a very low etching rate, which makes such mixtures inapplicable for industrial application",
+            "all_materials": [
+                "water",
+                "NH3"
+            ],
+            "other_materials": [
+                "NH3"
+            ],
+            "precursors": [
+                {
+                    "text": "water",
+                    "start": 25,
+                    "end": 30,
+                    "token_ids": [
+                        5
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To overcome this disadvantage, a two-step etching regime was developed to produce surface-enlarged solar wafers within a timespan typical for industrial production lines",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This procedure comprises a first step of slow etching with a NH3-modified etching mixture to pre-shape the as-cut wafer surface",
+            "all_materials": [
+                "NH3"
+            ],
+            "other_materials": [
+                "NH3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The second etching step is performed with a typical HF/HNO3/H2SiF6 etching mixture that finalizes the texturization",
+            "all_materials": [
+                "HF",
+                "HNO3",
+                "H2SiF6"
+            ],
+            "other_materials": [
+                "HF",
+                "HNO3",
+                "H2SiF6"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Electrical measurements made on solar cells produced from such etched wafer confirm the improved surface quality of the two-step etched wafer compared to the reference wafer.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The development of PV type window for building south wall integration is a promising concept, which provides a solution to the energy crisis and environment pollution problem",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Thus in this paper, an asymmetric concentrator is proposed, and through the simple concentrator array optimization process, the asymmetric concentrator-PV type window can be designed, which provides the electricity generation and incorporates the function of daylighting at the same time",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The optical models for the concentrator design and daylighting analysis are built and experimentally validated",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The optical performance of the asymmetric concentrator has been analyzed",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Considering that the incidence angles of sunrays on the building south wall remain at a high level throughout the year, the shading effect should be seriously considered",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In order to reduce the shading effect between each concentrator array, the shading effect has been predicted and an arrangement optimization strategy by setting gaps between each concentrator array is presented",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It was found that these gaps could alleviate the shading effect, which will also further allow the function of daylighting",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Through the simulation analysis, it was found that the asymmetric concentrator can attain a large acceptance range of 10\u00b0\u201385\u00b0 while maintaining high optical efficiency and the asymmetric concentrator-PV type window can achieve the daylighting efficiency of 4.0% to 21.8%, thus it can confirm good annual concentrating PV and daylighting performance",
+            "all_materials": [
+                "PV"
+            ],
+            "other_materials": [
+                "PV"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "At last, a typical office room  installed with the asymmetric concentrator-PV type window is modelled and the illuminance distribution on the ground floor at various incidence angles is determined with the solar irradiance set at 500\u202fW\u202fm\u22122",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                22,
+                "Mixing"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Besides of that, the energy distribution for the electricity generation and daylighting at various incidence angles is also indicated",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Through the analysis, the asymmetric concentrator-PV type window is proved suitable for building south wall integration, which can efficiently use the solar energy for the domestic use, in the forms of electricity and daylighting.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The invention of heat pipe solar collectors  is considered as an immense step forward towards solving the challenges of conventional solar thermal systems",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Their unique qualities have acted as a great motivation for researchers to focus their studies on HPSCs and their applications",
+            "all_materials": [
+                "HPSCs"
+            ],
+            "other_materials": [
+                "HPSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A considerable share of these studies has been allocated to theoretical studies due to several technical and economic reasons",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, to the authors\u2019 knowledge and despite many valuable efforts in this field, there is no review paper available to summarise the relevant proposed and developed theoretical models to date and identifies the research gaps in this field",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, in this review paper, the latest theoretical studies in the field of HPSCs along with their advantages, disadvantages, and contribution have been categorized, reviewed, and discussed",
+            "all_materials": [
+                "HPSCs"
+            ],
+            "other_materials": [
+                "HPSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "First, the operational principles and structure of HPSCs have been explained to create a background for readers",
+            "all_materials": [
+                "HPSCs"
+            ],
+            "other_materials": [
+                "HPSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This is followed by a short section dedicated to the simulation of solar radiation as the most important input for all solar mathematical models",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, various mathematical approaches including steady state models , dynamic models, and models for novel configurations and applications of HPSCs have been reviewed",
+            "all_materials": [
+                "HPSCs"
+            ],
+            "other_materials": [
+                "HPSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, mathematical models to determine the exergy efficiency of HPSCs, which is an effective tool to evaluate the solar systems from a thermodynamic point of view, have been presented",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Finally, the challenges, research gaps, and recommendations for future research directions have been provided.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

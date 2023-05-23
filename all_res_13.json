@@ -1,0 +1,1997 @@
+{
+    "rest": [
+        {
+            "sentence": "In this paper, hole-free, carbon-based all-inorganic CsPbI3 perovskite solar cells  with the structure of F-doped SnO2 /ZnO/CsPbI3/C are fabricated at a low temperature for the first time",
+            "all_materials": [
+                "CsPbI3",
+                "SnO2 /ZnO/CsPbI3/C"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                33,
+                "StartingSynthesis"
+            ],
+            "targets": "CsPbI3"
+        },
+        {
+            "sentence": "Excess CsBr is added into CsPbI3 precursor solution to obtain stable black phase CsPbI3 at a low temperature",
+            "all_materials": [
+                "CsBr",
+                "CsPbI3",
+                "CsPbI3"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "CsBr",
+                    "start": 7,
+                    "end": 11,
+                    "token_ids": [
+                        1
+                    ]
+                },
+                {
+                    "text": "CsPbI3",
+                    "start": 26,
+                    "end": 32,
+                    "token_ids": [
+                        5
+                    ]
+                }
+            ],
+            "operation": [
+                3,
+                "Mixing"
+            ],
+            "targets": "CsPbI3"
+        },
+        {
+            "sentence": "ZnO is prepared by a spin-coating method at 120\u00a0\u00b0C",
+            "all_materials": [
+                "ZnO"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                2,
+                "StartingSynthesis"
+            ],
+            "targets": "ZnO"
+        },
+        {
+            "sentence": "And then the C electrode is prepared by a doctor-blade method at 120\u00a0\u00b0C",
+            "all_materials": [
+                "C"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                6,
+                "StartingSynthesis"
+            ],
+            "targets": "C"
+        },
+        {
+            "sentence": "The effect of different layers of ZnO on the performance of solar cells is investigated",
+            "all_materials": [
+                "ZnO"
+            ],
+            "other_materials": [
+                "ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The champion power conversion efficiency  of the solar cell based on 3 layers of ZnO is 10.95%, with a short-circuit current  of 17.66\u00a0mA/cm2, an open-circuit voltage  of 0.91\u00a0V and a fill factor  of 68%, which is the best performance for hole-free, carbon-based all-inorganic CsPbI3 PSCs fabricated at a low temperature, compared with the other reported results",
+            "all_materials": [
+                "ZnO",
+                "CsPbI3"
+            ],
+            "other_materials": [
+                "ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                65,
+                "StartingSynthesis"
+            ],
+            "targets": "CsPbI3"
+        },
+        {
+            "sentence": "The encapsulated device remained 91% of the initial PCE after being stored in a glove box for 5 months",
+            "all_materials": [
+                "PCE"
+            ],
+            "other_materials": [
+                "PCE"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For further application in flexible solar cells, the solar cells with the structure of PET/Sn-doped In2O3 /ZnO/CsPbI3/C are fabricated under the best parameter conditions and the PCE of 8.70% is obtained.",
+            "all_materials": [
+                "In2O3 /ZnO/CsPbI3/C"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                26,
+                "StartingSynthesis"
+            ],
+            "targets": "In2O3 /ZnO/CsPbI3/C"
+        },
+        {
+            "sentence": "Download : Download high-res image Download : Download full-size image",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In the past ten years, organic-inorganic perovskite solar cells  have been one of the hottest research interests as the power conversion efficiency  has rapidly increased from 3.8% in 2009 to 25.2% in 2020 ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Although the organic-inorganic PSCs have good photoelectric properties, such as a large absorption coefficients , a long carrier diffusion length, and an adjustable band gap , they still suffer from moisture, thermal stability and photo-oxidation, due to the presence of hygroscopic cations  or formamidine ) ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, in order to resolve the above problems, many researchers have used Cs+ ions instead of MA+ and FA+ ions.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Recently, among various all-inorganic perovskites, such as CsPbI3 , CsPbBrI2 , CsPbIBr2 ,  and CsPbBr3 , CsPbI3 has attracted extensive attention because of its suitable band gap  , which indicates that it is the most promising light absorbing layer material in all-inorganic perovskite solar cells",
+            "all_materials": [
+                "CsPbI3",
+                "CsPbBrI2",
+                "CsPbIBr2",
+                "CsPbBr3",
+                "CsPbI3"
+            ],
+            "other_materials": [
+                "CsPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CsPbI3"
+        },
+        {
+            "sentence": "Nevertheless, the black perovskite phase of CsPbI3 should be obtained and remained stable at a temperature of over 310\u00a0\u00b0C, which would transform into a yellow non-perovskite phase with a large band gap of 2.80\u00a0eV at room temperature under the atmospheric environment ,",
+            "all_materials": [
+                "CsPbI3"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CsPbI3"
+        },
+        {
+            "sentence": "So, how to obtain the stable \u03b1-CsPbI3 at a low temperature is very important",
+            "all_materials": [
+                "\u03b1-CsPbI3"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "\u03b1-CsPbI3"
+        },
+        {
+            "sentence": "In 2015, Snaith et al",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "fabricated CsPbI3-based solar cells for the first time at a low temperature of 100\u00a0\u00b0C through adopting HI as an additive with the power conversion efficiency  of 2.9%",
+            "all_materials": [
+                "HI"
+            ],
+            "other_materials": [
+                "HI"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "From then on, more and more in-depth researches about CsPbI3-based all-inorganic perovskite solar cells at a low temperature have been done",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For instance, Hu et al",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "partially substituted Pb2+ with Bi3+ to stabilize the \u03b1-CsPbI3 at 100\u00a0\u00b0C with the PSCs architecture of FTO/c-TiO2/CsPb1\u2212xBixI3/CuI/C",
+            "all_materials": [
+                "\u03b1-CsPbI3",
+                "FTO/c-TiO2/CsPb1\u2212xBixI3/CuI/C"
+            ],
+            "other_materials": [
+                "\u03b1-CsPbI3",
+                "FTO/c-TiO2/CsPb1\u2212xBixI3/CuI/C"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Besides, Jean et al",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "incorporated Eu3+ into CsPbI3 to keep the cubic phase from transforming into orthorhombic phase at 100\u00a0\u00b0C with the structure of FTO/c-TiO2/CsPbI3:xEu/Spiro-OMeTAD/Au",
+            "all_materials": [
+                "CsPbI3",
+                "FTO/c-TiO2/CsPbI3:xEu/Spiro-OMeTAD/Au"
+            ],
+            "other_materials": [
+                "CsPbI3",
+                "FTO/c-TiO2/CsPbI3:xEu/Spiro-OMeTAD/Au"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "doped Ca2+ into CsPbI3 to keep the black phase from transforming into the yellow phase at 60 with the structure of FTO/c-TiO2/m-TiO2/CsPbI1\u2212xCaxI3/Spiro-OMeTAD/Au And Zhao et al",
+            "all_materials": [
+                "CsPbI3",
+                "FTO/c-TiO2/m-TiO2",
+                "CsPbI1\u2212xCaxI3",
+                "Spiro-OMeTAD"
+            ],
+            "other_materials": [
+                "CsPbI3",
+                "FTO/c-TiO2/m-TiO2",
+                "CsPbI1\u2212xCaxI3",
+                "Spiro-OMeTAD"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Surprisingly, an appropriate of Br\u2212 incorporated into the CsPbI3 lattice can also impede the perovskite phase transition ,",
+            "all_materials": [
+                "CsPbI3"
+            ],
+            "other_materials": [
+                "CsPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Consequently, it is a desirable method to form and stabilize the black phase CsPbI3 with a non-stoichiometry ratio of CsBr in the precursor solution.",
+            "all_materials": [
+                "CsPbI3",
+                "CsBr"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "CsBr",
+                    "start": 118,
+                    "end": 122,
+                    "token_ids": [
+                        20
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "CsPbI3"
+        },
+        {
+            "sentence": "Although TiO2 has been widely used in various solar cells because of its proper band gap and high optical transmittance in the visible light, its applications in flexible devices are impeded due to the annealing temperature exceeding 450\u00a0\u00b0C ,",
+            "all_materials": [
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Compared with TiO2, zinc oxide  has a similar band gap and a higher electron mobility",
+            "all_materials": [
+                "TiO2",
+                "zinc oxide"
+            ],
+            "other_materials": [
+                "TiO2",
+                "zinc oxide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, ZnO could be obtained at a low temperature, which indicates that it could be applied in flexible devices",
+            "all_materials": [
+                "ZnO"
+            ],
+            "other_materials": [
+                "ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, ZnO is considered as a superior candidate material for an electron-transporting layer  in solar cells.",
+            "all_materials": [
+                "ZnO"
+            ],
+            "other_materials": [
+                "ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Most of organic hole-transporting layers , such as 2,2\u2032,7,7\u2032-tetrakis -9,9\u2032-spirobifluorene , are not conducive to the stability of PSCs for a long time",
+            "all_materials": [
+                "2,2\u2032,7,7\u2032-tetrakis -9,9\u2032-spirobifluorene",
+                "PSCs"
+            ],
+            "other_materials": [
+                "2,2\u2032,7,7\u2032-tetrakis -9,9\u2032-spirobifluorene",
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Hence, adopting a stable and hydrophobic carbon electrode to replace the organic HTLs and precious metal electrodes plays an important role in the development of all inorganic PSCs",
+            "all_materials": [
+                "carbon",
+                "HTLs",
+                "PSCs"
+            ],
+            "other_materials": [
+                "carbon",
+                "HTLs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "According to our investigation, hole-free, carbon-based all-inorganic PSCs have been summarized in Table S1, showing that the best PCE was 12.40% ,",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "The solar cell with 12.4% PCE was fabricated at 190\u00a0\u00b0C, which is difficult to be compatible with most of polymer substrates",
+            "all_materials": [
+                "PCE"
+            ],
+            "other_materials": [
+                "PCE"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                8,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, in order to satisfy the demand of the device\u2019s flexibility, the hole-free, carbon-based all-inorganic CsPbI3 PSCs with the structure of FTO / ZnO / CsPbI3 / C were fabricated at a low temperature  for the first time in this work",
+            "all_materials": [
+                "CsPbI3",
+                "FTO / ZnO / CsPbI3 / C"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                39,
+                "StartingSynthesis"
+            ],
+            "targets": "CsPbI3"
+        },
+        {
+            "sentence": "Excess CsBr was added into CsPbI3 precursor solution to obtain stable black phase CsPbI3 at 120\u00a0\u00b0C",
+            "all_materials": [
+                "CsBr",
+                "CsPbI3",
+                "CsPbI3"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "CsBr",
+                    "start": 7,
+                    "end": 11,
+                    "token_ids": [
+                        1
+                    ]
+                },
+                {
+                    "text": "CsPbI3",
+                    "start": 27,
+                    "end": 33,
+                    "token_ids": [
+                        5
+                    ]
+                }
+            ],
+            "operation": [
+                3,
+                "Mixing"
+            ],
+            "targets": "CsPbI3"
+        },
+        {
+            "sentence": "ZnO was prepared by a spin-coating method at 120\u00a0\u00b0C",
+            "all_materials": [
+                "ZnO"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                2,
+                "StartingSynthesis"
+            ],
+            "targets": "ZnO"
+        },
+        {
+            "sentence": "And the C electrode was prepared by a doctor-blade method at 120\u00a0\u00b0C",
+            "all_materials": [
+                "C"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                5,
+                "StartingSynthesis"
+            ],
+            "targets": "C"
+        },
+        {
+            "sentence": "The effect of different layers of ZnO on the performance of the all-inorganic CsPbI3 PSCs was investigated",
+            "all_materials": [
+                "ZnO",
+                "CsPbI3"
+            ],
+            "other_materials": [
+                "ZnO",
+                "CsPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "When the layer of ZnO is 3, the champion PCE is 10.95%, with a short-circuit current  of 17.66\u00a0mA/cm2, an open-circuit voltage  of 0.91\u00a0V and a fill factor  of 68%, which is the best performance of hole-free, carbon-based all-inorganic CsPbI3 PSCs fabricated at a low temperature , compared with the other reported results",
+            "all_materials": [
+                "ZnO",
+                "CsPbI3"
+            ],
+            "other_materials": [
+                "ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                61,
+                "StartingSynthesis"
+            ],
+            "targets": "CsPbI3"
+        },
+        {
+            "sentence": "For further application in flexible solar cells, the solar cells with the structure of PET/ITO/ZnO/CsPbI3/C were fabricated under the best parameter conditions and the PCE of 8.70% was obtained",
+            "all_materials": [
+                "PET/ITO/ZnO/CsPbI3/C"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                25,
+                "StartingSynthesis"
+            ],
+            "targets": "PET/ITO/ZnO/CsPbI3/C"
+        },
+        {
+            "sentence": "According to our investigation, flexible hole-free, carbon-based PSCs  have been summarized in Table S2 ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, the PCE of the flexible device is 8.70%",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It is close to the best PCE reported for flexible C-PSCs .",
+            "all_materials": [
+                "C-PSCs"
+            ],
+            "other_materials": [
+                "C-PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Lead iodide , cesium iodide  and dimethyl sulfoxide  were purchased from Sigma-Aldrich",
+            "all_materials": [
+                "Lead iodide",
+                "cesium iodide",
+                "dimethyl sulfoxide"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "Lead iodide",
+                    "start": 0,
+                    "end": 11,
+                    "token_ids": [
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "text": "cesium iodide",
+                    "start": 14,
+                    "end": 27,
+                    "token_ids": [
+                        3,
+                        4
+                    ]
+                },
+                {
+                    "text": "dimethyl sulfoxide",
+                    "start": 33,
+                    "end": 51,
+                    "token_ids": [
+                        6,
+                        7
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Zinc acetate dehydrate , potassium hydroxide , n-butanol , and methanol  were purchased from Aladdin",
+            "all_materials": [
+                "Zinc acetate dehydrate",
+                "potassium hydroxide",
+                "n-butanol",
+                "methanol"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "Zinc acetate dehydrate",
+                    "start": 0,
+                    "end": 22,
+                    "token_ids": [
+                        0,
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "text": "potassium hydroxide",
+                    "start": 25,
+                    "end": 44,
+                    "token_ids": [
+                        4,
+                        5
+                    ]
+                },
+                {
+                    "text": "n-butanol",
+                    "start": 47,
+                    "end": 56,
+                    "token_ids": [
+                        7
+                    ]
+                },
+                {
+                    "text": "methanol",
+                    "start": 63,
+                    "end": 71,
+                    "token_ids": [
+                        10
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Chloroform  was bought from cdkelong.com",
+            "all_materials": [
+                "Chloroform"
+            ],
+            "other_materials": [
+                "Chloroform"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Conductive carbon paste was bought from Shanghai MaterWin New Materials Co., Ltd., China.",
+            "all_materials": [
+                "carbon"
+            ],
+            "other_materials": [
+                "carbon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "According to Liu et al",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": ", when the",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The architecture of glass/FTO/ZnO/CsPbI3/C is shown in Fig",
+            "all_materials": [
+                "glass/FTO/ZnO/CsPbI3/C"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "glass/FTO/ZnO/CsPbI3/C"
+        },
+        {
+            "sentence": "1a and its cross-sectional SEM is exhibited in Fig",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "EQE spectra and the corresponding integrated JSC curves are shown in FigS1",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "From Fig1b",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "1b, the integrated JSC of solar cells based on 1 layer, 3 layers and 5 layers of ZnO are 10.19\u00a0mA/cm2, 13.20\u00a0mA/cm2, and 11.20\u00a0mA/cm2, respectively",
+            "all_materials": [
+                "ZnO"
+            ],
+            "other_materials": [
+                "ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "J-V curves of the highest PCE of the PSCs with 1 layer, 3 layers and 5 layers of ZnO are exhibited in Fig",
+            "all_materials": [
+                "ZnO"
+            ],
+            "other_materials": [
+                "ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The highest PCE of the device based 1c",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In summary, the hole-free, carbon-based all-inorganic CsPbI3 PSCs with the structure of FTO/ZnO/CsPbI3/C were fabricated at a low temperature  for the first time",
+            "all_materials": [
+                "CsPbI3",
+                "FTO/ZnO/CsPbI3/C"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                28,
+                "StartingSynthesis"
+            ],
+            "targets": "CsPbI3"
+        },
+        {
+            "sentence": "The effect of different layers of ZnO on the performance of solar cells was investigated",
+            "all_materials": [
+                "ZnO"
+            ],
+            "other_materials": [
+                "ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The quality of the CsPbI3 perovskite film spin-coated on 3 layers of ZnO is the best from XRD, SEM and UV\u2013vis measurements, compared with that on 1 layer and 5 layers of ZnO",
+            "all_materials": [
+                "CsPbI3",
+                "ZnO",
+                "ZnO"
+            ],
+            "other_materials": [
+                "CsPbI3",
+                "ZnO",
+                "ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "From UPS spectra, the energy loss of the solar cell based on 3",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Li Gong designed the experiments",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Junsen Zhang conducted the synthesis of materials and fabrication of devices",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Junsen Zhang wrote the paper",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Cheng Wang, Hao Fu, Zhishan Fang, Conghua Zhou performed the characterizations",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "All the authors participated in discussing the results.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work was supported by\u00a0Scientific Research Fund of Hunan Provincial Education Department , National Natural Science Foundation of China , the program from the Education Department of Hunan Province, China  and the International Collaboration Program .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this study, we report the enhancement of device performance in a lead-free perovskite Cs2AgBiBr6-based deep blue photodetector by using a SnO2/ZnO double electron transport layer",
+            "all_materials": [
+                "Cs2AgBiBr6",
+                "SnO2",
+                "ZnO"
+            ],
+            "other_materials": [
+                "Cs2AgBiBr6",
+                "SnO2",
+                "ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The SnO2 layer was inserted to minimize the energy loss at the interface between the ZnO ETL and perovskite absorber layer by preparation of a smooth perovskite film",
+            "all_materials": [
+                "SnO2",
+                "ZnO"
+            ],
+            "other_materials": [
+                "SnO2",
+                "ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The hydrophilic SnO2 layer coating on the hydrophobic ZnO nanorods provides a uniform and high-quality perovskite layer without pinholes",
+            "all_materials": [
+                "SnO2",
+                "ZnO"
+            ],
+            "other_materials": [
+                "SnO2",
+                "ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Reduced contact angle measurement confirmed that the surface property changes towards hydrophilicity after insertion of a SnO2/ZnO double ETL compared with bare ZnO nanorods",
+            "all_materials": [
+                "SnO2",
+                "ZnO",
+                "ETL",
+                "ZnO"
+            ],
+            "other_materials": [
+                "SnO2",
+                "ZnO",
+                "ETL",
+                "ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, the introduction of the SnO2 layer leads to better carrier transportation and extraction by matching the energy level between the perovskite and ZnO ETL",
+            "all_materials": [
+                "SnO2",
+                "ZnO ETL"
+            ],
+            "other_materials": [
+                "SnO2",
+                "ZnO ETL"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The pinhole-free perovskite film and a well-matched energy level are responsible for the Cs2AgBiBr6-based visible photodetector with a SnO2/ZnO double ETL demonstrating simultaneous improvement of responsivity and specific detectivity by 12.7 times and 16.5 times, respectively, compared with those of the ZnO single ETL",
+            "all_materials": [
+                "Cs2AgBiBr6",
+                "SnO2/ZnO",
+                "ZnO"
+            ],
+            "other_materials": [
+                "Cs2AgBiBr6",
+                "SnO2/ZnO",
+                "ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "From our results, we can suggest a guideline for an interface engineering strategy to improve perovskite optoelectronic device performance.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Vertical-oriented Cs-doped rutile TiO2 nanorod  arrays were prepared without a seed layer through the hydrothermal method",
+            "all_materials": [
+                "TiO2"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                11,
+                "StartingSynthesis"
+            ],
+            "targets": "TiO2"
+        },
+        {
+            "sentence": "One-dimension TiO2 nanorod  arrays not only provide a direct and fast channel for charge transfer but also increase the perovskite loading amount",
+            "all_materials": [
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Further research shows that the conduction band minimum of Cs-TiO2 NRs increases from \u2212\u00a03.94\u00a0eV to \u2212\u00a03.86\u00a0eV when compared with the pristine TiO2 NRs, which favors the positive band alignment at the ETL/perovskite interface and reduces the carrier recombination and energy loss",
+            "all_materials": [
+                "Cs-TiO2",
+                "TiO2"
+            ],
+            "other_materials": [
+                "Cs-TiO2",
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, we simultaneously replaced the expensive and unstable organic hole transport layer and noble metal electrode with a carbon electrode for the purpose of reducing the cost of the PSCs",
+            "all_materials": [
+                "carbon"
+            ],
+            "other_materials": [
+                "carbon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The study proves that Cs-TiO2 NRs not only improve the energy level arrangement at the ETL/perovskite interface but also reduce the density of defect states at the interface and increase carrier lifetime",
+            "all_materials": [
+                "Cs-TiO2"
+            ],
+            "other_materials": [
+                "Cs-TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The hole-transport-material-free carbon-based all-inorganic FTO/Cs-TiO2 NRs/CsPbI2.25Br0.75/C solar devices exhibited a high-power conversion efficiency  of 12.72%, showing a 16% increase in PCE when compared with the control device",
+            "all_materials": [
+                "FTO/Cs-TiO2 NRs/CsPbI2.25Br0.75/C"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "FTO/Cs-TiO2 NRs/CsPbI2.25Br0.75/C"
+        },
+        {
+            "sentence": "This work opens the door to the preparation of high-efficiency hole-transport-material-free carbon-based all-inorganic PSCs via the energy level calibration engineering.",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "The cost associated with hole-transporting materials  and electrodes made of noble metals is a recurrent problem for the widespread application of perovskite solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Biomass-derived carbons are green materials that have been incorporated in the electrodes of diverse electrochemical devices to reduce cost, improve environmental sustainability, and augment the specific surface area",
+            "all_materials": [
+                "carbons"
+            ],
+            "other_materials": [
+                "carbons"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here, carbonized bacterial cellulose  and carbonized macadamia nutshell  were combined with commercial carbon paste  to fabricate counter electrodes  integrated into highly-stable all-inorganic CsPbBr3 PSCs synthesized by thermal evaporation",
+            "all_materials": [
+                "bacterial",
+                "cellulose",
+                "macadamia",
+                "carbon",
+                "CsPbBr3"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "bacterial",
+                    "start": 17,
+                    "end": 26,
+                    "token_ids": [
+                        3
+                    ]
+                },
+                {
+                    "text": "cellulose",
+                    "start": 27,
+                    "end": 36,
+                    "token_ids": [
+                        4
+                    ]
+                },
+                {
+                    "text": "macadamia",
+                    "start": 53,
+                    "end": 62,
+                    "token_ids": [
+                        7
+                    ]
+                },
+                {
+                    "text": "carbon",
+                    "start": 103,
+                    "end": 109,
+                    "token_ids": [
+                        13
+                    ]
+                }
+            ],
+            "operation": [
+                29,
+                "StartingSynthesis"
+            ],
+            "targets": "CsPbBr3"
+        },
+        {
+            "sentence": "When electrically-conductive CP was mixed with either 0.1% CBC or CMNS, the power conversion efficiency was improved to 4.76% and 6.18%, respectively, compared to 4.45% for a PSC equipped with pure CP",
+            "all_materials": [
+                "CP",
+                "CBC",
+                "CMNS",
+                "CP"
+            ],
+            "other_materials": [
+                "CP",
+                "CP"
+            ],
+            "precursors": [
+                {
+                    "text": "CBC",
+                    "start": 59,
+                    "end": 62,
+                    "token_ids": [
+                        11
+                    ]
+                },
+                {
+                    "text": "CMNS",
+                    "start": 66,
+                    "end": 70,
+                    "token_ids": [
+                        13
+                    ]
+                }
+            ],
+            "operation": [
+                6,
+                "Mixing"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The better performance of CMNS versus CBC in the CEs can be explained by a larger SSA, a more suitable work function, and a lower sheet resistance",
+            "all_materials": [
+                "CMNS versus",
+                "CBC"
+            ],
+            "other_materials": [
+                "CMNS versus",
+                "CBC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The outstanding surface area of CMNS is likely to improve hole scavenging efficiency in the PSCs by increasing the number of contacts with CsPbBr3",
+            "all_materials": [
+                "CMNS",
+                "CsPbBr3"
+            ],
+            "other_materials": [
+                "CMNS",
+                "CsPbBr3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The long-term stability of the all-inorganic CsPbBr3 PSC at high temperature was also improved with the CP CE modified with CMNS",
+            "all_materials": [
+                "CsPbBr3 PSC",
+                "CP CE",
+                "CMNS"
+            ],
+            "other_materials": [
+                "CsPbBr3 PSC",
+                "CP CE",
+                "CMNS"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "These results demonstrate that adding CBC or CMNS to CP for the fabrication of CEs in a suitable ratio improves the photoelectric properties of all-inorganic PSCs and thus opens possibilities for novel applications for renewable and earth-abundant biomass-derived carbons.",
+            "all_materials": [
+                "CBC",
+                "CMNS",
+                "CP",
+                "CEs",
+                "carbons"
+            ],
+            "other_materials": [
+                "carbons"
+            ],
+            "precursors": [
+                {
+                    "text": "CBC",
+                    "start": 38,
+                    "end": 41,
+                    "token_ids": [
+                        5
+                    ]
+                },
+                {
+                    "text": "CMNS",
+                    "start": 45,
+                    "end": 49,
+                    "token_ids": [
+                        7
+                    ]
+                },
+                {
+                    "text": "CP",
+                    "start": 53,
+                    "end": 55,
+                    "token_ids": [
+                        9
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "CEs"
+        },
+        {
+            "sentence": "Although hole transport layer -free carbon-based CsPbI3 perovskite solar cells  possessed a best band-gap of CsPbI3 as absorber material, the photovoltaic conversion efficiency  and stability were suppressed by the poor-quality perovskite film and the invasion of moisture in the atmosphere",
+            "all_materials": [
+                "CsPbI3",
+                "CsPbI3"
+            ],
+            "other_materials": [
+                "CsPbI3",
+                "CsPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, 4,4\u2032-dimethoxytriphenylmethyl chloride  passivator not only increased the grain sizes of CsPbI3 crystals through crystal regrowth, but also passivated the surface defects",
+            "all_materials": [
+                "4,4\u2032-dimethoxytriphenylmethyl chloride",
+                "CsPbI3"
+            ],
+            "other_materials": [
+                "4,4\u2032-dimethoxytriphenylmethyl chloride",
+                "CsPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A champion PCE of 10.88% and a large open-circuit voltage  of 0.96\u00a0\u200bV were obtained in CsPbI3 C-PSC passivated by DMT-Cl",
+            "all_materials": [
+                "CsPbI3 C-PSC"
+            ],
+            "other_materials": [
+                "CsPbI3 C-PSC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The unencapsulated CsPbI3 C-PSCs remained a PCE of approximately 60% for 600\u00a0\u200bh in air at a relative humidity  of 20\u201330%, indicating an improved stability.",
+            "all_materials": [
+                "CsPbI3 C-PSCs",
+                "air"
+            ],
+            "other_materials": [
+                "CsPbI3 C-PSCs",
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "All-inorganic CsPbI2Br perovskite with suitable bandgap and excellent thermal stability has been reported as the most promising candidate for efficient perovskite solar cells",
+            "all_materials": [
+                "CsPbI2Br"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CsPbI2Br"
+        },
+        {
+            "sentence": "However, the high annealing temperature  and poor stability of \u03b1-CsPbI2Br greatly limit the future application in photovoltaic field",
+            "all_materials": [
+                "\u03b1-CsPbI2Br"
+            ],
+            "other_materials": [
+                "\u03b1-CsPbI2Br"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, a facile method is reported to prepare \u03b1-CsPbI2Br perovskite film with high stability at low temperature  by incorporating a small amount of \u03b3-aminobutyric acid  in the precursor solutions",
+            "all_materials": [
+                "\u03b1-CsPbI2Br",
+                "\u03b3-aminobutyric acid"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "\u03b3-aminobutyric acid",
+                    "start": 149,
+                    "end": 168,
+                    "token_ids": [
+                        24,
+                        25
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "\u03b1-CsPbI2Br"
+        },
+        {
+            "sentence": "The devices exhibit reproducible photovoltaic performance with a champion efficiency up to 15.16%, along with the excellent stability, maintaining more than 80% of its initial efficiency after stored in ambient condition for 600 h without any encapsulation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Most importantly, the method enables fabrication of semitransparent CsPbI2Br PSCs with a PCE of 6.76%, as well as an average visible transparency  of 25.38%",
+            "all_materials": [
+                "CsPbI2Br PSCs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CsPbI2Br PSCs"
+        },
+        {
+            "sentence": "To the best of our knowledge, this is the first attempt to apply CsPbI2Br to the semitransparent solar cells.",
+            "all_materials": [
+                "CsPbI2Br"
+            ],
+            "other_materials": [
+                "CsPbI2Br"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Phase stability of CsSnI3 and CsPbI3 is revealed by analyzing molecular volume, free energy and lattice vibration",
+            "all_materials": [
+                "CsSnI3",
+                "CsPbI3"
+            ],
+            "other_materials": [
+                "CsSnI3",
+                "CsPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, the carrier effective mass is calculated by constant energy surface",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Surprisingly, the values for electron/hole are as low as 0.06/0.03\u00a0m0 for B-\u03b1 CsSnI3, and 0.08/0.06\u00a0m0 for B-\u03b1 CsPbI3",
+            "all_materials": [
+                "B-\u03b1 CsSnI3",
+                "B-\u03b1 CsPbI3"
+            ],
+            "other_materials": [
+                "B-\u03b1 CsSnI3",
+                "B-\u03b1 CsPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "They gradually increase in the order of B-\u03b1, B-\u03b2 and B-\u03b3",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The effective mass for CsSnI3 is lower than that for CsPbI3, implying a high mobility in CsSnI3",
+            "all_materials": [
+                "CsSnI3",
+                "CsPbI3",
+                "CsSnI3"
+            ],
+            "other_materials": [
+                "CsSnI3",
+                "CsPbI3",
+                "CsSnI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "At 300\u00a0K, the mobility is predicted by empirical models and electron-phonon coupling  matrix element based on Boltzmann transport equation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The value from longitudinal acoustic phonon  model is much higher than that from longitudinal optical phonon  model",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "So the mobility is mainly determined by the scattering from polar optical phonon",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "These perovskites exhibit small high frequency dielectric constant  and large dielectric constant difference , which limit the mobility",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Finally, phonon-limited mobility is predicted by the EPC matrix element",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The values of CsSnI3/CsPbI3 are \u03bce =\u00a0311/118 and \u03bch =\u00a0450/70\u00a0cm2V\u22121s\u22121 in B-\u03b2, \u03bce =\u00a099/70 and \u03bch =\u00a0218/46\u00a0cm2V\u22121s\u22121in B-\u03b3.",
+            "all_materials": [
+                "CsSnI3",
+                "CsPbI3",
+                "B-\u03b3"
+            ],
+            "other_materials": [
+                "CsSnI3",
+                "CsPbI3",
+                "B-\u03b3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Although the solar cells based on the \u03b1-CsPbI3 presents very impressive power conversion efficiency, it suffers from insufficient crystalline structure stability even in ambient condition",
+            "all_materials": [
+                "\u03b1-CsPbI3"
+            ],
+            "other_materials": [
+                "\u03b1-CsPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, the black orthorhombic \u03b3 phase based CsPbI3 is successfully fabricated with its performance further optimized by doping chlorine ions",
+            "all_materials": [
+                "CsPbI3",
+                "chlorine"
+            ],
+            "other_materials": [
+                "chlorine"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                11,
+                "StartingSynthesis"
+            ],
+            "targets": "CsPbI3"
+        },
+        {
+            "sentence": "It is found that the chlorine incorporation improves crystallization dynamics for favorable surface morphology and crystalline orientation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In particular by doping 3\u202fmol% chlorine into the \u03b3-CsPbI3 film, its trap density is minimized with enhanced black phase stability and much improved thin film characteristics, including conductivities, electron and hole mobilities",
+            "all_materials": [
+                "chlorine",
+                "\u03b3-CsPbI3"
+            ],
+            "other_materials": [
+                "\u03b3-CsPbI3"
+            ],
+            "precursors": [
+                {
+                    "text": "chlorine",
+                    "start": 31,
+                    "end": 39,
+                    "token_ids": [
+                        7
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Consequently, the solar cell efficiency is increased to as high as 16.07%",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "More importantly, the PCE of the optimized device shows only 0.45% degradation after continuous light soaking for 200\u202fh",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It retains as much as 94% of its initial PCE even after being exposed in air  for 60 days.",
+            "all_materials": [
+                "PCE",
+                "air"
+            ],
+            "other_materials": [
+                "PCE",
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "CsPbIBr2 perovskite exhibits the most balanced bandgap and durability features among all the inorganic perovskites, showing great potential in the photoelectric field",
+            "all_materials": [
+                "CsPbIBr2"
+            ],
+            "other_materials": [
+                "CsPbIBr2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Nevertheless, the poor film quality of the traditionally spin-coated CsPbIBr2 restricts the further improvement of the device performance",
+            "all_materials": [
+                "CsPbIBr2"
+            ],
+            "other_materials": [
+                "CsPbIBr2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here, we develop a novel lithium  doping strategy to promote the optical, morphological and electronic properties of the solution-processed CsPbIBr2 perovskites",
+            "all_materials": [
+                "CsPbIBr2"
+            ],
+            "other_materials": [
+                "CsPbIBr2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Upon incorporating Li+ ions into CsPbIBr2 lattice, highly crystallized and well-oriented CsPbIBr2 crystals are obtained",
+            "all_materials": [
+                "CsPbIBr2",
+                "CsPbIBr2"
+            ],
+            "other_materials": [
+                "CsPbIBr2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CsPbIBr2"
+        },
+        {
+            "sentence": "The as-prepared Li-doped CsPbIBr2 exhibits a higher film coverage over the substrate with larger grains and less grain boundaries compared to the none-doped counterparts",
+            "all_materials": [
+                "CsPbIBr2"
+            ],
+            "other_materials": [
+                "CsPbIBr2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The trap-state densities in the CsPbIBr2 film are also effectively alleviated while the carrier lifetimes are elongated by Li doping, contributing to a lower energy loss and a higher charge collection efficiency",
+            "all_materials": [
+                "CsPbIBr2"
+            ],
+            "other_materials": [
+                "CsPbIBr2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The optimized Li-doped perovskite solar cells  demonstrate an excellent champion power conversion efficiency  of 9.25%, much higher than that of the none-doped devices",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, the unencapsulated devices present a superior air and thermal stability under the protection of the hydrophobic CuPc layer and carbon electrode",
+            "all_materials": [
+                "air",
+                "CuPc",
+                "carbon"
+            ],
+            "other_materials": [
+                "air",
+                "CuPc",
+                "carbon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Our work provides a new opportunity to fabricate cost-effective and highly efficient CsPbIBr2 PSCs in a facile way.",
+            "all_materials": [
+                "CsPbIBr2"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CsPbIBr2"
+        },
+        {
+            "sentence": "All-inorganic perovskite materials, typically CsPbI2Br, have received widespread attention owing to their outstanding thermal stability than that of organic/inorganic hybrid counterparts",
+            "all_materials": [
+                "CsPbI2Br"
+            ],
+            "other_materials": [
+                "CsPbI2Br"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the power conversion efficiency  of CsPbI2Br perovskite solar cell  is far lower than its theoretical value",
+            "all_materials": [
+                "CsPbI2Br"
+            ],
+            "other_materials": [
+                "CsPbI2Br"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this study, to further improve the PCE, a sulfur-rich small molecule material ), is used to modify the interface between CsPbI2Br and carbon electrode",
+            "all_materials": [
+                "PCE",
+                "CsPbI2Br",
+                "carbon"
+            ],
+            "other_materials": [
+                "PCE",
+                "CsPbI2Br",
+                "carbon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Encouragingly, the carbon-based CsPbI2Br PSCs achieve a high PCE of 13.78% than the control of 10.40%, which is the best performance of carbon-based CsPbI2Br PSC among the literature report at present",
+            "all_materials": [
+                "CsPbI2Br PSCs",
+                "CsPbI2Br PSC"
+            ],
+            "other_materials": [
+                "CsPbI2Br PSCs",
+                "CsPbI2Br PSC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The remarkable reduction of defect density and suppression recombination should be responsible for the PCE improvement",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work proposes a simple and effective strategy to enhance the efficiency of all-inorganic carbon-based CsPbI2Br PSCs.",
+            "all_materials": [
+                "CsPbI2Br PSCs"
+            ],
+            "other_materials": [
+                "CsPbI2Br PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Quasi-one-dimensional lead based perovskite CsPbI3 exhibits increasing interests in quantum dots, solar cells, etc",
+            "all_materials": [
+                "CsPbI3"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CsPbI3"
+        },
+        {
+            "sentence": "However, high quality large CsPbI3 bulk crystals are still unexplored",
+            "all_materials": [
+                "CsPbI3"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CsPbI3"
+        },
+        {
+            "sentence": "Here we report CsPbI3 crystal growth from HI aqueous solution by tailoring the solubility",
+            "all_materials": [
+                "CsPbI3",
+                "HI"
+            ],
+            "other_materials": [
+                "CsPbI3"
+            ],
+            "precursors": [
+                {
+                    "text": "HI",
+                    "start": 42,
+                    "end": 44,
+                    "token_ids": [
+                        7
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The morphology and crystal structure of CsPbI3 are characterized by SEM and XRD, which reveal the stick-like structure with the space group Pnma and lattice parameters a\u202f=\u202f10.46\u202f\u00c5, b\u202f=\u202f4.80\u202f\u00c5, and c\u202f=\u202f17.78\u202f\u00c5",
+            "all_materials": [
+                "CsPbI3",
+                "Pnma"
+            ],
+            "other_materials": [
+                "CsPbI3",
+                "Pnma"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Ultra violet-visible transmission spectra substantiate CsPbI3 being a direct-gap semiconductor with a band-gap \u223c2.69\u202feV",
+            "all_materials": [
+                "CsPbI3"
+            ],
+            "other_materials": [
+                "CsPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, a broad emission at 550\u2013580\u202fnm with a large Stokes shift of 0.60\u202f\u223c\u202f0.75\u202feV and the corresponding dissociation energy 7.58\u202fmeV was found using temperature and power dependent PL spectra",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This emission was attributed to a strong electron\u2013phonon coupling induced \u201cself-trap excitons\u201d in CsPbI3",
+            "all_materials": [
+                "CsPbI3"
+            ],
+            "other_materials": [
+                "CsPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Our finding shields more light on the crystal growth, structure and optical properties of CsPbI3.",
+            "all_materials": [
+                "CsPbI3"
+            ],
+            "other_materials": [
+                "CsPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Quasi-2D or 2D capping is an effective strategy to stabilize organic-inorganic metal halide perovskite materials, often at a detriment to electronic transport",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Due to an efficient cation exchange between organic constituents, the location and thickness of reduced-dimensional hybrid perovskite layers is difficult to control",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We find that the all-inorganic CsPbI3 perovskite cannot go through either solid state or sequential cation exchange to form a 2D perovskite capping layer",
+            "all_materials": [
+                "CsPbI3"
+            ],
+            "other_materials": [
+                "CsPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Instead, a defect-passivating organic cation terminated surface is formed that improves phase stability and moisture resistance",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The corresponding \u03b1-CsPbI3 perovskite solar cells exhibit high reproducibility with a champion stabilized efficiency of 13.5%",
+            "all_materials": [
+                "\u03b1-CsPbI3"
+            ],
+            "other_materials": [
+                "\u03b1-CsPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work shows that the high cation exchange resistance of CsPbI3 perovskites can be exploited to promote the development of highly efficient and stable perovskite photovoltaics.",
+            "all_materials": [
+                "CsPbI3"
+            ],
+            "other_materials": [
+                "CsPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this paper, all-inorganic, hole-transporting-layer-free , carbon-based CsPbIBr2 planar solar cells with zinc oxide  as electron-transporting materials  were studied for the first time",
+            "all_materials": [
+                "CsPbIBr2",
+                "zinc oxide"
+            ],
+            "other_materials": [
+                "CsPbIBr2",
+                "zinc oxide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The reported all-inorganic, HTLF, carbon-based cesium lead iodide dibromide  solar cells used titanium dioxide  as ETMs, which usually required a high sintering temperature of 500\u202f\u00b0C",
+            "all_materials": [
+                "HTLF",
+                "cesium lead iodide dibromide",
+                "titanium dioxide"
+            ],
+            "other_materials": [
+                "HTLF",
+                "titanium dioxide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "cesium lead iodide dibromide"
+        },
+        {
+            "sentence": "Here, ZnO ETMs were annealed at 120\u202f\u00b0C",
+            "all_materials": [
+                "ZnO"
+            ],
+            "other_materials": [
+                "ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                5,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The highest power conversion efficiency  of 7.60%, with a short-circuit current  of 11.60\u202fmA/cm2, an open-circuit voltage  of 1.03\u202fV and the fill factor  of 0.63, was obtained",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, the thermal and humid stabilities of the solar cells were studied",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The perovskite solar cells were placed at 10% humidity and room temperature for 624\u202fh and the PCE of perovskite solar cells only decreased by 10%",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "While the perovskite solar cells were placed at 80\u202f\u00b0C and 0% humidity for 192\u202fh, the PCE of the solar cells decreased by 4%.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

@@ -1,0 +1,1151 @@
+{
+    "rest": [
+        {
+            "sentence": "Despite the impressive progress, the perovskite solar cells are still under the stage of laboratory research, mainly because of their inferior operational stability",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To improve the device lifetime, one of the most important strategies is to eliminate the undesirable side reactions between the functional layers",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this study, we present the thermal oxidation method to yield high-quality pristine and modified indium oxide films applied as efficient electron transport layers  for perovskite cells in a planar n-i-p configuration",
+            "all_materials": [
+                "indium oxide"
+            ],
+            "other_materials": [
+                "indium oxide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The cells incorporating In2O3 as ETL material can deliver comparable efficiencies with the reference SnO2-based devices while showing much superior operational stability",
+            "all_materials": [
+                "In2O3"
+            ],
+            "other_materials": [
+                "In2O3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We attributed the observed stabilizing effect of indium oxide to its reduced chemical activity at the interface with the perovskite absorber layer",
+            "all_materials": [
+                "indium oxide"
+            ],
+            "other_materials": [
+                "indium oxide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In particular, In2O3 can hardly oxidize I\u2212 to molecular iodine on the contrary to SnO2 and TiO2 known for their photocatalytic activity",
+            "all_materials": [
+                "In2O3",
+                "SnO2",
+                "TiO2"
+            ],
+            "other_materials": [
+                "In2O3",
+                "SnO2",
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We believe that this study may provide researchers with general guidelines to develop a large variety of ETL materials for efficient yet stable perovskite cells.",
+            "all_materials": [
+                "ETL"
+            ],
+            "other_materials": [
+                "ETL"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Perovskite photovoltaics is an emerging technology that potentially can rival silicon solar cells",
+            "all_materials": [
+                "silicon"
+            ],
+            "other_materials": [
+                "silicon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The power conversion efficiency of perovskite solar cells  rapidly increased from 3.2%  to striking 25.5%  in just a decade",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Today, the commercialization of PSCs is mainly hindered by short operational lifetimes rather than by insufficient device efficiency [3,4]",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "Clearly, a bigger effort should be focused on understanding the degradation processes and developing more stable materials for improving the durability of perovskite solar cells.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Charge transport layers represent an essential functional part of any PSC architecture and have certain requirements to deliver high power conversion efficiency such as the optimal energy level alignment with the perovskite absorber, the low defect density in combination with good charge transport properties",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "While the instability of the PSCs is rather a complex problem, the chemical compatibility of the perovskite absorber and the adjacent charge transport layers especially has a profound impact on the device lifetime [, ]",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Unfortunately, the high power conversion efficiency of the solar cells does not necessarily guarantee their good operational stability",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For instance, a widely used hole transport layer spiro-OMeTAD may introduce cell degradation through the diffusion of Li-containing dopants into the perovskite active layer and parasitic reactions at the interface with the perovskite absorber [5,6]At the same time, titanium dioxide, a commonly used ETL material, introduces degradation at the interface with the perovskite absorber layer when exposed to UV light",
+            "all_materials": [
+                "spiro-OMeTAD",
+                "titanium dioxide"
+            ],
+            "other_materials": [
+                "spiro-OMeTAD",
+                "titanium dioxide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, particular attention has to be paid not only to the engineering of highly efficient solar cells but also to designing and implementation of appropriate charge transport interlayers enabling stable interfaces with the perovskite absorbers.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Currently, the most widely used ETL materials in n-i-p PSCs are represented by SnO2, ZnO, and TiO2",
+            "all_materials": [
+                "ETL",
+                "SnO2",
+                "ZnO",
+                "TiO2"
+            ],
+            "other_materials": [
+                "ETL",
+                "SnO2"
+            ],
+            "precursors": [
+                {
+                    "text": "ZnO",
+                    "start": 85,
+                    "end": 88,
+                    "token_ids": [
+                        16
+                    ]
+                },
+                {
+                    "text": "TiO2",
+                    "start": 94,
+                    "end": 98,
+                    "token_ids": [
+                        19
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Among those, the SnO2/perovskite interface is considered the most stable [8,9]",
+            "all_materials": [
+                "SnO2"
+            ],
+            "other_materials": [
+                "SnO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, tin has three stable oxidation states Sn0, Sn2+, and Sn4+, which trigger a rather complex set of possible redox reactions that may facilitate the degradation of the perovskite absorber",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For instance, SnO2 can catalyze the photooxidation of iodide",
+            "all_materials": [
+                "SnO2",
+                "iodide"
+            ],
+            "other_materials": [
+                "SnO2",
+                "iodide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, our approach to design more stable ETL materials was based on the selection of metals that form n-type oxides with strongly suppressed activity with respect to I\u2212 oxidation",
+            "all_materials": [
+                "ETL"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "ETL"
+        },
+        {
+            "sentence": "The indium oxide matches this requirement quite well, as indium +1 and\u00a0+\u00a02 valence states are relatively unstable",
+            "all_materials": [
+                "indium oxide"
+            ],
+            "other_materials": [
+                "indium oxide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Indium  oxide has been used as ETL material in perovskite solar cells previously, but these devices delivered considerably reduced efficiencies as compared to the benchmark cells that can be easily produced using SnO2 or TiO2 ETLs [, ].",
+            "all_materials": [
+                "Indium  oxide",
+                "SnO2",
+                "TiO2"
+            ],
+            "other_materials": [
+                "Indium  oxide",
+                "SnO2",
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this study, we present thermally grown indium-based oxide films as high-quality ETL materials for efficient and stable perovskite solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We employed thermal oxidation of evaporated metal films to obtain oxide layers with controllable properties, which resulted in a dramatic increase in solar cell performance",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This study also assesses the effect of the electron transport layer composition on the stability of perovskite solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We believe that this work will supply researchers with a general methodology of metal oxide fabrication that may facilitate the development of stable and efficient perovskite cells using a wide variety of rationally engineered ETL materials.",
+            "all_materials": [
+                "ETL"
+            ],
+            "other_materials": [
+                "ETL"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Growing chemically pure indium oxide films is crucial to investigate the stability of the interface of this oxide ETL with the perovskite absorber",
+            "all_materials": [
+                "indium oxide",
+                "ETL"
+            ],
+            "other_materials": [
+                "indium oxide",
+                "ETL"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Despite the appeal of the solution processing, it may introduce chemical impurities into the \u201coxide\u201d films, such as alkali, halide, or organic impurities [, ]",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "On the contrary, vacuum-based deposition methods can produce homogeneous and chemically pure films and also allow one to adjust the chemical composition of the film through a",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this study, we presented a thermal growth method for the fabrication of high-quality films of pristine indium  oxide and InOx films modified with the oxides of other metals such as aluminum or zinc",
+            "all_materials": [
+                "indium  oxide",
+                "InOx"
+            ],
+            "other_materials": [
+                "indium  oxide",
+                "InOx"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "High optical transparency and uniform coating of indium oxide films facilitated their application as electron transport layers in planar n-i-p perovskite solar cells",
+            "all_materials": [
+                "indium oxide"
+            ],
+            "other_materials": [
+                "indium oxide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Using bare In2O3 as ETL delivered maximal PCE of 16.2%, whereas modified Al\u2013In2O3 delivered maximal PCEs of 18.6% and 19.3%",
+            "all_materials": [
+                "In2O3",
+                "PCE",
+                "Al",
+                "In2O3"
+            ],
+            "other_materials": [
+                "In2O3",
+                "PCE",
+                "Al",
+                "In2O3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The inks were prepared in a nitrogen-filled glovebox using anhydrous solvents and dry powders",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                3,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For the MAPbI3 ink MAI  and PbI2  were dissolved in a mixture of DMF  and NMP",
+            "all_materials": [
+                "MAPbI3",
+                "MAI",
+                "PbI2",
+                "DMF",
+                "NMP"
+            ],
+            "other_materials": [
+                "DMF",
+                "NMP"
+            ],
+            "precursors": [
+                {
+                    "text": "MAPbI3",
+                    "start": 8,
+                    "end": 14,
+                    "token_ids": [
+                        2
+                    ]
+                },
+                {
+                    "text": "MAI",
+                    "start": 19,
+                    "end": 22,
+                    "token_ids": [
+                        4
+                    ]
+                },
+                {
+                    "text": "PbI2",
+                    "start": 28,
+                    "end": 32,
+                    "token_ids": [
+                        6
+                    ]
+                }
+            ],
+            "operation": [
+                8,
+                "SolutionMixing"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The precursor solutions were heated at 80\u00a0\u00b0C for an hour and then filtered through a 0.45\u00a0\u03bcm PTFE syringe filter.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                4,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For the Cs0.12FA0.88PbI3 ink, CsI , FAI  and PbI2  were mixed in DMF  and DMSO",
+            "all_materials": [
+                "Cs0.12FA0.88PbI3",
+                "CsI",
+                "FAI",
+                "PbI2",
+                "DMF",
+                "DMSO"
+            ],
+            "other_materials": [
+                "DMF",
+                "DMSO"
+            ],
+            "precursors": [
+                {
+                    "text": "CsI",
+                    "start": 30,
+                    "end": 33,
+                    "token_ids": [
+                        5
+                    ]
+                },
+                {
+                    "text": "FAI",
+                    "start": 36,
+                    "end": 39,
+                    "token_ids": [
+                        7
+                    ]
+                },
+                {
+                    "text": "PbI2",
+                    "start": 45,
+                    "end": 49,
+                    "token_ids": [
+                        9
+                    ]
+                }
+            ],
+            "operation": [
+                11,
+                "Mixing"
+            ],
+            "targets": "Cs0.12FA0.88PbI3"
+        },
+        {
+            "sentence": "The ink was dissolved by magnetic stirring at room",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                3,
+                "SolutionMixing"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Sergey Tsarev: Writing \u2013 original draft, Investigation, Data curation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Tatiana Dubinina: Investigation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Selina Olthof: Writing \u2013 review &amp; editing, Investigation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Antonio Guererro: Writing \u2013 review &amp; editing, Investigation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Sergey Yu Luchkin: Investigation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Stevenson: SupervisionKeith J",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Aldoshin: Supervision, Funding acquisitionSergey M",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Juan Bisquert: Supervision, Project administration",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Troshin: Writing \u2013 review &amp; editing, Supervision, Project administration, Conceptualization.Pavel A",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work was supported by Russian Science Foundation  at IPCP RAS",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "and J.BA.G",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "would like to thank the financial support by the Ministerio de Ciencia e Innovaci\u00f3n of Spain  project PID2019-107348\u00a0GB-100.",
+            "all_materials": [
+                "PID2019-107348\u00a0GB-100"
+            ],
+            "other_materials": [
+                "PID2019-107348\u00a0GB-100"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this study, the corrosion behaviour of stainless steels AISI 321 and 347 in molten nitrate salt were investigated for up to 28 days",
+            "all_materials": [
+                "AISI 321"
+            ],
+            "other_materials": [
+                "AISI 321"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Three different thermal conditions; isothermal, thermal cycling and thermal shock, were explored to investigate the effect of the likely temperature gradients on the corrosion characteristics of AISI 321 and 347 during the operation of Concentrated solar power plants",
+            "all_materials": [
+                "AISI 321"
+            ],
+            "other_materials": [
+                "AISI 321"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Gravimetric corrosion analysis was combined with micro-morphology and cross-sectional analysis of the corrosion interface; using a combination of scanning/transmission electron microscopy, energy dispersive X-ray spectroscopy and X-Ray diffraction techniques, for this study",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Results from corrosion rate measurements and surface characterisation show that thermal shock induces higher material degradation rate than the two other temperature profiles",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Severe spallation of interfacial corrosion oxide layers was observed under thermal shock conditions other than in isothermal and thermal cycling conditions and correlated to the overall performance after 28 days",
+            "all_materials": [
+                "corrosion oxide"
+            ],
+            "other_materials": [
+                "corrosion oxide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The level of spallation of interfacial oxides across the three temperature profiles investigated in this study was linked to the induced stresses from mismatch in the thermal expansion properties between the corrosion oxide layer and the substrates.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "CsPbCl3 perovskite is considered as an ideal light absorber for ultraviolet  photodetectors in virtue of its suitable wide bandgap and salient optoelectronic property",
+            "all_materials": [
+                "CsPbCl3"
+            ],
+            "other_materials": [
+                "CsPbCl3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Nevertheless, the detection performance of the reported self-powered CsPbCl3 UV photodetectors is far from satisfactory since it still remains challenging to fabricate high-quality CsPbCl3 polycrystalline films with low trap-state density",
+            "all_materials": [
+                "CsPbCl3",
+                "CsPbCl3"
+            ],
+            "other_materials": [
+                "CsPbCl3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CsPbCl3"
+        },
+        {
+            "sentence": "Herein, a novel cadmium -doping strategy is demonstrated by an evaporation method to manipulate the optical, electrical and morphological property of the CsPbCl3 polycrystalline film for the first time",
+            "all_materials": [
+                "CsPbCl3"
+            ],
+            "other_materials": [
+                "CsPbCl3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The incorporation of Cd2+ ions into CsPbCl3 lattice can effectively improve the crystallinity, grain sizes and UV harvesting capability of the CsPbCl3 perovskite, while the defect state of the film gets pronouncedly suppressed",
+            "all_materials": [
+                "CsPbCl3",
+                "CsPbCl3"
+            ],
+            "other_materials": [
+                "CsPbCl3",
+                "CsPbCl3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Thus, the overall performance of the charge-transport-layer-free Cd-doped CsPbCl3 photodetectors attains an obvious enhancement",
+            "all_materials": [
+                "CsPbCl3"
+            ],
+            "other_materials": [
+                "CsPbCl3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A thin MnS modification layer is further introduced to ameliorate the interfacial charge transport dynamics between the CsPbCl3 and carbon layers",
+            "all_materials": [
+                "CsPbCl3",
+                "carbon"
+            ],
+            "other_materials": [
+                "CsPbCl3",
+                "carbon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It is found that the MnS buffer layer can effectively reduce the interfacial barrier and accelerate the hole injection process, yielding a lower interfacial charge accumulation and recombination",
+            "all_materials": [
+                "MnS"
+            ],
+            "other_materials": [
+                "MnS"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The best-performing MnS-modified device achieves an ultra-high current on/off ratio of 3.97\u00a0\u00d7\u00a0105 and a high specific detectivity of 5.47\u00a0\u00d7\u00a01012 Jones at 0\u00a0V bias",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This comprehensive performance is comparable to that of any other CsPbCl3 photodetectors",
+            "all_materials": [
+                "CsPbCl3"
+            ],
+            "other_materials": [
+                "CsPbCl3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Besides, the as-prepared CsPbCl3 photodetectors possess superior operational and thermal stabilities",
+            "all_materials": [
+                "CsPbCl3"
+            ],
+            "other_materials": [
+                "CsPbCl3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Our work opens up a new approach for the defect passivation of CsPbCl3 perovskite and highlights its great application potential in high-performance UV detection.",
+            "all_materials": [
+                "CsPbCl3"
+            ],
+            "other_materials": [
+                "CsPbCl3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A better characterization of the rich variety of anomalous ionic-electronic mechanisms in organic-inorganic metal halide perovskite solar cells is essential to obtain a stable and physically robust interpretation of the dynamic responses obtained",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, new approaches towards light intensity-induced effects understanding are intensively searched for",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Among all the mechanisms whose elucidation is locked and still under live debate, the apparent inductance phenomena stand out, which are visible not only in photovoltaic devices and optoelectronic elements, but also, for instance, in electrochemical and biological systems",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Usually, the negative loops in impedance spectra are modeled through ideal elements  although the results show systematic deviations",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In most scenarios, the influence of chemical inductance dispersion is somehow neglected, that is, ideal conditions are mimicked, omitting the practical device operation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here we reformulate the theory that captures the slow  inductive effects in the current-voltage curves of perovskite solar cells, deciphering the microscale behavior, consisting essentially of defects associated with deep trap states, from macroscale observations and experimental measurements",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The audience is potentially huge, since many authors of multidisciplinary backgrounds are genuinely interested in adequately interpreting this behavior of general character.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "One of the features of perovskite solar cells  that make them stand out among all photovoltaics  is their high open-circuit voltage",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Owing to their simple manufacturing process, low cost of components, and good stability, carbon electrode-based metal-halide PSCs are gaining interest for their better stability and low cost than noble metal electrodes",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, carbon electrode-based hybrid PSCs suffer low open-circuit voltage",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work demonstrated the fabrication of ambient processed hybrid perovskite solar cells using low-temperature curable carbon-based electrodes without a hole transport layer",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The devices exhibit an impressive high open circuit voltage of 1.07\u00a0V, even without a dedicated hole transport layer",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The photovoltaic performance was further investigated with the same perovskite absorber, synthesized by solution-processed and solid-state synthesis routes",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                12,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The latter have yielded better short circuit current and power conversion efficiency due to perovskite&#x27;s lesser built-in trap density",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, using a combined ionic electronic carrier transport model, an electric double-layer formation was ensured across the perovskite/carbon interface and accumulating halide vacancies at the perovskite/TiO2 interface can effectively reduce carrier recombination and boost the device&#x27;s VOC",
+            "all_materials": [
+                "carbon",
+                "halide",
+                "TiO2"
+            ],
+            "other_materials": [
+                "carbon",
+                "halide",
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This study envisages the impact of the electric double layer in free carrier transport of an ionic-electronic semiconductor like hybrid perovskites and can pave the way to improve the open-circuit voltage of carbon-based perovskite solar cells.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Perovskite solar cell is a third-generation solar cell with great potential",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A method for reducing light energy loss and enhancing light absorption without changing the thickness of perovskite layer need to be developed urgently",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this paper, the gold nanobipyramids were applied in CH3NH3PbI3 perovskite solar cells, and their light absorption enhancement efficiency was calculated using the finite difference time domain method",
+            "all_materials": [
+                "gold",
+                "CH3NH3PbI3"
+            ],
+            "other_materials": [
+                "gold",
+                "CH3NH3PbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The results show that the plasmon effect of gold nanobipyramids can significantly enhance the light absorption efficiency of the absorption layer with an increase of 45.48%",
+            "all_materials": [
+                "gold"
+            ],
+            "other_materials": [
+                "gold"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Further studies show that gold nanobipyramid arrays with different depths and layers remarkably influence the improvement of light absorption efficiency of the perovskite solar cells",
+            "all_materials": [
+                "gold"
+            ],
+            "other_materials": [
+                "gold"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The mechanism was verified by calculating the electric field enhancement and light reflectivity",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Finally, an optimization scheme of gold nanobipyramid arrangement in perovskite layer was discussed",
+            "all_materials": [
+                "gold"
+            ],
+            "other_materials": [
+                "gold"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This study provides a new idea for enhancing the light absorption capacity and improving the photoelectric conversion efficiency of perovskite solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This method has potential applications in other solar cells.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The development of tin-based perovskite solar cells  is hindered by the issue of high defect density in Sn-perovskite film, which seriously deteriorates the power conversion efficiency  and stability",
+            "all_materials": [
+                "Sn-perovskite"
+            ],
+            "other_materials": [
+                "Sn-perovskite"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, an ionic compensation strategy is proposed by adding guanidine iodide  into the FA0.75MA0.25SnI3 precursor solution to fabricate high-quality Sn-perovskite films by healing multi-vacancy defects",
+            "all_materials": [
+                "guanidine iodide",
+                "FA0.75MA0.25SnI3",
+                "Sn-perovskite"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "guanidine iodide",
+                    "start": 61,
+                    "end": 77,
+                    "token_ids": [
+                        10,
+                        11
+                    ]
+                },
+                {
+                    "text": "FA0.75MA0.25SnI3",
+                    "start": 88,
+                    "end": 104,
+                    "token_ids": [
+                        14
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "Sn-perovskite"
+        },
+        {
+            "sentence": "GA+ cations are rationally incorporated into perovskite crystal to compensate for the organic cation vacancies during thermal annealing, while the I-rich condition can simultaneously heal the iodine vacancies",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                17,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This method significantly improves the crystalline quality and surface morphology of Sn-perovskite films during annealing",
+            "all_materials": [
+                "Sn-perovskite"
+            ],
+            "other_materials": [
+                "Sn-perovskite"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                14,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "At the same time, the optimized film obtains a reduction in the density of defect states and an extension of the carrier lifetime",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Consequently, the best performing Sn-PSC modified by ionic compensation with GAI achieves an increase in PCE from 7.56%  to 10.41%, while also improving stability, retaining \u223c83% of the initial PCE after aging for 30 days in an N2 environment without encapsulation",
+            "all_materials": [
+                "Sn-PSC",
+                "GAI",
+                "PCE",
+                "PCE",
+                "N2"
+            ],
+            "other_materials": [
+                "Sn-PSC",
+                "GAI",
+                "PCE",
+                "PCE",
+                "N2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work represents that the ionic compensation strategy is an effective and practical approach toward reducing defects and realizing enhanced performance of Sn\u2013PSCs.",
+            "all_materials": [
+                "Sn\u2013PSCs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "Sn\u2013PSCs"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

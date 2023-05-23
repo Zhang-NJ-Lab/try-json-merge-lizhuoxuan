@@ -1,0 +1,1446 @@
+{
+    "rest": [
+        {
+            "sentence": "Organic-inorganic metal halide perovskite solar cells have achieved impressive results in the past dozen years",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the unstable organic components methylamine , formamidine , and expensive hole transport layer  materials  have been stumbling blocks to their commercial development",
+            "all_materials": [
+                "methylamine",
+                "formamidine"
+            ],
+            "other_materials": [
+                "methylamine",
+                "formamidine"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, an all-inorganic HTL-free CsGeI3 perovskite solar cell is constructed",
+            "all_materials": [
+                "CsGeI3"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CsGeI3"
+        },
+        {
+            "sentence": "In order to explore the internal influencing factors of the device as well as suitable materials, we numerically simulated the device with SCAPS-1D",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The research demonstrates that when ZnOS is used as the electron transport layer , the generated energy band offset forms a recess structure, which makes the device exhibit excellent performance",
+            "all_materials": [
+                "ZnOS"
+            ],
+            "other_materials": [
+                "ZnOS"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Then, the effects of different metal back electrodes on HTL-free structure perovskite solar cells are explored, and the results indicate that when W is used as the metal back electrode, a potential barrier of 0.3\u00a0eV is formed between the metal back electrode and the absorber layer, effectively preventing carrier recombination",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The critical parameters of the device including thickness, defect density, doping concentration, band gap, and electron affinity are optimized, based on which the optimum power conversion efficiency  of the proposed device structure  reaches up to 26.70%, significantly improving the performance of germanium-based perovskite solar cells while reducing the cost",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work would provide a new avenue for realizing inorganic, low-cost, and efficient germanium-based perovskite solar cells.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Download : Download high-res image Download : Download full-size image",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "With increasing global energy consumption and environmental pollution, traditional fossil energy sources can no longer be adapted for the sustainable development of human society ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Solar energy has come into people&#x27;s eyes as a renewable and clean source of energy",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Perovskite solar cells  are outstanding for photovoltaic applications due to their simple processing technology and good optoelectronic properties ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Since its report in 2009, the power conversion efficiency of PSCs has improved from 3.8% to the current 25.6% , .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "During the rapid development of PSCs, the perovskite absorber layer was mainly based on lead-based materials because lead-based perovskite materials possess suitable atomic and electronic configuration, and excellent electrical and optical properties: long carrier lifetime, low exciton binding energy, long optical absorption coefficient, etc",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, lead toxicity poses a huge hidden danger,",
+            "all_materials": [
+                "lead"
+            ],
+            "other_materials": [
+                "lead"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It affects the metal ion and enzyme systems in the body and may have adverse effects on several systems, including the digestive and kidney systems, and in severe cases, kidney failure can occur ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This has hindered the long-term development of PSCs",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "Therefore, the search for non-toxic or less toxic alternatives to Pb-based PSCs is urgently required to achieve the goal of green and sustainable development",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In recent years, germanium ions   and tin ions  , which are close to lead in the periodic table and have similar properties to lead, as well as lower pollution, have been adopted to substitute Pb2+ as lead-free perovskite material",
+            "all_materials": [
+                "lead"
+            ],
+            "other_materials": [
+                "lead"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Tin-based perovskite materials have been extensively studied as absorber layers for solar cells, and good results have been achieved ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the easy oxidation of Sn from Sn2+ to Sn4+ makes the structure of tin-based PSCs less stable and affects their development",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, elemental Ge is expected to be the best choice after Sn to replace Pb .",
+            "all_materials": [
+                "Ge",
+                "Sn",
+                "Pb"
+            ],
+            "other_materials": [
+                "Ge",
+                "Sn",
+                "Pb"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Further, researchers have found that replacing the organic components, methylamine  and formamidine , in the perovskite absorber layer with Cs can substantially improve the thermal stability of the material and reduce its sensitivity to humidity ,",
+            "all_materials": [
+                "methylamine",
+                "formamidine",
+                "Cs"
+            ],
+            "other_materials": [
+                "methylamine",
+                "formamidine",
+                "Cs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, inorganic PSCs have been developed rapidly in recent years",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In 2015, Sherburne et al",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "first reported inorganic CsGeI3 PSCs, and the absorber layer CsGeI3 could maintain structural stability at high temperatures",
+            "all_materials": [
+                "CsGeI3",
+                "CsGeI3"
+            ],
+            "other_materials": [
+                "CsGeI3",
+                "CsGeI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In 2016, Qian et al",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "used a spectroscopic limited maximum efficiency  mathematical model to find that inorganic CsGeI3 PSCs have higher performance than conventional organic MAPbI3 PSCs",
+            "all_materials": [
+                "CsGeI3 PSCs",
+                "MAPbI3 PSCs"
+            ],
+            "other_materials": [
+                "CsGeI3 PSCs",
+                "MAPbI3 PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In 2018, the FTO/TiO2/CsGeI3/Spiro-OMeTAD/Ag inorganic perovskite solar cell designed by Chen achieved a PCE of 4.94%",
+            "all_materials": [
+                "FTO/TiO2/CsGeI3/Spiro-OMeTAD/Ag"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "FTO/TiO2/CsGeI3/Spiro-OMeTAD/Ag"
+        },
+        {
+            "sentence": "In 2019, Ke et al",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "found that CsGeI3 has properties similar to those of lead-based perovskites, but CsGeI3 has a narrower band gap",
+            "all_materials": [
+                "CsGeI3",
+                "CsGeI3"
+            ],
+            "other_materials": [
+                "CsGeI3",
+                "CsGeI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In 2021, Idrissi et al",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "found that CsGeI3 has a band gap of 1.3\u00a0eV, which is more suitable for PSCs",
+            "all_materials": [
+                "CsGeI3"
+            ],
+            "other_materials": [
+                "CsGeI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "These findings demonstrate that CsGeI3 material has a promising future for inorganic lead-free PSCs.",
+            "all_materials": [
+                "CsGeI3",
+                "PSCs"
+            ],
+            "other_materials": [
+                "CsGeI3",
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In order to further enhance the performance of PSCs, selecting suitable ETL materials to modulate the interfacial energy levels and reduce charge recombination is essential",
+            "all_materials": [
+                "ETL"
+            ],
+            "other_materials": [
+                "ETL"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "ETL usually belongs to n-type semiconductor materials, such as TiO2 , SnO2 , ZnO , ZnOS , etc",
+            "all_materials": [
+                "ETL",
+                "TiO2",
+                "SnO2",
+                "ZnO",
+                "ZnOS"
+            ],
+            "other_materials": [
+                "ETL"
+            ],
+            "precursors": [
+                {
+                    "text": "TiO2",
+                    "start": 63,
+                    "end": 67,
+                    "token_ids": [
+                        12
+                    ]
+                },
+                {
+                    "text": "SnO2",
+                    "start": 70,
+                    "end": 74,
+                    "token_ids": [
+                        14
+                    ]
+                },
+                {
+                    "text": "ZnO",
+                    "start": 77,
+                    "end": 80,
+                    "token_ids": [
+                        16
+                    ]
+                },
+                {
+                    "text": "ZnOS",
+                    "start": 83,
+                    "end": 87,
+                    "token_ids": [
+                        18
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "TiO2 has good electron transport ability and comes from a wide range of sources, with anatase phase TiO2 having a suitable band gap of approximately 3.2\u00a0eV, so it is widely used as an electron transport material",
+            "all_materials": [
+                "TiO2",
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2",
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the high temperatures required for preparation limit its further development",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "SnO2 and ZnO are considered to be good alternatives to TiO2",
+            "all_materials": [
+                "SnO2",
+                "ZnO",
+                "TiO2"
+            ],
+            "other_materials": [
+                "SnO2",
+                "ZnO",
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "They have higher carrier mobility, do not require high-temperature heating, and have simple handling, requiring only low-temperature preparation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                12,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "prepared ZnO nanorods at low temperatures to achieve 17.3% PCE for the device Li et al",
+            "all_materials": [
+                "ZnO",
+                "PCE"
+            ],
+            "other_materials": [
+                "PCE"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "ZnO"
+        },
+        {
+            "sentence": "However, the poor chemical stability of ZnO is not conducive to the efficient long-term operation of PSCs",
+            "all_materials": [
+                "ZnO",
+                "PSCs"
+            ],
+            "other_materials": [
+                "ZnO",
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To address this issue, Azmi et al",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "applied S elements to dope ZnO for passivation treatment , which successfully retarded the decomposition reaction of the perovskite layer, and the prepared ZnOS-based PSCs exhibited an excellent performance of 19.56%",
+            "all_materials": [
+                "ZnO",
+                "ZnOS"
+            ],
+            "other_materials": [
+                "ZnO",
+                "ZnOS"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, the exploration of suitable ETL materials is of significance for PSCs.",
+            "all_materials": [
+                "ETL"
+            ],
+            "other_materials": [
+                "ETL"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Currently, spiro-OMeTAD, the most common hole transport layer  material, requires additives to ensure excellent performance, which can be corrosive to PSCs and detrimental to their long-term operation , and the material itself is expensive",
+            "all_materials": [
+                "spiro-OMeTAD"
+            ],
+            "other_materials": [
+                "spiro-OMeTAD"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, in order to further reduce costs, simplify manufacturing processes and improve device stability, PSCs without HTL have become a hot research topic for researchers",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "It has been demonstrated that the active layer of perovskite not only effectively absorbs light energy to produce electron-hole pairs, but also achieves excellent electron and hole transport",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In terms of energy band, as long as the energy level or work function matching principle is satisfied, that is, after the ETL is extracted, the highest occupied molecular orbital  energy level of the electrode material is above the valence band energy level of the perovskite active layer, and exhibits high hole mobility and adequate stability, the efficient transport of holes from the absorber layer to the electrode can be achieved efficiently without the need for a hole transport layer",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "PSCs without HTL reduce processes, improve yields, reduce costs, and are also more conducive to cell stability, which has important implications for the commercialization of PSCs",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "To the best of our knowledge, in existing CsGeI3 PSCs experiments , hole transport layer structures are present and expensive materials are used",
+            "all_materials": [
+                "CsGeI3"
+            ],
+            "other_materials": [
+                "CsGeI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, it is necessary to explore the internal influencing factors and performance of CsGeI3 PSCs with HTL-free structures.",
+            "all_materials": [
+                "CsGeI3 PSCs"
+            ],
+            "other_materials": [
+                "CsGeI3 PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, an all-inorganic HTL-free CsGeI3 perovskite solar cell is constructed, and the device is simulated by SCAPS-1D",
+            "all_materials": [
+                "CsGeI3"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CsGeI3"
+        },
+        {
+            "sentence": "We investigated the influence of the energy band offset generated by different ETL materials on the composite mechanism at the interface and explored the function of metal back electrodes on the performance of PSCs with an HTL-free structure",
+            "all_materials": [
+                "ETL"
+            ],
+            "other_materials": [
+                "ETL"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Further, the implications of various critical factors on the performance of all-inorganic HTL-free CsGeI3 PSCs are studied and optimized by adjusting series resistance, shunt resistance, defect density, band gap, and electron affinity",
+            "all_materials": [
+                "CsGeI3 PSCs"
+            ],
+            "other_materials": [
+                "CsGeI3 PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work would provide help for the commercial application of all-inorganic HTL-free CsGeI3 PSCs in the future.",
+            "all_materials": [
+                "CsGeI3"
+            ],
+            "other_materials": [
+                "CsGeI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work is a numerical study based on the one-dimensional solar cell simulation software SCAPS-1D",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Based on the boundary conditions of semiconductor devices, Poisson equation, and electron and hole continuity equations, SCAPS-1D can solve the quasi-Fermi level of electrons and holes, the electrostatic potential at specific positions of the device, etc., and can further conduct capacitance-frequency analysis of cell devices, capacitance-voltage, spectral response, and simulation of",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The energy band offset between the ETL/perovskite absorber layer/HTL has an important influence on the composite mechanism at the interface",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Since the HTL-free structure is used in this work, the focus is on how the conduction band offset  between the ETL and the perovskite layer affects the composite mechanism of carriers at the interface",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We make the CBO values change by selecting different ETL materials",
+            "all_materials": [
+                "CBO",
+                "ETL"
+            ],
+            "other_materials": [
+                "CBO",
+                "ETL"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The value of CBO is equal to the difference between the ETL conduction band Ec",
+            "all_materials": [
+                "CBO"
+            ],
+            "other_materials": [
+                "CBO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, an all-inorganic HTL-free CsGeI3 perovskite solar cell is constructed, and the device is simulated by SCAPS-1D",
+            "all_materials": [
+                "CsGeI3"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CsGeI3"
+        },
+        {
+            "sentence": "In order to optimize the performance of the PSCs, we investigated the effects of different ETLs and metal back electrodes on HTL-free structure PSCs",
+            "all_materials": [
+                "ETLs",
+                "PSCs"
+            ],
+            "other_materials": [
+                "ETLs",
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It has shown that when ZnOS is used as ETL, the recess structure is formed on the conduction band, which makes the device exhibit an outstanding PCE of 12.68%",
+            "all_materials": [
+                "ZnOS"
+            ],
+            "other_materials": [
+                "ZnOS"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "By studying different metal back electrodes, it has been found",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Xin Zhang: Conceptualization, Methodology, Software, Data curation, Writing \u2013 original draft",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Tong Li: Supervision, Validation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Chen Hu: Supervision",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Zaiguo Fu: Supervision",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Jia Lin: Supervision",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Zhihai Cheng: Supervision",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Jiang Wu: Supervision, Validation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Yongfeng Qi: Supervision",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Yimin Ruan: Supervision",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Le Huang: Supervision.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work was partially sponsored by the Nation Natural Science Foundation of China , and Shanghai Science and Technology Committee , Key Laboratory of Clean Power Generation and Environmental Protection Technology in Mechanical Industry.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Lead-halide perovskites  based solar cells have seen remarkable consideration due to improved efficiency, ease of fabrication, versatility and flexibility",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the existence of lead, a toxic material, raises several concerns about the environment and the health of living beings and hinders their future commercialization",
+            "all_materials": [
+                "lead"
+            ],
+            "other_materials": [
+                "lead"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, a considerable surge in searching for an alternate lead-free PVK has started in the past few years",
+            "all_materials": [
+                "PVK"
+            ],
+            "other_materials": [
+                "PVK"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Several lead-free PVK solar cells have been proposed; nonetheless, achievable conversion efficiency from these devices is not up to the mark due to some inherent losses",
+            "all_materials": [
+                "PVK"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PVK"
+        },
+        {
+            "sentence": "Therefore, a comprehensive theoretical analysis is needed to understand the root of these losses for uplifting efficiency",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Thus, the results of a specific modelling technique for all-inorganic lead-free PVK-based solar cells, namely cesium tin germanium halide , to achieve the highest feasible efficiencies",
+            "all_materials": [
+                "cesium tin germanium halide"
+            ],
+            "other_materials": [
+                "cesium tin germanium halide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The current simulation uses an electron transport material  of TiO2 and a hole transport material  of Spiro-OMeTAD to sandwich PVK layers of CsSnGeI3  for the PSCs",
+            "all_materials": [
+                "TiO2",
+                "Spiro-OMeTAD",
+                "PVK",
+                "CsSnGeI3"
+            ],
+            "other_materials": [
+                "TiO2",
+                "Spiro-OMeTAD",
+                "PVK",
+                "CsSnGeI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The device is subjected to further analysis and optimization of active layer thickness, defect density, operating temperature, defect density, capacitance-voltage  and impedance analysis to investigate the different performance parameters",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The optimized conversion efficiency of 28.4% has been achieved with CsSnGeI3-based PSC",
+            "all_materials": [
+                "CsSnGeI3",
+                "PSC"
+            ],
+            "other_materials": [
+                "CsSnGeI3",
+                "PSC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Results reported in this study may pave the way to developing lead-free PVK solar cells through higher conversion efficiencies.",
+            "all_materials": [
+                "PVK"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PVK"
+        },
+        {
+            "sentence": "Over the past 10\u00a0years, organic\u2013inorganic lead halides perovskite solar cell achieved rapid evaluation in the field of photovoltaic technology",
+            "all_materials": [
+                "lead halides"
+            ],
+            "other_materials": [
+                "lead halides"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The developed devices already achieved maximum power conversion efficiency of 25.2%",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Despite of this significant advancement the toxicity of lead and stability of device is the major concern",
+            "all_materials": [
+                "lead"
+            ],
+            "other_materials": [
+                "lead"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In the present study, computational approach is used to simulate perovskite solar cell with lead-free perovskite light absorbing layer",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Inorganic lead-free light harvesting layer CsGeI3 is simulated with different electron transporting layers  to investigate an appropriate ETL",
+            "all_materials": [
+                "CsGeI3"
+            ],
+            "other_materials": [
+                "CsGeI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The PSCs with C60 and SnO2 ETLs exhibited superior device performance with open-circuit voltage  of 0.64\u00a0V, 0.63\u00a0V; current density  of 20.64\u00a0mA/cm2, 21.60\u00a0mA/cm2; fill factor  of 63.30%, 61.99%; and power conversion efficiency  of 8.45%, 8.46% respectively.",
+            "all_materials": [
+                "C60",
+                "SnO2"
+            ],
+            "other_materials": [
+                "C60",
+                "SnO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Due to their excellent photovoltaic properties and compatibility with large-scale deposition processes, perovskite solar cells  are gaining massive attention as next-generation photovoltaic devices",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, despite significant advances in their development, a non-radiative recombination loss remained a challenge to their progress",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Optimization of the different layers\u2019 thickness and the defect density of the perovskite layer are among the critical factors for reducing non-radiative recombination loss",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In the present paper, a typical PSC is modeled and optimized using one-dimensional solar cell capacitance simulation  software along with a genetic algorithm",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The main aim of the study is to improve PCE as a function of four parameters in PSC, namely; perovskite layer thickness, perovskite layer defect density, TiO2 layer thickness, and Spiro-OMeTAD layer thickness using a novel approach, SCAPS-1D along with response surface methodology  and GA",
+            "all_materials": [
+                "PCE",
+                "TiO2",
+                "Spiro-OMeTAD",
+                "GA"
+            ],
+            "other_materials": [
+                "PCE",
+                "TiO2",
+                "Spiro-OMeTAD",
+                "GA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The Box-Behnken Design  of RSM is used to develop an objective function for the GA based on the SCAPS-1D simulation results",
+            "all_materials": [
+                "RSM",
+                "GA"
+            ],
+            "other_materials": [
+                "RSM",
+                "GA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "GA is trained and tested on MATLAB software",
+            "all_materials": [
+                "GA"
+            ],
+            "other_materials": [
+                "GA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The paper concludes that the maximum PCE for perovskite layer thickness, TiO2 layer thickness, Spiro-OMeTAD layer thickness, as well as the defect density of the perovskite layer, occurs at 985\u2009nm, 40\u2009nm, 148\u2009nm, and 1/cm3 respectively",
+            "all_materials": [
+                "TiO2",
+                "Spiro-OMeTAD"
+            ],
+            "other_materials": [
+                "TiO2",
+                "Spiro-OMeTAD"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The results obtained by the GA and SCAPS-1D software have shown an excellent agreement",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Compared to other parameters, the defect density of the perovskite layer significantly affects the PCE.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The development of tin-based perovskite solar cells  is hindered by the issue of high defect density in Sn-perovskite film, which seriously deteriorates the power conversion efficiency  and stability",
+            "all_materials": [
+                "Sn-perovskite"
+            ],
+            "other_materials": [
+                "Sn-perovskite"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, an ionic compensation strategy is proposed by adding guanidine iodide  into the FA0.75MA0.25SnI3 precursor solution to fabricate high-quality Sn-perovskite films by healing multi-vacancy defects",
+            "all_materials": [
+                "guanidine iodide",
+                "FA0.75MA0.25SnI3",
+                "Sn-perovskite"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "guanidine iodide",
+                    "start": 61,
+                    "end": 77,
+                    "token_ids": [
+                        10,
+                        11
+                    ]
+                },
+                {
+                    "text": "FA0.75MA0.25SnI3",
+                    "start": 88,
+                    "end": 104,
+                    "token_ids": [
+                        14
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "Sn-perovskite"
+        },
+        {
+            "sentence": "GA+ cations are rationally incorporated into perovskite crystal to compensate for the organic cation vacancies during thermal annealing, while the I-rich condition can simultaneously heal the iodine vacancies",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                17,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This method significantly improves the crystalline quality and surface morphology of Sn-perovskite films during annealing",
+            "all_materials": [
+                "Sn-perovskite"
+            ],
+            "other_materials": [
+                "Sn-perovskite"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                14,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "At the same time, the optimized film obtains a reduction in the density of defect states and an extension of the carrier lifetime",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Consequently, the best performing Sn-PSC modified by ionic compensation with GAI achieves an increase in PCE from 7.56%  to 10.41%, while also improving stability, retaining \u223c83% of the initial PCE after aging for 30 days in an N2 environment without encapsulation",
+            "all_materials": [
+                "Sn-PSC",
+                "GAI",
+                "PCE",
+                "PCE",
+                "N2"
+            ],
+            "other_materials": [
+                "Sn-PSC",
+                "GAI",
+                "PCE",
+                "PCE",
+                "N2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work represents that the ionic compensation strategy is an effective and practical approach toward reducing defects and realizing enhanced performance of Sn\u2013PSCs.",
+            "all_materials": [
+                "Sn\u2013PSCs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "Sn\u2013PSCs"
+        },
+        {
+            "sentence": "The emergence of all-inorganic lead-based perovskite solar cells  has generated enormous interest in the perovskite research community",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The presence of lead  in these devices, however, has caused some challenges because of its high toxicity, which slows down or even hinders their commercialization",
+            "all_materials": [
+                "lead"
+            ],
+            "other_materials": [
+                "lead"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here we report the successful fabrication of all-inorganic Pb-free PSCs with environment-friendliness, low cost, and excellent stability",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "In such devices, novel Cs3Sb2I9 perovskite films were prepared by a solution-based method, which possess high-quality morphology, long carrier lifetime, low defect density, and a well-matched band structure with other functional layers",
+            "all_materials": [
+                "Cs3Sb2I9"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                9,
+                "StartingSynthesis"
+            ],
+            "targets": "Cs3Sb2I9"
+        },
+        {
+            "sentence": "Additionally, carbon electrodes were introduced to replace the labile organic components and expensive noble metal electrodes commonly seen in the traditional PSCs",
+            "all_materials": [
+                "carbon"
+            ],
+            "other_materials": [
+                "carbon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As a result, the all-inorganic Pb-free PSCs exhibit a champion PCE of 1.43%, which is more than two times higher than the results from previous reports",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "More importantly, the all-inorganic Pb-free PSCs demonstrated excellent stability under various extreme conditions, such as constant illumination, high humidity, and high temperature",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This study provides very useful insights into the development of next-generation commercial PSCs with environment-friendliness, low cost, and excellent stability.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Perovskite solar cells based on carbon electrodes  without a hole transport material  have gained considerable interest owing to their cost-effective and simplified structure",
+            "all_materials": [
+                "carbon"
+            ],
+            "other_materials": [
+                "carbon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, their application is constrained by a combination of low efficiency and the prevalence of electron transport materials , e.g., TiO2, which undergo extreme temperatures during their manufacturing processes",
+            "all_materials": [
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "TiO2 also has poor optoelectronic properties, such as low conductivity and mobility",
+            "all_materials": [
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Additionally, when exposed to UV light, TiO2 susceptibility to photocatalysis reduces the materials long-term stability",
+            "all_materials": [
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In present study, an HTM-free device based on FTO/TiO2/CH3NH3PbI3/carbon structure is employed and studied using a one-dimensional Solar Cell Capacitance Simulator",
+            "all_materials": [
+                "FTO/TiO2/CH3NH3PbI3/carbon"
+            ],
+            "other_materials": [
+                "FTO/TiO2/CH3NH3PbI3/carbon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Initially, the design is studied while employing inorganic ETMs, including CdZnS, WS2, WO3, ZnO, ZnOS, and ZnSe, by substituting TiO2, and the impact of each ETM on device performance is evaluated",
+            "all_materials": [
+                "ETMs",
+                "CdZnS",
+                "WS2",
+                "WO3",
+                "ZnO",
+                "ZnOS",
+                "ZnSe",
+                "TiO2"
+            ],
+            "other_materials": [
+                "ETMs",
+                "CdZnS",
+                "WS2",
+                "WO3",
+                "ZnO",
+                "ZnOS",
+                "ZnSe",
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "After ETM optimization, various parameters that affect device performance, such as ETM and absorber thicknesses, doping concentrations, charge carriers mobility, and defect densities at ETM/perovskite interface, have been studied",
+            "all_materials": [
+                "ETM",
+                "ETM"
+            ],
+            "other_materials": [
+                "ETM",
+                "ETM"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Under optimized parameters, the design having ZnSe as ETM yields the best results with a Voc of 1.25\u00a0V, Jsc of 24.77\u00a0mA/cm2, FF of 86.29\u00a0%, and PCE of 26.76\u00a0%",
+            "all_materials": [
+                "ZnSe"
+            ],
+            "other_materials": [
+                "ZnSe"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The presented results thus add more promise and confidence to the ongoing quest for carbon-based, HTM-free PSCs.",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

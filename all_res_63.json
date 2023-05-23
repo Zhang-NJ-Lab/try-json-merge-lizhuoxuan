@@ -1,0 +1,1220 @@
+{
+    "rest": [
+        {
+            "sentence": "The hole transport layer /anode interface plays an important role in high-performance regular Ag-based perovskite solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Usually, the charge barrier caused by the energy level mismatch at the HTL/Ag interface will lead to the abnormal s-type J-V curve, which seriously hindering the commercial application of Ag-based PSCs",
+            "all_materials": [
+                "Ag"
+            ],
+            "other_materials": [
+                "Ag"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here, we introduce a solution processed molybdenum oxide  into the HTL/Ag interface to form a double-hole HTL",
+            "all_materials": [
+                "molybdenum oxide",
+                "HTL",
+                "Ag",
+                "HTL"
+            ],
+            "other_materials": [
+                "molybdenum oxide",
+                "HTL",
+                "Ag"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "HTL"
+        },
+        {
+            "sentence": "The work function  of HxMoO3 films can be adjusted by controlling the reaction time",
+            "all_materials": [
+                "HxMoO3"
+            ],
+            "other_materials": [
+                "HxMoO3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The introduction of HxMoO3 can effectively change the energy-level bending orientation, promote the charge transport and suppresses carrier recombination, thus eliminate the s-type J-V curve",
+            "all_materials": [
+                "HxMoO3"
+            ],
+            "other_materials": [
+                "HxMoO3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Finally, the Ag-based PSCs achieve a power conversion efficiency  of 23.16%",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Meanwhile, the PCE of the four-terminal  perovskite/silicon tandem cell reaches 26.76%",
+            "all_materials": [
+                "silicon"
+            ],
+            "other_materials": [
+                "silicon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, the HxMoO3 can also be used as a protective layer to prevent the erosion of moisture on the PSCs and the penetration of the silver electrode, improving the stability of the devices",
+            "all_materials": [
+                "HxMoO3",
+                "silver"
+            ],
+            "other_materials": [
+                "HxMoO3",
+                "silver"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This provides an important reference for the development of perovskites and their tandem solar cells.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Download : Download high-res image Download : Download full-size image",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Perovskite solar cells  have received extensive attention because of their simple fabrication process and excellent optoelectronic properties",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Since 2009, the efficiency of single- and multi-junction perovskite devices achieved rapid development",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": ",  The cost and stability issues have been an important issue in the commercialization process of regular PSCs",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PSCs"
+        },
+        {
+            "sentence": ",  Among the state-of-the-art n-i-p structured PSCs, Spiro-OMeTAD/Au is the most commonly used combination due to the matched energy band alignment",
+            "all_materials": [
+                "Spiro-OMeTAD/Au"
+            ],
+            "other_materials": [
+                "Spiro-OMeTAD/Au"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": ",  However, due to the high price of gold, the manufacturing cost of PSCs is greatly increased, which hinders the commercial operation of PSCs",
+            "all_materials": [
+                "gold",
+                "PSCs",
+                "PSCs"
+            ],
+            "other_materials": [
+                "gold",
+                "PSCs",
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Although researchers have used a variety of materials to replace Au to reduce manufacturing costs, these devices are still less efficient than Au-based perovskite solar cells",
+            "all_materials": [
+                "Au"
+            ],
+            "other_materials": [
+                "Au"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": " Recently, Ag has been considered as one of the most potential alternative materials to replace Au due to its lower price and higher conductivity, while the efficiency of Ag-based perovskite solar cells has approached that of Au-based perovskite solar cells",
+            "all_materials": [
+                "Ag",
+                "Au"
+            ],
+            "other_materials": [
+                "Ag",
+                "Au"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": ", .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the charge barrier between silver and HTL often leads to an abnormal s-type J-V curve of the device, and the s-type J-V curve changes to a normal one over time",
+            "all_materials": [
+                "silver",
+                "HTL"
+            ],
+            "other_materials": [
+                "silver",
+                "HTL"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": " The researchers found that the recovery time required for the J-V curve is indeterminate , which affects the stability and repeatability of the devices",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, the Ag electrode can penetrate into the Spiro-OMeTAD and react with iodine ions in the perovskite layer to form silver iodide, which also affects the carrier transport and devices stability",
+            "all_materials": [
+                "Ag",
+                "Spiro-OMeTAD",
+                "silver iodide"
+            ],
+            "other_materials": [
+                "Ag",
+                "Spiro-OMeTAD",
+                "silver iodide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": ",  To solve the above problems, several methods have been successfully applied to perovskite solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The solution processed AgI buffer layers have been added between HTL/Ag to regulate the interfacial energy levels, which effectively eliminates the s-shaped J-V curves of fresh PSCs",
+            "all_materials": [
+                "AgI",
+                "HTL",
+                "Ag",
+                "PSCs"
+            ],
+            "other_materials": [
+                "AgI",
+                "HTL",
+                "Ag",
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                8,
+                "Mixing"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": " Although the solution processed AgI buffer layer provides more operational possibilities, the efficiency of Ag-based PSCs is still lower than that of Au-based PSCs",
+            "all_materials": [
+                "AgI",
+                "PSCs"
+            ],
+            "other_materials": [
+                "AgI",
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, the evaporated-MoO3 buffer layer is also used at the HTL/Ag interface to adjust the interfacial contact barrier and improve the devices stability",
+            "all_materials": [
+                "MoO3",
+                "Ag"
+            ],
+            "other_materials": [
+                "MoO3",
+                "Ag"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": ",  The PCE of Ag-PSCs based on the evaporated-MoO3 is comparable to that of Au-based PSCs",
+            "all_materials": [
+                "Ag-PSCs",
+                "MoO3",
+                "PSCs"
+            ],
+            "other_materials": [
+                "MoO3",
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "Ag-PSCs"
+        },
+        {
+            "sentence": "However, evaporated MoO3 requires precise thickness regulation, or it will increase charge transfer resistance leading to low PCE",
+            "all_materials": [
+                "MoO3"
+            ],
+            "other_materials": [
+                "MoO3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": " In general, effective regulation of Spiro-OMeTAD/Ag interfacial energy levels and inhibition of adverse reactions of Ag electrodes are crucial to improve the efficiency and stability of Ag-based PSCs",
+            "all_materials": [
+                "Spiro-OMeTAD/Ag",
+                "Ag"
+            ],
+            "other_materials": [
+                "Spiro-OMeTAD/Ag",
+                "Ag"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Meanwhile, a protective layer needs to be deposited between Spiro-OMeTAD and ITO during the fabrication of perovskite/silicon tandem solar cells  to prevent damage to Spiro-OMeTAD during the ITO sputtering process",
+            "all_materials": [
+                "Spiro-OMeTAD",
+                "ITO",
+                "silicon",
+                "Spiro-OMeTAD",
+                "ITO"
+            ],
+            "other_materials": [
+                "Spiro-OMeTAD",
+                "ITO",
+                "silicon",
+                "Spiro-OMeTAD",
+                "ITO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": ",  Therefore, there is an urgent need to find a simple method to fabricate the efficient and stable Ag-based PSCs.",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "Here, we chemically synthesized a molybdenum oxide  ethanol solution, and introduced HxMoO3 into the interface between Spiro-OMeTAD and Ag by spin coating to form a double-hole HTL",
+            "all_materials": [
+                "molybdenum oxide  ethanol",
+                "HxMoO3",
+                "Spiro-OMeTAD",
+                "Ag",
+                "HTL"
+            ],
+            "other_materials": [
+                "HxMoO3",
+                "Spiro-OMeTAD",
+                "Ag"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                4,
+                "StartingSynthesis"
+            ],
+            "targets": "molybdenum oxide  ethanol"
+        },
+        {
+            "sentence": "The properties of HxMoO3 films can be adjusted by controlling the reaction time to affect the Mo5+/Mo6+ ratio",
+            "all_materials": [
+                "HxMoO3"
+            ],
+            "other_materials": [
+                "HxMoO3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Compared with the conventional MoO3, which requires expensive manufacturing equipment and high temperature, the solutioned-HxMoO3 layer is prepared by low temperature method, which has the advantages of adjustable energy level and simple process, and does not require the support of expensive equipment",
+            "all_materials": [
+                "MoO3"
+            ],
+            "other_materials": [
+                "MoO3"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                19,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Meanwhile, alcohol solvent will not cause damage to Spiro-OMeTAD",
+            "all_materials": [
+                "alcohol",
+                "Spiro-OMeTAD"
+            ],
+            "other_materials": [
+                "alcohol",
+                "Spiro-OMeTAD"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It has remarkable effect on improving device performance and stability",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The introduction of HxMoO3 can change the energy level bending orientation, thereby eliminating the s-type J-V curve",
+            "all_materials": [
+                "HxMoO3"
+            ],
+            "other_materials": [
+                "HxMoO3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Various characterization methods show that the introduction of HxMoO3 layer can improve the hole transport properties, reduce charge recombination and enhance the photovoltaic performance of PSCs",
+            "all_materials": [
+                "HxMoO3"
+            ],
+            "other_materials": [
+                "HxMoO3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Finally, the Ag-based perovskite device based on the HxMoO3 double-hole HTL achieved a PCE of 23.16%",
+            "all_materials": [
+                "HxMoO3"
+            ],
+            "other_materials": [
+                "HxMoO3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Meanwhile, the PCE of the four-terminal perovskite/silicon tandem cell based on HxMoO3 reached 26.76%",
+            "all_materials": [
+                "silicon",
+                "HxMoO3"
+            ],
+            "other_materials": [
+                "silicon",
+                "HxMoO3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, as a protective layer, HxMoO3 can block the erosion of moisture and prevent the Ag electrode from penetrating into Spiro-OMeTAD and reacting with iodide ions in the perovskite layer and, which makes a great contribution to improving the stability of the device.",
+            "all_materials": [
+                "HxMoO3",
+                "Ag",
+                "Spiro-OMeTAD"
+            ],
+            "other_materials": [
+                "HxMoO3",
+                "Ag",
+                "Spiro-OMeTAD"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "When Ag electrode was deposited on Spiro-OMeTAD, the PSC initially showed s-type J-V curve",
+            "all_materials": [
+                "Ag",
+                "Spiro-OMeTAD"
+            ],
+            "other_materials": [
+                "Ag",
+                "Spiro-OMeTAD"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "With the increase of time, the s-type J-V curve gradually recovers to show a normal J-V curve, and the device performance reaches the best state, as shown in Fig",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Jung and coworkers found that the aging-induced recovery phenomenon of Ag-electrode based devices was due to a change in the high hole injection barrier between the HTL and the metal electrode due to the energy level mismatch1a",
+            "all_materials": [
+                "Ag",
+                "HTL"
+            ],
+            "other_materials": [
+                "Ag",
+                "HTL"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In summary, we formed a double-HTL by introducing solution-prepared HxMoO3 film between the interface of Spiro-OMeTAD/Ag, which can effectively optimize the band bending at Spiro-OMeTAD/Ag interface and eliminate the abnormal s-type J-V curve",
+            "all_materials": [
+                "HxMoO3",
+                "Spiro-OMeTAD/Ag",
+                "Spiro-OMeTAD/Ag"
+            ],
+            "other_materials": [
+                "HxMoO3",
+                "Spiro-OMeTAD/Ag",
+                "Spiro-OMeTAD/Ag"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Meanwhile, the properties of HxMoO3 films can be adjusted by controlling the Mo5+/Mo6+ ratio, which is affected by the reaction time",
+            "all_materials": [
+                "HxMoO3"
+            ],
+            "other_materials": [
+                "HxMoO3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, the introduction of HxMoO3 promoted the charge transport between Spiro-OMeTAD and Ag electrodes, suppressed the",
+            "all_materials": [
+                "HxMoO3",
+                "Spiro-OMeTAD",
+                "Ag"
+            ],
+            "other_materials": [
+                "HxMoO3",
+                "Spiro-OMeTAD",
+                "Ag"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "and J.XJ.T",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "contributed equally to this work",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work was supported by the National Key R and D Program of China , the Key R&amp;D Program of Hebei Province , Key Special Program of Natural Science Foundation of Hebei Province , the Project of Hebei Province Higher Educational Science and Technology Program , the PhD Research Startup Foundation of Shijiazhuang University",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "the Advanced Talents Incubation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In order to obtain high power conversion efficiency and high stability perovskite solar cells, many innovative optimization schemes have been proposed",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Thereinto, the interface modification become an effective way to improve the performance of device",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here, A dual-interface passivation by 2, 3, 4, 5, 6-pentafluorophenylammonium bromide-based  is used to optimize the performance of device with the structure of ITO/SnO2/perovskite/PTAA/Ag",
+            "all_materials": [
+                "ITO/SnO2/perovskite/PTAA/Ag"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "ITO/SnO2/perovskite/PTAA/Ag"
+        },
+        {
+            "sentence": "We design the 5PFP-Br layer at SnO2/perovskite and perovskite/PTAA interface respectively",
+            "all_materials": [
+                "5PFP-Br",
+                "SnO2/",
+                "PTAA"
+            ],
+            "other_materials": [
+                "5PFP-Br",
+                "SnO2/",
+                "PTAA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The results show that the interface contact between perovskite and charge transport layer is improved obviously",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "At the same time, the density of carrier transport defect states in the device is reduced, thus reducing the non-radiative recombination of carriers",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Meanwhile, the 5PFP-Br layer at perovskite/PTAA interface can effectively passivate Pb defects and reduce the number of grain boundaries in perovskite film, and increase the carrier transfer and collection efficiency",
+            "all_materials": [
+                "5PFP-Br",
+                "PTAA",
+                "Pb"
+            ],
+            "other_materials": [
+                "5PFP-Br",
+                "PTAA",
+                "Pb"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Finally, 5PFP-Br double-interface passivation can further optimize and improve the performance of device",
+            "all_materials": [
+                "5PFP-Br"
+            ],
+            "other_materials": [
+                "5PFP-Br"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The device based 5PFP-Br double-interface passivation presents an increased efficiency from 18.09% to 21.15%, where FF is raised from 73.30% to 80.04%",
+            "all_materials": [
+                "5PFP-Br"
+            ],
+            "other_materials": [
+                "5PFP-Br"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "At the same time, unpackaged device can still be maintained to more than 90% efficiency after about 1200\u00a0h at 25 \u00b0C and 25%RH.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To investigate the isomeric effect of meta and para indolocarbazole-based hole transport materials on the performance of perovskite solar cells , we herein design and synthesize two isomers  as hole transporting layers  for inverted PSCs",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                27,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Compared with m-PFICZ, the highest occupied molecular orbital energy level of p-PFICZ is deeper, which reduces the energy loss of hole extraction at the HTL/perovskite interface",
+            "all_materials": [
+                "m-PFICZ",
+                "p-PFICZ"
+            ],
+            "other_materials": [
+                "m-PFICZ",
+                "p-PFICZ"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, p-PFICZ forms closer molecular stacking and more compact film than m-PFICZ, resulting in higher hole mobility for the former",
+            "all_materials": [
+                "p-PFICZ",
+                "m-PFICZ"
+            ],
+            "other_materials": [
+                "p-PFICZ",
+                "m-PFICZ"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Owing to the isomeric effect, the inverted PSC based on p-PFICZ as the HTL obtains a power conversion efficiency  of 21.39\u00a0%, which is 8\u00a0% enhancement relative to the device based on m-PFICZ",
+            "all_materials": [
+                "PSC",
+                "p-PFICZ",
+                "m-PFICZ"
+            ],
+            "other_materials": [
+                "m-PFICZ"
+            ],
+            "precursors": [
+                {
+                    "text": "p-PFICZ",
+                    "start": 56,
+                    "end": 63,
+                    "token_ids": [
+                        11
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "PSC"
+        },
+        {
+            "sentence": "In addition, the devices based on p-PFICZ have better air and thermal stabilities than the m-PFICZ based devices due to the lower trap density and slower charge recombination rate for the former",
+            "all_materials": [
+                "p-PFICZ",
+                "air",
+                "m-PFICZ"
+            ],
+            "other_materials": [
+                "p-PFICZ",
+                "air",
+                "m-PFICZ"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The p-PFICZ-based PSC maintains 92\u00a0% of the initial PCE against 83\u00a0% for the m-PFICZ-based device after being stored in an ambient condition for 1000\u00a0h, and the former retains 82\u00a0% of the initial PCE against 70\u00a0% for the latter after continuous heating at 85\u00a0\u00b0C for 600\u00a0h",
+            "all_materials": [
+                "PSC",
+                "PCE",
+                "PCE"
+            ],
+            "other_materials": [
+                "PSC",
+                "PCE",
+                "PCE"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                50,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The findings of this work provide a new strategy for the performance optimization of PSCs.",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For fully-air-processed perovskite solar cells , high-quality perovskite films and improved intrinsic stability are critical for high photovoltaic performance",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, strain, as a critical factor of perovskite instability, not only harms the efficiency of PSCs but also accelerates the degradation of the PSCs devices",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this report, we introduce a novel negative thermal expansion  material into perovskite film for the first time, growing a high-quality perovskite films with high crystallinity, large grain size and low defect density",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "More importantly, effective residual strain relaxation of perovskite films is achieved, the thermal expansion compensation properties of NTE materials reduces the overall thermal expansion coefficient for perovskite films",
+            "all_materials": [
+                "NTE"
+            ],
+            "other_materials": [
+                "NTE"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As a result, the fully-air processed PSC achieves a champion power conversion efficiency  of 22.40\u00a0%",
+            "all_materials": [
+                "air",
+                "PSC"
+            ],
+            "other_materials": [
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PSC"
+        },
+        {
+            "sentence": "Simultaneously, the unencapsulated device retains 93.78\u00a0% of its original PCE after storage in ambient air after 90\u00a0days",
+            "all_materials": [
+                "PCE",
+                "air"
+            ],
+            "other_materials": [
+                "PCE",
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, these devices also show excellent thermal stability and remarkable light stability",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The present study not only provides insights into the multi role of NTE materials, but also provides a new path for the application of NTE materials in the photovoltaic field.",
+            "all_materials": [
+                "NTE",
+                "NTE"
+            ],
+            "other_materials": [
+                "NTE",
+                "NTE"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Perovskite solar cells  with dopant\u2010free hole transporting layers  deserved extensive research by merits of their outstanding hydrophobicity and stability",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the low carrier mobility and poor interfacial hole extraction lead to the inferior power conversion efficiency  than that of conventional Li+ doped Spiro-OMeTAD",
+            "all_materials": [
+                "Spiro-OMeTAD"
+            ],
+            "other_materials": [
+                "Spiro-OMeTAD"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here, a design of triphenylamine groups grafted triphenylene derivative  as dopant-free HTLs has been presented",
+            "all_materials": [
+                "triphenylene",
+                "HTLs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "triphenylene"
+        },
+        {
+            "sentence": "The larger \u03c0-conjugation in T-6TPA give rise to high hole mobility of 2.06\u00a0\u00d7\u00a010\u22123 cm2V\u22121s\u22121",
+            "all_materials": [
+                "T-6TPA"
+            ],
+            "other_materials": [
+                "T-6TPA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, the interfacial hole extraction of T-6TPA was significantly promoted when the molecules were infiltrated into perovskite before HTL deposition",
+            "all_materials": [
+                "T-6TPA"
+            ],
+            "other_materials": [
+                "T-6TPA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The infiltration method of anti-solvent dripping  strategy increased PCE from 18.5% up to 20.3%, which is superior to another additive doping strategy",
+            "all_materials": [
+                "PCE"
+            ],
+            "other_materials": [
+                "PCE"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The effectiveness of An-strategy can be attributed to the construction of a coherent and homogeneous hole transport channel",
+            "all_materials": [
+                "An"
+            ],
+            "other_materials": [
+                "An"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The hydrophobicity and high glass transition temperature of T-6TPA also granted excellent moisture and thermal stabilities that the initial PCE could remain 80% for 60\u00a0days in air or 600\u00a0h at 60\u00a0\u00b0C",
+            "all_materials": [
+                "T-6TPA",
+                "PCE",
+                "air"
+            ],
+            "other_materials": [
+                "T-6TPA",
+                "PCE",
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work highlights the synergistical optimization by design of highly hole-mobile materials as well as the interfacial network construction for charge transport.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The interface is crucial for perovskite solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, voids at interfaces induced by the trapped hygroscopic dimethyl sulfoxide  can reduce charge extraction and accelerate the film degradation, seriously damaging the efficiency and stability",
+            "all_materials": [
+                "dimethyl sulfoxide"
+            ],
+            "other_materials": [
+                "dimethyl sulfoxide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, 4,4&#x27;-dinonyl-2,2&#x27;-dipyridine , a Lewis base with long alkyl chains is introduced to solve this problem",
+            "all_materials": [
+                "-dinonyl-2,2"
+            ],
+            "other_materials": [
+                "-dinonyl-2,2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Theoretical calculated and experimental results confirm that the dipyridyl group on DN-DP can more strongly coordinate with Pb2+ than that of the S=O group on DMSO",
+            "all_materials": [
+                "DN-DP",
+                "DMSO"
+            ],
+            "other_materials": [
+                "DN-DP",
+                "DMSO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The strong coordination effect plays a crucial role in removing the DMSO-based adduct and reducing the formation of voids",
+            "all_materials": [
+                "DMSO"
+            ],
+            "other_materials": [
+                "DMSO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Due to the electron-donating properties of pyridine, the existence of DN-DP in the perovskite film can passivate the defects and optimize the energy level alignment of the perovskite configuration",
+            "all_materials": [
+                "pyridine",
+                "DN-DP"
+            ],
+            "other_materials": [
+                "pyridine",
+                "DN-DP"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The open-circuit voltage  of the DN-DP-based PSC is improved from 1.107 V  to 1.153 V, giving rise to a power conversion efficiency  of 24.02%",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, benefiting from the moisture resistance stemming from the hydrophobic nonyl group, the PCE retains 90.4% of the initial performance after 1000 hours of storage in the ambient condition.",
+            "all_materials": [
+                "PCE"
+            ],
+            "other_materials": [
+                "PCE"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Perovskite solar cells  have been shining in the photovoltaic industry, but their fragile stability impedes their commercialization seriously",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here we adopt an ultra-thin film of a functional hydrophobic polymer, polychloro-p-dimethyl benzene , which can largely improve the operational lifetime of PSCs as a surface finish",
+            "all_materials": [
+                "polychloro-p-dimethyl benzene",
+                "PSCs"
+            ],
+            "other_materials": [
+                "polychloro-p-dimethyl benzene",
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Chemical vapor deposition  under vacuum is adopted to modify the ultra-thin parylene film, which is thin adequately to afford tunnel contact but is also sufficiently shielding to protect the perovskite layer",
+            "all_materials": [
+                "parylene"
+            ],
+            "other_materials": [
+                "parylene"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Besides, it is demonstrated that the Parylene C film can reduce the perovskite surface defects by interacting with the uncoordinated Pb center and act as an effective hole-hindering barrier in the middle of perovskite and PCBM for decreasing charge recombination",
+            "all_materials": [
+                "Parylene C",
+                "PCBM"
+            ],
+            "other_materials": [
+                "Parylene C",
+                "PCBM"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As a result, PSC using a \u223c4\u00a0nm Parylene C layer exhibits a remarkably increased open-circuit and fill factor and a substantially enhanced efficiency of 21.7\u00a0% from pristine 19.4\u00a0%",
+            "all_materials": [
+                "PSC",
+                "Parylene C"
+            ],
+            "other_materials": [
+                "PSC",
+                "Parylene C"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, the Parylene C-based PSCs have attained long-term thermal and operational stabilities with good reproducibility",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Without encapsulation, the degradation was limited to 11\u00a0% after 500\u00a0h of aging under ambient atmosphere/dark, 85\u00a0\u00b0C/N2, or constant illumination/ N2 conditions",
+            "all_materials": [
+                "N2",
+                "N2"
+            ],
+            "other_materials": [
+                "N2",
+                "N2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work lays a solid foundation for further stability by CVD interface modification.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

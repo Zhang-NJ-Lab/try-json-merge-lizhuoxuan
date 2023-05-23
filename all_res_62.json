@@ -1,0 +1,1164 @@
+{
+    "rest": [
+        {
+            "sentence": "Although widely used as conducting substrates for solar cells, indium-tin oxide-based  electrodes\u2019 potential for improvement of visible light transmittance is frequently overlooked of perovskite solar cells  as most work focuses on the improvement of the working components  of the solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work shows a great improvement on solar cell performance by increasing the transmittance  of the SnO2/ITO electrode through adjusting the refractive index of the SnO2 with D-arginine monohydrochloride  and introducing extra amino group, carboxyl groups and chloride ions to passivate interface defects",
+            "all_materials": [
+                "SnO2/ITO",
+                "SnO2",
+                "D-arginine monohydrochloride"
+            ],
+            "other_materials": [
+                "SnO2/ITO",
+                "SnO2",
+                "D-arginine monohydrochloride"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A 21.74 % of the championship power conversion efficiency is obtained, in comparison to the 19.58 % of the control device, and an increase in the short-circuit current from 23.26 to 24.51\u00a0mA\u00a0cm\u22122",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Long-term stability is demonstrated with more than 86 % retention rate of the initial when stored in an air environment , for 720\u00a0h",
+            "all_materials": [
+                "air"
+            ],
+            "other_materials": [
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, this work provides a new and general approach in improving the performance of PSCs.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Download : Download high-res image Download : Download full-size image",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Organic-inorganic metal halide perovskite solar cells  have displayed significant development in recent years",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "They have attracted extensive attention due to their high-power conversion efficiency, excellent photoelectric performance and economical device fabrication",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "After years of development, their efficiency had increased from 3.8 % in 2009 to 25.7 % in 2022 ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To realize the final commercial application, most of the focus is on the improvement of the halide perovskite light absorbing components , electronic transport layers  , hole transport layers , and passivating the defects at buried interface , .",
+            "all_materials": [
+                "halide"
+            ],
+            "other_materials": [
+                "halide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As a n-type semiconductor having a wide band width, SnO2 is considered to be a widely used ETL material ,",
+            "all_materials": [
+                "SnO2"
+            ],
+            "other_materials": [
+                "SnO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It matches the energy level of the perovskite phase, and its electronic mobility is high",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It also has excellent chemical stability and its preparation can be conducted at low temperatures  ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Low-temperature fabrication, however, may induce many defects, causing nonradiative recombination, lowering charge extraction rate, decreasing optical transmittance , and ultimately, reducing the stability and life of PSCs",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "At present, there is already a large number of studies to explore the electrical properties of the SnO2 nanoparticles to reduce the interface defects and improve the energy level alignment of ETL and perovskite",
+            "all_materials": [
+                "SnO2",
+                "ETL"
+            ],
+            "other_materials": [
+                "SnO2",
+                "ETL"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Some unique functional group molecular structures can effectively bind to perovskite, which enables the function of passivation interface defects and improve interface contact",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For example, Na2WO4 is added to SnO2 to reduce the energy barrier and enhance charge extraction, and 21.16 % of champion efficiency is achieved .",
+            "all_materials": [
+                "Na2WO4",
+                "SnO2"
+            ],
+            "other_materials": [
+                "Na2WO4",
+                "SnO2"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                5,
+                "Mixing"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To date, attempts have been made to overcome the optical and electrical losses by using new structural designs or using new anti-reflection coatings to achieve high-performance optoelectronic devices",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "TCO  incorporating ultrathin Ag intermediate film is proposed as a new buffer layer to enhance the efficiency of CIGS thin-film solar cells  Kacha et al",
+            "all_materials": [
+                "TCO",
+                "Ag"
+            ],
+            "other_materials": [
+                "TCO",
+                "Ag"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "used based on engineering the geometry of the TCO/metal/TCO multilayer design combined with the PSO metaheuristic technique to achieve the dual goals of enhanced transparency and reduced sheet resistanceFerhati et al",
+            "all_materials": [
+                "TCO/metal/TCO"
+            ],
+            "other_materials": [
+                "TCO/metal/TCO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Anti-reflection coatings have been used to increase the transmittance of transparent electrodes",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For example, Cho et al",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Increased the average transmittance of polymer\u2013ITO electrodes to 85.5 % from 84.0 % with a plasma-polymerized fluorocarbon as an anti-reflection layer",
+            "all_materials": [
+                "ITO"
+            ],
+            "other_materials": [
+                "ITO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "used double-sided anti-reflection layers to increase the maximum transmittance of the polymer-ITO electrode near to 90 %Zhang et al",
+            "all_materials": [
+                "ITO"
+            ],
+            "other_materials": [
+                "ITO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, it is highly attractive if the transmittance can be further improved on various optoelectronics, including PSCs",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Although their research shows improved optical and electrical characteristics, the performance of the modified SnO2 still requires significant improvements to meet the growing needs of advanced optoelectronic technologies.",
+            "all_materials": [
+                "SnO2"
+            ],
+            "other_materials": [
+                "SnO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, we report that D-arginine monohydrochloride  can be used as a doping agent to the SnO2 aqueous colloid",
+            "all_materials": [
+                "D-arginine monohydrochloride",
+                "SnO2"
+            ],
+            "other_materials": [
+                "D-arginine monohydrochloride",
+                "SnO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It adjusts the refractive index and increases the visible light transmittance of the SnO2 layer",
+            "all_materials": [
+                "SnO2"
+            ],
+            "other_materials": [
+                "SnO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Due to the amino group , carboxyl groups , and chloride ions in the modified solution, the formed D-Arg-SnO2/PVSK interface can improves the charge mobility between ETL and the perovskite light absorbers",
+            "all_materials": [
+                "D-Arg-SnO2/",
+                "PVSK",
+                "ETL"
+            ],
+            "other_materials": [
+                "D-Arg-SnO2/",
+                "PVSK",
+                "ETL"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As a result, by controlling the content of D-Arg, an enhancement of short circuit current density  from 23.96 to 24.62\u00a0mA\u00a0cm\u22122, Voltage Open Circuit  from 1.105 to 1.161\u00a0V and a corresponding power conversion efficiency  increasing from 19.58 % to 21.74 %",
+            "all_materials": [
+                "D-Arg"
+            ],
+            "other_materials": [
+                "D-Arg"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, compared with the control device, the stability of device is improved",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work, therefore, demonstrates a facile, effective, easy-to-apply strategy that can be widely used to improve the performance of various optoelectronic devices where ITO is used as the transparent conducting substrate.",
+            "all_materials": [
+                "ITO"
+            ],
+            "other_materials": [
+                "ITO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The glass/ITO substrate was provided by Liaoning Preference New Energy Technology Company Limited",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "SnO2 colloidal solution  and D-arginine monohydrochloride  were purchased from Alfa Aesar",
+            "all_materials": [
+                "SnO2",
+                "D-arginine monohydrochloride"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "SnO2",
+                    "start": 0,
+                    "end": 4,
+                    "token_ids": [
+                        0
+                    ]
+                },
+                {
+                    "text": "D-arginine monohydrochloride",
+                    "start": 29,
+                    "end": 57,
+                    "token_ids": [
+                        4,
+                        5
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Isopropanol , lithium Bis imide  and 4-tert-butyl pyridine  were purchased from Sigma-Aldrich",
+            "all_materials": [
+                "Isopropanol",
+                "lithium Bis imide",
+                "4-tert-butyl pyridine"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "Isopropanol",
+                    "start": 0,
+                    "end": 11,
+                    "token_ids": [
+                        0
+                    ]
+                },
+                {
+                    "text": "lithium Bis imide",
+                    "start": 14,
+                    "end": 31,
+                    "token_ids": [
+                        2,
+                        3,
+                        4
+                    ]
+                },
+                {
+                    "text": "4-tert-butyl pyridine",
+                    "start": 37,
+                    "end": 58,
+                    "token_ids": [
+                        6,
+                        7
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Chlorobenzene , N, N-dimethylformamide  and dimethyl sulfoxide  were",
+            "all_materials": [
+                "Chlorobenzene",
+                "N, N-dimethylformamide",
+                "dimethyl sulfoxide"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "Chlorobenzene",
+                    "start": 0,
+                    "end": 13,
+                    "token_ids": [
+                        0
+                    ]
+                },
+                {
+                    "text": "N, N-dimethylformamide",
+                    "start": 16,
+                    "end": 38,
+                    "token_ids": [
+                        2,
+                        3,
+                        4
+                    ]
+                },
+                {
+                    "text": "dimethyl sulfoxide",
+                    "start": 44,
+                    "end": 62,
+                    "token_ids": [
+                        6,
+                        7
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The film quality of SnO2 ETL has a great impact on PSCs",
+            "all_materials": [
+                "SnO2 ETL"
+            ],
+            "other_materials": [
+                "SnO2 ETL"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, D-Arg was added to commercial SnO2 colloidal aqueous solution to prepare composite ETL",
+            "all_materials": [
+                "D-Arg",
+                "SnO2",
+                "ETL"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "D-Arg",
+                    "start": 14,
+                    "end": 19,
+                    "token_ids": [
+                        4
+                    ]
+                },
+                {
+                    "text": "SnO2",
+                    "start": 44,
+                    "end": 48,
+                    "token_ids": [
+                        9
+                    ]
+                }
+            ],
+            "operation": [
+                6,
+                "Mixing"
+            ],
+            "targets": "ETL"
+        },
+        {
+            "sentence": "The preparation process was shown in Fig",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In order to verify the interaction between D-Arg and SnO2 nanoparticles, we used X-ray photoelectron spectroscopy  measurement for the films 1a",
+            "all_materials": [
+                "D-Arg",
+                "SnO2"
+            ],
+            "other_materials": [
+                "D-Arg",
+                "SnO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Compared with the D-Arg-SnO2 film, the pristine SnO2 film the peak position of Sn 3d 5/2 and Sn 3d 3/2 was 495.15 and",
+            "all_materials": [
+                "D-Arg-SnO2",
+                "SnO2",
+                "Sn 3d 5/2",
+                "Sn 3d 3/2"
+            ],
+            "other_materials": [
+                "D-Arg-SnO2",
+                "SnO2",
+                "Sn 3d 5/2",
+                "Sn 3d 3/2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In summary, we report an ETL modification strategy to manufacture PSCs with a superior device performance",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "The result of various characterizations confirmed that this modification adjusts the refractive index of the SnO2 ETL to increase the transmittance of the SnO2/ITO electrode , and this modification supplied extra amino group, carboxyl groups and chloride ions, which can be used to passivate interface defects and improve the quality of perovskite films, including increased grain",
+            "all_materials": [
+                "SnO2 ETL",
+                "SnO2/ITO"
+            ],
+            "other_materials": [
+                "SnO2 ETL",
+                "SnO2/ITO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Xinyu Tan: Supervision Conceptualization, Writing \u2013 review &amp; editing",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Peng Xiang: Supervision Conceptualization, Writing \u2013 review &amp; editing",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Kai Zhang: Methodology, Formal analysis, Writing \u2013 original draft preparation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Bowen Li: Writing \u2013 review",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Ji Li: Writing \u2013 review",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Yanqi Ren: Investigation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Ying Zhu: Investigation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Yiming Liu: Validation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Wensheng Yan: Writing \u2013 review",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Xiaobo Chen: Writing \u2013 review &amp; editing",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Hongwei Han: Investigation.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors declare the following financial interests/personal relationships which may be considered as potential competing interests",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Xinyu Tan reports financial support was provided by National Natural Science Foundation of China",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Xinyu Tan reports financial support was provided by Ministry of education of China, 111 Project  of China.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work was supported by National Natural Science Foundation of Hubei Province  and Ministry of education of China, 111 Project  of China",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors thank the Analytical and Testing Center of Huazhong University of Science and Technology and Center for Nanoscale Characterization &amp; Devices  at Wuhan National Laboratory for Optoelectronics for performing various characterization and measurements.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "EDS element distribution mapping of D-Arg-SnO2-ETL .",
+            "all_materials": [
+                "D-Arg-SnO2-ETL"
+            ],
+            "other_materials": [
+                "D-Arg-SnO2-ETL"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We investigated the crystal and local structures of La2Co7Hx using synchrotron X-ray diffraction  in the first absorption process",
+            "all_materials": [
+                "La2Co7Hx"
+            ],
+            "other_materials": [
+                "La2Co7Hx"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "La2Co7 with a Ce2Ni7-type structure was transformed into La2Co7H7.4 with an orthorhombic structure , determined by Rietveld refinement, through the formation of La2Co7H4.1",
+            "all_materials": [
+                "La2Co7",
+                "La2Co7H7.4",
+                "La2Co7H4.1"
+            ],
+            "other_materials": [
+                "La2Co7",
+                "La2Co7H7.4",
+                "La2Co7H4.1"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The expansions of the lattice parameters of La2Co7H7.4 from the original alloy were \u0394a =\u00a0\u22123.2 %, \u0394b =\u00a0\u22123.4 %, and \u0394c =\u00a029.2 %",
+            "all_materials": [
+                "La2Co7H7.4"
+            ],
+            "other_materials": [
+                "La2Co7H7.4"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The unit cell expanded anisotropically",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The local structure of La2Co7Hx  was determined by performing an atomic pair distribution function  analysis",
+            "all_materials": [
+                "La2Co7Hx"
+            ],
+            "other_materials": [
+                "La2Co7Hx"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The results showed no significant difference between the crystal and local structures of La2Co7 and La2Co7H4.1",
+            "all_materials": [
+                "La2Co7",
+                "La2Co7H4.1"
+            ],
+            "other_materials": [
+                "La2Co7",
+                "La2Co7H4.1"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The refined structural parameters of La2Co7H7.4 obtained by the PDF analysis were inconsistent with the Rietveld analysis results",
+            "all_materials": [
+                "La2Co7H7.4"
+            ],
+            "other_materials": [
+                "La2Co7H7.4"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The local distortion was not negligible, and the local atomic positions of the metal atoms deviated from the crystal structure",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The local distortion of the CaCu5-type cell of La2Co7H7.4 was greater than that of the MgZn2-type cell.",
+            "all_materials": [
+                "CaCu5",
+                "La2Co7H7.4",
+                "MgZn2"
+            ],
+            "other_materials": [
+                "CaCu5",
+                "La2Co7H7.4",
+                "MgZn2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The new paradigm was introduced for achieving excellent electromagnetic  waves absorption through multi-layer superimposed quasiperiodic-metamaterials, which were generated in rotary high entropy alloys ribbon",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "With the help of asymmetry, the designed anisotropic metamaterials with excellent absorption  covered from 3.8\u2009GHz to 18\u2009GHz on the scale of sub-wavelength",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "High entropy alloys ribbon increased soft magnetic properties that design cascaded configuration metamaterials displayed distinct phase differences with increased rotation angle, which significantly focus on microwave attenuation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Meanwhile, the direction of the wave vector accompanied by rotation can realize polarized conversion, from linear polarizer to circular polarizer which is demonstrated in simulation, highly desirable in controlling EM waves and shrinking the size of traditional absorbing coating",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Our study provides a fresh perspective to developing high-performance absorbers by combining soft magnetic and irregular phase patterns as possible as need for complex EM waves manipulations, arbitrary phase encoding, and vortex field.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The new metastable high-pressure high-temperature synthesized hexagonal Laves phase compound YbZn2 was investigated",
+            "all_materials": [
+                "YbZn2"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                9,
+                "StartingSynthesis"
+            ],
+            "targets": "YbZn2"
+        },
+        {
+            "sentence": "The unit cell parameters, low-temperature Sommerfeld coefficient and Debye temperature were determined",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "X-ray absorption studies and calculations based on dynamical mean-field theory  showed the intermediate valence behavior of YbZn2 with mean Yb valence about 2.55",
+            "all_materials": [
+                "YbZn2"
+            ],
+            "other_materials": [
+                "YbZn2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The values of hyperfine electric parameters in Zn  sites were determined by means of 111Cd-time differential perturbed angular correlations and theoretical density functional calculations",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "DMFT calculations showed that the main contribution to the electron density of states at the Fermi level is due to Yb 4f electrons, while Zn spd electrons lie much lower in energy.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "An Er3+-doped AlN film has been prepared by radio frequency magnetron sputtering and its photoluminescence  characteristics were studied in terms of optical thermometry",
+            "all_materials": [
+                "AlN"
+            ],
+            "other_materials": [
+                "AlN"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                8,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It shows PL in the visible  and near-infrared  ranges, which high efficiency originates from nonradiative energy transfer of excitation from the host AlN to Er3+ ions",
+            "all_materials": [
+                "AlN"
+            ],
+            "other_materials": [
+                "AlN"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The most intense green PL at 540 and 560\u00a0nm from the thermally coupled levels 2H11/2,4S3/2 to 4I15/2 was studied in-detail within 110\u2013550\u00a0K",
+            "all_materials": [
+                "2H11/2,4S3/2",
+                "4I15/2"
+            ],
+            "other_materials": [
+                "2H11/2,4S3/2",
+                "4I15/2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "While 4S3/2 reveals a typical intensity dependence on temperature, the intensity of 2H11/2 increases when heating",
+            "all_materials": [
+                "4S3/2",
+                "2H11/2"
+            ],
+            "other_materials": [
+                "4S3/2",
+                "2H11/2"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                20,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The abnormal temperature dependence was explained by a thermal transition 4S3/2 \u2192 2H11/2 and modelled theoretically",
+            "all_materials": [
+                "4S3/2",
+                "2H11/2"
+            ],
+            "other_materials": [
+                "4S3/2",
+                "2H11/2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Such a phenomenon allows for the application of the peak emission in optical thermometry via fluorescence intensity ratio technique",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "AlN, as a host for Er3+ ions, is found to be a promising material for temperature sensing, as revealing a relatively high sensitivity up to 0.012\u00a0K-1, which is as high as the best values in other hosts of Er3+.",
+            "all_materials": [
+                "AlN"
+            ],
+            "other_materials": [
+                "AlN"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The development of gas sensors based on metal oxide semiconductor  with highly regular morphology, highly stable structures, and easy preparation is greatly desired but remains a challenge",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, we first prepared a highly regular array of TiO2 nanorods on FTO by a modified in situ hydrothermal method",
+            "all_materials": [
+                "TiO2",
+                "FTO"
+            ],
+            "other_materials": [
+                "FTO"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                4,
+                "StartingSynthesis"
+            ],
+            "targets": "TiO2"
+        },
+        {
+            "sentence": "Then a uniform SnO2 layer grew on the nanorods to form a core-shell nanocomposite by an ion-layer adsorption-reaction process",
+            "all_materials": [
+                "SnO2"
+            ],
+            "other_materials": [
+                "SnO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The TiO2/SnO2 sensors show enhanced gas sensing performance compared with the TiO2 sensors, including higher sensitivity to ethanol, lower working temperature, and better long-term stability",
+            "all_materials": [
+                "TiO2/SnO2",
+                "TiO2",
+                "ethanol"
+            ],
+            "other_materials": [
+                "TiO2/SnO2",
+                "TiO2",
+                "ethanol"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "And the highest ethanol response can be obtained when the growth cycle of the SnO2 shell was two times",
+            "all_materials": [
+                "SnO2"
+            ],
+            "other_materials": [
+                "SnO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The gas-sensing mechanism of the TiO2/SnO2 nanocomposites was discussed concerning the unique core-shell structure and a heterojunction between TiO2 and SnO2.",
+            "all_materials": [
+                "TiO2/SnO2",
+                "TiO2",
+                "SnO2"
+            ],
+            "other_materials": [
+                "TiO2/SnO2",
+                "TiO2",
+                "SnO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Microwave imaging has the advantages of high accuracy, non-contact and damage-free, but this puts forward higher requirements on the materials of imaging devices",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here, a novel Zn0.96Cu0.04MoO4 ceramic is reported using a solid-state reaction process",
+            "all_materials": [
+                "Zn0.96Cu0.04MoO4"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "Zn0.96Cu0.04MoO4"
+        },
+        {
+            "sentence": "The substitution behavior and microwave dielectric properties of the ceramic are systematically investigated by the crystal structure, microscopic morphology, and Raman spectroscopy",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It exhibits excellent microwave dielectric properties  sintered at 825\u00a0\u00b0C",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                6,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A 40\u00a0\u00d7\u00a040 microstructure array for static microwave imaging is designed and demonstrated based on this ceramic substrate",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The maximum spin-selective reflection difference of the LCP and RCP waves at 9.6\u00a0GHz is 0.926",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The image of a Chinese character presented has a recognizable resolution, both from intensity differences and three-dimensional  electric field arrows",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The pair of mutually chiral microstructures have an angular space of 6\u00b0 for experimental manipulation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work opens up the application of microwave dielectric ceramics in the imaging field.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

@@ -1,0 +1,1660 @@
+{
+    "rest": [
+        {
+            "sentence": "Solution treatment of perovskite films introduces many defects in the grain boundaries , which affects the power conversion efficiency  and long-term stability of the perovskite solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Designing suitable modification materials is the key to solving these problems",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, we synthesize the poly polymer  through a facile polymerization method",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                3,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The polymer successfully introduces nitrile  into the PS chain and exhibits good thermal stability",
+            "all_materials": [
+                "PS"
+            ],
+            "other_materials": [
+                "PS"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "When the PS-PAN polymer is added to the antisolvent to modify the perovskite film, it can passivate the GBs/surface defects and restrain the carrier recombination of the perovskite film",
+            "all_materials": [
+                "PS-PAN"
+            ],
+            "other_materials": [
+                "PS-PAN"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                7,
+                "Mixing"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As a result, we obtain an enhanced PCE in inverted PSCs increasing from 18.18% to 22.02%",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "More importantly, the nonencapsulated PS-PAN-modified PSCs demonstrate good illumination and thermal stabilities and maintain 90% PCE under full-spectrum illumination at 75\u00a0\u00b0C in nitrogen glove box for 800\u00a0h",
+            "all_materials": [
+                "PS-PAN",
+                "PSCs",
+                "PCE",
+                "nitrogen"
+            ],
+            "other_materials": [
+                "PS-PAN",
+                "PSCs",
+                "PCE",
+                "nitrogen"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, the designed device is resistant to moisture, retaining 91% PCE in air  for 4000\u00a0h.",
+            "all_materials": [
+                "PCE",
+                "air"
+            ],
+            "other_materials": [
+                "PCE",
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We synthesize the PS-PAN polymer that is added to the antisolvent to modify the perovskite film",
+            "all_materials": [
+                "PS-PAN"
+            ],
+            "other_materials": [
+                "PS-PAN"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                [
+                    1,
+                    "StartingSynthesis"
+                ],
+                [
+                    9,
+                    "Mixing"
+                ]
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The PS-PAN-modified PSC achieves the best PCE of 22.02%, higher than control device",
+            "all_materials": [
+                "PS-PAN",
+                "PSC"
+            ],
+            "other_materials": [
+                "PS-PAN",
+                "PSC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Due to the PS-PAN polymer introduces nitrile  that can passivate the GBs/surface defects and restrain the carrier recombination of the perovskite films.Download : Download high-res image Download : Download full-size image",
+            "all_materials": [
+                "PS-PAN"
+            ],
+            "other_materials": [
+                "PS-PAN"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Metal halide perovskite semiconductors have attracted wide interest due to simple processing approaches , strong light absorption , and long carrier lifetime ,",
+            "all_materials": [
+                "Metal halide"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "Metal halide"
+        },
+        {
+            "sentence": "The performance and stability of perovskite solar cells  have been continuously improved through crystal engineering , passivation techniques , and interface engineering , but challenges still remain ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The photovoltaic performance of inverted PSCs still falls behind the conventional PSCs",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The reason may be that there are numerous defects in the perovskite absorption layer and interface, which leads to the non-radiative recombination of photo-generated carriers.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "So far, additive was proved to be a facile path to alleviate the grain boundaries /surface problems and prepare high-quality perovskite films",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Additives such as salts , small molecules , and polymers ,  were introduced into perovskite to passivate defects",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The small molecules such as pyridine , thiophene , and fullerenes  could coordinate with Pb2+ by Lewis base-acid reaction, thus passivating defects and improving photoelectric performance of perovskite",
+            "all_materials": [
+                "pyridine",
+                "thiophene"
+            ],
+            "other_materials": [
+                "pyridine"
+            ],
+            "precursors": [
+                {
+                    "text": "thiophene",
+                    "start": 39,
+                    "end": 48,
+                    "token_ids": [
+                        7
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the high diffusion coefficients and volatility of small molecules limited further applications under harsh environments",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Introducing polymers such as polystyrene  , poly   and poly    into PSCs were attempted to overcome these shortcomings",
+            "all_materials": [
+                "polystyrene",
+                "poly",
+                "poly",
+                "PSCs"
+            ],
+            "other_materials": [
+                "polystyrene",
+                "PSCs"
+            ],
+            "precursors": [
+                {
+                    "text": "poly",
+                    "start": 44,
+                    "end": 48,
+                    "token_ids": [
+                        6
+                    ]
+                },
+                {
+                    "text": "poly",
+                    "start": 55,
+                    "end": 59,
+                    "token_ids": [
+                        8
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For the PS polymer, it was considered to be a promising material and was widely used to solve the surface and interface problems of perovskite films",
+            "all_materials": [
+                "PS"
+            ],
+            "other_materials": [
+                "PS"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "reported that adding the PS polymer to the perovskite precursor resulted in a uniform perovskite film and a power conversion efficiency  of 13% Kim et al",
+            "all_materials": [
+                "PS"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "PS",
+                    "start": 25,
+                    "end": 27,
+                    "token_ids": [
+                        4
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "reported that the PS polymer could improve the crystallization kinetics of perovskite, and a PCE of 16.8% has been achieved Rohit et al",
+            "all_materials": [
+                "PS"
+            ],
+            "other_materials": [
+                "PS"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Unfortunately, the PS polymer modified PSCs get low efficiency, which is probably caused by the lack of passivation functional groups in the PS polymer.",
+            "all_materials": [
+                "PS",
+                "PSCs",
+                "PS"
+            ],
+            "other_materials": [
+                "PS",
+                "PSCs",
+                "PS"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here, we successfully synthesize the poly polymer  through a facile polymerization reaction and introduce the nitrile  into the side chain of the PS polymer",
+            "all_materials": [
+                "PS"
+            ],
+            "other_materials": [
+                "PS"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                4,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Then we dissolve it in anti-solvent  to modify the perovskite film via passivating uncoordinated defects at GBs/surface, and to promote the optoelectronic properties of PSCs",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Experimental results reveal that the introduced nitrogen  atoms can provide lone pair electrons to coordinate with the lead ion , thereby passivating the GBs/surface defects and suppressing non-radiative recombination of perovskite film",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, the employed PS-PAN polymer contributes to the formation of larger grain size and more compact film",
+            "all_materials": [
+                "PS-PAN"
+            ],
+            "other_materials": [
+                "PS-PAN"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Consequently, we achieve a best PCE of 22.02% with negligible hysteresis in the inverted-structured PSCs",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The illumination, thermal and environmental stabilities of the PSCs have also been significantly improved.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Chlorobenzene , isopropanol , anhydrous dimethyl sulfoxide , nickel  nitrate hexahydrate 2.6\u2009H2O, 99.999%) and N, N-dimethylformamide  were purchased from Sigma-Aldrich",
+            "all_materials": [
+                "Chlorobenzene",
+                "isopropanol",
+                "dimethyl sulfoxide",
+                "nickel  nitrate hexahydrate 2.6\u2009H2O",
+                "N, N-dimethylformamide"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "Chlorobenzene",
+                    "start": 0,
+                    "end": 13,
+                    "token_ids": [
+                        0
+                    ]
+                },
+                {
+                    "text": "isopropanol",
+                    "start": 16,
+                    "end": 27,
+                    "token_ids": [
+                        2
+                    ]
+                },
+                {
+                    "text": "dimethyl sulfoxide",
+                    "start": 40,
+                    "end": 58,
+                    "token_ids": [
+                        5,
+                        6
+                    ]
+                },
+                {
+                    "text": "nickel  nitrate hexahydrate 2.6\u2009H2O",
+                    "start": 61,
+                    "end": 96,
+                    "token_ids": [
+                        8,
+                        9,
+                        10,
+                        11,
+                        12
+                    ]
+                },
+                {
+                    "text": "N, N-dimethylformamide",
+                    "start": 111,
+                    "end": 133,
+                    "token_ids": [
+                        18,
+                        19,
+                        20
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "NiOx nanoparticles were synthesized based on previous reports",
+            "all_materials": [
+                "NiOx"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                3,
+                "StartingSynthesis"
+            ],
+            "targets": "NiOx"
+        },
+        {
+            "sentence": "All photoelectric materials were purchased from Xi\u2019an Polymer Light Technology Corp",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": ".",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Styrene , acrylonitrile , \u03b1-bromoisobutyric acid tert-butyl ester ,",
+            "all_materials": [
+                "Styrene",
+                "acrylonitrile",
+                "\u03b1-bromoisobutyric acid tert-butyl ester"
+            ],
+            "other_materials": [
+                "acrylonitrile",
+                "\u03b1-bromoisobutyric acid tert-butyl ester"
+            ],
+            "precursors": [
+                {
+                    "text": "Styrene",
+                    "start": 0,
+                    "end": 7,
+                    "token_ids": [
+                        0
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We synthesize the PS-PAN polymer by a facile polymerization method and give the detail in experimental section",
+            "all_materials": [
+                "PS-PAN"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                1,
+                "StartingSynthesis"
+            ],
+            "targets": "PS-PAN"
+        },
+        {
+            "sentence": "Molecular structure of the PS-PAN polymer is confirmed by Fourier transform infrared spectroscopy   and 1H nuclear magnetic resonance  spectroscopy",
+            "all_materials": [
+                "PS-PAN"
+            ],
+            "other_materials": [
+                "PS-PAN"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We perform several characterization methods to understand the chemical interactions between the PS-PAN polymer and CsMAFA  based perovskite materials",
+            "all_materials": [
+                "PS-PAN",
+                "CsMAFA"
+            ],
+            "other_materials": [
+                "PS-PAN",
+                "CsMAFA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "First,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In conclusion, we synthesize the PS-PAN polymer with the passivation group  by a facile polymerization method for highly efficient inverted PSCs",
+            "all_materials": [
+                "PS-PAN",
+                "PSCs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                4,
+                "StartingSynthesis"
+            ],
+            "targets": "PS-PAN"
+        },
+        {
+            "sentence": "The introduced N atoms can provide lone pair electrons to coordinate with the Pb2+, thereby improving perovskite crystallization, facilitating carrier transport, passivating the GBs/surface defects and suppressing non-radiative recombination of perovskite film",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, the PSC with the PS-PAN polymer achieves the champion PCE of 22.02% with",
+            "all_materials": [
+                "PSC",
+                "PS-PAN"
+            ],
+            "other_materials": [
+                "PSC",
+                "PS-PAN"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Jiabao Yang: Methodology, Investigation, Writing - original draft",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Qi Cao: Conceptualization, Validation, Writing - review &amp; editing",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Xuanhua Li: Supervision, Project administration, Funding acquisition",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Ziwei He: Formal analysis, writing - review &amp; editing",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Xingyu Pu: Resources",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Tongtong Li: Visualization",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Bingyu Gao: Writing - review &amp; editing.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors declare no competing financial interest.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "BJ",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Cao contributed equally to this workYang and Q",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This research is supported by the Key Research and Development Program from Shaanxi Province, China , the Shaanxi International Cooperation Project, China , and the Fundamental Research Funds for the Central Universities, China",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We thank the members from the Analytical &amp; Testing Center of North Western Polytechnical University for the help of SEM and XRD",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In recent years, inverted perovskite solar cells  have attracted significant attention due to their low-temperature and cost-effective fabrication processes, hysteresis-free properties, excellent stability, and wide application",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The efficiency gap between IPSCs and regular structures has shrunk to less than 1%",
+            "all_materials": [
+                "IPSCs"
+            ],
+            "other_materials": [
+                "IPSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Over the past few years, IPSC research has mainly focused on optimizing power conversion efficiency to accelerate the development of IPSCs",
+            "all_materials": [
+                "IPSCs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "IPSCs"
+        },
+        {
+            "sentence": "This review provides an overview of recent improvements in the efficiency of IPSCs, including interface engineering and novel film production techniques to overcome critical obstacles",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Tandem and integrated applications of IPSCs are also summarized",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, prospects for further development of IPSCs are discussed, including the development of new materials, methods, and device structures for novel IPSCs to meet the requirements of commercialization.",
+            "all_materials": [
+                "IPSCs",
+                "IPSCs"
+            ],
+            "other_materials": [
+                "IPSCs",
+                "IPSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The presence of defects and detrimental reactions at NiOx/perovskite interface extremely limit the efficiency performance and long-term stability of the perovskite solar cells  based on NiOx",
+            "all_materials": [
+                "NiOx",
+                "NiOx"
+            ],
+            "other_materials": [
+                "NiOx",
+                "NiOx"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, an amphipathic molecule Triton X100  is modified on the NiOx surface",
+            "all_materials": [
+                "Triton X100",
+                "NiOx"
+            ],
+            "other_materials": [
+                "Triton X100",
+                "NiOx"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The hydrophilic chain of Triton as a Lewis base additive can coordinate with the Ni3+ on the NiOx surface which can passivate the interfacial defects and hinder the detrimental reactions at the NiOx/perovskite interface",
+            "all_materials": [
+                "Triton",
+                "NiOx",
+                "NiOx"
+            ],
+            "other_materials": [
+                "Triton",
+                "NiOx",
+                "NiOx"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Additionally, the hydrophobic chain of Triton protrudes from the NiOx surface to prevent moisture from penetrating into the NiOx/perovskite interface",
+            "all_materials": [
+                "Triton",
+                "NiOx",
+                "NiOx/"
+            ],
+            "other_materials": [
+                "Triton",
+                "NiOx",
+                "NiOx/"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Consequently, the NiOx/Triton-based devices  show superior moisture and thermal stability, retaining 88.4% and 64.3% of the initial power conversion efficiency after storage in air ) at 25 \u2103 for 1070\u00a0h and in N2 at 85 \u2103 for 800\u00a0h, respectively",
+            "all_materials": [
+                "air",
+                "N2"
+            ],
+            "other_materials": [
+                "air",
+                "N2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, the efficiency increases from 17.59% to 19.89% because of the passivation defect and enhanced hole-extraction capability",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Besides, the NiOx/Triton-based PSCs with Cs0.050.95Pb3 perovskite as the light-absorbing layer also exhibits better moisture and thermal stability compared to the control devices, indicating the viability of our strategies",
+            "all_materials": [
+                "NiOx",
+                "Cs0.050.95Pb3"
+            ],
+            "other_materials": [
+                "NiOx",
+                "Cs0.050.95Pb3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Of particular note, a champion PCE of 22.35% and 20.46% was achieved for small-area  and large-area  NiOx/Triton-based devices, respectively.",
+            "all_materials": [
+                "NiOx/Triton"
+            ],
+            "other_materials": [
+                "NiOx/Triton"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "An organic molecule, 2-Fluoro-4-iodoaniline , is adopted to passivate the surface defects of 0.950.05 perovskite films",
+            "all_materials": [
+                "2-Fluoro-4-iodoaniline"
+            ],
+            "other_materials": [
+                "2-Fluoro-4-iodoaniline"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The amino group of FID forms a coordinate bond with the uncoordinated lead ion on the perovskite surface via Lewis acid\u2013base interaction, which significantly reduced the defect state density, suppressed carrier nonradiative recombination, and boosted carrier transport of the perovskite films, resulting in increased open circuit voltage  and fill factor  of the perovskite solar cells",
+            "all_materials": [
+                "FID"
+            ],
+            "other_materials": [
+                "FID"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Meanwhile, fluorine group of FID forms hydrogen bond with perovskite, restraining ions moving and decomposition of perovskite",
+            "all_materials": [
+                "FID",
+                "perovskite"
+            ],
+            "other_materials": [
+                "FID",
+                "perovskite"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Consequently, the power conversion efficiency  of the PSCs was increased from 21.07% to 23.44%",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, FID passivation also improved the ambient stability of the PSCs",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The unencapsulated PSC with FID passivation retained more than 90% of its initial PCE for over 1500\u00a0h of storage under ambient conditions.",
+            "all_materials": [
+                "PSC",
+                "PCE"
+            ],
+            "other_materials": [
+                "PSC",
+                "PCE"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The remarkable optoelectronic capabilities of perovskite structures enable the achievement of astonishingly high-power conversion efficiencies on the laboratory scale",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, a critical bottleneck of perovskite solar cells is their sensitivity to the surrounding humid environment affecting drastically their long-term stability",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Internal additive materials together with surface passivation, polymer-mixed perovskite, and quantum dots, have been investigated as possible strategies to enhance device stability even in unfavorable conditions",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Quantum dots  in perovskite solar cells enable power conversion efficiencies to approach 20%, making such solar cells competitive to silicon-based ones",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This mini-review summarized the role of such QDs in the perovskite layer, hole-transporting layer , and electron-transporting layer , demonstrating the continuous improvement of device efficiencies.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Surface \u201cmolecule treatment\u201d has been widely used to promote the performance of perovskite solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the low tolerance in thickness and difficulty in energy level matching restrict its applications in large-scale manufactures in the future",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, a mono-molecule layer  of Tetrabutylammonium chloride  was introduced, which can self-assemble onto the surface of perovskite by means of a facile solution method",
+            "all_materials": [
+                "Tetrabutylammonium chloride"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "Tetrabutylammonium chloride",
+                    "start": 40,
+                    "end": 67,
+                    "token_ids": [
+                        8,
+                        9
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "TBAC MML possesses a strong interface dipole pointing outward of the surface of perovskite, which promotes the built-in electric field and reduces the contact barrier for hole extraction",
+            "all_materials": [
+                "TBAC MML"
+            ],
+            "other_materials": [
+                "TBAC MML"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Accordingly, the carrier extraction rate and recombination resistance are enhanced by 1.5 and 4 times, respectively",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "PSCs treated by TBAC  induced a champion efficiency of 23.50% with fill factor  of over 82%",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                1,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, TBAC MML can prevent the adsorption of H2O and O2 onto the surface of perovskite, and thereby enhance the stability of PSCs",
+            "all_materials": [
+                "TBAC MML",
+                "H2O",
+                "O2",
+                "PSCs"
+            ],
+            "other_materials": [
+                "TBAC MML",
+                "H2O",
+                "O2",
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "After being aged in ambient air for 1000\u00a0h, TBAC-PSCs sustained the initial efficiency of over 90% which is only 58% for the control devices.",
+            "all_materials": [
+                "air",
+                "TBAC-PSCs"
+            ],
+            "other_materials": [
+                "air",
+                "TBAC-PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Poly   has been recognized to be a potential hole-transport material  for stable and efficient perovskite solar cells  due to its low cost, high hole mobility, and solution processability",
+            "all_materials": [
+                "Poly"
+            ],
+            "other_materials": [
+                "Poly"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the uncontrolled configuration of the polymer chains and the poor contact on the perovskite film restrain the charge extraction and transport in the devices",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here, we demonstrate a simple and versatile strategy for the fabrication of stable and efficient P3HT-based PSCs, using 1-hexyl-2,5-dimethyl-1H-pyrrole-3-carboxylic acid  as interlayer between perovskite and P3HT layers",
+            "all_materials": [
+                "PSCs",
+                "1-hexyl-2,5-dimethyl-1H-pyrrole-3-carboxylic acid",
+                "P3HT"
+            ],
+            "other_materials": [
+                "1-hexyl-2,5-dimethyl-1H-pyrrole-3-carboxylic acid",
+                "P3HT"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "The carboxyl group in HPCA can effectively suppress anion-vacancy defects at the grain boundaries and surface of the perovskite film, reducing the trap state density and improving the carrier lifetimes",
+            "all_materials": [
+                "HPCA"
+            ],
+            "other_materials": [
+                "HPCA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, the peripheral hexyl-pyrrole in HPCA can improve the interface contact between the perovskite and P3HT, and regulate P3HT orientation and improve charge extraction and transport in the device",
+            "all_materials": [
+                "HPCA",
+                "P3HT",
+                "P3HT"
+            ],
+            "other_materials": [
+                "HPCA",
+                "P3HT",
+                "P3HT"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As a result, the PSC using the dopant-free P3HT HTM yields a power conversion efficiency  of 20.8%, along with superior stability at a relative humidity of 60%, heat at 80\u00a0\u00b0C, or under continuous light illumination.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Stabilization of perovskite phases and interfaces in stacked perovskite photovoltaics are critical for their efficiency, operational stability and perovskite solar modules",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, A-site cation-size mismatch processed perovskite-composition films with less crystal defects are formed by incorporating larger cations formamidinium and methylammonium with smaller cations, i.e., potassium and cesium",
+            "all_materials": [
+                "formamidinium",
+                "methylammonium",
+                "potassium",
+                "cesium"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "formamidinium",
+                    "start": 144,
+                    "end": 157,
+                    "token_ids": [
+                        22
+                    ]
+                },
+                {
+                    "text": "methylammonium",
+                    "start": 162,
+                    "end": 176,
+                    "token_ids": [
+                        24
+                    ]
+                },
+                {
+                    "text": "potassium",
+                    "start": 205,
+                    "end": 214,
+                    "token_ids": [
+                        31
+                    ]
+                },
+                {
+                    "text": "cesium",
+                    "start": 219,
+                    "end": 225,
+                    "token_ids": [
+                        33
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The interface stabilization can be achieved by inserting Poly[bis  amine], mesoporous alumina, phenethyammonium ligands and atomic-layer-deposition tin oxides at desired interfaces in inverted perovskite solar cells",
+            "all_materials": [
+                "Poly[bis  amine]",
+                "alumina",
+                "phenethyammonium",
+                "tin oxides"
+            ],
+            "other_materials": [
+                "Poly[bis  amine]",
+                "phenethyammonium",
+                "tin oxides"
+            ],
+            "precursors": [
+                {
+                    "text": "alumina",
+                    "start": 86,
+                    "end": 93,
+                    "token_ids": [
+                        13
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Thus, the interface defects, non-radiative recombination and ion migration can be remarkably suppressed, resulting in improvement of interface contacts and hole/electron transport",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As a result, both cation-size mismatch and interface stabilization  strategies enable hysteresis-free, reproducible 21.9% and 16.9% efficient NiOx-based inverted PSCs and PSMs",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, a high Voc of 1.16\u00a0V and 8.05\u00a0V can be obtained in large-area PSCs  and PSMs  with 7 subcells connected in series",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Additionally, the measured T85 lifetime  of unencapsulated PSCs under continuous AM 1.5G light illumination is approximately 1000\u00a0h.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Fabricating highly efficient and stable inverted wide-bandgap  perovskite solar cells  is the key factor for developing high-efficiency and stabilized tandem solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, we propose an interfacial engineering strategy to form a 2D/3D perovskite heterojunction using 2-thiopheneethylammonium chloride",
+            "all_materials": [
+                "2-thiopheneethylammonium"
+            ],
+            "other_materials": [
+                "2-thiopheneethylammonium"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The thiophene-based 2D/3D perovskite heterojunction improves the optoelectronic properties of the perovskite absorber, passivates the electron and hole traps, increases the activation energy of the ion movement, and lowers the dark saturation current density of the device",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As a result, the device with TEACl treatment delivers a champion power conversion efficiency of 20.31% with a 1.68-eV bandgap",
+            "all_materials": [
+                "TEACl"
+            ],
+            "other_materials": [
+                "TEACl"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, the devices with TEACl treatment exhibit superior stability than the control devices under various testing conditions",
+            "all_materials": [
+                "TEACl"
+            ],
+            "other_materials": [
+                "TEACl"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Finally, an efficiency of 24.0% is achieved for a 4-terminal perovskite/CIGS tandem solar cell",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Our results demonstrate that the thiophene-based 2D/3D perovskite heterojunction is a promising approach for achieving efficient and stable WBG PSCs.",
+            "all_materials": [
+                "WBG PSCs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "WBG PSCs"
+        },
+        {
+            "sentence": "How to design and synthesize interfacial engineered materials that have efficient surface passivation and electron extraction properties is an important problem in the field of optoelectronic materials",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                4,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, a simple naphthalene imide dimer, namely 2FBT2NDI, is developed by Stille coupling reaction with a high yield, and it is used as interface engineering material for inverted perovskite solar cells",
+            "all_materials": [
+                "naphthalene imide",
+                "2FBT2NDI"
+            ],
+            "other_materials": [
+                "naphthalene imide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "2FBT2NDI"
+        },
+        {
+            "sentence": "Owing to the existence of intermolecular interactions between MAPbI3 and the 2FBT2NDI layer, the introduction of the interfacial layer can passivate the surface defects of perovskite film and improve interface contact",
+            "all_materials": [
+                "MAPbI3",
+                "2FBT2NDI"
+            ],
+            "other_materials": [
+                "MAPbI3",
+                "2FBT2NDI"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, 2FBT2NDI exhibits suitable energy levels and high electron mobility because of its large linear conjugated skeleton containing two fluorine atoms, which are beneficial for electron extraction for efficient PSCs",
+            "all_materials": [
+                "2FBT2NDI"
+            ],
+            "other_materials": [
+                "2FBT2NDI"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "By employing 2FBT2NDI as an interfacial layer, inverted PSCs show a maximum power conversion efficiency of 20.1%, which is over 14% higher than that of the control devices without interfacial layer",
+            "all_materials": [
+                "2FBT2NDI",
+                "PSCs"
+            ],
+            "other_materials": [
+                "2FBT2NDI",
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "These results highlight that the naphthalene imide dimer can potentially be used as a commercializable interfacial material for achieving high-performance PSCs.",
+            "all_materials": [
+                "naphthalene imide dimer"
+            ],
+            "other_materials": [
+                "naphthalene imide dimer"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Fullerene and its derivatives are commonly used as electron transport layers  in inverted perovskite solar cells , since they show suitable band alignment and good electron mobility",
+            "all_materials": [
+                "Fullerene"
+            ],
+            "other_materials": [
+                "Fullerene"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, fullerene-based ETLs typically result in low open-circuit voltages due to the interfacial defects, and they also exhibit poor photochemical and thermal stability",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Consequently, there is great interest in the development of novel ETLs for high-performance inverted PSCs",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, two n-type polymers PBTI and PDTzTI are utilized as ETL in inverted PSCs, which are based on bithiophene imide and thienylthiazole imide, respectively",
+            "all_materials": [
+                "PBTI",
+                "PDTzTI",
+                "bithiophene imide",
+                "thienylthiazole imide"
+            ],
+            "other_materials": [
+                "bithiophene imide",
+                "thienylthiazole imide"
+            ],
+            "precursors": [
+                {
+                    "text": "PBTI",
+                    "start": 34,
+                    "end": 38,
+                    "token_ids": [
+                        9
+                    ]
+                },
+                {
+                    "text": "PDTzTI",
+                    "start": 43,
+                    "end": 49,
+                    "token_ids": [
+                        11
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Due to its high electron mobility, well matched energy level alignment together with the passivation of interfacial traps/defects, device with the PDTzTI ETL demonstrates a best power conversion efficiency of 20.86%, which outperform those with PBTI and PCBM ETLs",
+            "all_materials": [
+                "PDTzTI",
+                "PBTI",
+                "PCBM ETLs"
+            ],
+            "other_materials": [
+                "PDTzTI",
+                "PBTI",
+                "PCBM ETLs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Owning to the highly hydrophobic properties as well as the mobile ion blocking capability of polymer, PDTzTI ETL based device also exhibits excellent long-term and operational device stability as compared with the PCBM one",
+            "all_materials": [
+                "PDTzTI",
+                "PCBM"
+            ],
+            "other_materials": [
+                "PDTzTI",
+                "PCBM"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Our results demonstrate that rational selection of ETLs has great impact on the device efficiency and stability in inverted planar PSCs and that novel n-type polymer might be ideal alternative ETL in inverted planar PSCs.",
+            "all_materials": [
+                "ETL"
+            ],
+            "other_materials": [
+                "ETL"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Solution-processed perovskite films have high trap densities especially on the perovskite surface that become pathways of moisture invasion, unavoidably leading to perovskite degradation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Although the water resistance or crosslinking organic molecules attached to the perovskite film can partially mitigate the degradation, there is usually a significant trade-off between device power conversion efficiency  and moisture stability due to the insulating nature of the organic molecules",
+            "all_materials": [
+                "water"
+            ],
+            "other_materials": [
+                "water"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here, we designed and synthesized a cross-linkable molecule PETA-G to solve the problem by rationally combining the guanidine and tri-acrylate groups",
+            "all_materials": [
+                "PETA-G"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                5,
+                "StartingSynthesis"
+            ],
+            "targets": "PETA-G"
+        },
+        {
+            "sentence": "The guanidine group with three lone pair electrons enables sufficient bonding between lone pair electrons and undercoordinated Pb2+ of the perovskite grain surface; the tri-acrylate group with three crosslink sites has a moderate crosslinking condition that can spatially crosslink, thus forming a compact network on the perovskite surface",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The crosslinked PETA-G  can significantly suppress non-radiative recombination and improve the moisture resistance of the perovskite film that even survives when dipped into water, while the charge transport was not influenced",
+            "all_materials": [
+                "PETA-G",
+                "water"
+            ],
+            "other_materials": [
+                "PETA-G",
+                "water"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Consequently, the long-term moisture and operational stabilities of the perovskite solar cells based on FA0.92MA0.08PbI3 with CL-PETA-G were dramatically increased, and the devices achieved a remarkable PCE as high as 22.6%.",
+            "all_materials": [
+                "FA0.92MA0.08PbI3",
+                "CL-PETA-G"
+            ],
+            "other_materials": [
+                "FA0.92MA0.08PbI3",
+                "CL-PETA-G"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Imperfection originating from the ionic nature of organic inorganic hybrid perovskite  is a major factor that degrades perovskite solar cells  performance, and mitigating or removing it is essential for the implementation of high-performance PSCs",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, 2-hydroxyethyl acrylate , having both effective CO and O\u2013H functional groups, is introduced as a functional additive that suppress imperfections by to control the crystallization process and passivate them at the same time, and the role of each function groups have been systematically investigated",
+            "all_materials": [
+                "2-hydroxyethyl acrylate",
+                "CO",
+                "O\u2013H"
+            ],
+            "other_materials": [
+                "2-hydroxyethyl acrylate",
+                "CO",
+                "O\u2013H"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We have found that O\u2013H functional groups of HEA strongly interacts with organic cations  to form more stable organic cation-HEA complex selectively, delaying the crystallization process of perovskite",
+            "all_materials": [
+                "O\u2013H",
+                "HEA",
+                "HEA"
+            ],
+            "other_materials": [
+                "O\u2013H",
+                "HEA",
+                "HEA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As a result, HEA improves crystallinity and grain size of perovskite and reduces charge trapping density by passivation and/or suppression of defect states",
+            "all_materials": [
+                "HEA"
+            ],
+            "other_materials": [
+                "HEA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "HEA raises average cell-efficiency from 17.37% to 19.01% and the maximum efficiency is reached to 21.01% for the inverted planar PSC",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, large-area  PSCs show an excellent efficiency of 20.40%, which is the highest efficiency in large-area inverted planar PSCs to date",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "PSCs with HEA also show long-term stability and better moisture resistance capabilities in ambient air conditions.",
+            "all_materials": [
+                "PSCs",
+                "air"
+            ],
+            "other_materials": [
+                "PSCs",
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "These authors contributed equally to this work.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

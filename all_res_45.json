@@ -1,0 +1,1379 @@
+{
+    "rest": [
+        {
+            "sentence": "A careful control of ZnO nanorod arrays with various densities and thickness were achieved by hydrothermal method",
+            "all_materials": [
+                "ZnO"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "ZnO"
+        },
+        {
+            "sentence": "An obvious increase in the ZnO nanorod density is observed as the concentrations of zinc acetate dropped as expected through the surface SEM images",
+            "all_materials": [
+                "ZnO",
+                "zinc acetate"
+            ],
+            "other_materials": [
+                "ZnO",
+                "zinc acetate"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                16,
+                "SolutionMixing"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "On the other hand, samples with and without TiO2 compact layer were also studied and results had been analyzed to seek for an optimized substrate structure for light absorbing layer and increase the efficiency",
+            "all_materials": [
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "What\u2019s more, a deep research for the drying temperature for perovskite layer was also conducted",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As a result, SEM images discribe a promising surface appearance of perovskite layer which is finely attached onto the nanorod structure",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Final power conversion efficiency  of FTO/ZnO seed layer/ZnO nanorods/perovskite/spiro-OMe-TAD/Au electrode photovoltaic device reached \u223c9.15% together with open-circuit voltage of 957\u00a0mV, short-circuit current density of 17.8\u00a0mA/cm2 and fill factor of 0.537.",
+            "all_materials": [
+                "FTO/ZnO",
+                "ZnO",
+                "spiro-OMe-TAD",
+                "Au"
+            ],
+            "other_materials": [
+                "FTO/ZnO",
+                "ZnO",
+                "spiro-OMe-TAD",
+                "Au"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Download : Download full-size image",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Because of the many advantages perovskite layer has  and the simplified synthesis method that shortens the research cycle",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Perovskite solar cell gains incredible efficiency and receives intensive attention these years ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To rise the perovskite solar cell efficiency, structure optimization is necessary",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As two kinds of typical n-type semiconductors, TiO2 and ZnO nanostructure are being widely used for perovskite solar cells",
+            "all_materials": [
+                "TiO2",
+                "ZnO"
+            ],
+            "other_materials": [
+                "TiO2",
+                "ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Among those applications, perovskite solar cells based on TiO2 mesoporous layer acquired the highest cell efficiency so far",
+            "all_materials": [
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "But ZnO based perovskite solar cell also made significant performance improvement, pure ZnO nanorods based perovskite solar cell received an efficiency of 8.9% and also applied to PET substrate which yielded 2.62%",
+            "all_materials": [
+                "ZnO",
+                "ZnO"
+            ],
+            "other_materials": [
+                "ZnO",
+                "ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Due to the higher conduction band, faster electron mobility and higher electron density than pure ZnO, An Al doped ZnO /ZnO nanorods core shell structure perovskite solar cell make efficiency improved to 10.7%  and also pointed out that the substrate doping is a proper way of increasing the efficiency",
+            "all_materials": [
+                "ZnO",
+                "ZnO /ZnO"
+            ],
+            "other_materials": [
+                "ZnO",
+                "ZnO /ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "On other works, Diameter and length of the hexagonal ZnO nanorods were controlled and optimized for the cell and efficiency then reached to 11.13%",
+            "all_materials": [
+                "ZnO"
+            ],
+            "other_materials": [
+                "ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "What\u2019s more, solution, colloidal and powder forms of seed layer and rod decoration were also concerned to achieve better performance",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A latest research of the N doped ZnO nanorod arrays obtained cell efficiency of 16.1% , which is another leap from pure ZnO nanorod and made the ZnO nanorods based perovskite solar cell continuously a hot spot.",
+            "all_materials": [
+                "ZnO",
+                "ZnO",
+                "ZnO"
+            ],
+            "other_materials": [
+                "ZnO",
+                "ZnO",
+                "ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "FTO substrate glass  were cleaned with deionized water, acetone and alcohol for 10\u00a0min each in an ultrasonic cleaner and then further cleaned with UV treatment for another 30\u00a0min.",
+            "all_materials": [
+                "FTO",
+                "water",
+                "acetone",
+                "alcohol"
+            ],
+            "other_materials": [
+                "FTO",
+                "water",
+                "acetone",
+                "alcohol"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "TiO2 compact layer was attached onto the substrate through spin coating an alcoholic solvent with an addition of titanium diisopropoxide bis",
+            "all_materials": [
+                "TiO2",
+                "titanium diisopropoxide bis"
+            ],
+            "other_materials": [
+                "TiO2",
+                "titanium diisopropoxide bis"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Different densities of ZnO nanorod arrays were prepared through spin coating method",
+            "all_materials": [
+                "ZnO"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                7,
+                "StartingSynthesis"
+            ],
+            "targets": "ZnO"
+        },
+        {
+            "sentence": "Thus, Different concentrations of Zn2\u00b72H",
+            "all_materials": [
+                "Zn2\u00b72H"
+            ],
+            "other_materials": [
+                "Zn2\u00b72H"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Experiment towards the drying temperature was carried out first to make sure the perovskite layer is in the optimized surface topography.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                6,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The surface SEM images of the perovskite layer on the ZnO nanorod arrays at different drying temperature is given in Fig",
+            "all_materials": [
+                "ZnO"
+            ],
+            "other_materials": [
+                "ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "While dried at 70\u00a0\u00b0C, most of the ZnO nanorods present as white dot are not covered with perovskite layer and can still be seen, see Fig1",
+            "all_materials": [
+                "ZnO"
+            ],
+            "other_materials": [
+                "ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                1,
+                "DryingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Gaps between the ZnO nanorods are fully infiltrated with perovskite crystal with the size of1a",
+            "all_materials": [
+                "ZnO"
+            ],
+            "other_materials": [
+                "ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In summary, perovskite solar cells fabricated through a two-step spin coating of PbI2 and CH3NH3I solution were assembled together with the control of perovskite crystal size, ZnO nanorod density and rod thickness",
+            "all_materials": [
+                "PbI2",
+                "CH3NH3I",
+                "ZnO"
+            ],
+            "other_materials": [
+                "PbI2",
+                "ZnO"
+            ],
+            "precursors": [
+                {
+                    "text": "CH3NH3I",
+                    "start": 90,
+                    "end": 97,
+                    "token_ids": [
+                        17
+                    ]
+                }
+            ],
+            "operation": [
+                6,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "On the basis of the test results, the open-circuit voltage is substantially influenced by the coverage of the light absorbing layer",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A comparison of different seed layer concentration suggest an optimized rod areal density",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Research on the nanorod thickness shows a critical",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work is supported in part by the National Natural Science Foundation of China , Nature Science Foundation of Hubei Province  Research Fund for the Doctoral Program of Higher Education of China .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We carried out simulative investigations on a non-toxic, lead-free perovskite solar cell , where Cs2AgBiBr6, P3HT, ZnO nanorod, and C were utilized as the absorber layer, hole transport layer, electron transport layer, and back contact, respectively",
+            "all_materials": [
+                "Cs2AgBiBr6",
+                "P3HT",
+                "ZnO",
+                "C"
+            ],
+            "other_materials": [
+                "Cs2AgBiBr6",
+                "P3HT",
+                "ZnO",
+                "C"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "At 600\u00a0nm optimum absorber thickness, the device achieved a maximum power conversion efficiency of 4.48%",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The PSC operated optimally when the electron affinities were set at 3.3\u00a0eV and 4.6\u00a0eV for P3HT and ZnO nanorod, respectively",
+            "all_materials": [
+                "P3HT",
+                "ZnO"
+            ],
+            "other_materials": [
+                "P3HT",
+                "ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, the hole mobility and acceptor concentration of P3HT should be weighed during the choosing of appropriate doping additives and doping levels",
+            "all_materials": [
+                "P3HT"
+            ],
+            "other_materials": [
+                "P3HT"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Besides, the optimum back contact work function and absorber defect density were found to be 5.2\u00a0eV and 1015\u00a0cm\u22123, respectively",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We also observed the effect of radiative recombination rates and different charge transport layers on the device&#x27;s performance",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Overall, this study&#x27;s simulation results will provide insightful guidance towards fabricating an environmentally benign PSC.",
+            "all_materials": [
+                "PSC"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                17,
+                "StartingSynthesis"
+            ],
+            "targets": "PSC"
+        },
+        {
+            "sentence": "Well-aligned ZnO nanorods with tunable length are successfully deposited using a low-temperature chemical bath deposition method, and subsequently used in constructing solar cells with the structure of FTO/ZnO nanorods/MAPbI3-xClx/P3HT/Au",
+            "all_materials": [
+                "ZnO",
+                "FTO/ZnO",
+                "MAPbI3-xClx/P3HT/Au"
+            ],
+            "other_materials": [
+                "FTO/ZnO",
+                "MAPbI3-xClx/P3HT/Au"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "ZnO"
+        },
+        {
+            "sentence": "The charge transport is balanced by tuning the length of nanorods and improving the morphology of the perovskite layer",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Uniformity and charge transport within the film is improved by doping the perovskite structure with Cl\u2212 ions",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The photovoltaic characteristics of the cells are improved as the length of nanorods increases from 300\u00a0nm to 460\u00a0nm, and deteriorate as it increases further",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Using nanorods with the length of 460\u00a0nm, power conversion efficiency of 12.85% and Jsc over 22\u00a0mA/cm2 are obtained",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This efficiency is in the range of the best efficiencies reported so far using P3HT as the hole transporting layer  and ZnO as the electron transporting layer",
+            "all_materials": [
+                "P3HT",
+                "ZnO"
+            ],
+            "other_materials": [
+                "P3HT",
+                "ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For the first time, PSCs based on ZnO nanorods are fabricated, in which copper iodide is deposited as the inorganic HTL through vapor iodination of Cu film",
+            "all_materials": [
+                "PSCs",
+                "ZnO",
+                "copper iodide",
+                "HTL",
+                "Cu"
+            ],
+            "other_materials": [
+                "ZnO",
+                "copper iodide",
+                "HTL",
+                "Cu"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                11,
+                "StartingSynthesis"
+            ],
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "A promising efficiency of 8.09% is achived which is in the range of the highest efficiencies reported for n-i-p PSCs with CuI as the HTL.",
+            "all_materials": [
+                "CuI"
+            ],
+            "other_materials": [
+                "CuI"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this article, we have studied an identical section of a core-shell ZnO Nanorod  based lead-free perovskite solar cell",
+            "all_materials": [
+                "ZnO"
+            ],
+            "other_materials": [
+                "ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Various factors affecting the solar cell\u2019s performance have been rigorously investigated for device optimization; specifically, the length and diameter of the ZnO NR core, perovskite shell thickness, thickness of perovskite cap layer, and hole transport layer  thickness",
+            "all_materials": [
+                "ZnO"
+            ],
+            "other_materials": [
+                "ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The defect density of states  in the perovskite absorber layer and the effect of interface defect density on the performance of the cell are also studied",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We obtained power conversion efficiency  of 14.50%, the open-circuit voltage  of 0.96\u00a0V; short-circuit current density  of 18.11\u00a0mA/cm2 and Fill factor  of 83.35%",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We also analyzed the effect of tilt or inclination of NR on the performance of the cell which is a crucial factor toward achieving high performance",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "By optimizing the device parameters, we have achieved a PCE of 21.27%, VOC of 0.97\u00a0V, JSC of 29.56\u00a0mA/cm2, and FF of 84.15% at an inclination of 10-degree tilt with respect to the incident light under AM 1.5 illumination",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The shadowing mechanism behind efficiency droop is also presented to further realize an optimal design high-performance PSC.",
+            "all_materials": [
+                "PSC"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PSC"
+        },
+        {
+            "sentence": "This paper reports the fabrication, characterization and simulation of hybrid perovskite solar cells  in ambient condition",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The proposed PSC structures use a CH3NH3PbI3 hybrid perovskite based active layer sandwiched between a ZnO nanorods  electron transport layer  and a spiro-OMeTAD  hole transport layer",
+            "all_materials": [
+                "PSC",
+                "CH3NH3PbI3",
+                "ZnO",
+                "spiro-OMeTAD"
+            ],
+            "other_materials": [
+                "CH3NH3PbI3",
+                "ZnO",
+                "spiro-OMeTAD"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PSC"
+        },
+        {
+            "sentence": "The ZnO NRs are grown using low-cost solvothermal process at relatively low temperature",
+            "all_materials": [
+                "ZnO"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "ZnO"
+        },
+        {
+            "sentence": "The performance of fabricated PSCs are analyzed for both the undoped and doped  spiro-OMeTAD based HTLs",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "All the solar parameters namely, short circuit current density , open circuit voltage , fill factor , power conversion efficiency  and external quantum efficiency  are calculated from experimentally measured current density versus voltage  and wavelength transient characteristics in ambient condition",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The maximum PCE of 10.18% is obtained for the doped HTL whereas 9.51% for undoped HTL",
+            "all_materials": [
+                "HTL",
+                "HTL"
+            ],
+            "other_materials": [
+                "HTL",
+                "HTL"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The improved performance due to HTL doping is attributed to the enhanced charge transportation of the HTL",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The experimental results obtained from the fabricated PSCs are also compared with the SetFos\u2122 TCAD simulation data using drift-diffusion model",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The simulated results are observed to be well matched to the experimental data.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Wastewater containing organic dyestuff has caused worldwide concern, hence, it is imperative to develop materials to remove organic dyes from wastewater",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, we report the synthesis of carbon fiber-based bimetallic oxide nanocomposite with high efficiency for the adsorptive removal of Congo red , a typical anionic dye",
+            "all_materials": [
+                "bimetallic oxide",
+                "Congo"
+            ],
+            "other_materials": [
+                "Congo"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "bimetallic oxide"
+        },
+        {
+            "sentence": "Composite nanosheets of nickel oxide  and zinc oxide  were in situ grown over electrospun carbon fibers via one-step oil bath coprecipitation and subsequent calcination in air at 350\u202f\u00b0C",
+            "all_materials": [
+                "nickel oxide",
+                "zinc oxide",
+                "carbon",
+                "air"
+            ],
+            "other_materials": [
+                "nickel oxide",
+                "zinc oxide",
+                "carbon",
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                25,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The C/NiO-ZnO nanocomposite fibers exhibited fast adsorption rates towards CR at circumneutral pH, and maximal adsorption capacity according to the Langmuir model reached 613\u202fmg\u202fg\u22121, much higher than aggregated NiO-ZnO microspheres and the carbon fiber alone",
+            "all_materials": [
+                "C/NiO-ZnO",
+                "CR",
+                "NiO-ZnO",
+                "carbon"
+            ],
+            "other_materials": [
+                "C/NiO-ZnO",
+                "CR",
+                "NiO-ZnO",
+                "carbon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The high adsorption capacity of the C/NiO-ZnO nanocomposite was attributed to its high specific surface area , hierarchically porous structure with abundant mesopores and macropores, and the positive surface charge at circumneutral pH",
+            "all_materials": [
+                "C/NiO-ZnO"
+            ],
+            "other_materials": [
+                "C/NiO-ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, the flexible and easily recyclable C/NiO-ZnO nanocomposite fibers can become an alternative adsorbent for the treatment of anionic dye wastewater.",
+            "all_materials": [
+                "C/NiO-ZnO"
+            ],
+            "other_materials": [
+                "C/NiO-ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Vertical ZnO nanorod arrays were synthesized by a polymer template method and modified by TiO2 shell via a sol-gel method",
+            "all_materials": [
+                "ZnO",
+                "TiO2"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                5,
+                "StartingSynthesis"
+            ],
+            "targets": "ZnO"
+        },
+        {
+            "sentence": "The core-shell structure of ZnO-TiO2 nanorod arrays was used as an electron transport layer  of perovskite solar cells  and the length of the nanorod arrays was controlled by changing the hydrothermal growth time",
+            "all_materials": [
+                "ZnO-TiO2"
+            ],
+            "other_materials": [
+                "ZnO-TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The photovoltaic performance of the PSC prepared in ambient atmosphere was found to be crucially dependent on the length of ZnO-TiO2 nanorod arrays",
+            "all_materials": [
+                "ZnO-TiO2"
+            ],
+            "other_materials": [
+                "ZnO-TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                6,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "ZnO-TiO2 nanorod arrays with a suitable length enabled complete infiltration of CH3NH3PbI3 perovskite into nanorod arrays and an increasement of carrier lifetime, eventually resulting in better cell performance",
+            "all_materials": [
+                "ZnO-TiO2",
+                "CH3NH3PbI3"
+            ],
+            "other_materials": [
+                "ZnO-TiO2",
+                "CH3NH3PbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The PSC based on ZnO-TiO2 nanorod arrays with the length of 600\u202fnm shows a power conversion efficiency of 10.24% under ambient air , which is higher than the mean level of previous report",
+            "all_materials": [
+                "ZnO-TiO2",
+                "air"
+            ],
+            "other_materials": [
+                "ZnO-TiO2",
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Meanwhile, the PCE of the unencapsulated device based on ZnO-TiO2 nanorod arrays retains 80% of the initial efficiency after 7 days in ambient atmosphere",
+            "all_materials": [
+                "ZnO-TiO2"
+            ],
+            "other_materials": [
+                "ZnO-TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work provides the potential application of ZnO-TiO2 nanorod arrays with a suitable length as an effective ETL of efficient and stable all-solid-state PSCs.",
+            "all_materials": [
+                "ZnO-TiO2"
+            ],
+            "other_materials": [
+                "ZnO-TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In the present study, TiO2/ZnO bilayer as electron transport layer is optimized and used to design a perovskite solar cell",
+            "all_materials": [
+                "TiO2/ZnO"
+            ],
+            "other_materials": [
+                "TiO2/ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This bilayer helps in high electron extraction and low interfacial recombination",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "TiO2 films are prepared using spray pyrolysis techniques on fluorine doped tin oxide substrate",
+            "all_materials": [
+                "TiO2",
+                "tin oxide"
+            ],
+            "other_materials": [
+                "tin oxide"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                3,
+                "StartingSynthesis"
+            ],
+            "targets": "TiO2"
+        },
+        {
+            "sentence": "The deposition parameters are optimized using parametric study as well as using the Taguchi optimization technique",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "ZnO is used as other part of electron transport bilayer to reduce the charge recombination",
+            "all_materials": [
+                "ZnO"
+            ],
+            "other_materials": [
+                "ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The thickness of prepared TiO2 film obtained at Taguchi optimum condition  is lower than that of obtained at parametric optimum condition",
+            "all_materials": [
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "At optimum conditions, the optical band gaps are in the range of 3.20\u20133.25\u00a0eV",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The prepared TiO2 films are consequently applied in perovskite solar cell preparation",
+            "all_materials": [
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "4-tert-butylpyridine is used with PbI2 to increase the stability of the perovskite solar cell",
+            "all_materials": [
+                "4-tert-butylpyridine",
+                "PbI2"
+            ],
+            "other_materials": [
+                "4-tert-butylpyridine",
+                "PbI2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, spiro-OMeTAD and Pt- fluorine doped tin oxide are used as hole transport material and counter electrode, respectively",
+            "all_materials": [
+                "spiro-OMeTAD",
+                "tin oxide"
+            ],
+            "other_materials": [
+                "spiro-OMeTAD",
+                "tin oxide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The power conversion efficiency of the device at optimum conditions  and Taguchi ) has been found as 5.59% and 6.51%, respectively",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The power conversion efficiency of the device using 4-tert-butylpyridine as stabilizer has been found as 7.39% , which is highest among all devices",
+            "all_materials": [
+                "4-tert-butylpyridine"
+            ],
+            "other_materials": [
+                "4-tert-butylpyridine"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Current density , open circuit voltage  and the fill factor obtained for the device  are 17.87\u00a0mA\u00a0cm\u22122, 0.65\u00a0V, and 64%, respectively.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This paper reports on the fabrication of ZnO nanowalls for use as an electron collecting layer  in CH3NH3PbI3 perovskite solar cells",
+            "all_materials": [
+                "ZnO",
+                "CH3NH3PbI3"
+            ],
+            "other_materials": [
+                "ZnO",
+                "CH3NH3PbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Two-dimension ZnO nanowalls were grown using a low-temperature chemical bath method with a thin Al film as a seed layer",
+            "all_materials": [
+                "ZnO",
+                "Al"
+            ],
+            "other_materials": [
+                "Al"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "ZnO"
+        },
+        {
+            "sentence": "We compared electron collecting layers based on nanowalls and sol\u2013gel derived ZnO thin film in PSCs and sought to identify the mechanism underlying the collection of electrons",
+            "all_materials": [
+                "ZnO"
+            ],
+            "other_materials": [
+                "ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The proposed ZnO nanowalls achieved a fill factor significantly higher than that of ZnO thin films, which translated into a remarkable improvement in power conversion efficiency, reaching 13.6% under AM 1.5G illumination.",
+            "all_materials": [
+                "ZnO",
+                "ZnO"
+            ],
+            "other_materials": [
+                "ZnO",
+                "ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A TiO2 compact layer is crucial to a high-performance perovskite solar cell",
+            "all_materials": [
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Interestingly, there is a severe paucity of research on using one-dimensional nanostructure to fabricate the compact layer",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this study, anatase TiO2 single-crystalline nanorods  with a length of 30\u00a0\u00b1\u00a010\u00a0nm and a diameter of 4\u00a0\u00b1\u00a01\u00a0nm are synthesized via a one-pot solvothermal approach",
+            "all_materials": [
+                "anatase TiO2"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                27,
+                "StartingSynthesis"
+            ],
+            "targets": "anatase TiO2"
+        },
+        {
+            "sentence": "A pinhole-free and thickness-controllable compact layer on PSC is fabricated by spin-coating the TiO2 nanorods on transparent conductive oxide substrate",
+            "all_materials": [
+                "PSC",
+                "TiO2"
+            ],
+            "other_materials": [
+                "PSC",
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                13,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Thanks to good electronic transport channel and less defects and interfaces, one-dimensional TiO2 NRs, with longer electron lifetime, shorter transport time and higher charge collection efficiency than TiO2 quantum dots  and TiO2 nanoparticles , can improve the photovoltaic performance of the PSC based on TiO2-NR compact layer",
+            "all_materials": [
+                "TiO2",
+                "TiO2",
+                "TiO2",
+                "TiO2-NR"
+            ],
+            "other_materials": [
+                "TiO2",
+                "TiO2",
+                "TiO2",
+                "TiO2-NR"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As a result, the PSC based on TiO2 NRs shows the best photovoltaic performance with a power conversion efficiency of 17.58%, which is enhanced by a factor of 1.16 and 1.30 respectively compared with the PSCs based on TiO2-QDs and TiO2-NPs.",
+            "all_materials": [
+                "TiO2",
+                "TiO2-QDs",
+                "TiO2-NPs"
+            ],
+            "other_materials": [
+                "TiO2",
+                "TiO2-QDs",
+                "TiO2-NPs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "ZnO and Indium-doped  ZnO nanocrystals with four different morphologies including nanodisks, nanorods, nanotripods, and nanochips were synthesized via simple and low-temperature hydrothermal route",
+            "all_materials": [
+                "ZnO",
+                "ZnO"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                21,
+                "StartingSynthesis"
+            ],
+            "targets": "ZnO"
+        },
+        {
+            "sentence": "The associated morphologies and structures of the as-prepared nanocrystals were characterized by scanning electron microscopy , X-ray diffraction , and transmission electron microscopy",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The results showed that reaction temperature played a vital role in the formation of ZnO morphologies, and accordingly, zinc to indium molar ratio was proposed",
+            "all_materials": [
+                "ZnO"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "ZnO"
+        },
+        {
+            "sentence": "The obtained In-doped ZnO morphologies were used as an electron transporting materials  in perovskite solar cells , and the photovoltaic results showed that the short-circuit-current-density  and the average power conversion efficiency  of the nanochips based PSCs were 21.9\u202fmA\u202fcm\u22122 and 15.17%, respectively, which were largely enhanced compared with those of the nanodisks based PSCs",
+            "all_materials": [
+                "ZnO"
+            ],
+            "other_materials": [
+                "ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The substantial enhancement for the former was thanks to the sufficient perovskite absorber loading, better morphology and crystallinity",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, a conformal coating of PEI was applied on the surface of electron-rich In-doped ZnO nanochips, causing a favorable work function shift and overall leading to the significant boost in efficiency from &lt;15% up to &gt;18%.",
+            "all_materials": [
+                "PEI",
+                "ZnO"
+            ],
+            "other_materials": [
+                "PEI",
+                "ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, piezoelectric ZnO microwire was utilized to form heterojunctions with perovskite as flexible photovoltaic devices, and has a power conversion efficiency of 0.0216%",
+            "all_materials": [
+                "ZnO"
+            ],
+            "other_materials": [
+                "ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "By employing the piezo-phototronic effect, the strain-induced piezoelectric polarization charges at the vicinity of ZnO/perovskite interface can modulate the transport and separation processes of photo-generated carriers within the photovoltaic device and enhance the performances of ZnO/perovskite solar cells",
+            "all_materials": [
+                "ZnO/perovskite",
+                "ZnO/perovskite"
+            ],
+            "other_materials": [
+                "ZnO/perovskite",
+                "ZnO/perovskite"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The corresponding open-circuit voltage , short-circuit current  and efficiency of the solar cells were improved by 25.42%, 629.47% and 1280%  through piezo-phototronic effect, respectively",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Physical working mechanism behind the observed results was carefully investigated by using energy band diagram",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This study provides a promising approach to effectively enhance the overall performances of flexible solar cells for various applications.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The structure and properties of electron transport layers play an important role in determining device performance of perovskite solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "PSCs based on one-dimensional ZnO nanorods still suffer from serious efficiency losses",
+            "all_materials": [
+                "ZnO"
+            ],
+            "other_materials": [
+                "ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, length of ZnO nanorods was firstly optimized by exploring steady photoluminescence quenching of perovskite films deposited on ZnO nanorods of various lengths and their photovoltaic performance",
+            "all_materials": [
+                "ZnO",
+                "ZnO"
+            ],
+            "other_materials": [
+                "ZnO",
+                "ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "PSCs fabricated on ZnO nanorods of ~400\u00a0nm yield the best power conversion efficiency of ~10% due to their relatively balanced charge carrier transfer and transport properties",
+            "all_materials": [
+                "ZnO"
+            ],
+            "other_materials": [
+                "ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                1,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "On this basis, sulfidation treatment was applied on these ZnO nanorods to further improve device performance",
+            "all_materials": [
+                "ZnO"
+            ],
+            "other_materials": [
+                "ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It is found that the sulfidation treatment of ZnO nanorods may play a role in at least three aspects:  passivating defects on the surface of ZnO nanorods;  facilitating charge carrier transfer and transport by forming ZnO/ZnS type II heterojunctions;  alleviating perovskite dissociation to some extent",
+            "all_materials": [
+                "ZnO",
+                "ZnO",
+                "ZnO/ZnS"
+            ],
+            "other_materials": [
+                "ZnO",
+                "ZnO",
+                "ZnO/ZnS"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Due to these benefits, the power conversion efficiency of perovskite solar cells based on ZnO nanorods was improved to 11.72%, along with less hysteresis",
+            "all_materials": [
+                "ZnO"
+            ],
+            "other_materials": [
+                "ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work not only demonstrates the importance of rod-length and sulfidation treatment on device performance of perovskite solar cells based on ZnO nanorods but also provides a feasible method to improve their power conversion efficiency.",
+            "all_materials": [
+                "ZnO"
+            ],
+            "other_materials": [
+                "ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

@@ -1,0 +1,197 @@
+{
+    "rest": [
+        {
+            "sentence": "In this study, the experimental results of the perovskite solar cell with FTO/TiO2/CsGeI3/spiro-OMeTAD/Pt cell architecture are compared with the simulated results obtained using SCAPS-1D",
+            "all_materials": [
+                "FTO/TiO2/CsGeI3/spiro-OMeTAD/Pt"
+            ],
+            "other_materials": [
+                "FTO/TiO2/CsGeI3/spiro-OMeTAD/Pt"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Optimizations have been carried out by changing TiO2 ETL with CdS and Cd0.5Zn0.5S and spiro-OMeTAD HTL with inorganic CuI, Cu2O, CuSCN and NiO, thickness of perovskite, ETL, HTL and the temperature to formulate a high-performance perovskite solar cell",
+            "all_materials": [
+                "TiO2 ETL",
+                "CdS",
+                "Cd0.5Zn0.5S",
+                "spiro-OMeTAD HTL",
+                "CuI",
+                "Cu2O",
+                "CuSCN",
+                "NiO",
+                "ETL",
+                "HTL"
+            ],
+            "other_materials": [
+                "TiO2 ETL",
+                "ETL",
+                "HTL"
+            ],
+            "precursors": [
+                {
+                    "text": "CdS",
+                    "start": 62,
+                    "end": 65,
+                    "token_ids": [
+                        10
+                    ]
+                },
+                {
+                    "text": "Cd0.5Zn0.5S",
+                    "start": 70,
+                    "end": 81,
+                    "token_ids": [
+                        12
+                    ]
+                },
+                {
+                    "text": "spiro-OMeTAD HTL",
+                    "start": 86,
+                    "end": 102,
+                    "token_ids": [
+                        14,
+                        15,
+                        16,
+                        17
+                    ]
+                },
+                {
+                    "text": "CuI",
+                    "start": 118,
+                    "end": 121,
+                    "token_ids": [
+                        20
+                    ]
+                },
+                {
+                    "text": "Cu2O",
+                    "start": 123,
+                    "end": 127,
+                    "token_ids": [
+                        22
+                    ]
+                },
+                {
+                    "text": "CuSCN",
+                    "start": 129,
+                    "end": 134,
+                    "token_ids": [
+                        24
+                    ]
+                },
+                {
+                    "text": "NiO",
+                    "start": 139,
+                    "end": 142,
+                    "token_ids": [
+                        26
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The impact of varying absorber thickness, ETL and temperature exhibit very minimal or no change",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the simulated device exhibits high power conversion  efficiency by replacement of TiO2 with Cd0.5Zn0.5S",
+            "all_materials": [
+                "TiO2",
+                "Cd0.5Zn0.5S"
+            ],
+            "other_materials": [
+                "TiO2",
+                "Cd0.5Zn0.5S"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Further, the impact of change of inorganic HTLs have also been studied by considering Cd0.5Zn0.5S as ETL",
+            "all_materials": [
+                "HTLs",
+                "Cd0.5Zn0.5S",
+                "ETL"
+            ],
+            "other_materials": [
+                "HTLs",
+                "Cd0.5Zn0.5S",
+                "ETL"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "All inorganic HTLs outperformed well with almost similar cell efficiency ; NiO being highest",
+            "all_materials": [
+                "HTLs",
+                "NiO"
+            ],
+            "other_materials": [
+                "HTLs",
+                "NiO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, analyzing all the results, we suggest that to draw a high-power conversion efficiency Cd0.5Zn0.5S shall be chosen as ETL possessing 95\u00a0nm layer thickness, 10\u00a0nm thick NiO as HTL and keep the absorber thickness 795\u00a0nm",
+            "all_materials": [
+                "Cd0.5Zn0.5S",
+                "ETL",
+                "NiO",
+                "HTL"
+            ],
+            "other_materials": [
+                "Cd0.5Zn0.5S",
+                "ETL",
+                "NiO",
+                "HTL"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Thus, the structure of the simulated solar cell device FTO/Cd0.5Zn0.5S/CsGeI3/NiO/Pt having such cell characteristics can be considered in the manufacturing workflow for its mass-scale production.",
+            "all_materials": [
+                "FTO/Cd0.5Zn0.5S/CsGeI3/NiO/Pt"
+            ],
+            "other_materials": [
+                "FTO/Cd0.5Zn0.5S/CsGeI3/NiO/Pt"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Data will be made available on request.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

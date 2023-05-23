@@ -1,0 +1,1558 @@
+{
+    "rest": [
+        {
+            "sentence": "Recent developments of PSCs have achieved great progress with power conversion efficiency reached to 22.1%",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The crystal growth process as an important factor will significantly influence the quality of perovskite films and the device performance",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this paper, we demonstrate a simple approach for fast preparation based on the precursor compositions of  0.85 0.15 by regulating the temperature during annealing process for transition from FAI, PbI2, MABr, and PbBr2 to perovskite",
+            "all_materials": [
+                "FAI",
+                "PbI2",
+                "MABr",
+                "PbBr2"
+            ],
+            "other_materials": [
+                "FAI"
+            ],
+            "precursors": [
+                {
+                    "text": "PbI2",
+                    "start": 199,
+                    "end": 203,
+                    "token_ids": [
+                        32
+                    ]
+                },
+                {
+                    "text": "MABr",
+                    "start": 205,
+                    "end": 209,
+                    "token_ids": [
+                        34
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "PbBr2"
+        },
+        {
+            "sentence": "The film will be shaped in 15\u00a0s for one-step deposition at annealing temperature of 220\u00a0\u00b0C",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                4,
+                "ShapingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It has been found that higher temperature will induce perovskite to form larger size and oriented crystal grains rapidly",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This will contribute to longer carrier lifetime and smaller carrier recombination which, are beneficial for solar cell device",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The champion cell with PCE of 17.1% had been obtained measured under conditions of AM 1.5\u00a0G, 100\u00a0mW/cm2",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, this method exhibits good stability which is benefited from large size crystal, the device will not be deteriorated and the PCE maintained over 90% after 3 months.",
+            "all_materials": [
+                "PCE"
+            ],
+            "other_materials": [
+                "PCE"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "we demonstrate a simple approach for fast preparation at annealing temperature as high as 220\u00a0\u00b0C, and the film will be shaped in 15\u00a0s based on the precursor compositions of  0.85 0.15 for the one-step deposition.Download : Download high-res image Download : Download full-size image",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                23,
+                "ShapingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Organic-inorganic perovskite and its derivatives as a new branch of solar cells have achieved rapid development since miyasaka and co-workers reported perovskite solar cells  for the first time in 2009 ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In the past few years, PSCs have shown rapid progress due to the high power conversion efficiency  and relatively low potential cost",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "reported Spiro-OMeTAD as HTM used in solid state organic/inorganic perovskite solar cells  and got photoelectric conversion efficiency of 9.7% Park et al",
+            "all_materials": [
+                "Spiro-OMeTAD"
+            ],
+            "other_materials": [
+                "Spiro-OMeTAD"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In last year, seok&#x27;s team used intramolecular exchange process  technique to induce perovskite to form crystals by PbI2-DMSO reacting with FAI and got 20.1% power conversion efficiency",
+            "all_materials": [
+                "PbI2-DMSO",
+                "FAI"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "PbI2-DMSO",
+                    "start": 120,
+                    "end": 129,
+                    "token_ids": [
+                        24,
+                        25,
+                        26
+                    ]
+                },
+                {
+                    "text": "FAI",
+                    "start": 144,
+                    "end": 147,
+                    "token_ids": [
+                        29
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This certified record was refreshed up to 22.1% until today .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Despite such a rapid progress in perovskite solar cells , many issues about efficiency and stability in the light-harvesting process still remain unclear",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The intrinsic property of the metal-halide perovskite was proposed as a fundamental factor influencing the performance",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The poor morphology of the perovskite thin film, trap states at surface, interstitial defects in crystal lattice, recombination between charge carriers, and the crystallization process during the growth of the perovskite thin films not only cause electrical shorting but also harm charge carriers transportation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In order to increase devices performance and avoid energy loss, researchers focus their attention on making dense and low defects perovskite layer with high quality crystallization.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A large number of recent successes on lead halide perovskite solar cells are observed in solution processed thin films due to their facile fabrication and several strategies have been used to control the crystallization processes",
+            "all_materials": [
+                "lead halide"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "lead halide"
+        },
+        {
+            "sentence": "Adjustment of precursor solution , additives like HX , gas-assisted method , microwave irradiation process , and laser-assisted crystallization  have been used for nucleation and to promote growth of the perovskite crystals",
+            "all_materials": [
+                "HX"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "HX",
+                    "start": 50,
+                    "end": 52,
+                    "token_ids": [
+                        7
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The effect of crystallization conditions, especially temperature has an important impact on the morphology of the perovskite films",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The effect of temperature and annealing time on the perovskite crystal formation have lot of reports, ranging from 90\u00a0\u00b0C to 130\u00a0\u00b0C and from 20 to 90\u00a0min respectively",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Liu&#x27;s team had reported that higher temperature will produce perovskite films  not only got better crystallinity and larger grain size, but also better photovoltaic performance with a PCE of 12.9% prepared at 200\u00a0\u00b0C and heated for 6\u00a0min",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                [
+                    38,
+                    "StartingSynthesis"
+                ],
+                [
+                    44,
+                    "HeatingOperation"
+                ]
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "But the most commonly used lead halide perovskite of MAPbI3 has a lower thermal decomposition temperature, and the decomposition process can be further accelerated by high temperature ,",
+            "all_materials": [
+                "lead halide",
+                "MAPbI3"
+            ],
+            "other_materials": [
+                "lead halide",
+                "MAPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Due to the thermal stability obstacle, high temperature treatment of lead halide perovskite film crystallization for fast preparation only has scarcely studies ,",
+            "all_materials": [
+                "lead halide"
+            ],
+            "other_materials": [
+                "lead halide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this aspect, a higher thermal decomposition material x 1\u2212x is desired to resist heating destruction, which will enable perovskite films can be subjected to high temperature treatment owing to improved stability of intrinsic perovskite absorber layer and much higher formation energies , .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The conventional thermal annealing process transfers energy into the as-prepared perovskite film is from bottom to up, which retards the evaporation of the solvent and makes the grains grow gradually",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In contrast, high-temperature provides a simple and straight forward way to define the crystal orientation, unit cell volume and grain size",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Compared with conventional annealing method which usually produces more defects with small crystal grain, perovskite films treated by high temperature always have slightly larger grain size which could render low trap density and excellent charge-carrier diffusion length",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                17,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This can effectively reduce carrier recombination rate, and at the same time improve the carrier mobility and charge carrier collection efficiency ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "All of this will deliver decent power conversion efficiency .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, we demonstrate a simple approach for fast preparation method at annealing temperature of 220\u00a0\u00b0C, and the film will be shaped in 15\u00a0s",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                26,
+                "ShapingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The precursor composition was changed from MAPbI3 to  0.85 0.15 for one-step deposition",
+            "all_materials": [
+                "MAPbI3",
+                "0.85"
+            ],
+            "other_materials": [
+                "MAPbI3",
+                "0.85"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The effects of high-temperature treatment on the crystallinity, morphology of perovskite film and associated photovoltaic performance were systematically investigated",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Results showed that higher annealing temperature would accelerate transition rate from FAI, PbI2, MABr, and PbBr2 to  0.85 0.15 and produce perovskite film with better crystallinity, enhanced crystal orientation and larger crystal grain, which was further confirmed by an XRD analysis",
+            "all_materials": [
+                "FAI",
+                "PbI2",
+                "MABr",
+                "PbBr2"
+            ],
+            "other_materials": [
+                "FAI",
+                "PbI2",
+                "MABr",
+                "PbBr2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The TAS results showed that the carrier lifetime increased from 200.6 to 440.1\u00a0ns by high temperature treatment",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The largest crystal grains around 800\u00a0nm had been produced at 220\u00a0\u00b0C, which delivered a highest PCE of 17.1%",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition the as-prepared perovskite solar cell have higher stability",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The device without any encapsulation did not deteriorate with the PCE maintaining over 90% for 3 months after its preparation while the device prepared by conventional method only held 3 weeks.",
+            "all_materials": [
+                "PCE"
+            ],
+            "other_materials": [
+                "PCE"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                24,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Lead  Iodide  [for Perovskite precursor] was purchased from TCI, CH3NH3I from Xi\u2019an Polymer Light Technology Corp., TiO2  TiO2 from dysol",
+            "all_materials": [
+                "Lead  Iodide",
+                "CH3NH3I",
+                "TiO2  TiO2"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "Lead  Iodide",
+                    "start": 0,
+                    "end": 12,
+                    "token_ids": [
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "text": "CH3NH3I",
+                    "start": 65,
+                    "end": 72,
+                    "token_ids": [
+                        12
+                    ]
+                },
+                {
+                    "text": "TiO2  TiO2",
+                    "start": 116,
+                    "end": 126,
+                    "token_ids": [
+                        20,
+                        21
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "DMF, chlorobenzene, lithium bis  imide  and 4-tert-butylpyridine  from Aldrich, and spiroMeOTAD from Borun New Material Technology Co., Ltd",
+            "all_materials": [
+                "DMF",
+                "chlorobenzene",
+                "lithium bis  imide",
+                "4-tert-butylpyridine",
+                "spiroMeOTAD"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "DMF",
+                    "start": 0,
+                    "end": 3,
+                    "token_ids": [
+                        0
+                    ]
+                },
+                {
+                    "text": "chlorobenzene",
+                    "start": 5,
+                    "end": 18,
+                    "token_ids": [
+                        2
+                    ]
+                },
+                {
+                    "text": "lithium bis  imide",
+                    "start": 20,
+                    "end": 38,
+                    "token_ids": [
+                        4,
+                        5,
+                        6
+                    ]
+                },
+                {
+                    "text": "4-tert-butylpyridine",
+                    "start": 44,
+                    "end": 64,
+                    "token_ids": [
+                        8
+                    ]
+                },
+                {
+                    "text": "spiroMeOTAD",
+                    "start": 84,
+                    "end": 95,
+                    "token_ids": [
+                        13
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "All chemicals were directly used without further purification",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Patterned FTO-coated glass",
+            "all_materials": [
+                "FTO"
+            ],
+            "other_materials": [
+                "FTO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "1 depicted the preparation process, the precursor solution was spin-coated on the TiO2 substrate to form perovskite layer followed by thermal annealing around 220\u00a0\u00b0C for 15\u00a0s to complete the perovskite crystal formationFig",
+            "all_materials": [
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                24,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Then, the film was quickly moved to low temperature heat transfer plate to prevent the film from continuous heating",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                19,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Thermal stability perovskite capping layer was formed due to enhanced cohesion in crystal lattice",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In additional, the benefit of the approach can also act as",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In summary we have demonstrated a fast preparation method for PSCs with annealing temperature at 220\u00a0\u00b0C for one-step deposition, and the film will be shaped in 15\u00a0s",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                29,
+                "ShapingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We use the precursor compositions of  0.85 0.15 owing to higher thermal stability of intrinsic perovskite absorber layer compared with MAPbI3 precursor compositions",
+            "all_materials": [
+                "MAPbI3"
+            ],
+            "other_materials": [
+                "MAPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The perovskite film can be successfully shaped by high temperature annealing process to form larger size and oriented crystal grains",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                6,
+                "ShapingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This would",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work was financially supported by the National High Technology Research and Development Program of China under Grant no",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "2015AA050602, the National Natural Science Foundation of China under Grant no",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "21273242, and State Key Laboratory of Alternate Electrical Power System with Renewable Energy Sources",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Science and Technology Support Program of Jiangsu Province under Grant no",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "BE2014147-4.",
+            "all_materials": [
+                "BE2014147-4"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "BE2014147-4"
+        },
+        {
+            "sentence": "This work aims to analyze the stability of Perovskite solar cells PSCs using machine learning  techniques",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "An extremely randomized trees technique, trained with a dataset containing 1050 perovskite device samples with different materials, deposition methods and storage conditions, is used",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Pushing by its non linearity and randomity, this approach is an intriguing choice for decreasing the variance of the total model",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The effects of data inputs on the stability of the device are investigated by analysing the Decision Trees  constituent of the Extra Trees  while the feature importance technique was used for feature engineering",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The two techniques findings are compared with previous experimental results for screening the most optimized manufacturing materials and storage conditions for long-term stability",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For regular cells, TiO2/m-TiO2 as electron transport layer ,  perovskite as active layer, P3HT and LiTFSi\u00a0+\u00a0TBP as hole transport layer  and HTL second layer, and Carbon as back contact were found to enhance the device stability with DMF\u00a0+\u00a0DMSO as precursor solution and Chlorobenzene as an anti-solvent solution",
+            "all_materials": [
+                "TiO2/m-TiO2",
+                "P3HT",
+                "LiTFSi\u00a0+\u00a0TBP",
+                "Carbon",
+                "DMF",
+                "DMSO",
+                "Chlorobenzene"
+            ],
+            "other_materials": [
+                "TiO2/m-TiO2",
+                "P3HT",
+                "LiTFSi\u00a0+\u00a0TBP",
+                "Carbon",
+                "DMF",
+                "DMSO",
+                "Chlorobenzene"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For inverted cells, BCP and PCBM, MAPBl3-xClx, NiO and DEA, Al back contact were found to improve stability",
+            "all_materials": [
+                "BCP",
+                "PCBM",
+                "MAPBl3-xClx",
+                "NiO",
+                "DEA"
+            ],
+            "other_materials": [
+                "BCP",
+                "PCBM",
+                "MAPBl3-xClx",
+                "NiO",
+                "DEA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The obtained results provide evidence of the aptness of the proposed ML strategy in captivating the suitable combination of different layer materials, deposition methods, and storage conditions",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Besides, the adopted method unveils the importance of manufacturing techniques in realizing efficient and stable solar cells.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To promote the commercialization of perovskite photovoltaics, the development of annealing-free techniques is one of effective strategies to lowering the whole manufacture cost",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                11,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Unfortunately, annealing-free perovskite films are always accompanying with unsatisfactory crystallization, which would cause defect generation and adverse carrier nonradiative recombination",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                2,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, we chose triple-cation perovskite and introduce 3,4-ethoxylene dioxy thiophene  into anti-slvent to realize annealing-free perovskite films",
+            "all_materials": [
+                "3,4-ethoxylene dioxy thiophene"
+            ],
+            "other_materials": [
+                "3,4-ethoxylene dioxy thiophene"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                17,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "EDOT-assisted anti-solvent strategy aids to form high quality perovskite films with enlarged crystal grains and reduced defects via the interaction between oxygen and lead",
+            "all_materials": [
+                "oxygen"
+            ],
+            "other_materials": [
+                "oxygen"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The fabricated flexible and rigid solar cells delivered the power conversion efficiency of 15.58% and 20.12%, respectively, under AM 1.5\u00a0G illumination",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The flexible and rigid devices also exhibited excellent indoor  performance of 22.79% and 32.61%, respectively",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The developed anti-solvent engineering provides a facial and effective strategy to fabricate low-cost flexible perovskite photovoltaics for indoor and outdoor applications.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Modification of perovskite films surface/interface through the solvent vapor post-treatment during the film annealing can significantly improve the morphology and crystallinity of the perovskite film, thus enhances the efficiency of the perovskite solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                15,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, we used a solvent-antisolvent mixture of Dimethyl sulfoxide  and chlorobenzene  in the post-treatment of perovskite films during device fabrication to achieve a high-power conversion efficiency of 19.15% in planar perovskite solar cells",
+            "all_materials": [
+                "Dimethyl sulfoxide",
+                "chlorobenzene"
+            ],
+            "other_materials": [
+                "Dimethyl sulfoxide",
+                "chlorobenzene"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The use of chlorobenzene as an additive to DMSO in the post-treatment of the perovskite films was shown to optimize the its morphology and resulted in films with highly fused grains",
+            "all_materials": [
+                "chlorobenzene",
+                "DMSO"
+            ],
+            "other_materials": [
+                "chlorobenzene",
+                "DMSO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The modified perovskite film surface not only showed a decreased number of pin-hole and trap density at the surface, but also an increase in the charge transfer at the interfaces and reduced the susceptibility to low-frequency interface polarization",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, the impedance spectroscopy and I\u2013V characteristics of the electron-only PSC devices also verified the conclusions above",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Overall, this work demonstrates mixed solvent-antisolvent post-treatments of perovskite films as an effective modification strategy to tune their surface/interface properties",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This approach is anticipated to be extrapolated to other categories of polycrystalline bulk materials and devices.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For successful commercialization of perovskite solar cells, straightforward solutions in terms of environmental impact and economic feasibility are still required",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Flash Infrared Annealing  is a rapid method to fabricate perovskite solar cells with efficiencies &gt;18% on simple, planar architecture, which allows a film synthesis in only 1.2\u202fs, faster than the previous report based in a meso architecture and all of them without the usage of antisolvent",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, through a comparative study with the common lab-scale method, the so-called antisolvent , the main photovoltaic parameters and working mechanisms obtained from impedance spectroscopy  measurements show similar device features as for FIRA",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, from the life cycle assessment  comparison study, the FIRA method has only 8% of the environmental impact and 2% of the fabrication cost of the perovskite active layer with respect to the AS for the perovskite film synthesis",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "These results denote that FIRA is a low-impact, cost-effective fabrication approach that can be directly adapted to perovskite planar configuration that is compatible with industrial up-scaling.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Crystallinity and morphology of perovskite absorber layers are important factors for influencing on the performance and stability of perovskite solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here, a perovskite-like metal formate  material is firstly introduced as the scaffold into the perovskite precursor solution to improve the quality of perovskite films by effectively controlling the crystallization process in the course of the perovskite growth",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The results show that the perovskite films with PLMF exhibit well-organized crystallinity and compact morphology, and therefore decreased grain boundaries which will notably reduce the electron-hole recombination and the defect points exposed to humidity",
+            "all_materials": [
+                "PLMF"
+            ],
+            "other_materials": [
+                "PLMF"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Finally, the photoelectricity properties have been significantly improved",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The device with 3\u202fmg\u202fml\u22121 PLMF achieves a power conversion efficiency of 19.17% with less hysteresis under AM 1.5G solar illumination, which shows a 16.53% increase than the pristine one",
+            "all_materials": [
+                "PLMF"
+            ],
+            "other_materials": [
+                "PLMF"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Importantly, the device with 3\u202fmg\u202fml\u22121 PLMF displays excellent stability compared to pristine device under 40\u202f\u00b1\u202f5% and 70\u202f\u00b1\u202f5% relative humidity  in the dark, maintaining about 85% and 60% of the original efficiency after about 1000\u202fh\u202fat room temperature, respectively",
+            "all_materials": [
+                "PLMF"
+            ],
+            "other_materials": [
+                "PLMF"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work offers a potential way by employing scaffold additive to improve the performance and stability of perovskite solar cells.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, mixed antisolvents  assisted crystallization method is employed to produce high-efficiency perovskite solar cells with highly reproducible and negligible photocurrent hysteresis",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This procedure involves the use of mixed-solvent assisted spin-coating to induce the CH3NH3PbI3 fast crystallization deposition",
+            "all_materials": [
+                "CH3NH3PbI3"
+            ],
+            "other_materials": [
+                "CH3NH3PbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Through optimizing the ratios of binary and ternary antisolvents, larger grain size, higher crystallinity, and homogeneous crystal distribution are realized, which result in decreased charge carrier recombination and suppressed dark currents",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Overall, the fabricated p-i-n planar perovskite-PCBM solar cells with mixed antisolvents dripping technique show greatly improved performance with the best power conversion efficiency of 16.50% under standard conditions  along with high reproducibility and eliminated photocurrent hysteresis behavior, which is over 68% enhancement than the conventional device without solvent treatment",
+            "all_materials": [
+                "PCBM"
+            ],
+            "other_materials": [
+                "PCBM"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "These results demonstrate that this method provides a simple way to fabricate high-performance and low-cost photovoltaic devices.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "One of the most effective methods to achieve high-performance perovskite solar cells has been to include additives that serve as dopants, crystallization agents, or passivate defect sites",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Cl-based additives are among the most prevalent in literature, yet their exact role is still uncertain",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, we systematically study the function of methylammonium chloride  additive in formamidinium lead iodide -based perovskite",
+            "all_materials": [
+                "methylammonium chloride",
+                "formamidinium lead iodide"
+            ],
+            "other_materials": [
+                "methylammonium chloride",
+                "formamidinium lead iodide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Using density functional theory, we provide a theoretical framework for understanding the interaction of MACl with a perovskite",
+            "all_materials": [
+                "MACl"
+            ],
+            "other_materials": [
+                "MACl"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We show that MACl successfully induces an intermediate to the pure FAPbI3 \u03b1-phase without annealing",
+            "all_materials": [
+                "MACl",
+                "FAPbI3"
+            ],
+            "other_materials": [
+                "MACl"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "FAPbI3"
+        },
+        {
+            "sentence": "The formation energy is related to the amount of incorporated MACl",
+            "all_materials": [
+                "MACl"
+            ],
+            "other_materials": [
+                "MACl"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "By tuning the incorporation of MACl, the perovskite film quality can be significantly improved, exhibiting a 6\u00d7 increase in grain size, a 3\u00d7 increase in phase crystallinity, and a 4.3\u00d7 increase in photoluminescence lifetime",
+            "all_materials": [
+                "MACl"
+            ],
+            "other_materials": [
+                "MACl"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The optimized solar cells achieved a certified efficiency of 23.48%.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Two novel asymmetric metallophthalocyanines with different metal core  are synthesized and employed as hole transporting materials  for perovskite 0.850.15) solar cells , reaching high power conversion efficiency",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Both of the two metallophthalocyanines show particular solubility, absorption, thermal stability and suitable energy levels",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Results confirm that the photovoltaic performance is strongly influenced by the core metals",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The optimized devices based on ZnPcNO2-OPh exhibit a maximum power conversion efficiency  of 14.35% with a high open-circuit voltage  of 1.071\u00a0V under standard global 100\u00a0mW\u00a0cm\u22122 AM 1.5G illumination, while devices based on CuPcNO2-OPh show a lower PCE of 12.72% with a VOC of 1.064\u00a0V",
+            "all_materials": [
+                "ZnPcNO2-OPh",
+                "CuPcNO2-OPh"
+            ],
+            "other_materials": [
+                "ZnPcNO2-OPh",
+                "CuPcNO2-OPh"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This newly developed perovskite solar cells demonstrated dramatically enhanced durability under ambient atmosphere",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This study provides a promising prospect for an alternative approach based on the highly stable asymmetric metallophthalocyanine complexes to enhance the stability of perovskite solar cells.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Recent development of perovskite solar cells have achieved great progress with power conversion efficiency reach to 22.1%",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this paper, we focus our attention on shaping perovskite capping layer  by adopting weak corrosive mixed anti-solvent to precisely control the capping layer thickness and crystallization",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Ultra-dry gas flow was used for protecting perovskite film and inducing the formation of low defects perovskite crystal grain",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The device performance is greatly enhanced after modifying the quality of CH3NH3PbI3 films with suitable PCL thickness and crystalline grain",
+            "all_materials": [
+                "CH3NH3PbI3",
+                "PCL"
+            ],
+            "other_materials": [
+                "CH3NH3PbI3",
+                "PCL"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The power conversion efficiency was boosted from 8.79% to 18.25% for the champion cell with the fill factor as high as 80.91% measured under conditions of AM 1.5G, 100\u00a0mW/cm2",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It is expected that this method can be used as a general approach for boosting the perovskite solar cell efficiency with different type of precursor material , such as MAPbX3, FAPbX3 and x 1\u2212x",
+            "all_materials": [
+                "MAPbX3",
+                "FAPbX3",
+                "x 1\u2212x"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "MAPbX3",
+                    "start": 168,
+                    "end": 174,
+                    "token_ids": [
+                        29
+                    ]
+                },
+                {
+                    "text": "FAPbX3",
+                    "start": 176,
+                    "end": 182,
+                    "token_ids": [
+                        31
+                    ]
+                },
+                {
+                    "text": "x 1\u2212x",
+                    "start": 187,
+                    "end": 192,
+                    "token_ids": [
+                        33,
+                        34
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, the method exhibit good reproducibility and device stability due to high-quality perovskite films and the device of the best one will be not deteriorated with the PCE maintaining over 80% after 60\u00a0days.",
+            "all_materials": [
+                "PCE"
+            ],
+            "other_materials": [
+                "PCE"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, we have introduced a facile chemical method for preparation of highly stable perovskite materials in large-scale for commercial purpose",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A series of perovskite powders such as, MAPbI3, MAPbBr3, FAPbI3, FAPbBr3, CsPbI3 and CsPbBr3 were synthesized and studied the structural, optical, morphological properties",
+            "all_materials": [
+                "MAPbI3",
+                "MAPbBr3",
+                "FAPbI3",
+                "FAPbBr3",
+                "CsPbI3",
+                "CsPbBr3"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                20,
+                "StartingSynthesis"
+            ],
+            "targets": "MAPbI3"
+        },
+        {
+            "sentence": "For the first time, temperature dependent phase transition of the perovskites investigated using EPR measurement from 298\u00a0K to 110\u00a0K",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The powders form of the perovskite showed high stability in air at room temperature than the film forms due to its good crystal quality",
+            "all_materials": [
+                "air"
+            ],
+            "other_materials": [
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This simple solution processing approach for production of large-scale perovskite powder open a new way for diverse applications of perovskite materials in future.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The best reported state-of-the-art perovskite solar cells  show record power conversion efficiency  over 23%, where sequentially deposited formamidinium -dominated perovskites were adopted",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here, we develop a stabilizer-assisted growth method involving two stabilizers  to fabricate phase-pure formamidinium lead iodide  perovskite and substantially improve its opto-electronic properties",
+            "all_materials": [
+                "formamidinium lead iodide"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "formamidinium lead iodide"
+        },
+        {
+            "sentence": "The high crystalline and large crystal grains within the \u03b1-FAPbI3 perovskite film as well as the reduced defects contribute to the enhanced PCE up to 22.51% in planar PSCs",
+            "all_materials": [
+                "\u03b1-FAPbI3",
+                "PCE",
+                "PSCs"
+            ],
+            "other_materials": [
+                "\u03b1-FAPbI3",
+                "PCE",
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "More importantly, the stability of phase-stabilized FAPbI3 PSC is also significantly improved and the corresponding device exhibits an impressive 97% retention after 2600\u202fh storage under ambient conditions",
+            "all_materials": [
+                "FAPbI3 PSC"
+            ],
+            "other_materials": [
+                "FAPbI3 PSC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work paves a way to further improve the photovoltaic performance and stability of FA-based planar PSCs.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For organic-inorganic hybrid perovskite solar cells , the crystallinity and the grain size of the perovskite films are crucial for effective exciton dissociation and charge transportation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, we introduce methylammonium halide  intermediates to control the perovskite formation processes via intramolecular exchange",
+            "all_materials": [
+                "methylammonium halide"
+            ],
+            "other_materials": [
+                "methylammonium halide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "X-ray diffraction , scanning electron microscopy , and X-ray Photoelectron Spectroscopy  are used to monitor the transition from intermediate to perovskite",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It is particularly noteworthy that as Cl- and MA+ are removed from the film as MACl vapor, the intermediate derived from Cl-Hybrid eventually turns into FAPbI3 perovskite after thermal annealing",
+            "all_materials": [
+                "MACl",
+                "FAPbI3"
+            ],
+            "other_materials": [
+                "MACl"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                32,
+                "HeatingOperation"
+            ],
+            "targets": "FAPbI3"
+        },
+        {
+            "sentence": "The morphology, crystallinity, fluorescence lifetime and the stability of perovskite films derived from different methylammonium halide intermediates are also investigated, and PerSCs based on different perovskite films are fabricated",
+            "all_materials": [
+                "methylammonium halide",
+                "PerSCs"
+            ],
+            "other_materials": [
+                "PerSCs"
+            ],
+            "precursors": [
+                {
+                    "text": "methylammonium halide",
+                    "start": 114,
+                    "end": 135,
+                    "token_ids": [
+                        16,
+                        17
+                    ]
+                }
+            ],
+            "operation": [
+                31,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The PerSCs derived from MACl intermediate exhibit the best photovoltaic performance with a PCE of 19.16%, and the PCE reaches 15.87% for MABr intermediated PerSCs, much higher than that  of the control device without methylammonium halide intermediates",
+            "all_materials": [
+                "PerSCs",
+                "MACl",
+                "MABr",
+                "PerSCs",
+                "methylammonium halide"
+            ],
+            "other_materials": [
+                "PerSCs",
+                "MABr",
+                "PerSCs",
+                "methylammonium halide"
+            ],
+            "precursors": [
+                {
+                    "text": "MACl",
+                    "start": 24,
+                    "end": 28,
+                    "token_ids": [
+                        4
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, MACl intermediated PerSCs demonstrate the best stability due to the highest crystallinity",
+            "all_materials": [
+                "MACl",
+                "PerSCs"
+            ],
+            "other_materials": [
+                "MACl",
+                "PerSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Our findings indicate that methylammonium halide intermediating is a feasible and effective approach to acquire high crystallinity of perovskite film for high performance and stable PerSCs.",
+            "all_materials": [
+                "methylammonium halide",
+                "PerSCs"
+            ],
+            "other_materials": [
+                "methylammonium halide",
+                "PerSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

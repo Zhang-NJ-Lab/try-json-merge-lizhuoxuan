@@ -1,0 +1,1393 @@
+{
+    "rest": [
+        {
+            "sentence": "ZnO-based electron transport layers  have caused wide public interest in flexible and wearable electronic devices owing to its higher electron mobility and crystalline without sintering processes",
+            "all_materials": [
+                "ZnO"
+            ],
+            "other_materials": [
+                "ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here we describe a fast, inexpensive and low temperature spray method for the preparation of ZnO electron transport layers in CH3NH3PbI3-sensitized perovskite solar cells  based on CuI holes transporter layers",
+            "all_materials": [
+                "ZnO",
+                "CH3NH3PbI3",
+                "CuI"
+            ],
+            "other_materials": [
+                "ZnO",
+                "CH3NH3PbI3",
+                "CuI"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The SEM results show that the surface morphology of ZnO films has an impact on the coverage rate of perovskite which is caused by the spray method",
+            "all_materials": [
+                "ZnO"
+            ],
+            "other_materials": [
+                "ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Optimization of the thickness of ZnO layers yielded highest power conversion efficiency of devices up to 3.47% with short-circuit current density Jsc, open-circuit voltage Voc and fill factor were 14.21\u00a0mA/cm2, 0.55\u00a0V and 44%, respectively",
+            "all_materials": [
+                "ZnO"
+            ],
+            "other_materials": [
+                "ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The factors that influence the performance of the cells have been analyzed by the impedance spectroscopy technique.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Since the first report of the perovskite-structured solar cell by Kojima et\u00a0al., solution-processed organic and hybrid organic-inorganic solar cells have acquired tremendous advance in recent decade ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The highest power conversion efficiency  of perovskite solar cells  increases from 3.8% to 20.8% in 6 years , which is comparable with that of the traditional inorganic material-based solar cells.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Generally, most PSCs utilize mesoporous TiO2 scaffold layers on top of a compact titania layer to provide a substrate on which the perovskite can be grown",
+            "all_materials": [
+                "TiO2",
+                "titania"
+            ],
+            "other_materials": [
+                "TiO2",
+                "titania"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, most PSCs are based on mesoporous TiO2 requiring sintering at 500\u00a0\u00b0C, which renders them incompatible with the industry manufacture, particularly with flexible plastic substrates",
+            "all_materials": [
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "So, fabricating high performance perovskite-based solar cells at low temperature is of vital importance for the practical application ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Comparing with TiO2, ZnO-based PSCs have some attractive advantages",
+            "all_materials": [
+                "TiO2",
+                "ZnO",
+                "PSCs"
+            ],
+            "other_materials": [
+                "TiO2",
+                "ZnO",
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For instance, ZnO is a wideband semiconductor with band gap of about 3.37eV, which is similar with that of TiO2",
+            "all_materials": [
+                "ZnO",
+                "TiO2"
+            ],
+            "other_materials": [
+                "ZnO",
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Additionally, ZnO has higher electron mobility than TiO2, which makes it an ideal choice for an electron-selective contact .",
+            "all_materials": [
+                "ZnO",
+                "TiO2"
+            ],
+            "other_materials": [
+                "ZnO",
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Importantly, high crystalline ZnO could be attained without sintering processes, which means that the ZnO thin films could give sufficient conductivity without a higher temperature sintering process",
+            "all_materials": [
+                "ZnO",
+                "ZnO"
+            ],
+            "other_materials": [
+                "ZnO",
+                "ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In particular, the intrinsic properties, including solid state and easy processing, offer promising applications for flexible and wearable electronic devices that represent a rapidly growing direction in multidisciplinary fields",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Recently, it has been reported that planar heterojunction devices can be fabricated by two-step deposition procedures and the highest PEC of 15.7% was achieved on rigid substrates",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                12,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The organic holes transporters of these devices are mainly 2, 2\u2032, 7, 7,\u2032 \u2013 tetrakis - \u00a0\u22129, 9\u2032- spirobiuorene",
+            "all_materials": [
+                "tetrakis - \u00a0\u22129, 9\u2032- spirobiuorene"
+            ],
+            "other_materials": [
+                "tetrakis - \u00a0\u22129, 9\u2032- spirobiuorene"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the price of high purity spiro-OMeTAD is over ten times that of gold and platinum, which will hinder the commercialization of this type of solar cells",
+            "all_materials": [
+                "spiro-OMeTAD",
+                "gold",
+                "platinum"
+            ],
+            "other_materials": [
+                "spiro-OMeTAD",
+                "gold",
+                "platinum"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, some materials with low cost, high conductivity and wide-band-gap have been studied to be used as holes conductors, such as CuSCN and CuI",
+            "all_materials": [
+                "CuSCN",
+                "CuI"
+            ],
+            "other_materials": [
+                "CuSCN",
+                "CuI"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "And they have shown promise in dye-sensitized and quantum dot-sensitized solar cells , .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this report, we will offer a simple technology to prepare PSCs",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "Both ZnO electron transport layer  and CuI holes transport layer  are deposited by spray method",
+            "all_materials": [
+                "ZnO",
+                "CuI"
+            ],
+            "other_materials": [
+                "ZnO",
+                "CuI"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Compared to the spin coating process, this method can offers a feasible scheme for quick preparation of a number of perovskite solar cells at the same time",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Devices based on FTO/ZnO/CH3NH3PbI3/CuI/Au were fabricated and the highest PCE of 3.47% was achieved when they are illuminated and tested under standard AM1.5G conditions",
+            "all_materials": [
+                "FTO/ZnO/CH3NH3PbI3/CuI/Au"
+            ],
+            "other_materials": [
+                "FTO/ZnO/CH3NH3PbI3/CuI/Au"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                13,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, the influences of the thicknesses of ZnO layers on the performance of the perovskite solar cells have been investigated.",
+            "all_materials": [
+                "ZnO"
+            ],
+            "other_materials": [
+                "ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Fluorine-doped tin oxide coated glass , lead nitrate , methylamine hydrochloride, chlorobenzene, N,N-dimethylformamide, propyl sulfide , potassium iodide, copper iodide, methanol, butanol, chloroform .",
+            "all_materials": [
+                "tin oxide",
+                "lead nitrate",
+                "methylamine hydrochloride",
+                "chlorobenzene",
+                "N,N-dimethylformamide",
+                "propyl sulfide",
+                "potassium iodide",
+                "copper iodide",
+                "methanol",
+                "butanol",
+                "chloroform"
+            ],
+            "other_materials": [
+                "tin oxide"
+            ],
+            "precursors": [
+                {
+                    "text": "lead nitrate",
+                    "start": 40,
+                    "end": 52,
+                    "token_ids": [
+                        8,
+                        9
+                    ]
+                },
+                {
+                    "text": "methylamine hydrochloride",
+                    "start": 55,
+                    "end": 80,
+                    "token_ids": [
+                        11,
+                        12
+                    ]
+                },
+                {
+                    "text": "chlorobenzene",
+                    "start": 82,
+                    "end": 95,
+                    "token_ids": [
+                        14
+                    ]
+                },
+                {
+                    "text": "N,N-dimethylformamide",
+                    "start": 97,
+                    "end": 118,
+                    "token_ids": [
+                        16
+                    ]
+                },
+                {
+                    "text": "propyl sulfide",
+                    "start": 120,
+                    "end": 134,
+                    "token_ids": [
+                        18,
+                        19
+                    ]
+                },
+                {
+                    "text": "potassium iodide",
+                    "start": 137,
+                    "end": 153,
+                    "token_ids": [
+                        21,
+                        22
+                    ]
+                },
+                {
+                    "text": "copper iodide",
+                    "start": 155,
+                    "end": 168,
+                    "token_ids": [
+                        24,
+                        25
+                    ]
+                },
+                {
+                    "text": "methanol",
+                    "start": 170,
+                    "end": 178,
+                    "token_ids": [
+                        27
+                    ]
+                },
+                {
+                    "text": "butanol",
+                    "start": 180,
+                    "end": 187,
+                    "token_ids": [
+                        29
+                    ]
+                },
+                {
+                    "text": "chloroform",
+                    "start": 189,
+                    "end": 199,
+                    "token_ids": [
+                        31
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "ZnO nanoparticles were prepared according to literature procedures ,",
+            "all_materials": [
+                "ZnO"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                3,
+                "StartingSynthesis"
+            ],
+            "targets": "ZnO"
+        },
+        {
+            "sentence": "Zinc acetate dihydrate  was dissolved in methanol  with stirring at 65\u00a0\u00b0C",
+            "all_materials": [
+                "Zinc acetate dihydrate",
+                "methanol"
+            ],
+            "other_materials": [
+                "methanol"
+            ],
+            "precursors": [
+                {
+                    "text": "Zinc acetate dihydrate",
+                    "start": 0,
+                    "end": 22,
+                    "token_ids": [
+                        0,
+                        1,
+                        2
+                    ]
+                }
+            ],
+            "operation": [
+                4,
+                "SolutionMixing"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A solution of KOH (1.48\u00a0g,",
+            "all_materials": [
+                "KOH"
+            ],
+            "other_materials": [
+                "KOH"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Fig.\u00a01a shows the X-ray diffraction  pattern of ZnO films on glass",
+            "all_materials": [
+                "ZnO"
+            ],
+            "other_materials": [
+                "ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It can be found that there are some sharp diffraction peaks at 2\u03b8\u00a0=\u00a031.8\u00b0, 36.2\u00b0 and 56.5\u00b0, corresponding to ,  and  crystal face of hexagonal wurtzite structure ZnO, respectively",
+            "all_materials": [
+                "ZnO"
+            ],
+            "other_materials": [
+                "ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "With increasing of ZnO film&#x27;s thickness, XRD patterns haven&#x27;t shown obvious changes",
+            "all_materials": [
+                "ZnO"
+            ],
+            "other_materials": [
+                "ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As we can see from Fig.\u00a01b to f, they are surface SEM images of ZnO films",
+            "all_materials": [
+                "ZnO"
+            ],
+            "other_materials": [
+                "ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It can be found that circular structures exist at surface of all ZnO",
+            "all_materials": [
+                "ZnO"
+            ],
+            "other_materials": [
+                "ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A simple and fast spray method of ETL and HTL at low temperature has been reported here",
+            "all_materials": [
+                "ETL",
+                "HTL"
+            ],
+            "other_materials": [
+                "ETL",
+                "HTL"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In summary, perovskite solar cells have been fabricated by using CuI as the HTL and ZnO layers as ETL",
+            "all_materials": [
+                "CuI",
+                "ZnO"
+            ],
+            "other_materials": [
+                "CuI",
+                "ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                8,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The thickness of ZnO layer as a key parameter has great effects on photovoltaic performance of perovskite solar cells",
+            "all_materials": [
+                "ZnO"
+            ],
+            "other_materials": [
+                "ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "With the optimum ZnO film thickness of 525\u00a0nm, FTO/ZnO/CH3NH3PbI3/CuI/Au devices achieve a champion PCE value of 3.47%",
+            "all_materials": [
+                "ZnO",
+                "FTO/ZnO/CH3NH3PbI3/CuI/Au"
+            ],
+            "other_materials": [
+                "ZnO",
+                "FTO/ZnO/CH3NH3PbI3/CuI/Au"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The charge transfer resistance between perovskite and ZnO ETL",
+            "all_materials": [
+                "ZnO ETL"
+            ],
+            "other_materials": [
+                "ZnO ETL"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The work was supported by National Basic Research Program of China , Shanghai City Committee of Science and Technology , National Nature Science Foundation of China , Innovation Program of Shanghai City  and Cooperation Fund of Shanghai Institute of Technical Physics.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "TiO2 spheres were synthesized on ZnO arrays with Al doped ZnO  glass substrate  by a two-step method",
+            "all_materials": [
+                "TiO2",
+                "ZnO",
+                "ZnO"
+            ],
+            "other_materials": [
+                "ZnO",
+                "ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                3,
+                "StartingSynthesis"
+            ],
+            "targets": "TiO2"
+        },
+        {
+            "sentence": "XRD, SEM, EDS, TEM, and UV\u2013Vis were used to explore the effect of calcination temperature on the crystal structure, morphology, composition and photocatalytic performance of AZT samples",
+            "all_materials": [
+                "AZT"
+            ],
+            "other_materials": [
+                "AZT"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Results indicate that the calcination temperature has a vital role in forming different morphologies of TiO2 including flake-like, block, spheres, and aggregates",
+            "all_materials": [
+                "TiO2"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "TiO2"
+        },
+        {
+            "sentence": "The diameter of TiO2 spheres is in the range of 0.5\u20133.5\u00a0\u03bcm, which increases first and then decreases with calcination temperature achieving a maximum at 450\u00a0\u00b0C",
+            "all_materials": [
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The sample calcined at 400\u00a0\u00b0C shows the most excellent photocatalytic degradation performance of methyl orange under 15\u00a0W weak-ultraviolet light irradiation, which is mainly due to the moderate particle size, high dispersibility and well crystallinity of TiO2 spheres.",
+            "all_materials": [
+                "methyl orange",
+                "TiO2"
+            ],
+            "other_materials": [
+                "methyl orange",
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                2,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Organic-inorganic halide perovskites were emerging as promising light emitters due to the high photoluminescence quantum efficiency , narrow color spectrum, and facile bandgap tunability",
+            "all_materials": [
+                "halide"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "halide"
+        },
+        {
+            "sentence": "However, the morphological issues of this class of materials remain as a bottleneck in generating high-performance light-emitting devices",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, we describe a facile and cost-effective method to improve the morphology of an all-inorganic-perovskite emissive layer by using a dual-additive blending strategy",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A polar polymer, polyethylene oxide , and an n-type small molecule, TPBi, are blended with CsPbBr3 to provide synchronous effect in passivizing the surface defects and reducing the exciton quenching, as evidenced by the formation of smaller uniform grains and improved radiative recombination lifetime",
+            "all_materials": [
+                "polyethylene oxide",
+                "TPBi",
+                "CsPbBr3"
+            ],
+            "other_materials": [
+                "CsPbBr3"
+            ],
+            "precursors": [
+                {
+                    "text": "polyethylene oxide",
+                    "start": 17,
+                    "end": 35,
+                    "token_ids": [
+                        4,
+                        5
+                    ]
+                },
+                {
+                    "text": "TPBi",
+                    "start": 68,
+                    "end": 72,
+                    "token_ids": [
+                        15
+                    ]
+                }
+            ],
+            "operation": [
+                [
+                    18,
+                    "Mixing"
+                ],
+                [
+                    34,
+                    "QuenchingOperation"
+                ]
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Consequently, the optimized CsPbBr3/PEO/TPBi LED reaches maximum luminance, current efficiency, and external quantum efficiency of 6807\u202fcd\u202fm\u22122 , 0.86\u202fcd\u202fA\u22121  and 0.25% , far surpassing the performance of the control CsPbBr3 device",
+            "all_materials": [
+                "CsPbBr3/PEO/TPBi",
+                "CsPbBr3"
+            ],
+            "other_materials": [
+                "CsPbBr3/PEO/TPBi",
+                "CsPbBr3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "On this basis, we further demonstrated a proof-of-concept LED device with touch-responsivity by using a flexible composite electrode",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The merit of dual-additive strategy has been clearly manifested and will facilitate the future development of cost-effective solution processable perovskite LEDs.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this study, suspended zinc oxide nanoparticles were used as the electron transport layer in trans-perovskite solar cells",
+            "all_materials": [
+                "zinc oxide"
+            ],
+            "other_materials": [
+                "zinc oxide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The perovskite film was prepared by a liquid two-step method, and the crystallinity, surface morphology, and optical and photoelectric properties of the perovskite films were then investigated",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                4,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The results showed that the crystallinity and film compactness of the perovskite could be controlled by the stoichiometric quantity and the perovskite formation rate",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, the film morphology was affected by the annealing temperature, duration, and the amount of toluene solvent, which could be leveraged to enhance the efficiency of the device due to the charge trapping defect",
+            "all_materials": [
+                "toluene"
+            ],
+            "other_materials": [
+                "toluene"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The optimal annealing temperature and duration were 80\u202f\u00b0C and 10\u202fmin, and the optimal volume ratio of isopropyl alcohol to toluene was 9:1",
+            "all_materials": [
+                "isopropyl alcohol",
+                "toluene"
+            ],
+            "other_materials": [
+                "isopropyl alcohol",
+                "toluene"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The highest performing perovskite solar cells in this study exhibited an energy conversion efficiency of 15.78%, a short-circuit current of 20.80\u202fmA/cm2, an open circuit voltage of 1.10\u202fV, and a fill factor of 0.69.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Organic-inorganic hybrid perovskites are a promising candidate for fabricating high-efficiency solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                10,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, well-dispersed ternary oxide BaSnO3  nanoparticles with high crystallinity were successfully synthesized by a facile peroxide-precipitate route",
+            "all_materials": [
+                "BaSnO3"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                16,
+                "StartingSynthesis"
+            ],
+            "targets": "BaSnO3"
+        },
+        {
+            "sentence": "And then BSO was first used as an efficient electron-transporting layer in planar perovskite solar cells",
+            "all_materials": [
+                "BSO"
+            ],
+            "other_materials": [
+                "BSO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Influences of the coverage, roughness and thickness of planar BSO layer on the photovoltaic performance of the solar cells were systemically investigated",
+            "all_materials": [
+                "BSO"
+            ],
+            "other_materials": [
+                "BSO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It is found that better coverage of BSO layer on the transparent oxide electrodes can significant reduce current leakage and suitable thickness of electron-transporting layer is favorable to reduce series resistance",
+            "all_materials": [
+                "BSO"
+            ],
+            "other_materials": [
+                "BSO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Both of them contribute to the improved power conversion efficiency of cell devices",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Additionally, the BSO-based device exhibits a comparable device performances to the TiO2 one, which can be ascribed to the efficient charge extraction as BSO/perovskite interfaces, the low charge transfer resistance and the suppressed carrier recombination",
+            "all_materials": [
+                "TiO2",
+                "BSO"
+            ],
+            "other_materials": [
+                "TiO2",
+                "BSO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The optimized BSO-based planar perovskite solar cells exhibits power conversion efficiency of 10.96% with Jsc of 17.45\u00a0mA/cm2, Voc of 0.986\u00a0V and FF of 0.637",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Thus, this work will pave the way for employing ternary oxide as electron-transporting material for high-performance perovskite solar cells.",
+            "all_materials": [
+                "ternary oxide"
+            ],
+            "other_materials": [
+                "ternary oxide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work reports on the fabrication of hydrogen gas sensors based on bimetallic palladium-copper nanoclusters",
+            "all_materials": [
+                "hydrogen",
+                "palladium-copper"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "hydrogen"
+        },
+        {
+            "sentence": "The nanoclusters were generated by sputtering and inert-gas condensation inside an ultra-high vacuum  compatible system, and self-assembled on an insulating substrate with a pair of pre-formed interdigitated gold/nichrome electrodes",
+            "all_materials": [
+                "gold/nichrome"
+            ],
+            "other_materials": [
+                "gold/nichrome"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Nanocluster deposition was stopped once their coverage on the substrate reached the percolation threshold",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Electrical properties of the fabricated sensors were investigated by means of electrical conductance measurements, and assigned to charge carrier transport within network of metallic islands that is dominated by tunnelling",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The produced devices were utilized as conductometric gas sensors",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, a constant voltage was applied across the interdigitated electrodes, and the change in electrical current signal was measured which reflects gas concentration",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "All fabricated sensors showed increase in the conductance upon exposure to hydrogen which can be assigned to the increase in tunnelling current due to the decrease in the size of the gaps between the nanoclusters or the establishment of conducting paths through the network of percolating nanocluster film",
+            "all_materials": [
+                "hydrogen"
+            ],
+            "other_materials": [
+                "hydrogen"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The sensors were found to be sensitive at low concentrations of hydrogen at room temperature, and exhibit a linear relationship between hydrogen concentration and the sensitivity",
+            "all_materials": [
+                "hydrogen"
+            ],
+            "other_materials": [
+                "hydrogen"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, those sensors have the potential to be used for practical life applications.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work a series of B- and C-type off-stoichiometric CZTS samples was prepared by a mechanochemical synthesis route",
+            "all_materials": [
+                "CZTS"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                17,
+                "StartingSynthesis"
+            ],
+            "targets": "CZTS"
+        },
+        {
+            "sentence": "For structural characterization X-ray diffraction measurements were performed",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, compositional analyses of the powder samples were carried out by means of wavelength-dispersive X-ray spectroscopy",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For detailed cation distribution analyses of two off-stoichiometric single-phase samples neutron diffraction methods were used",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The method of the average neutron scattering length was applied revealing the occurrence of ZnCu, CuZn, and ZnSn point defects in the Cu-poor/Zn-rich sample , whereas for the Cu-rich/Zn-poor sample  ZnCu, CuZn, and SnZn defects are suggested.",
+            "all_materials": [
+                "ZnCu",
+                "CuZn",
+                "ZnSn",
+                "ZnCu",
+                "CuZn",
+                "SnZn"
+            ],
+            "other_materials": [
+                "ZnCu",
+                "CuZn",
+                "ZnSn",
+                "ZnCu",
+                "CuZn",
+                "SnZn"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Metal nanoparticles with high magnetization values and good stability in acid and base environments have potential applications in industry, biological, and environmental fields",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this paper, we demonstrated a novel approach to synthesize Ni and Co nanoparticles encapsulated by few-layer h-BN  via annealing of freshly prepared metal ammine complexes 6]Cl2 or [Co6]Cl3) and KBH4 with flowing nitrogen gas at 900\u00a0\u00b0C for 2\u00a0h",
+            "all_materials": [
+                "Ni and Co",
+                "h-BN",
+                "6]Cl2",
+                "[Co6]Cl3",
+                "KBH4",
+                "nitrogen"
+            ],
+            "other_materials": [
+                "h-BN",
+                "nitrogen"
+            ],
+            "precursors": [
+                {
+                    "text": "6]Cl2",
+                    "start": 175,
+                    "end": 180,
+                    "token_ids": [
+                        29
+                    ]
+                },
+                {
+                    "text": "[Co6]Cl3",
+                    "start": 184,
+                    "end": 192,
+                    "token_ids": [
+                        31
+                    ]
+                },
+                {
+                    "text": "KBH4",
+                    "start": 198,
+                    "end": 202,
+                    "token_ids": [
+                        34
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "Ni and Co"
+        },
+        {
+            "sentence": "Formation of [email&#160;protected]h-BN and [email&#160;protected]h-BN was observed from X-ray diffraction patterns, scanning electron microscopy and transmission electron microscopy",
+            "all_materials": [
+                "[",
+                "["
+            ],
+            "other_materials": [
+                "[",
+                "["
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Bonding nature and elemental composition were also characterized by Fourier-transform infrared spectroscopy and Energy-dispersive X-ray spectroscope",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Bonding formation process was illustrated by DSC/TGA analysis",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Ni and Co NPs were found encapsulated into h-BN shells  with a high yield amounting to 42.6%",
+            "all_materials": [
+                "Ni and Co",
+                "h-BN"
+            ],
+            "other_materials": [
+                "Ni and Co",
+                "h-BN"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Additionally, the obtained saturation magnetization and coercivity of [email&#160;protected]h-BN and [email&#160;protected]h-BN were 10.9 emu/g and 116\u00a0Oe, 83.3 emu/g and 62\u00a0Oe, respectively",
+            "all_materials": [
+                "[email&#160",
+                "[email&#160"
+            ],
+            "other_materials": [
+                "[email&#160",
+                "[email&#160"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Hence, the excellent performance of [email&#160;protected]h-BN and [email&#160;protected]h-BN, especially the latter of which was prepared for the first time, could pave the way for application of h-BN encapsulation.",
+            "all_materials": [
+                "[email&#160;protected]h-BN",
+                "[email&#160;protected]h-BN",
+                "h-BN"
+            ],
+            "other_materials": [
+                "[email&#160;protected]h-BN",
+                "[email&#160;protected]h-BN",
+                "h-BN"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                28,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The Cu2[email&#160;protected] nanoparticles were prepared by a two-step method, using Vulcan XC-72 carbon as support",
+            "all_materials": [
+                "Cu2[email",
+                "carbon"
+            ],
+            "other_materials": [
+                "carbon"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                10,
+                "StartingSynthesis"
+            ],
+            "targets": "Cu2[email"
+        },
+        {
+            "sentence": "Transmission electron microscopy, X-ray diffraction and X-ray photoelectron spectroscopy were used to characterize the resulting Cu2[email&#160;protected] core-shell nanoparticles",
+            "all_materials": [
+                "Cu2[email"
+            ],
+            "other_materials": [
+                "Cu2[email"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The chemically modified electrode based on Cu2[email&#160;protected]/C nanocomposites was employed to eliminate the interference from ascorbic acid and uric acid for the sensitive and selective determination of dopamine",
+            "all_materials": [
+                "Cu2[email",
+                "]/C",
+                "ascorbic acid",
+                "uric acid",
+                "dopamine"
+            ],
+            "other_materials": [
+                "Cu2[email",
+                "]/C",
+                "ascorbic acid",
+                "uric acid",
+                "dopamine"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The electrochemical results indicate that the Cu2[email&#160;protected]/C nanocomposites show better electrocatalytic activity for the oxidation of dopamine than Pt/C nanocomposites with a linear range from 10\u00a0nM to 1027.16\u00a0\u03bcM, a detection limit of 3\u00a0nM  and sensitivity of 638.0\u00a0\u03bcA\u00a0mM\u22121\u00a0cm\u22122",
+            "all_materials": [
+                "Cu2[email",
+                "]/C",
+                "dopamine",
+                "Pt/C"
+            ],
+            "other_materials": [
+                "Cu2[email",
+                "]/C",
+                "dopamine",
+                "Pt/C"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, the sensor exhibits excellent long-time stability, good reproducibility and can be applied for practical application.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We explored the characteristics of n- and p-type impurities by means of group V and VII atoms substituting sulfur in 1T-HfS2 monolayer using the first-principles calculation",
+            "all_materials": [
+                "sulfur",
+                "1T-HfS2"
+            ],
+            "other_materials": [
+                "sulfur",
+                "1T-HfS2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Numerical results show that the formation energy increases with the increasing impurity atom size for each considered doping case, and the formation energy calculations also indicate that it is energy favorably and relatively easier to incorporate these atoms into the HfS2 under Hf-rich experimental conditions",
+            "all_materials": [
+                "HfS2"
+            ],
+            "other_materials": [
+                "HfS2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Meanwhile, with increasing atomic size, the transition energy levels increase for group V atoms substitution",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "While the transition energy levels decrease with increasing atomic size for group VII atoms substitution",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The calculations of the transition energy level indicate that the N-doped HfS2 monolayer has the lowest formation energy and the shallowest transition level among the p-doped HfS2 monolayer systems.",
+            "all_materials": [
+                "HfS2",
+                "HfS2"
+            ],
+            "other_materials": [
+                "HfS2",
+                "HfS2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This paper describes the spark plasma sintering  of Y- and Ca-\u03b1/\u03b2-SiAlON powders synthesized by salt-assisted combustion at temperatures of 1600\u00a0\u00b0C with different holding times",
+            "all_materials": [
+                "Y- and Ca-\u03b1/\u03b2-SiAlON"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                14,
+                "StartingSynthesis"
+            ],
+            "targets": "Y- and Ca-\u03b1/\u03b2-SiAlON"
+        },
+        {
+            "sentence": "X-ray diffraction reveals that with increasing holding time, the \u03b1 to \u03b2 transformation ratio of Y-\u03b1-SiAlON becomes greater than that of Ca-\u03b1-SiAlON",
+            "all_materials": [
+                "Y-\u03b1-SiAlON",
+                "Ca-\u03b1-SiAlON"
+            ],
+            "other_materials": [
+                "Y-\u03b1-SiAlON",
+                "Ca-\u03b1-SiAlON"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Nevertheless, all samples effectively reach their theoretical density after sintering",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The Vickers hardness measured with an applied load of 19.614  decreases with a decreasing amount of \u03b1-SiAlON, with a maximum value of 19.4\u00a0GPa being achieved in Ca-\u03b1/\u03b2-SiAlON with an \u03b1-SiAlON content of 55%.",
+            "all_materials": [
+                "\u03b1-SiAlON",
+                "Ca-\u03b1/\u03b2-SiAlON",
+                "\u03b1-SiAlON"
+            ],
+            "other_materials": [
+                "\u03b1-SiAlON",
+                "Ca-\u03b1/\u03b2-SiAlON",
+                "\u03b1-SiAlON"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

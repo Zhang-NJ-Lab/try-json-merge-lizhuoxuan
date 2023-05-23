@@ -1,0 +1,1247 @@
+{
+    "rest": [
+        {
+            "sentence": "The halide perovskite based solar cells demonstrate rapid progress in photoelectric applications",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Recent studies sparked the tremendous interest to the indoor photovoltaics supported by the vision for extensive use of low-power Internet of Things gadgets",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The low-intensity illumination conditions are very different from the direct sunlight and artificial light sources  have variation of the emission spectra",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this paper, we investigated the output performance of the halide perovskite solar cells by varying the absorber band gap between 1.60\u00a0eV and 1.97\u00a0eV under different LED illumination intensity and color temperatures",
+            "all_materials": [
+                "halide"
+            ],
+            "other_materials": [
+                "halide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We also studied the impact of the absorber thickness on the solar cell\u2019s performance under LED illumination",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The experimental results show that perovskite absorber with the band-gap of 1.72\u00a0eV permits to reach the highest efficiency in the all range of studied CTs  varying from 31.8% to 34.9% at 200 Lx and from 34.9% to 36.1% at 1000 Lx",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The origins of the effects and difference of the output parameters for PSCs were discussed with the estimation of the Shockley-Quiessier limit for LED illumination.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Low\u2013power energy harvesters  represents one of the promising pathways for sustainable energy consumption of Information and Communication Technologies",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Owing to the increasing pervasive use of portable telecommunication devices, sensors, and Internet of things  devices [, ], LEH could effectively realize the autonomous charging and powering of such systems",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Typically, the power consumption for the LEH-powered electronics is in the range from microWatts  to milliWatts  .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Indoor photovoltaics  is one of the promising solutions for LEH",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The effective application of solar cells for IPV requires an optimized matching of the incoming light spectra with optical properties of the cell",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Depending on the light source, the illumination conditions could vary",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The color temperature  of the light source, conventionally expressed in Kelvin, is an important characteristic of the illuminator  determining the temperature of an ideal black-body radiator that radiates light of a color comparable to that of the light source",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The \u201cwarm\u201d temperature colors in a range of 1700\u20133000\u00a0K with high-intensity peaks of red  and green  colors are usually exploited for private living rooms and offices",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The \u201ccool\u00a0\u00ab\u00a0temperature\u201d colors in a range of 4000\u20137000K with a high intensity blue peak  are more used for lightning in hospitals, industrial spaces and displays.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Among the various types of artificial light sources, Light-Emitting Diodes  are gaining more and more market penetration with respect to other light sources such as a fluorescent lamp with a forecast that almost the 90% of the market will be covered by LED by 2030  with a compound annual growth rate  of 12.5% from 2021 to 2028",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Although the production of LEDs is relatively more expensive with respect to other technologies, they offer higher service life and better luminous efficacies compared to incandescent, florescent and halogen light sources",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "White LEDs can be produced in a wide range of color temperatures  from warm lights with a CT down to 1500K to cool light with 7200K",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, advanced versions of smart LED lamps support the tuning of the CT just with changes in the balance of emission peaks through an integrated controller.",
+            "all_materials": [
+                "CT"
+            ],
+            "other_materials": [
+                "CT"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Among the differed emerging photovoltaic technologies for LEH , the halide perovskites  photovoltaic is considered as one of the most promising technologies, especially for the indoor use at low intensities of the light  [, ]",
+            "all_materials": [
+                "halide"
+            ],
+            "other_materials": [
+                "halide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "HP presents a very strong absorption   due to the direct band gap and wide range of the band gap tunability  that allows to change the optical properties for different illumination conditions",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, the charge transport in perovskites solar cells  at low concentrations of the photo-injected charge carriers  is not affected by the trapping at the recombination centers [, ]",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The long charge carrier lifetimes measured in HP  is related to several peculiar phenomena, such as small non-radiative recombination cross section  with low charge state or neutral state ; screening of the charged defects due to the high dielectric constant of HPs ; formation of coupled defects that have no impact on the electronic [19,25]",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Solution processing is an important advantage of halide perovskite photovoltaics",
+            "all_materials": [
+                "halide"
+            ],
+            "other_materials": [
+                "halide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The inks for the fabrication could be manufactured using common chemicals available in the chemical industry \u2013 dimethyl formamide , dimethyl sulfoxide , isopropyl alcohol, etc",
+            "all_materials": [
+                "dimethyl formamide",
+                "dimethyl sulfoxide",
+                "isopropyl alcohol"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "dimethyl formamide",
+                    "start": 111,
+                    "end": 129,
+                    "token_ids": [
+                        17,
+                        18
+                    ]
+                },
+                {
+                    "text": "dimethyl sulfoxide",
+                    "start": 132,
+                    "end": 150,
+                    "token_ids": [
+                        20,
+                        21
+                    ]
+                },
+                {
+                    "text": "isopropyl alcohol",
+                    "start": 153,
+                    "end": 170,
+                    "token_ids": [
+                        23,
+                        24
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Typical liquid-phase methods for the crystallization of thin films for small area devices and large scale modules presented with antisolvent , vacuum  and gas  treatments, respectively",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "An additional advantage of PSC relies of the fabrication that could be made by using high throughput solution printing methods such as slot die coating in roll-to-roll deposition lines",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "An additional advantage of PSC relies of the fabrication that could be made by using high throughput printing methods such as slot die coating in roll-to-roll deposition lines",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This could significantly reduce manufacture costs and capital expenditures  at the industrial level compared to the traditional wafer solar cells  .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The optimization of optical properties for HP absorbers is a hot topic for the IPV applications of PSCs",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "reported  about triple-anion perovskite absorber CH3NH3PbI2\u2212xBrClx with a tailored band-gap of around 1.8\u00a0eV, achieving a record high-power conversation efficiency  over 36% under 1000 lux fluorescent lightCheng et al",
+            "all_materials": [
+                "CH3NH3PbI2\u2212xBrClx"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CH3NH3PbI2\u2212xBrClx"
+        },
+        {
+            "sentence": "Sun and co-authors  demonstrated benefits for tuning of band-gap from 1.60 to 1.75\u00a0eV for Cs0.05MA0.95PbBrxI3 perovskite, high level of PCE was achieved for LED and CFL illuminations\u201336.0 and 32.2% respectively",
+            "all_materials": [
+                "Cs0.05MA0.95PbBrxI3"
+            ],
+            "other_materials": [
+                "Cs0.05MA0.95PbBrxI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Lim and co-workers showed that band gap engineering approach also works for single cation HP compositions - CH3NH3PbI3 where the increase of bromide to iodine ratio increased the band-gap from 1.56 to 1.76\u00a0eV and optimized the PCE from 29 to 34% under white LED illumination",
+            "all_materials": [
+                "-",
+                "CH3NH3PbI3"
+            ],
+            "other_materials": [
+                "-",
+                "CH3NH3PbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Despite this, the impact of the different CT to the output performance of PSCs under indoor illumination was not investigated yet.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this paper, we study the relation between LED color-temperature  and HP band gap on the output performance of PSCs",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Four configurations of the perovskite absorbers with the band gap between 1.60 and 1.97\u00a0eV were used for PSCs under LED illumination of 1700\u20136500\u00a0K CT",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We found that relative intensity of the peaks in blue and red regions of the emission",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The results showed that the correlation between output performance and the color temperature of the LED is mainly driven by Jsc that changes by varying the emission spectra of the light source and the energy band gap of the HP absorber",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We found that the chemical engineering of HP composition has a significant impact on the performance at low light conditions with different CTs",
+            "all_materials": [
+                "HP"
+            ],
+            "other_materials": [
+                "HP"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work we show that HP absorber film with the band-gap of 1.72\u00a0eV demonstrates the most balanced performance, achieving the highest PCE in the all range of the studied CTs  varying from 31.8% to 34.9% at 200 Lx and from 34.9% to 36.1% at 1000 Lx.",
+            "all_materials": [
+                "HP"
+            ],
+            "other_materials": [
+                "HP"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The light emission spectra with different color temperature of the LED illumination presented on Fig",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The CT of the white LED light source could be tuned by the relative emission intensities of red , green  and blue 1a",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For the warm colors, the light the intensity of the \u00abred\u00a0\u00bb\u00a0peak is dominant, while blue part of the emission is enhanced for the \u00abcool\u00a0\u00bb\u00a0light",
+            "all_materials": "NULL",
+            "other_materials": [
+                "\u00abred"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As shown in Fig",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "1a, the changes of the balance between red-green-blue  peaks clearly identify the",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this paper, we investigate the impact of illuminator color temperature on the performance of PSCs with different Eg\u00a0=\u00a01.60\u20131.97\u00a0eV under indoor LED illumination",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "By investigating devices with equal absorber thickness and morphology, we demonstrated the strong impact of the LED color temperature on the PV response",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "All device configurations have a maximum performance for a warm white illumination with a CT\u00a0=\u00a01700K",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For 200 Lx , we observed the maximum values of Jsc varying from",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Methylammonium iodide , formamidinium chloride , formamidinium bromide  and formamidinium iodide  were purchased from Greatcell Solar",
+            "all_materials": [
+                "Methylammonium iodide",
+                "formamidinium chloride",
+                "formamidinium bromide",
+                "formamidinium iodide"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "Methylammonium iodide",
+                    "start": 0,
+                    "end": 21,
+                    "token_ids": [
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "text": "formamidinium chloride",
+                    "start": 24,
+                    "end": 46,
+                    "token_ids": [
+                        3,
+                        4
+                    ]
+                },
+                {
+                    "text": "formamidinium bromide",
+                    "start": 49,
+                    "end": 70,
+                    "token_ids": [
+                        6,
+                        7
+                    ]
+                },
+                {
+                    "text": "formamidinium iodide",
+                    "start": 76,
+                    "end": 96,
+                    "token_ids": [
+                        9,
+                        10
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Lead iodide  and cesium iodide  were purchased from Chemsynthesis  and LLC Lanhit , respectively",
+            "all_materials": [
+                "Lead iodide",
+                "cesium iodide"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "Lead iodide",
+                    "start": 0,
+                    "end": 11,
+                    "token_ids": [
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "text": "cesium iodide",
+                    "start": 17,
+                    "end": 30,
+                    "token_ids": [
+                        3,
+                        4
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "LLC Lanhit  [5,6],-Fullerene-C60  was purchased from MST ; bathocuproine  wasLead bromide",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Talbanova: Methodology, Data curation, Writing \u2013 original draft, Investigation, Formal analysis, Data curationN",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Komaricheva: Writing \u2013 original draft, Methodology, Investigation, Data curationT",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Luchnikov: Writing \u2013 original draft, Investigation, Formal analysis, Data curationL.O",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Ermolaev: Methodology, Data curationG",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Kurichenko: Methodology, Data curationV",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Muratov: Methodology, Formal analysisD.S",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Arsenin: Methodology, Formal analysis, Data curationA",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Didenko: FormalI.S",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "N.T., T.K, L.L, V.K., D.M., I",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "and D.S gratefully acknowledge the financial support from the Ministry of Science and Higher Education of the Russian Federation in the framework of program Priority 2030 of NUST MISIS  for the fabrication and characterization of PSCs, investigation of optical, surface, structural properties, and theoretical calculationsD",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "G.E., A.A., and V.V",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "gratefully acknowledge the financial support from the Ministry of Science and Higher Education of",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A Fe3O4/Fe2O3 photoelectrode exhibiting excellent broadband and light-trapping characteristics has been prepared",
+            "all_materials": [
+                "Fe3O4/Fe2O3"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                15,
+                "StartingSynthesis"
+            ],
+            "targets": "Fe3O4/Fe2O3"
+        },
+        {
+            "sentence": "It is found to be of unique multi-scale structure that is composed of pyramids from 5 to 10\u00a0\u03bcm in width grown on nanorod arrays from 400 to 500\u00a0\u03bcm in diameter",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This multi-scale structure displays an extraordinary surface catalytic-activity and photothermal effect, which result in strong absorption in UV\u2013Vis\u2013NIR region and significantly improved PEC performance",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Besides, type II p-n Fe2O3/Fe3O4 heterojunction with suitable energy position and its built-in electric field favor separation and transfer of photogenerated carriers",
+            "all_materials": [
+                "Fe2O3/Fe3O4"
+            ],
+            "other_materials": [
+                "Fe2O3/Fe3O4"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The optimized Fe2O3/Fe3O4 photoanode therefore exhibits a much larger photocurrent density \u223c0.68\u00a0mA/cm2 at 1.23\u00a0V vs",
+            "all_materials": [
+                "Fe2O3/Fe3O4"
+            ],
+            "other_materials": [
+                "Fe2O3/Fe3O4"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "RHE under simulated sunlight illumination compared to 0.08\u00a0mA/cm2 of the pure Fe2O3 photoelectrode",
+            "all_materials": [
+                "RHE",
+                "Fe2O3"
+            ],
+            "other_materials": [
+                "RHE",
+                "Fe2O3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This unique design for multi-scale structure may provide a route to develop high-efficient photoelectrode with full-spectrum response.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Nanofluid-based direct absorption solar collectors , where the transfer fluid also shows the solar absorption functionality, could offer advantages with respect to existing conventional surface-absorber thermal solar collectors, due to volumetric radiation absorption and reduced thermal resistance at the absorber-fluid interface",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In the framework of investigation of novel nanofluids with favourable properties for NDASC applications, the present work is aimed to assess the stability , structural  and optical properties  of aqueous nanofluids containing boron carbide  and titanium carbonitride , both as mono or hybrid nanodditives",
+            "all_materials": [
+                "boron carbide",
+                "titanium carbonitride"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "boron carbide",
+                    "start": 226,
+                    "end": 239,
+                    "token_ids": [
+                        33,
+                        34
+                    ]
+                },
+                {
+                    "text": "titanium carbonitride",
+                    "start": 245,
+                    "end": 266,
+                    "token_ids": [
+                        36,
+                        37
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The chosen B4C and TiCN materials are representative components of the family of so-called Ultra-High Temperature Ceramics , which are known for a number of appealing properties, among those high-temperature stability and promising bulk optical properties, while the optical properties at the nanoscale were unexplored to date",
+            "all_materials": [
+                "B4C",
+                "TiCN"
+            ],
+            "other_materials": [
+                "B4C",
+                "TiCN"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "No formation of nanocomposites was evidenced, while optical properties of nanofluids resulted substantially changed with respect to the pure base fluid and promising for solar absorber applications",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The dynamic viscosity was also evaluated, in order to check if the pumping power required for the flow of the new materials differs substantially, finding a Newtonian behaviour and a minimal viscosity increase.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Achieving efficient and low-cost preparation of high-temperature phase change materials  is of great significance to the sustainable development of thermal energy storage  systems",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This study reports the successful fabrication of core-shell structure macro capsules using copper slag partial replacement of bauxite in the shell raw material",
+            "all_materials": [
+                "copper",
+                "bauxite"
+            ],
+            "other_materials": [
+                "copper",
+                "bauxite"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The commercial solid Al ball was in situ encapsulated by a double-layer ceramic shell with the cavity between the core and the inner shell using a two-step granulating method and heat treatment",
+            "all_materials": [
+                "Al"
+            ],
+            "other_materials": [
+                "Al"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Surprisingly, the macro capsules with the addition of copper slag in the shell material showed excellent thermal cycle stability and durability at the drastic melting-solidification cycling test up to 500 cycles even under air atmosphere",
+            "all_materials": [
+                "copper",
+                "air"
+            ],
+            "other_materials": [
+                "copper",
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The addition of copper slag to the shell material of HTPCMs effectively improves the sensible heat storage capacity, thermal conductivity and thermal diffusivity",
+            "all_materials": [
+                "copper",
+                "HTPCMs"
+            ],
+            "other_materials": [
+                "copper",
+                "HTPCMs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This can be attributed to the formation of Fe2O3 in the outer layer shell",
+            "all_materials": [
+                "Fe2O3"
+            ],
+            "other_materials": [
+                "Fe2O3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This research provides a novel idea for the high-value utilization of copper slag to produce HTPCMs and realize the recycling of solid waste resources.",
+            "all_materials": [
+                "copper",
+                "HTPCMs"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "copper",
+                    "start": 70,
+                    "end": 76,
+                    "token_ids": [
+                        13
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "HTPCMs"
+        },
+        {
+            "sentence": "Thin film photovoltaic devices based on CdTe and CuSe2 find in Cu2ZnSn4-based technology a more eco-friendly alternative",
+            "all_materials": [
+                "CdTe",
+                "CuSe2",
+                "Cu2ZnSn4"
+            ],
+            "other_materials": [
+                "CdTe",
+                "CuSe2",
+                "Cu2ZnSn4"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To further reduce production costs and improve sustainability, other abundant metals, such as manganese, can be tested as a potential alternative to zinc",
+            "all_materials": [
+                "manganese"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "manganese",
+                    "start": 94,
+                    "end": 103,
+                    "token_ids": [
+                        15
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Mn is a safe and Earth-abundant element, and it can be used in light absorber materials when it is part of quaternary chalcogenides with copper and tin",
+            "all_materials": [
+                "Mn",
+                "copper"
+            ],
+            "other_materials": [
+                "Mn",
+                "copper"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work reports on the growth and characterization of Cu2MnSnS4 thin films produced by a two-step deposition process",
+            "all_materials": [
+                "Cu2MnSnS4"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "Cu2MnSnS4"
+        },
+        {
+            "sentence": "The metallic precursors have been deposited by sputtering and the stack annealed at high temperatures in sulphur atmosphere",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                11,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The layers, obtained in Cu-poor Mn-poor compositional regime, have been tested in solar devices with a record efficiency of 1.13% and a high open-circuit voltage of about 445\u00a0mV delivered by the champion device after over one year from the first PV measurement",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "X-ray diffraction and X-ray photoelectron, Raman, photoluminescence, and admittance spectroscopies have been used to investigate the Cu2MnSnS4 defectivity, and a scenario of high defects has emerged",
+            "all_materials": [
+                "Cu2MnSnS4"
+            ],
+            "other_materials": [
+                "Cu2MnSnS4"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, to promote the development of Mn-based photovoltaics the synthesis methodology should be optimized and the device architecture should be specifically designed for the compound.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Passivating contacts based on doped polysilicon  and ultrathin silicon oxide offer outstanding surface passivation and low contact resistance",
+            "all_materials": [
+                "silicon oxide"
+            ],
+            "other_materials": [
+                "silicon oxide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The passivation quality of poly-Si contacts can be further improved by hydrogenating the oxide interface, often achieved via thermal annealing with hydrogen-containing dielectric coatings such as silicon nitride  or aluminium oxide",
+            "all_materials": [
+                "poly-Si",
+                "silicon nitride",
+                "aluminium"
+            ],
+            "other_materials": [
+                "poly-Si",
+                "silicon nitride",
+                "aluminium"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                20,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, we present an alternative method using magnesium fluoride  coatings to improve the recombination properties of doped poly-Si layers",
+            "all_materials": [
+                "magnesium fluoride",
+                "poly-Si"
+            ],
+            "other_materials": [
+                "magnesium fluoride",
+                "poly-Si"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It is found that MgFx coatings can yield comparable benefits as AlOx and SiNx on n-type poly-Si, enhance the passivation effect of SiNx on p-type poly-Si when used as an additional capping layer, and facilitate the recovery of firing-induced-degradation in n-type poly-Si",
+            "all_materials": [
+                "MgFx",
+                "AlOx",
+                "SiNx",
+                "poly-Si",
+                "SiNx",
+                "poly-Si",
+                "poly-Si"
+            ],
+            "other_materials": [
+                "MgFx",
+                "AlOx",
+                "SiNx",
+                "poly-Si",
+                "SiNx",
+                "poly-Si",
+                "poly-Si"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Besides improving passivation, MgFx exhibits some inherent advantages over other dielectric films in that it is more conductive and has a low work function",
+            "all_materials": [
+                "MgFx"
+            ],
+            "other_materials": [
+                "MgFx"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Utilising these properties, we have demonstrated the use of 10\u00a0nm thick MgFx films as an interlayer to improve contact formation between n-type poly-Si and evaporated aluminium, achieving a contact resistivity of 1.6m\u03a9\u2219cm2 while preserving the passivation",
+            "all_materials": [
+                "MgFx",
+                "poly-Si",
+                "aluminium"
+            ],
+            "other_materials": [
+                "MgFx",
+                "poly-Si",
+                "aluminium"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                28,
+                "DryingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Our results highlight a possible pathway to use MgFx to simultaneously improve the passivation and metallisation of doped poly-Si contacts in industrial production.",
+            "all_materials": [
+                "MgFx",
+                "poly-Si"
+            ],
+            "other_materials": [
+                "MgFx",
+                "poly-Si"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Hybrid concentrator photovoltaic-thermoelectric systems aim to increase the conversion efficiency of sunlight to electricity by recovering part of the waste heat generated in the photovoltaic cells by means of thermoelectricity",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "They are in a research stage, with many theoretical predictions of their potential benefits, especially when increasing the light concentration ratio, but few experimental demonstrations",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "They have been never tested under ultra-high concentration levels",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this paper, the results of an experimental assessment of the state-of-the-art technology to develop such hybrid systems under extreme concentrations are presented",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A hybrid mono-module was designed, manufactured and tested under ultra-high concentration both indoors and outdoors",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Indoor experiments used a steady light sun simulator for effective low concentrations from 1.3 to 17.2 suns and a multi-flash simulator for geometric concentrations from 476x to 3600x",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Outdoor experiments covered concentrations between 476x and 2066x",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A conventional concentrator photovoltaic-only mono-module was also tested outdoors for comparison purposes",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The experimental characterization of the prototype showed that some optimistic values used in the theoretical predictions  cannot be fulfilled with the current commercially available components",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Results of the outdoor measurements exhibit a similar energetic behaviour of the hybrid system compared to the conventional system at 476x",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For higher concentrations, the performance of the hybrid system is poorer than that of the conventional system due to a faster degradation of the optical, thermal and electrical behaviour",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The solar cell was damaged when it reached 194\u00a0\u00b0C at 2066x outdoors",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The study sheds light on the limits of the current technology and identifies improvement research areas: optical systems for ultra-high concentration, solar cells with a wider operating temperature range and lower temperature and series resistance losses, thermoelectric generators with higher figure-of-merit and innovative cooling systems",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "These areas need to be explored to reach experimentally the potential benefits of this technology.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors contributed equally.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

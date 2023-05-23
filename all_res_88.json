@@ -1,0 +1,1131 @@
+{
+    "rest": [
+        {
+            "sentence": "Ultraviolet  illumination can induce the generation of defects at the interface of perovskite and commonly used electron transport materials  in perovskite solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This further increase the interfacial charge recombination and accelerate the decomposition of perovskite film, resulting in the attenuation of device efficiency and stability",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here, a cerium oxide  nanoparticle with an average size of 18.66\u00a0nm is proposed as a novel mesoporous material to modify the interface of ETM and perovskite",
+            "all_materials": [
+                "cerium oxide",
+                "ETM"
+            ],
+            "other_materials": [
+                "cerium oxide",
+                "ETM"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The CeOx mesoporous layer with higher electron mobility and more suitable band energy level facilitates charge transfer from perovskite layer",
+            "all_materials": [
+                "CeOx"
+            ],
+            "other_materials": [
+                "CeOx"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As expected, the mesoporous CeOx based PSCs exhibits an improved power conversion efficiency up to 23.15%",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "More importantly, the mesoporous CeOx layer  can realize the effective absorption of UV light, to efficiently improve the UV light stability of PSCs and the overall stability of the devices",
+            "all_materials": [
+                "CeOx"
+            ],
+            "other_materials": [
+                "CeOx"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The unencapsulated devices with mesoporous CeOx maintained almost 90% of initial efficiency after 850\u00a0h under UV illumination",
+            "all_materials": [
+                "CeOx"
+            ],
+            "other_materials": [
+                "CeOx"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work provides a new approach to fabricate the efficient and UV stable PSCs by introducing the mesoporous CeOx layer.",
+            "all_materials": [
+                "PSCs",
+                "CeOx"
+            ],
+            "other_materials": [
+                "CeOx"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "Perovskite solar cells  have attracted tremendous attention due to the increase of energy cost related to the rapid development of global economy and environmental issues ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The power conversion efficiency  of PSCs has rapidly increased from 3.8% to 25.7%, due to the development of perovskite film quality improvement, interface engineering and selective contact layer ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, studies revealed that the UV light could cause the generation of vacancies and defects to induce the reduction of Pb2+ to Pb0, resulting in degradation of perovskite film and damaging the performance of PSCs ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Additionally, the commonly used electron transport materials  with photocatalytic activity can accelerate the decomposition of perovskite by inducing deep electronic traps through UV light ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, how to effectively manage the interface of ETM and perovskite to reduce the destroy of UV light to perovskite film is vital for the fabrication of efficient and stable PSCs.",
+            "all_materials": [
+                "ETM"
+            ],
+            "other_materials": [
+                "ETM"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Several strategies have been reported to reduce the damage of UV light to perovskite through interface modification or introducing UV light absorption layer ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For example, the ZnS interlayer was constructed at the ZnO/perovskite interface by sulfidation",
+            "all_materials": [
+                "ZnS",
+                "ZnO"
+            ],
+            "other_materials": [
+                "ZnS",
+                "ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The interfacial S-Pb interaction promoted the charge extraction and transmission of ZnO/perovskite interface, reducing the interfacial charge recombination",
+            "all_materials": [
+                "ZnO"
+            ],
+            "other_materials": [
+                "ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Meanwhile, the ZnS interlayer could also absorb UV light and reduce the degradation of the perovskite by UV light, thus effectively improving the efficiency and UV stability of the devices",
+            "all_materials": [
+                "ZnS"
+            ],
+            "other_materials": [
+                "ZnS"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Introducing the PCBM stabilized by bathophenanthroline as an interlayer inhibited the photocatalysis effect of SnO2",
+            "all_materials": [
+                "PCBM",
+                "bathophenanthroline",
+                "SnO2"
+            ],
+            "other_materials": [
+                "PCBM",
+                "bathophenanthroline",
+                "SnO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Bathophenanthroline with electron-rich sites could form thermodynamically stable PCBM complexes to reduce the effect of UV light aging on PCBM, thus improving the device stability",
+            "all_materials": [
+                "Bathophenanthroline",
+                "PCBM",
+                "PCBM"
+            ],
+            "other_materials": [
+                "Bathophenanthroline",
+                "PCBM",
+                "PCBM"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, the 2-hydroxy-4-methoxybenzophenone as a \u201csunscreen\u201d was used to passivate the defects and inhibit the degradation of UV light by tautomeric transition, thus improving the UV stability of perovskite film",
+            "all_materials": [
+                "2-hydroxy-4-methoxybenzophenone"
+            ],
+            "other_materials": [
+                "2-hydroxy-4-methoxybenzophenone"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "These strategies can effectively reduce the damage of UV light to PSCs, but these thin  functional layers is hard to fully absorb UV light and realize the effective protection of perovskite layer",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, the development of a thicker interfacial modification layer to absorb UV light and promote interfacial charge transport is very important for the preparation of UV stable and efficient PSCs.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "CeOx has been considered as a potential ETM due to its higher electron mobility, excellent chemical stability, suitable band energy level and UV light blocking ability ,",
+            "all_materials": [
+                "CeOx"
+            ],
+            "other_materials": [
+                "CeOx"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Inspired by these advantages, we designed and synthesized a CeOx nanoparticle with the average size of 18.66\u00a0nm, which was further used as mesoporous CeOx  layer coated at the interface of ETM and perovskite to fabricate the PSCs",
+            "all_materials": [
+                "CeOx",
+                "CeOx",
+                "ETM",
+                "PSCs"
+            ],
+            "other_materials": [
+                "CeOx",
+                "ETM"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                8,
+                "StartingSynthesis"
+            ],
+            "targets": "CeOx"
+        },
+        {
+            "sentence": "The m-CeOx layer  can effectively promote the charge extraction and transport from perovskite film, to improve the device efficiency",
+            "all_materials": [
+                "m-CeOx"
+            ],
+            "other_materials": [
+                "m-CeOx"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In particular, the m-CeOx layer can effectively absorb UV light and greatly improve the UV light stability of the devices",
+            "all_materials": [
+                "m-CeOx"
+            ],
+            "other_materials": [
+                "m-CeOx"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Finally, the devices with m-CeOx achieved an outstanding efficiency of 23.15%  and remarkably improved UV light stability",
+            "all_materials": [
+                "m-CeOx"
+            ],
+            "other_materials": [
+                "m-CeOx"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The unencapsulated devices with m-CeOx maintained almost 90% of initial efficiency after 850\u00a0h under UV illumination.",
+            "all_materials": [
+                "m-CeOx"
+            ],
+            "other_materials": [
+                "m-CeOx"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "All reagents and solvents used in this experiment were purchased from chemical companies and without any special purification",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The synthesis of CeOx was presented in Supporting information.",
+            "all_materials": [
+                "CeOx"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CeOx"
+        },
+        {
+            "sentence": "The fluorine-doped tin oxide  was etched by laser etching machine and cleaned by ultra-sonication bath",
+            "all_materials": [
+                "tin oxide"
+            ],
+            "other_materials": [
+                "tin oxide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The SnO2 layer was prepared by chemical bath deposition",
+            "all_materials": [
+                "SnO2"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                4,
+                "StartingSynthesis"
+            ],
+            "targets": "SnO2"
+        },
+        {
+            "sentence": "Then, the substrates were treated with 10\u00a0mM KCl aqueous solution, followed by annealing at 100\u00a0\u00b0C for 10\u00a0min",
+            "all_materials": [
+                "KCl"
+            ],
+            "other_materials": [
+                "KCl"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                [
+                    5,
+                    "HeatingOperation"
+                ],
+                [
+                    15,
+                    "HeatingOperation"
+                ]
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For CeOx as the",
+            "all_materials": [
+                "CeOx"
+            ],
+            "other_materials": [
+                "CeOx"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The structure of PSCs with CeOx as the mesoporous layer coated on SnO2 ETM layer was shown in Fig",
+            "all_materials": [
+                "PSCs",
+                "CeOx",
+                "SnO2 ETM"
+            ],
+            "other_materials": [
+                "PSCs",
+                "CeOx",
+                "SnO2 ETM"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The CeOx nanocrystal was synthesized with a versatile solvothermal procedure as the scaffold material precursor1a",
+            "all_materials": [
+                "CeOx"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                4,
+                "StartingSynthesis"
+            ],
+            "targets": "CeOx"
+        },
+        {
+            "sentence": "In order to increase the dispersion uniformity of CeOx particles, the synthesized particles were prepared into a homogeneous mixture by ball mill",
+            "all_materials": [
+                "CeOx"
+            ],
+            "other_materials": [
+                "CeOx"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                15,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A photograph of the prepared CeOx paste dispersed in isopropanol was shown in Fig",
+            "all_materials": [
+                "CeOx",
+                "isopropanol"
+            ],
+            "other_materials": [
+                "CeOx",
+                "isopropanol"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                7,
+                "LiquidGrinding"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Transmission electron microscope 1b and S1",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In summary, we introduced m-CeOx to modify the interface of SnO2 ETM and perovskite film",
+            "all_materials": [
+                "m-CeOx",
+                "SnO2 ETM"
+            ],
+            "other_materials": [
+                "m-CeOx",
+                "SnO2 ETM"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The introduction of m-CeOx on the surface of SnO2 increased the infiltration of perovskite precursor solution at the substrates, and then preparing the high quality perovskite films",
+            "all_materials": [
+                "m-CeOx",
+                "SnO2"
+            ],
+            "other_materials": [
+                "m-CeOx",
+                "SnO2"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                22,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The m-CeOx with well-matched energy level and excellent charge transfer property promoted the interfacial charge extraction and transport",
+            "all_materials": [
+                "m-CeOx"
+            ],
+            "other_materials": [
+                "m-CeOx"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The efficiency of the PSCs with m-CeOx was improved up to 23.15%, while the hysteresis",
+            "all_materials": [
+                "m-CeOx"
+            ],
+            "other_materials": [
+                "m-CeOx"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We acknowledge the National Natural Science Foundation of China  and the 111 Project .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Flexible optoelectronic is one of the key components for acquiring biological signals in wearable devices and implantable systems",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Recently, antimony selenide  has shown an exciting potential for flexible optoelectronic applications due to its unique one-dimensional  ribbon-typed crystal structure, low-cost constituents, and superior optoelectronic properties",
+            "all_materials": [
+                "antimony selenide"
+            ],
+            "other_materials": [
+                "antimony selenide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the growth of [0\u00a00\u00a01]-oriented Sb2Se3 film, which can efficiently enhance the carrier transport, is still challenging, particularly for its application in flexible electronics",
+            "all_materials": [
+                "Sb2Se3"
+            ],
+            "other_materials": [
+                "Sb2Se3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, we propose to grow the free-standing [0\u00a00\u00a01]-oriented Sb2Se3 film for self-powered flexible photodiode through selenizing the highly -textured Sb film on mica substrate",
+            "all_materials": [
+                "Sb2Se3",
+                "Sb"
+            ],
+            "other_materials": [
+                "Sb2Se3",
+                "Sb"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The theoretical calculation reveals that Sb plane provides a high adsorption energy for Se atoms, which promotes the [0\u00a00\u00a01]-oriented growth of Sb2Se3 film",
+            "all_materials": [
+                "Sb",
+                "Se",
+                "Sb2Se3"
+            ],
+            "other_materials": [
+                "Sb",
+                "Se",
+                "Sb2Se3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The weak vdW interaction between Sb2Se3 film and mica substrate enables the film separation, and results in a free-standing Sb2Se3 film",
+            "all_materials": [
+                "Sb2Se3",
+                "mica",
+                "Sb2Se3"
+            ],
+            "other_materials": [
+                "Sb2Se3",
+                "mica"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "Sb2Se3"
+        },
+        {
+            "sentence": "Benefiting from the enhanced carrier transport in [0\u00a00\u00a01]-oriented Sb2Se3 film, the flexible photodiode exhibits a high responsivity up to 0.74\u00a0A\u00a0W\u22121, a specific detectivity of 5.1\u00a0\u00d7\u00a01013 Jones, a linear dynamic range of 102\u00a0dB, rise/fall time of 0.16/0.15\u00a0ms for near-infrared light detection without any external bias, and excellent folding endurance after 1000 bending cycles",
+            "all_materials": [
+                "Sb2Se3"
+            ],
+            "other_materials": [
+                "Sb2Se3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It has been also successfully employed as a wearable photodetector to detect a person\u2019s heart rate",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work demonstrates a strategy for the orientation control of low-dimensional crystal-structured materials and a great potential of free-standing films in flexible electronics applications.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "So far, as the most studied hole transport layer  material, SpiroOMeTAD has been widely used in high-performance perovskite solar cells",
+            "all_materials": [
+                "SpiroOMeTAD"
+            ],
+            "other_materials": [
+                "SpiroOMeTAD"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the long-term stability of devices containing SpiroOMeTAD is largely limited by its sensitivity to moisture and ion diffusion",
+            "all_materials": [
+                "SpiroOMeTAD"
+            ],
+            "other_materials": [
+                "SpiroOMeTAD"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, we report a highly hydrophobic tetrathiophene polymer  with a quinoid-donor\u2013acceptor structure as a chemically tailored modifier to SpiroOMeTAD HTL for stable PSCs",
+            "all_materials": [
+                "tetrathiophene",
+                "PSCs"
+            ],
+            "other_materials": [
+                "tetrathiophene"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "A robust bilayer could form by strong binding the PAQM-DPP buffer layer to the SpiroOMeTAD hole transport layer, thus significantly decreasing ions migration and moisture penetration",
+            "all_materials": [
+                "PAQM-DPP",
+                "SpiroOMeTAD"
+            ],
+            "other_materials": [
+                "PAQM-DPP",
+                "SpiroOMeTAD"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Under constant illumination conditions , the non-encapsulated PSCs with hydrophobic polymer/SpiroOMeTAD bilayer maintained more than 92\u00a0% PCE for 500\u00a0h and exhibited higher tolerance up to 30\u201350\u00a0% relative humidity when compared to the device composed of their SpiroOMeTAD HTL counterpart.",
+            "all_materials": [
+                "SpiroOMeTAD",
+                "PCE"
+            ],
+            "other_materials": [
+                "SpiroOMeTAD",
+                "PCE"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Perovskite solar cells  with dopant\u2010free hole transporting layers  deserved extensive research by merits of their outstanding hydrophobicity and stability",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the low carrier mobility and poor interfacial hole extraction lead to the inferior power conversion efficiency  than that of conventional Li+ doped Spiro-OMeTAD",
+            "all_materials": [
+                "Spiro-OMeTAD"
+            ],
+            "other_materials": [
+                "Spiro-OMeTAD"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here, a design of triphenylamine groups grafted triphenylene derivative  as dopant-free HTLs has been presented",
+            "all_materials": [
+                "triphenylene",
+                "HTLs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "triphenylene"
+        },
+        {
+            "sentence": "The larger \u03c0-conjugation in T-6TPA give rise to high hole mobility of 2.06\u00a0\u00d7\u00a010\u22123 cm2V\u22121s\u22121",
+            "all_materials": [
+                "T-6TPA"
+            ],
+            "other_materials": [
+                "T-6TPA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, the interfacial hole extraction of T-6TPA was significantly promoted when the molecules were infiltrated into perovskite before HTL deposition",
+            "all_materials": [
+                "T-6TPA"
+            ],
+            "other_materials": [
+                "T-6TPA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The infiltration method of anti-solvent dripping  strategy increased PCE from 18.5% up to 20.3%, which is superior to another additive doping strategy",
+            "all_materials": [
+                "PCE"
+            ],
+            "other_materials": [
+                "PCE"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The effectiveness of An-strategy can be attributed to the construction of a coherent and homogeneous hole transport channel",
+            "all_materials": [
+                "An"
+            ],
+            "other_materials": [
+                "An"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The hydrophobicity and high glass transition temperature of T-6TPA also granted excellent moisture and thermal stabilities that the initial PCE could remain 80% for 60\u00a0days in air or 600\u00a0h at 60\u00a0\u00b0C",
+            "all_materials": [
+                "T-6TPA",
+                "PCE",
+                "air"
+            ],
+            "other_materials": [
+                "T-6TPA",
+                "PCE",
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work highlights the synergistical optimization by design of highly hole-mobile materials as well as the interfacial network construction for charge transport.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "All-inorganic perovskite solar cells  have gained extensive attention owing to the excellent intrinsic thermal stability, but their power conversion efficiencies  still lag behind those of organic\u2013inorganic hybrid PSCs due to their relatively wide bandgap",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To extend the absorption of CsPbI2Br based all-inorganic PSCs, in this work, a low bandgap organic active layer of PM6:Y6 is integrated on the top of CsPbI2Br layer",
+            "all_materials": [
+                "CsPbI2Br",
+                "PSCs",
+                "PM6:Y6",
+                "CsPbI2Br"
+            ],
+            "other_materials": [
+                "CsPbI2Br",
+                "PSCs",
+                "PM6:Y6",
+                "CsPbI2Br"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Compared with CsPbI2Br PSCs using PM6 as hole transport layer, the integrated solar cells  obtained an extended photo-response range to 950\u00a0nm and improved short-circuit current density  from 14.25 to 15.44\u00a0mA\u00a0cm\u22122, as well as promoted PCE from 15.31% to 17.33%",
+            "all_materials": [
+                "CsPbI2Br",
+                "PM6",
+                "PCE"
+            ],
+            "other_materials": [
+                "CsPbI2Br",
+                "PM6",
+                "PCE"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, the photoluminescence , time-resolved-photoluminescence , photoinduced transient absorption spectroscopy , transient photocurrent , and transient photovoltage  results demonstrate the effective carriers\u2019 bidirectional transport and suppressed carriers\u2019 recombination at CsPbI2Br/PM6:Y6 interface, which is the basis for ISCs to obtain high efficiency",
+            "all_materials": [
+                "CsPbI2Br",
+                "PM6",
+                "Y6"
+            ],
+            "other_materials": [
+                "CsPbI2Br",
+                "PM6",
+                "Y6"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Our findings demonstrate that ISC is a promising strategy to extend the photo-response range and improve the performance of CsPbI2Br based PSCs, and give a deeper understanding of carrier transfer in ISCs.",
+            "all_materials": [
+                "CsPbI2Br"
+            ],
+            "other_materials": [
+                "CsPbI2Br"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Interface passivation is an effective means to decrease detrimental defects and realize highly efficient and stable perovskite solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Nevertheless, most of the interfacial passivators currently used are easily formed mismatched energy levels and impede the extraction of photogenerated charge carriers",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, a metal-free H2-phthalocyanine  is reported to passivate the interface defects and improve the crystallinity and energy level alignment",
+            "all_materials": [
+                "H2-phthalocyanine"
+            ],
+            "other_materials": [
+                "H2-phthalocyanine"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Contrasting metal Zn-phthalocyanine, the pyrrolic nitrogen and NH bond in the structure of the H2Pc molecule exhibit a higher capability to interact with unsaturated Pb and I site",
+            "all_materials": [
+                "Zn-phthalocyanine",
+                "H2Pc"
+            ],
+            "other_materials": [
+                "Zn-phthalocyanine",
+                "H2Pc"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It is found that the defects passivation and improved crystallinity in H2Pc molecule treatment are achieved by the formation of coordination bonding between N atoms and uncoordinated Pb2+ ions and hydrogen bonding between NH bond and I",
+            "all_materials": [
+                "H2Pc"
+            ],
+            "other_materials": [
+                "H2Pc"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Simultaneously, the H2Pc treatment can also improve energy level alignment and promote the charge extraction from perovskite to the hole transport material layer",
+            "all_materials": [
+                "H2Pc"
+            ],
+            "other_materials": [
+                "H2Pc"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As a result, a champion power conversion efficiency  of 20.59\u00a0% is achieved for the H2Pc PSCs, which is higher than that of 18.54\u00a0% for the ZnPc PSCs and 16.50\u00a0% for the pristine PSCs",
+            "all_materials": [
+                "H2Pc PSCs",
+                "ZnPc PSCs",
+                "PSCs"
+            ],
+            "other_materials": [
+                "H2Pc PSCs",
+                "ZnPc PSCs",
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Meanwhile, the H2Pc device shows significantly improved moisture, thermal, and illumination stability and with retaining over 90\u00a0% of its initial PCE after aging for 1000\u00a0h at about 20\u00a0% relative humidity in ambient conditions",
+            "all_materials": [
+                "H2Pc"
+            ],
+            "other_materials": [
+                "H2Pc"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The present work provides a practical and efficient method of simultaneous defect passivation and energy level modulation and toward the purpose of attaining superior performance PSCs and other perovskite-based electronics.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Poly[bisamine] -based inverted perovskite solar cells  are the most efficient device type reported to date",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Nevertheless, the high hydrophobicity of PTAA and the nonradiative recombination loss significantly limit the repeatability and the performances of these devices",
+            "all_materials": [
+                "PTAA"
+            ],
+            "other_materials": [
+                "PTAA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this study, polyvinyl oxide  and tetra-n-propylammonium bromide  were introduced to overcome the hydrophobicity of PTAA and the anode and cathode interface nonradiative recombination losses through the synergistic effect of these materials",
+            "all_materials": [
+                "polyvinyl oxide",
+                "tetra-n-propylammonium bromide",
+                "PTAA"
+            ],
+            "other_materials": [
+                "polyvinyl oxide",
+                "tetra-n-propylammonium bromide",
+                "PTAA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The results showed that the PEO could dramatically improve the wetting properties of the perovskite precursor on the PTAA surface, correspondingly enhancing the microstructure of the film, eliminating the defects, and enhancing the anode interfacial contact of the device",
+            "all_materials": [
+                "PEO",
+                "PTAA"
+            ],
+            "other_materials": [
+                "PEO",
+                "PTAA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The performances and performance repeatability of the devices were greatly improved",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The ratio of the short-circuited devices decreased from 44.23\u00a0% to 0\u00a0%, and the average power conversion efficiency  increased dramatically",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, a facile TPAB surface treatment strategy was proposed to reduce the potential threat of PEO introduction to the device stability as well as improve the cathode interface contact problems of the device",
+            "all_materials": [
+                "PEO"
+            ],
+            "other_materials": [
+                "PEO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Owing to the synergistic effect of the PEO and TPAB, the performance and stability were both enhanced",
+            "all_materials": [
+                "PEO",
+                "TPAB"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "PEO",
+                    "start": 39,
+                    "end": 42,
+                    "token_ids": [
+                        7
+                    ]
+                },
+                {
+                    "text": "TPAB",
+                    "start": 47,
+                    "end": 51,
+                    "token_ids": [
+                        9
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The highest PCE of 21.62\u00a0% was achieved, and the average PCE of TPAB devices could be maintained at 80\u00a0% for 298\u00a0h  and 96\u00a0% for 217 d  of the initial PCE value",
+            "all_materials": [
+                "TPAB"
+            ],
+            "other_materials": [
+                "TPAB"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The synergistic dual-interface modification strategy proposed in this paper lights the way for the preparation of highly reproducible, efficient, and stable PTAA-based inverted perovskite solar cells.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Xiao and RG-B",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Meng contributed equally to this work.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

@@ -1,0 +1,1513 @@
+{
+    "rest": [
+        {
+            "sentence": "The heterointerfaces of charge-selective contacts are crucial in determining efficiency and stability of perovskite optoelectronic devices, where the fundamental knowledge of the buried heterointerface between perovskite and bottom charge transport layer is less well understood compared to the top interface",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, we systematically investigate the energetics at the perovskite/SnO2 buried heterointerface for an n-i-p perovskite solar cell  and the perovskite/PEDOT:PSS buried heterointerface for a p-i-n one, respectively",
+            "all_materials": [
+                "/SnO2",
+                "/PEDOT:PSS"
+            ],
+            "other_materials": [
+                "/SnO2",
+                "/PEDOT:PSS"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In contrast to previous cognitions, we discover a perovskite transition phase at the buried interface region that originates from the chemical bonding interaction with the bottom charge transport layer",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The transition phase causes an energy level barrier and induces defects, impeding charge transport across the heterointerface",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "These detrimental effects trigger significant nonradiative recombination and limit the attainable device photovoltage",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We then develop the energetic models that describe such buried heterointerfaces",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, we further test the proposed model-derived mechanisms via inserting a thin polyvinyl alcohol layer into the buried heterointerfaces of the devices",
+            "all_materials": [
+                "polyvinyl alcohol"
+            ],
+            "other_materials": [
+                "polyvinyl alcohol"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We demonstrate that chemical interactions and formation of the perovskite transition phase at the buried heterointerface thereby are fully restrained, leading to a diminished electron extraction barrier and improved charge transport",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As a result, significant increases in open-circuit voltage and fill factor of the devices are achieved",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "These results will help guide future efforts on developing suitable buried heterointerfaces for superior performance of perovskite optoelectronics.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Download : Download high-res image Download : Download full-size image",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Solution-processed metal halide perovskites have gained great success in optoelectronic devices,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Perovskite solar cells  have achieved skyrocketed increase in power conversion efficiency  from 3.9% to now 25.7% over the last few years, attributed to effective material refining, defect passivation and interface design,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For conventional n-i-p  architectural PSCs, a polycrystalline perovskite semiconductor film is deposited on an underlying electron  transport layer with an opposite hole  transport layer coated on the top surface ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The created heterointerfaces between the perovskite and charge transport layers have been demonstrated to be important sources for nonradiative carrier recombination, resulting in a large gap to devices operating at their full thermodynamic efficiency, .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In a typical PSC, the energetics across the heterointerfaces between perovskite and charge transport layers, e.g",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "the relative positions of the perovskite\u2019s valence or conduction bands and the charge transport layer\u2019s frontier energy levels, i.e., highest occupied molecular orbital  and lowest unoccupied molecular orbital  levels, largely determine charge extraction and thus device output efficiency,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In particular, contrary to a flat band at the interface, the charge transfer at the heterointerfaces commonly causes an abrupt step in vacuum level  often termed interface dipole, or extended space-charge regions frequently referred to as band bending, or both",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "These energetic behaviors beyond all doubt impact on the charge transport dynamics at the heterointerfaces",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Hence, the perovskite heterointerface of charge-selective contacts have been critical in boosting PSC efficiency and stability with recent remarkable progress, .",
+            "all_materials": [
+                "PSC"
+            ],
+            "other_materials": [
+                "PSC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, most research efforts have been focused on the heterointerface between perovskite and the top charge transport layer to vastly improve its interface engineering, whereas the buried heterointerface of the perovskite layer with the bottom charge transport layer has received less attention because of its non-exposed features and difficulties in methodology to explore it nondestructively",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This is unfortunate as the buried interface is at least as important as the top interface in PSCs",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The recent works by Huang et al., Zhu et al",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "and Thomas et al",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "all found that the buried perovskite heterointerfaces suffer more morphological voids, higher sub-microscale extended imperfections and defect concentrations than that of the top perovskite heterointerface, which have opened the door to use imbedded additives to reconstruct the bottom of the perovskite film for ulteriorly suppressing device energy loss and operational degradation,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Nevertheless, knowledge of the energetics at the perovskite buried heterointerface in PSCs is largely lacking so far",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To reliably guide the development of perovskite optoelectronic devices, it is thus highly desirable to obtain insights into the energetics at the buried perovskite heterointerface with the bottom charge transport layer, and their effects on device optoelectronic properties.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, we successfully uncover the energetics at the buried heterointerface between perovskite and the bottom charge transport layer for n-i-p and p-i-n structural PSCs, respectively",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The evolution of such heterointerface properties and their effect on device performance are monitored in detail",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In contrast to previous cognitions, a perovskite transition phase is formed at the buried heterointerface region, originating from the appearance of chemical bonding with the bottom charge transport layer",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This causes an increase of the interface energy level barrier and induces defects, thus impeding charge transport across the heterointerface",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, we find that charge-extraction-impeding band bending occurs at the buried heterointerfaces",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We then develop the energetic models that describe such buried heterointerfaces",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, we validate the proposed model-derived mechanisms via insertion of a polyvinyl alcohol  thin layer into the buried heterointerface in PSCs",
+            "all_materials": [
+                "polyvinyl alcohol",
+                "PSCs"
+            ],
+            "other_materials": [
+                "polyvinyl alcohol",
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The open-circuit voltage  and fill factor  are remarkably enhanced with the elimination of interface chemical interactions and thereby reduced electron extraction energy barrier that boost charge transport across the buried heterojunction",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work provides insights into the perovskite buried heterointerface and sheds lights on further interface design to enhance efficiency and stability of perovskite optoelectronic devices.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To intuitively estimate the impact of the perovskite buried heterointerface on device performance, we firstly fabricate two common PSCs with an n-i-p structure of ITO/SnO2/MAPbI3/Spiro-OMeTAD/MoO3/Ag and a p-i-n structure of ITO/PEDOT:PSS/MAPbI3/PCBM/BCP/Ag for comparison , respectively",
+            "all_materials": [
+                "ITO/SnO2/MAPbI3/Spiro-OMeTAD/MoO3/Ag",
+                "ITO/PEDOT:PSS/MAPbI3/PCBM/BCP/Ag"
+            ],
+            "other_materials": [
+                "ITO/SnO2/MAPbI3/Spiro-OMeTAD/MoO3/Ag",
+                "ITO/PEDOT:PSS/MAPbI3/PCBM/BCP/Ag"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                16,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The current density-voltage  characteristics show that the n-i-p device delivers a typical PCE of 18.42% with a Voc of 1.08\u2009V and a short current density  of 23.56\u2009mA\u2009cm\u22122, while the p-i-n",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Lead iodide , lead bromide , and cesium iodide , bisimide lithium , tertbutylpyridine , poly:poly  and Poly[bis amine]  were purchased from Polymer Light Technology",
+            "all_materials": [
+                "Lead iodide",
+                "lead bromide",
+                "cesium iodide",
+                "bisimide lithium",
+                "tertbutylpyridine",
+                "poly:poly",
+                "Poly[bis amine]"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "Lead iodide",
+                    "start": 0,
+                    "end": 11,
+                    "token_ids": [
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "text": "lead bromide",
+                    "start": 14,
+                    "end": 26,
+                    "token_ids": [
+                        3,
+                        4
+                    ]
+                },
+                {
+                    "text": "cesium iodide",
+                    "start": 33,
+                    "end": 46,
+                    "token_ids": [
+                        7,
+                        8
+                    ]
+                },
+                {
+                    "text": "bisimide lithium",
+                    "start": 49,
+                    "end": 65,
+                    "token_ids": [
+                        10,
+                        11
+                    ]
+                },
+                {
+                    "text": "tertbutylpyridine",
+                    "start": 68,
+                    "end": 85,
+                    "token_ids": [
+                        13
+                    ]
+                },
+                {
+                    "text": "poly:poly",
+                    "start": 88,
+                    "end": 97,
+                    "token_ids": [
+                        15,
+                        16,
+                        17
+                    ]
+                },
+                {
+                    "text": "Poly[bis amine]",
+                    "start": 103,
+                    "end": 118,
+                    "token_ids": [
+                        19,
+                        20,
+                        21
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Tin oxide  colloid precursor  was received from J&amp;K Scientific",
+            "all_materials": [
+                "Tin oxide"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "Tin oxide",
+                    "start": 0,
+                    "end": 9,
+                    "token_ids": [
+                        0,
+                        1
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Methylammonium iodide , formamidinium iodide",
+            "all_materials": [
+                "Methylammonium iodide",
+                "formamidinium iodide"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "Methylammonium iodide"
+        },
+        {
+            "sentence": "Shaobing Xiong: Conceptualization, Writing - original draft",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Sheng Jiang: Methodology",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Yefang Zhang: Methodology",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Zhiwei Lv: Methodology",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Ruirong Bai: Methodology",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Yuting Yan: Methodology",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Xionghu Xu: Methodology",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Liming Ding: Investigation, Funding acquisition",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Yuning Wu: Resources",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Xianjie Liu: Investigation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Mats Fahlman: Writing - review &amp; editing",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Qinye Bao: Supervision, Writing - review &amp; editing.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The work is supported by the National Science Foundation of China grant , the National Key Research and Development Program of China , Shanghai Science and Technology Innovation Action Plan , the Fundamental Research Funds for the Central Universities, and East China Normal University  Multifunctional Platform for Innovation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "also thanks the project funded by China Postdoctoral Science Foundation  and ECNUS.X",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Shaobing Xiong is currently a postdoc in Institute of Optoelectronics at Fudan University",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "He received his BS in Physics from Soochow University in 2017 and PhD from East China Normal University in 2022 under the supervision of Prof",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "His research focuses on perovskite solar cells.Qinye Bao",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Due to the unpredictable composition and vulnerable nature of the grain boundaries , grain boundaries engineering with improving the order degree of perovskite GBs would be the breakthrough for high-performance polycrystalline perovskite solar cells",
+            "all_materials": [
+                "GBs"
+            ],
+            "other_materials": [
+                "GBs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, there are rare works on the stacking structures of passivators and on their influence on performance",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, based on the easily aggregate nature, a bicarbazole molecule featuring cyanogroup was used as a GB passivator to self-assemble ordered porous framework structures in GBs",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The formation of pores depends on the inversion of the carbazole plane",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Besides defect passivation, humidity barrier and crystallization promotion abilities, the ordered porous stacking structure shows extra advantages on lead leakage elimination and tensile stress relief",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The easily deformable quadrilateral pores, which are connected by weak forces with adjustable bond length, give the skeleton a function of \u201cturning joint\u201d that releases tensile stresses during the thermal process by its structural expansion, and thus, restricting perovskite expansion with ion migration/evaporation suppression, which is commendable for passivators",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As a result, a champion PCE of 23.15% is realized, and PSCs show significantly enhanced thermal and operational stability, as well as diminished lead leakage",
+            "all_materials": [
+                "PSCs",
+                "lead"
+            ],
+            "other_materials": [
+                "PSCs",
+                "lead"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work reveals more possibilities in grain boundary engineering and provides a new avenue for stable and environmental-friendly PSCs.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Wide-bandgap perovskite is considered an ideal absorber for the top component cell of a tandem configuration, in addition to having proven advantageous for indoor light conversion and semitransparent solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, we demonstrate an ambient aging process that appears to further raise the performance of wide-bandgap perovskite solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Systematic study shows that that secondary recrystallization arises during the aging process",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The defect density is further attenuated by air passivation and the self-healing effect induced by halogen redistribution",
+            "all_materials": [
+                "air"
+            ],
+            "other_materials": [
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As such, the nonradiative recombination in the perovskite films is suppressed, and the carrier lifetime is prolonged during the ambient aging",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The champion wide-bandgap  perovskite solar cell delivered a power-conversion efficiency as high as 20.12%, coupled with a high open-circuit voltage of 1.27\u00a0V, which is among the highest values reported for this type of wide-bandgap solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work reveals the impact of the air aging process on the properties of perovskite films from various aspects and demonstrates a scalable post-treatment strategy capable of producing state-of-the-art semiconducting films.",
+            "all_materials": [
+                "air"
+            ],
+            "other_materials": [
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Flexible perovskite solar cells are new energy devices with a promising future due to their numerous advantages, such as high defect tolerance, strong solar absorption and low non-radiative carrier recombination rates",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, their operational stability is still an ongoing challenge during upgrading, and their inferior moisture corrosion resistance is still a major issue for better performances",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Thin-film encapsulation could effectively enhance the operational stability of perovskite solar cells but obtaining encapsulation films with excellent barrier performance always come at the expense of poor flexibility",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, the development of novel encapsulation materials with both barrier performance and flexibility is urgent for the compatibility of flexible applications",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, &quot;Plasma-Enhanced Molecular Layer Deposition&quot; was used for the first time to prepare a highly cross-linked, densified flexible encapsulation material AlOC at 40\u00a0\u2103 to break through the traditional technology",
+            "all_materials": [
+                "AlOC"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "AlOC"
+        },
+        {
+            "sentence": "The resulting encapsulation material can be applied to flexible perovskite solar cells as a barrier film without any damage",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The as-obtained encapsulation film exhibited a water vapor transmittance rate of 1.44\u00a0\u00d7\u00a010\u22125 g\u00a0m\u22122 day\u22121 and preserved 95\u00a0% of its initial barrier performance after 10,000 bends with a 3\u00a0mm bend radius",
+            "all_materials": [
+                "water"
+            ],
+            "other_materials": [
+                "water"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Such performance was the best among the reported thin-film encapsulation layers of flexible perovskite solar cells.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Nickel oxide  is a prospective hole transporting layer  material for inverted  perovskite solar cells ; however, inevitable surface defects on the NiOx surface interfere with the realization of high-performance PSCs",
+            "all_materials": [
+                "Nickel oxide",
+                "NiOx"
+            ],
+            "other_materials": [
+                "Nickel oxide",
+                "NiOx"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, nickel nitrate is used to eliminate defect sites and hydroxyl groups on the NiOx surface",
+            "all_materials": [
+                "nickel nitrate",
+                "NiOx"
+            ],
+            "other_materials": [
+                "nickel nitrate",
+                "NiOx"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For the first time, it is found that a uniform and ultra-thin nickel nitride  layer can be formed on the NiOx surface through the spin coating of the nickel nitrate solution at low temperatures",
+            "all_materials": [
+                "nickel nitride",
+                "NiOx",
+                "nickel nitrate"
+            ],
+            "other_materials": [
+                "nickel nitride",
+                "NiOx",
+                "nickel nitrate"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Promisingly, this new approach allows to overcome interface losses originating from defect sites and hydroxyl groups on the NiOx surface and to achieve high efficiency and long-term operational stability in PSCs",
+            "all_materials": [
+                "NiOx",
+                "PSCs"
+            ],
+            "other_materials": [
+                "NiOx",
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, NixN serves better energy level alignment between NiOx HTL and perovskite layer, resulting in improved charge extraction and transportation and reduced charge recombination",
+            "all_materials": [
+                "NixN",
+                "NiOx HTL"
+            ],
+            "other_materials": [
+                "NixN",
+                "NiOx HTL"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The NixN-modified NiOx-based PSC demonstrates an outstanding efficiency of 20.45% and it shows long-term operational stability about 82% of the initial efficiency after 1000\u00a0h under ambient air conditions",
+            "all_materials": [
+                "PSC",
+                "air"
+            ],
+            "other_materials": [
+                "PSC",
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Thus, this simple approach using nickel nitrate can be a promising and universal strategy to revive nickel oxide-perovskite interfaces and boost the performance and operational stability of PSCs.",
+            "all_materials": [
+                "nickel nitrate",
+                "nickel oxide",
+                "PSCs"
+            ],
+            "other_materials": [
+                "nickel nitrate",
+                "nickel oxide",
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The carrier non-radiative recombination loss caused by numerous interfacial defects existing between perovskite and neighboring charge transport layers, such as SnO2/perovskite and perovskite/spiro-OMeTAD, which greatly restricts the performance improvement of flexible perovskite solar cells",
+            "all_materials": [
+                "SnO2/perovskite",
+                "perovskite/spiro-OMeTAD"
+            ],
+            "other_materials": [
+                "SnO2/perovskite",
+                "perovskite/spiro-OMeTAD"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, we devised a novel dual-modification strategy using Ce-containing compounds 3 and Ce2) to minimize interfacial defect density at the interface of SnO2/perovskite and perovskite/spiro-OMeTAD respectively, thus enhancing the performance and stability of flexible PSCs",
+            "all_materials": [
+                "Ce2",
+                "SnO2",
+                "perovskite",
+                "spiro-OMeTAD",
+                "PSCs"
+            ],
+            "other_materials": [
+                "SnO2",
+                "perovskite",
+                "spiro-OMeTAD",
+                "PSCs"
+            ],
+            "precursors": [
+                {
+                    "text": "Ce2",
+                    "start": 90,
+                    "end": 93,
+                    "token_ids": [
+                        17
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It was revealed that the introduction of Ce23 interface layer was conducive to ameliorating the electrical properties of SnO2 and significantly reducing the SnO2/perovskite interface defects",
+            "all_materials": [
+                "Ce23",
+                "SnO2",
+                "SnO2/"
+            ],
+            "other_materials": [
+                "Ce23",
+                "SnO2",
+                "SnO2/"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, the Ce2 was adopted as a novel oxidant to achieve the rapid oxidation of spiro-OMeTAD, thus enhancing the hole mobility of bulk spiro-OMeTAD and suppressing perovskite/spiro-OMeTAD interface defects",
+            "all_materials": [
+                "Ce2",
+                "spiro-OMeTAD",
+                "spiro-OMeTAD",
+                "spiro-OMeTAD"
+            ],
+            "other_materials": [
+                "Ce2",
+                "spiro-OMeTAD",
+                "spiro-OMeTAD",
+                "spiro-OMeTAD"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, reduced non-radiative recombination losses near the two interfaces of the perovskite layer could be achieved by such a novel and comprehensive modification strategy",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In consequence, the Ce-modified flexible and rigid PSCs achieved excellent photoelectric conversion efficiency  of 19.34 % and 22.62 %, respectively",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Notably, the optimized flexible PSCs exhibited outstanding mechanical durability, and 83.2 % of the initial PCE was maintained after 3000 bending cycles.",
+            "all_materials": [
+                "PSCs",
+                "PCE"
+            ],
+            "other_materials": [
+                "PSCs",
+                "PCE"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Excess PbI2 can improve the efficiency of perovskite solar cells",
+            "all_materials": [
+                "PbI2"
+            ],
+            "other_materials": [
+                "PbI2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, it usually leads to poor cell stability due to the chemically active nature of PbI2",
+            "all_materials": [
+                "PbI2"
+            ],
+            "other_materials": [
+                "PbI2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Improving the stability of PbI2-rich perovskite solar cells without scarifying the efficiency remains challenging",
+            "all_materials": [
+                "PbI2"
+            ],
+            "other_materials": [
+                "PbI2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, it is found that the non-uniform and multiple nucleation of perovskite induces crystallographic disorders at grain boundaries  of PbI2-rich perovskite",
+            "all_materials": [
+                "PbI2"
+            ],
+            "other_materials": [
+                "PbI2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "These disorders working as the n-type shallow dopant reduces the energy barrier for photogenerated electrons to reach GBs, triggering the decomposition of excess PbI2 there",
+            "all_materials": [
+                "PbI2"
+            ],
+            "other_materials": [
+                "PbI2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, the instability of PbI2-rich PSCs is related with the remote coupling of excess PbI2 with the disorders at GBs",
+            "all_materials": [
+                "PbI2",
+                "PSCs",
+                "PbI2"
+            ],
+            "other_materials": [
+                "PbI2",
+                "PSCs"
+            ],
+            "precursors": [
+                {
+                    "text": "PbI2",
+                    "start": 91,
+                    "end": 95,
+                    "token_ids": [
+                        17
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In light of this finding, we introduced a small amount  of CdI2 into precursor solution to optimize the crystallization of PbI2-rich perovskite, and finally achieved a trade-off between efficiency and stability in PbI2-rich PSCs",
+            "all_materials": [
+                "CdI2",
+                "PbI2",
+                "PbI2",
+                "PSCs"
+            ],
+            "other_materials": [
+                "PbI2",
+                "PbI2",
+                "PSCs"
+            ],
+            "precursors": [
+                {
+                    "text": "CdI2",
+                    "start": 59,
+                    "end": 63,
+                    "token_ids": [
+                        12
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The optimized PSCs with 10\u00a0mol% excess PbI2  achieved a champion efficiency of 24.26% at the bandgap 1.55\u00a0eV with robust stability",
+            "all_materials": [
+                "PSCs",
+                "PbI2"
+            ],
+            "other_materials": [
+                "PSCs",
+                "PbI2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "PC-Devices maintain more than 90% of the initial efficiency after being stressed under UV light in ambient with a relative humidity of 50% for 500\u00a0h, and 70% under heat at 85\u02daC for 400\u00a0h, both of which are far superior to the pristine PbI2-rich solar cells.",
+            "all_materials": [
+                "PbI2"
+            ],
+            "other_materials": [
+                "PbI2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Shaobing Xiong is currently a postdoc in Institute of Optoelectronics at Fudan University",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "He received his BS in Physics from Soochow University in 2017 and PhD from East China Normal University in 2022 under the supervision of Prof",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "His research focuses on perovskite solar cells.Qinye Bao",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Sheng Jiang received his MS in Materials Science and Engineering from Nanchang University in 2021",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "He is currently a PhD student under Prof",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Qinye Bao\u2019s supervision at East China Normal University",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "His research focuses on perovskite solar cells.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Yefan Zhang received his BS from Soochow University in 2020",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Now he is a PhD student at Soochow University",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "His work focuses on organic photovoltaic cells.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Zhiwei Lv is currently a MS student at East China Normal University",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "His research focuses on semiconductor defects.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Ruirong Bai is currently a PhD student at East China Normal University",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "His current research is on materials for photovoltaic and photonics applications.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Yuting Yan is currently a MS student at School of Physics and Electronic Science, East China Normal University",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Her research focuses on the phase transition of single crystals under high pressure.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Qi Zeng received her PhD in Condensed Matter Physics from Fudan University in 2015",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Then she went to Link\u00f6ping University as a postdoc",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In 2018 she joined Shanghai University of Engineering Science",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Her research focuses on organic- and perovskite-based devices.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Xionghu Xu received his BS in Applied Physics from Donghua University in 2019",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "He is currently a PhD student at East China Normal University",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "His research focuses on the phase-change materials.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Liming Ding got his PhD from University of Science and Technology of China",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "He started his research on OSCs and PLEDs in Olle Ingan\u00e4s Lab in 1998",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Later on, he worked at National Center for Polymer Research, Wright-Patterson Air Force Base and Argonne National Lab",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "He joined Konarka as a Senior Scientist in 2008",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In 2010, he joined National Center for Nanoscience and Technology as a full professor",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "His research focuses on innovative materials and devices.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Yuning Wu received his BS in Physics from University of Science and Technology of China in 2006 and PhD in Physics from University of Florida in 2012",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Currently he works in Department of Electronics at East China Normal University",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "His research focuses on the defect physics of semiconductors.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Xianjie Liu received his B.S",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "in physics from Lanzhou University in 1993 and Ph.D",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "in physics from Faculty of Mathematics and Natural Science, Technical University of Dresden in 2003",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Currently he works in Surface Physics and Chemistry Division at Link\u00f6ping University",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "His research interests focus on the investigation of organic materials by synchrotron-based spectroscopies upon their electronic and structural properties and their applications on organic devices.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Mats Fahlman received his M.S",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "in Engineering Physics  and Ph.D",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "in Surface Physics and Chemistry  from Link\u00f6ping University, where he is currently a full professor at the Laboratory of Organic Electronics",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "He is active in the research of organic semiconductors using primarily surface science techniques to explore materials and interfaces as well as their effect on device properties.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Qinye Bao is currently a professor in School of Physics and Electronic Science at East China Normal University",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "He received his Ph.D",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "in 2015 in Surface Physics and Chemistry from Link\u00f6ping University",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The focus of his work is on surface science techniques, such as ultraviolet photoelectron spectroscopy, X-ray photoelectron spectroscopy, and near edge X-ray absorption fine structure spectroscopy, to reveal the relationship between interface electronic structures and device performance, especially for application in organic solar cells, organic light-emitting diodes, and perovskite-based optoelectronic devices.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

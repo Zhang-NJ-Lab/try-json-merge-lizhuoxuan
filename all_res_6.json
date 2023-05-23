@@ -1,0 +1,209 @@
+{
+    "rest": [
+        {
+            "sentence": "\u2022The quality of Cs2AgBiBr6 film was improved by changing the dripping temperature of the precursor solution.",
+            "all_materials": [
+                "Cs2AgBiBr6"
+            ],
+            "other_materials": [
+                "Cs2AgBiBr6"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The effect of the dripping temperature of precursor solution on the nucleation mechanism of PSCs was studied.",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The carbon-based PSC prepared at 65\u00a0\u00b0C has the best performance and the PCE of 0.54% is attained, which is 27% higher than that prepared at 25\u00a0\u00b0C.",
+            "all_materials": [
+                "PSC"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                [
+                    5,
+                    "StartingSynthesis"
+                ],
+                [
+                    30,
+                    "StartingSynthesis"
+                ]
+            ],
+            "targets": "PSC"
+        },
+        {
+            "sentence": "In this paper, the effect of the dripping temperature of the precursor solution on the quality of the Cs2AgBiBr6 film was studied in detail",
+            "all_materials": [
+                "Cs2AgBiBr6"
+            ],
+            "other_materials": [
+                "Cs2AgBiBr6"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It can be concluded that the Cs2AgBiBr6 film&#x27;s quality is the best when the dripping temperature is 65\u00a0\u00b0C",
+            "all_materials": [
+                "Cs2AgBiBr6"
+            ],
+            "other_materials": [
+                "Cs2AgBiBr6"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To further study the influence of the quality of the Cs2AgBiBr6 film on the performance of perovskite PSCs, an HTL-free carbon-based PSC with Cs2AgBiBr6 as a light absorbing layer was fabricated",
+            "all_materials": [
+                "Cs2AgBiBr6",
+                "Cs2AgBiBr6"
+            ],
+            "other_materials": [
+                "Cs2AgBiBr6",
+                "Cs2AgBiBr6"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                35,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The photoelectric test results show that the Cs2AgBiBr6 carbon-based PSC prepared at 65\u00a0\u00b0C has the best performance and the PCE of 0.54% is attained, which is 27% higher than that prepared at 25\u00a0\u00b0C",
+            "all_materials": [
+                "Cs2AgBiBr6",
+                "PSC"
+            ],
+            "other_materials": [
+                "Cs2AgBiBr6"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                [
+                    12,
+                    "StartingSynthesis"
+                ],
+                [
+                    37,
+                    "StartingSynthesis"
+                ]
+            ],
+            "targets": "PSC"
+        },
+        {
+            "sentence": "This work provides valuable guidance for the preparation of high-quality Cs2AgBiBr6 film by one-step method.",
+            "all_materials": [
+                "Cs2AgBiBr6"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "Cs2AgBiBr6"
+        },
+        {
+            "sentence": "In this paper, the effect of the dripping temperature of the precursor solution on the quality of the Cs2AgBiBr6 film was studied in detail",
+            "all_materials": [
+                "Cs2AgBiBr6"
+            ],
+            "other_materials": [
+                "Cs2AgBiBr6"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It can be concluded that the Cs2AgBiBr6 film&#x27;s quality is the best when the dripping temperature is 65\u00a0\u00b0C",
+            "all_materials": [
+                "Cs2AgBiBr6"
+            ],
+            "other_materials": [
+                "Cs2AgBiBr6"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To further study the influence of the quality of the Cs2AgBiBr6 film on the performance of perovskite PSCs, an HTL-free carbon-based PSC with Cs2AgBiBr6 as light absorbing layer was fabricated",
+            "all_materials": [
+                "Cs2AgBiBr6",
+                "Cs2AgBiBr6"
+            ],
+            "other_materials": [
+                "Cs2AgBiBr6",
+                "Cs2AgBiBr6"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                34,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The photoelectric test results show that the Cs2AgBiBr6 carbon-based PSC prepared at 65\u00a0\u00b0C has the best performance and the PCE of 0.54% is attained, which is 27% higher than that prepared at 25\u00a0\u00b0C",
+            "all_materials": [
+                "Cs2AgBiBr6",
+                "PSC"
+            ],
+            "other_materials": [
+                "Cs2AgBiBr6"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                [
+                    12,
+                    "StartingSynthesis"
+                ],
+                [
+                    37,
+                    "StartingSynthesis"
+                ]
+            ],
+            "targets": "PSC"
+        },
+        {
+            "sentence": "This work provides valuable guidance for the preparation of high-quality Cs2AgBiBr6 film by one-step method.Download : Download high-res image Download : Download full-size image",
+            "all_materials": [
+                "Cs2AgBiBr6"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "Cs2AgBiBr6"
+        },
+        {
+            "sentence": "No data was used for the research described in the article.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

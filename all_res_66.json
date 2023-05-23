@@ -1,0 +1,94 @@
+{
+    "rest": [
+        {
+            "sentence": "The rapid development of perovskite solar cells  over the past decade makes it the most promising next generation photovoltaic technology",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Splendid progress in efficiency and stability has been demonstrated in laboratory level, while endeavours are extremely required to enable successful transfer of the printable PSC technology to industry scale toward commercialization",
+            "all_materials": [
+                "PSC"
+            ],
+            "other_materials": [
+                "PSC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, recent progresses on upscaling of PSCs are systematically reviewed",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Starting with the traditional PSC structure, we have analyzed the specially designed configuration for perovskite solar modules",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The comprehensive overview and assessment are provided for the technologies engineering in large-scale preparation, including both solution processing and vapor-phase deposition methods",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Considering the promoting effect of material engineering to scale up PSMs, the application of additive engineering, solvent engineering and interface engineering on the stability and efficiency of PSMs is systematacially discussed",
+            "all_materials": [
+                "PSMs",
+                "PSMs"
+            ],
+            "other_materials": [
+                "PSMs",
+                "PSMs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, the effect of current packaging technology of PSMs on device lifetime and environmental friendliness is emphasized",
+            "all_materials": [
+                "PSMs"
+            ],
+            "other_materials": [
+                "PSMs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "At last, we propose the prospects and challenges of PSMs commercialization in the future to meet the requirements for next generation photovoltaic industry.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

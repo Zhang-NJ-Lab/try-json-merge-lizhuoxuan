@@ -1,0 +1,1418 @@
+{
+    "rest": [
+        {
+            "sentence": "In recent years, flexible perovskite solar cells have received extensive attention and rapid development due to their advantages of lightweight, portability, wearability and applications in near-space",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, due to the limitations of their preparation process and other factors, high-efficiency and large-area flexible perovskite solar cells still have a lot of room for development",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In our work, a flexible perovskite solar cell 0.95Pb3/spiro/Au) was prepared using a low temperature  solution process, and the device with the highest efficiency of 16.16% was obtained by adjusting the concentration of the KCl modified layer",
+            "all_materials": [
+                "KCl"
+            ],
+            "other_materials": [
+                "KCl"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                16,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Meanwhile, the efficiency of the large area  flexible solar cell was higher than 13%",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "At the same time, the passivation of the KCl interface modification layer inhibits the formation of the defect states, which reduced the surface recombination of the perovskite and improved the carrier transport performance, and the hysteresis effect of the device was also reduced accordingly.",
+            "all_materials": [
+                "KCl"
+            ],
+            "other_materials": [
+                "KCl"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In recent years, organic-inorganic hybrid perovskite solar cells  have developed rapidly, with power conversion efficiency  rising from 3.8% to 25.2% in a short period, which has attracted widespread attention [1,2]",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "At the same time, PSCs on flexible substrates have also made rapid progress due to their light-weight, wearability, and flexibility [3,4]",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "prepared 2.62% efficient flexible solar cell with electrophoretic deposited ZnO thin film as a compact layer and chemical bath processed CH3NH3PbI3 absorption layer Graetzel et al",
+            "all_materials": [
+                "ZnO",
+                "CH3NH3PbI3"
+            ],
+            "other_materials": [
+                "ZnO",
+                "CH3NH3PbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In a previous report, Liu et al",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": " added dimethyl sulfide  to perovskite precursor solution to slow down the crystallization rate, which resulted in an increase in grain size and a decrease in trap density",
+            "all_materials": [
+                "dimethyl sulfide"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "dimethyl sulfide",
+                    "start": 7,
+                    "end": 23,
+                    "token_ids": [
+                        1,
+                        2
+                    ]
+                }
+            ],
+            "operation": [
+                0,
+                "SolutionMixing"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As a result, the flexible device efficiency was improved to 18.4%.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Compared with rigid substrates, flexible substrates, such as poly ethylene terephthalate  and poly ethylene naphthalate , have lower temperature tolerance, which leads to stricter fabrication process requirement",
+            "all_materials": [
+                "poly ethylene terephthalate",
+                "poly ethylene naphthalate"
+            ],
+            "other_materials": [
+                "poly ethylene terephthalate",
+                "poly ethylene naphthalate"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Low temperature SnO2 process for the flexible substrate is often selected [, ]",
+            "all_materials": [
+                "SnO2"
+            ],
+            "other_materials": [
+                "SnO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "On the other hand, the charge transportability of PSCs was affected by the worse roughness and uniformity of thin films on flexible substrates",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Ultimately, the abnormal current-voltage hysteresis effect is increased when the device is scanned from different directions",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "From the perspective that most of high efficiency devices usually exhibit less obvious hysteresis, charge recombination is also considered to play an important role in hysteretic behavior [10,11]",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In other words, the weakening of the hysteresis effect is usually accompanied by the decrease of defect density and non-radiative recombination [12,13].",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Interface engineering and component engineering provide a good idea to solve the above problems",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The defects could be passivated by inserting modification layer at electron transport layer /perovskite  or PVK/hole transport layer  interface or adding additives into perovskite precursor solution resulting in improved device performance [14,15]",
+            "all_materials": [
+                "PVK"
+            ],
+            "other_materials": [
+                "PVK"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Among them, alkali metal ions as additives are of great interest in improving the structure and performance of devices",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": " proposed a passivation strategy to inhibit the ion migration by doping potassium cation  functionalized carbon nanodots  in the perovskite precursor solutionLi et al",
+            "all_materials": [
+                "carbon"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "carbon",
+                    "start": 105,
+                    "end": 111,
+                    "token_ids": [
+                        14
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "[email&#160;protected] could occupy the interstitial sites to raise the migration energy barrier of defects, which lead to an average efficiency of over 21% and with a fill factor  of 84.01%",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": " improved the morphology property and device performance of the thin film by inserting a KCl modification layer, and finally achieved a PCE of 18.40% on a flexible substrateZhu et al",
+            "all_materials": [
+                "KCl"
+            ],
+            "other_materials": [
+                "KCl"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": " designed a SnO2-KCl composite ETL and an enhancement of PCE from 20.2% to 22.2% was achievedZhu et al",
+            "all_materials": [
+                "SnO2-KCl",
+                "PCE"
+            ],
+            "other_materials": [
+                "PCE"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "SnO2-KCl"
+        },
+        {
+            "sentence": " prepared planar n\u2013i\u2013p solar cells based on the fluoride-containing perovskite yield a PCE of 21.46%.Zhou et al",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In our work, the KCl interface modification layer was inserted between SnO2 and Cs0.050.95Pb3",
+            "all_materials": [
+                "KCl",
+                "SnO2",
+                "Cs0.050.95Pb3"
+            ],
+            "other_materials": [
+                "KCl",
+                "SnO2",
+                "Cs0.050.95Pb3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Monovalent potassium ions act as additives to occupy the interstitial sites and they could affect the formation and properties of the perovskite films [21,22]",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "On one hand, it can promote grain recrystallization to improve the crystallinity of thin films",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "On the other hand, it can passivate the trap states in the interface and enhance the transport as well as the collection ability of carriers, which ultimately weakens the hysteresis effect [16,23]",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "At the same time, chlorine ions can also inhibit the formation of deep level defects as well as be helpful to energy level alignment [24,25]",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Consequently higher open circuit voltage  and PCE are obtained",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "An enhancement of average Voc from 1.060\u2009V to 1.125\u2009V and a corresponding average PCE increasing from 11.12% to 14.07% were achieved for the KCl-based flexible PSCs",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, the champion solar cell with KCl layer  achieved a PCE of 16.16%, a Voc of 1.141\u2009V, a short circuit current density  of 21.14\u2009mA/cm2, and an FF of 67.05%",
+            "all_materials": [
+                "KCl"
+            ],
+            "other_materials": [
+                "KCl"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The KCl modification layer effectively improves the photovoltaic performance of flexible PSCs",
+            "all_materials": [
+                "KCl"
+            ],
+            "other_materials": [
+                "KCl"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, other additives such as NaCl can also improve the efficiency of devices, but unfortunately, there would be more serious hysteresis effect.",
+            "all_materials": [
+                "NaCl"
+            ],
+            "other_materials": [
+                "NaCl"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The tin oxide colloidal dispersion  was purchased from Alfa Aesar",
+            "all_materials": [
+                "tin oxide"
+            ],
+            "other_materials": [
+                "tin oxide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The potassium chloride , chlorobenzene , anhydrous N-N dimethylformamide , and dimethyl sulfoxide  were purchased from Aladdin",
+            "all_materials": [
+                "potassium chloride",
+                "chlorobenzene",
+                "N-N dimethylformamide",
+                "dimethyl sulfoxide"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "potassium chloride",
+                    "start": 4,
+                    "end": 22,
+                    "token_ids": [
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "text": "chlorobenzene",
+                    "start": 25,
+                    "end": 38,
+                    "token_ids": [
+                        4
+                    ]
+                },
+                {
+                    "text": "N-N dimethylformamide",
+                    "start": 51,
+                    "end": 72,
+                    "token_ids": [
+                        7,
+                        8
+                    ]
+                },
+                {
+                    "text": "dimethyl sulfoxide",
+                    "start": 79,
+                    "end": 97,
+                    "token_ids": [
+                        11,
+                        12
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Lead iodide , lead bromine , cesium iodide , methylammonium bromine , and amidine iodide  were all purchased from Shanghai Materwin New Materials Co., Ltd",
+            "all_materials": [
+                "Lead iodide",
+                "lead bromine",
+                "cesium iodide",
+                "methylammonium bromine",
+                "amidine iodide"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "Lead iodide",
+                    "start": 0,
+                    "end": 11,
+                    "token_ids": [
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "text": "lead bromine",
+                    "start": 14,
+                    "end": 26,
+                    "token_ids": [
+                        3,
+                        4
+                    ]
+                },
+                {
+                    "text": "cesium iodide",
+                    "start": 29,
+                    "end": 42,
+                    "token_ids": [
+                        6,
+                        7
+                    ]
+                },
+                {
+                    "text": "methylammonium bromine",
+                    "start": 45,
+                    "end": 67,
+                    "token_ids": [
+                        9,
+                        10
+                    ]
+                },
+                {
+                    "text": "amidine iodide",
+                    "start": 74,
+                    "end": 88,
+                    "token_ids": [
+                        13,
+                        14
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this study, the planar nip-type device with cesium-containing triple cations mixed perovskite absorb layer is adopted, as showed in Fig",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "At the same time, the device performance is improved by inserting KCl interface modification layer between SnO2 and PVK layers.1",
+            "all_materials": [
+                "KCl",
+                "SnO2",
+                "PVK"
+            ],
+            "other_materials": [
+                "KCl",
+                "SnO2",
+                "PVK"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Perovskite layer is prepared by one-step spin-coating method with anti-solvent dropping in the whole device structure",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                3,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The schematic diagram is shown in Fig",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The concentration of KCl aqueous solution is regulated by 0\u2009mg/mL,2",
+            "all_materials": [
+                "KCl"
+            ],
+            "other_materials": [
+                "KCl"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In summary, the flexible PSCs with a structure of PEN/ITO/SnO2/KCl/Cs0.050.95Pb3/spiro/Au was prepared by low temperature solution method",
+            "all_materials": [
+                "PSCs",
+                "PEN/ITO/SnO2/KCl/Cs0.050.95Pb3/spiro/Au"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                24,
+                "StartingSynthesis"
+            ],
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "The defects of PVK surface and ETL/PVK interface were passivated by modification of KCl layer, which reduces carrier recombination, balances the charge transport and improves device performance",
+            "all_materials": [
+                "PVK",
+                "ETL/PVK",
+                "KCl"
+            ],
+            "other_materials": [
+                "PVK",
+                "ETL/PVK",
+                "KCl"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The champion cell with KCl layer  exhibited the maximum photovoltaic parameters with a Voc of 1.141\u2009V, a Jsc of 21.14\u2009mA/cm2, an",
+            "all_materials": [
+                "KCl"
+            ],
+            "other_materials": [
+                "KCl"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work was supported by the National Natural Science Foundation of China  and the Fundamental Research Funds for the Central Universities, Nankai University .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Recently, 2D/3D halide perovskites solar cells  attract extensive attention due to simultaneous improved efficiency and stability",
+            "all_materials": [
+                "halide"
+            ],
+            "other_materials": [
+                "halide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the types of alkyl ammonium salts, including the type of functional groups, the number of carbon atoms in the hydrocarbon chain, as well as the arrangement and distribution of the molecular structure, have a great impact on the performance and stability of films and devices",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, we compare the passivation capacity and moisture resistance of 2D capping layer based on three structurally similar alkyl ammonium salts , Propyl Ammonium Iodide , Ethyl Ammonium Iodide ) on triple cation perovskite thin films",
+            "all_materials": [
+                "ammonium",
+                "Propyl Ammonium Iodide",
+                "Ethyl Ammonium Iodide"
+            ],
+            "other_materials": [
+                "ammonium",
+                "Propyl Ammonium Iodide",
+                "Ethyl Ammonium Iodide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As the number of carbon atoms in the alkane increases, the water contact angle gradually increases",
+            "all_materials": [
+                "water"
+            ],
+            "other_materials": [
+                "water"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, the defect state density is reduced to a certain extent compared to untreated 3D perovskite",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The optimal PSCs with PAI-based 2D capping layer exhibit a power conversion efficiency  of 21.22% and remain 79.5% of initial PCE after 720\u00a0h",
+            "all_materials": [
+                "PCE"
+            ],
+            "other_materials": [
+                "PCE"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, the reduced defect state density and improved crystallinity can be attributed to the hydrogen bonding interaction between the amine group and the [PbI6]4- framework",
+            "all_materials": [
+                "[PbI6]4-"
+            ],
+            "other_materials": [
+                "[PbI6]4-"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The emergence and development of 2D/3D perovskites have brought greater hope to commercialize the PSCs.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "While the conversion efficiency is constantly refreshing, perovskite solar cells are also actively moving towards the goal of commercial application",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, its structure contains Pb, a toxic substance, which violates the original intention of energy saving and environmental protection of solar cells and hinders the development of its commercialization",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The purpose of this paper is to improve the device performance of environment-friendly lead-free tin-based perovskite solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this paper, SnF2 is firstly precipitated in perovskite solution and used as heterogeneous nucleation point, which helps tin-based perovskite precipitate faster and more uniformly, and then grows into a flat and compact film after annealing",
+            "all_materials": [
+                "SnF2"
+            ],
+            "other_materials": [
+                "SnF2"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                40,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "With the increase of x, the lattice shrinkage of perovskite becomes more obvious, and the unit cell size of the film surface becomes larger",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "When x increases from 0 to 0.5, the energy conversion efficiency of the same batch of devices reaches 1.803% and VOC is 0.3283\u00a0V when x=0.5 is used",
+            "all_materials": [
+                "VOC"
+            ],
+            "other_materials": [
+                "VOC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Low dimensional tin-based perovskite is formed by doping phenylethylamine into FASnI3 structure, and perovskite thin films are prepared by one-step method with different anti-solvent spin coating, which improves the device performance and greatly improves the stability of solar cells.",
+            "all_materials": [
+                "phenylethylamine",
+                "FASnI3"
+            ],
+            "other_materials": [
+                "FASnI3"
+            ],
+            "precursors": [
+                {
+                    "text": "phenylethylamine",
+                    "start": 57,
+                    "end": 73,
+                    "token_ids": [
+                        10
+                    ]
+                }
+            ],
+            "operation": [
+                20,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In CH3NH3PbI3 perovskite solar cells, enhancement grain size of CH3NH3PbI3 to reduce the non-radiative at grain boundaries is an important way to reach high performance perovskite solar cell",
+            "all_materials": [
+                "CH3NH3PbI3",
+                "CH3NH3PbI3"
+            ],
+            "other_materials": [
+                "CH3NH3PbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CH3NH3PbI3"
+        },
+        {
+            "sentence": "However, it is still a challenge to enhance the grain size of CH3NH3PbI3 through a simple and low cost way",
+            "all_materials": [
+                "CH3NH3PbI3"
+            ],
+            "other_materials": [
+                "CH3NH3PbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, a larger precursor colloidal size is realized through tuning morphology of precursor CH3NH3I using a polar solvent of ethanol during purification, yielding a larger grain size of CH3NH3PbI3 film, and the as-prepared perovskite solar cells are shown to be dramatically increased to 17.49% with an increase in short circuit density, fill factor and open circuit voltage, as compared to that  in the control device with CH3NH3I purified by non-polar solvent of diethyl ether",
+            "all_materials": [
+                "CH3NH3I",
+                "ethanol",
+                "CH3NH3PbI3",
+                "CH3NH3I",
+                "diethyl ether"
+            ],
+            "other_materials": [
+                "ethanol",
+                "CH3NH3PbI3",
+                "CH3NH3I",
+                "diethyl ether"
+            ],
+            "precursors": [
+                {
+                    "text": "CH3NH3I",
+                    "start": 99,
+                    "end": 106,
+                    "token_ids": [
+                        16
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The investigation result showed the increased efficiency of perovskite solar cells prepared by ethanol purification is ascribed to a faster charge transfer at CH3NH3PbI3/TiO2 interface resulting from the reduced grain boundary defects",
+            "all_materials": [
+                "ethanol",
+                "CH3NH3PbI3",
+                "TiO2"
+            ],
+            "other_materials": [
+                "ethanol",
+                "CH3NH3PbI3",
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                11,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Our work provides a route for improving the CH3NH3PbI3 device efficiency through a simple yet effective approach.",
+            "all_materials": [
+                "CH3NH3PbI3"
+            ],
+            "other_materials": [
+                "CH3NH3PbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The performance of perovskite solar cells  is extremely dependent on morphology and crystallinity of perovskite film",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "One of the most effective methods to achieve high performance perovskite solar cells has been to introduce additives that serve as dopants, crystallization or passivation agents",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein a facile strategy by introducing methylammonium chloride  and polar solvent N,N-Dimethylformamide  as co-additives in two-step sequential method is proposed to realize high quality perovskite film",
+            "all_materials": [
+                "methylammonium chloride",
+                "N,N-Dimethylformamide"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "methylammonium chloride",
+                    "start": 40,
+                    "end": 63,
+                    "token_ids": [
+                        6,
+                        7
+                    ]
+                },
+                {
+                    "text": "N,N-Dimethylformamide",
+                    "start": 83,
+                    "end": 104,
+                    "token_ids": [
+                        11
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It is demonstrated that DMF facilitates methylammonium iodide  penetrating easily into PbI2 layer to form highly crystalized perovskite film with uniform morphology which is essential to achieve high VOC",
+            "all_materials": [
+                "DMF",
+                "methylammonium iodide",
+                "PbI2",
+                "VOC"
+            ],
+            "other_materials": [
+                "DMF",
+                "methylammonium iodide",
+                "PbI2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "VOC"
+        },
+        {
+            "sentence": "While MACl induces MAPbI3 to crystallize in a pure \u03b1-phase and suppress non-photovoltaic phase, which guarantees high FF",
+            "all_materials": [
+                "MACl",
+                "MAPbI3"
+            ],
+            "other_materials": [
+                "MACl",
+                "MAPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Pure \u03b1-phase perovskite film with uniform morphology can be achieved by adopting MACl and DMF together and the corresponding solar cell illustrates a power conversion efficiency  of 19.02% with substantially promoted durability",
+            "all_materials": [
+                "MACl",
+                "DMF"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "MACl",
+                    "start": 81,
+                    "end": 85,
+                    "token_ids": [
+                        12
+                    ]
+                },
+                {
+                    "text": "DMF",
+                    "start": 90,
+                    "end": 93,
+                    "token_ids": [
+                        14
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, A VOC as high as 1.181\u00a0V is succeeded for MAPbI3 based solar cell benefiting from the synergistic effect.",
+            "all_materials": [
+                "MAPbI3"
+            ],
+            "other_materials": [
+                "MAPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Both power conversion efficiency  and anti-bending ability of flexible perovskite solar cells  are largely improved, by treating the perovskite layer with methimazole  twice",
+            "all_materials": [
+                "methimazole"
+            ],
+            "other_materials": [
+                "methimazole"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                17,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Excessive MMI-treating is harmful to FPSC performance",
+            "all_materials": [
+                "FPSC"
+            ],
+            "other_materials": [
+                "FPSC"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                3,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The twice-treated perovskite layer exhibited satisfactory quality, the champion and average PCE achieved 13.75% and 13.26%, respectively",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "When bending radius is 1.0\u00a0cm, after 10,000 bending cycles, PCE remained 83.56% of initial value",
+            "all_materials": [
+                "PCE"
+            ],
+            "other_materials": [
+                "PCE"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "With secondary MMI-treating, both surface and bulk carrier lifetimes of the perovskite layer were largely improved.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                4,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A chlorobenzene solution of PCBM is used as anti-solvent to enhance the quality of perovskite film",
+            "all_materials": [
+                "chlorobenzene",
+                "PCBM"
+            ],
+            "other_materials": [
+                "chlorobenzene",
+                "PCBM"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This anti-solvent increases the compactness and smoothness of the film and facilitates the formation of CH3NH3PbI3-PCBM interlayer",
+            "all_materials": [
+                "CH3NH3PbI3-PCBM"
+            ],
+            "other_materials": [
+                "CH3NH3PbI3-PCBM"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Based on this perovskite film and interlayer, a large area  flexible device with the PCE of about 10% was obtained.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Inverted perovskite solar cells based on poly:poly  have drawn great attention due to their potential for foldable photovoltaic applications",
+            "all_materials": [
+                "poly:poly"
+            ],
+            "other_materials": [
+                "poly:poly"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Modification of the interface of PEDOT:PSS and perovskite layer is one of the approaches for improving the efficiency and stability",
+            "all_materials": [
+                "PEDOT:PSS"
+            ],
+            "other_materials": [
+                "PEDOT:PSS"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here, we introduce a triphenylamine-based small molecule, N,N\u2032-Bis--N,N\u2032-bis-phenyl--4,4\u2032-diamine , into the device as the multifunctional buffer layer",
+            "all_materials": [
+                "N,N\u2032-Bis--N,N\u2032-bis-phenyl--4,4\u2032-diamine"
+            ],
+            "other_materials": [
+                "N,N\u2032-Bis--N,N\u2032-bis-phenyl--4,4\u2032-diamine"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It is noted that the NPB buffer layer can obviously reduce the pinholes and defects of perovskite film, and adjust the energy level mismatch between perovskite and PEDOT:PSS layer",
+            "all_materials": [
+                "PEDOT:PSS"
+            ],
+            "other_materials": [
+                "PEDOT:PSS"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, the carrier recombination of NPB-modified device is restricted due to the reduced defects in perovskite layer and at PEDOT:PSS/perovskite interface",
+            "all_materials": [
+                "PEDOT:PSS/"
+            ],
+            "other_materials": [
+                "PEDOT:PSS/"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As a result, the device power conversion efficiency is improved from 15.4% to 18.4%",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The flexible devices are further fabricated with the best efficiency of 14.4% without hysteresis",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                5,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Most importantly, due to the superior moisture and UV-light resistance of NPB, the modified device exhibits excellent long-term stability under ambient atmosphere and UV-light soaking.",
+            "all_materials": [
+                "NPB"
+            ],
+            "other_materials": [
+                "NPB"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Perovskite solar cell  has attracted great attention due to its high power conversion efficiency , low cost and solution processability",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The well-designed interface and the modification of electron transport layer  are critical to the PCE and long-term stability of PSCs",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this article, a fused-ring electron acceptor is employed as the interfacial material between TiO2 and the perovskite in rigid and flexible PSCs",
+            "all_materials": [
+                "TiO2",
+                "PSCs"
+            ],
+            "other_materials": [
+                "TiO2",
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The modification improves the surface of TiO2, which decreases the defects of ETL surface",
+            "all_materials": [
+                "TiO2",
+                "ETL"
+            ],
+            "other_materials": [
+                "TiO2",
+                "ETL"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, the modified surface has lower hydrophilicity, and thus is beneficial to the growth of perovskite with large grain size and high quality",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As a result, the interfacial charge transfer is promoted and the interfacial charge recombination can be suppressed",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The highest PCE of 19.61% is achieved for the rigid PSCs after the introduction of ITIC, and the hysteresis effect is significantly reduced",
+            "all_materials": [
+                "PSCs",
+                "ITIC"
+            ],
+            "other_materials": [
+                "PSCs",
+                "ITIC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Flexible PSC with ITIC obtains a PCE of 14.87%, and the device stability is greatly improved",
+            "all_materials": [
+                "PSC",
+                "ITIC"
+            ],
+            "other_materials": [
+                "PSC",
+                "ITIC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This study provides an efficient candidate as the interfacial modifier for PSCs, which is compatible with low-temperature solution process and has a great practical potential for the commercialization of PSCs.",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Electron transport layer -free perovskite solar cells  are very useful for the low-temperature process that can reduce the instability caused by the ETL such as TiO2 layer",
+            "all_materials": [
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "There are several publications on ETL-free PSCs, but most of them are based on transparent conductive oxides, not suitable for flexible applications",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here, we first report photostable ETL-free PSCs of maximum 15.72% power conversion efficiency  by employing an insulating interlayer of bathocuproine  between the graphene  transparent conductive electrode  and the graphene quantum dots-added perovskite layer",
+            "all_materials": [
+                "bathocuproine",
+                "graphene",
+                "graphene"
+            ],
+            "other_materials": [
+                "bathocuproine",
+                "graphene",
+                "graphene"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The BCP interlayer effectively enhances the electron carrier injection by reducing the recombination centers at the active layer/GR TCE interface",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Only 8 or 17% of the original PCE is lost under ambient conditions or under light soaking, respectively for 500\u00a0h",
+            "all_materials": [
+                "PCE"
+            ],
+            "other_materials": [
+                "PCE"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A flexible-type of the PSC shows a PCE comparable to that of the rigid-type counterpart, and 83% of the initial PCE is maintained even after 1000 repeated bending tests at a radius of 4\u00a0mm",
+            "all_materials": [
+                "PCE"
+            ],
+            "other_materials": [
+                "PCE"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "These results suggest that the ETL-free PSCs exhibit excellent long-term and mechanical stabilities.",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Ultrathin and compact SnOx amorphous layers derived from SnCl4 were introduced at the interface of electron transport layer /perovskite or FTO/ETL to enhance the electron coupling between layers, passivate the trapping defects and optimize the energy level alignment",
+            "all_materials": [
+                "SnOx",
+                "SnCl4"
+            ],
+            "other_materials": [
+                "SnOx",
+                "SnCl4"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As results of the increased interface electron collection and reduced interface recombination, the planer perovskite solar cell  with SnO2 nanocrystal  ETL pre-treated by SnCl4  shows the power conversion efficiency  enhancement from 16.3% to 18.6%, and the device hysteresis has also been significantly restrained",
+            "all_materials": [
+                "SnO2",
+                "ETL",
+                "SnCl4"
+            ],
+            "other_materials": [
+                "SnO2",
+                "ETL",
+                "SnCl4"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In comparison, the planer PSCs with traditional SnCl4  post-treated SnO2 NC ETL makes the PCE increased from 16.3% to 17.3%",
+            "all_materials": [
+                "SnCl4",
+                "SnO2 NC ETL"
+            ],
+            "other_materials": [
+                "SnCl4",
+                "SnO2 NC ETL"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "These results indicate that both two kinds of treated ways could improve the performance of the PSCs but compared with the post-treatment process, the devices based on Cl-SnO2 pre-treated ETL present superior performance, which is attributed to the closer contact and enhanced electron coupling between FTO and SnO2 NC ETL with Cl-SnO2 in between.",
+            "all_materials": [
+                "Cl-SnO2",
+                "ETL",
+                "FTO",
+                "SnO2 NC ETL",
+                "Cl-SnO2"
+            ],
+            "other_materials": [
+                "Cl-SnO2",
+                "ETL",
+                "FTO",
+                "SnO2 NC ETL",
+                "Cl-SnO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

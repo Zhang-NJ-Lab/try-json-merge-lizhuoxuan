@@ -1,0 +1,1347 @@
+{
+    "rest": [
+        {
+            "sentence": "Perovskites have been widely investigated as absorber layer in photovoltaic technology owing to their excellent properties",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For further enhancement of the power conversion efficiencies  of MAPbI3 perovskite solar cells, here, we successfully synthesized phosphorus doped carbon dots  by solvothermal method and investigated their effect as an additive on the perovskite film properties and photovoltaic performance",
+            "all_materials": [
+                "MAPbI3",
+                "carbon"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                18,
+                "StartingSynthesis"
+            ],
+            "targets": "MAPbI3"
+        },
+        {
+            "sentence": "The results showed that electron-rich phosphorus can act as an excellent core unit in perovskite absorber layer to passivate defects at the surface for improved the crystallization and charge transport properties",
+            "all_materials": [
+                "phosphorus"
+            ],
+            "other_materials": [
+                "phosphorus"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Thanks to passivation effect of P-CQDs on perovskite films, as well as the suitable energy band gap values and optical properties of MAPbI3 layer, the device prepared with the addition of 5\u00a0vol% of P-CQDs achieved a champion PCE of 13.12% with a high fill factor  of 73.44%, higher than the PCE of 10.71% with a FF of 58.81% for control device.",
+            "all_materials": [
+                "P-CQDs",
+                "MAPbI3",
+                "P-CQDs"
+            ],
+            "other_materials": [
+                "P-CQDs",
+                "MAPbI3",
+                "P-CQDs"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                28,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Download : Download high-res image Download : Download full-size image",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In last decade, perovskite solar cells  have significantly developed amongst other photovoltaic technologies as perovskite materials present desired optical and electronic properties such as broad absorption spectra, high optical absorption coefficient, tunable band gap, long carrier diffusion distance  for holes and electrons ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Due to the certified power conversion efficiency  of PSCs reached to over 25%, the possibility of developing low-cost large-area devices and solution processability, the researchers focus on this technology",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As we know, the photovoltaic performance of PSCs depends on the quality of perovskite absorber films with well-crystallized grains, homogenous morphology, and high surface coverage",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition to all these, one of the biggest problems to become a competitive alternative of PSCs in photovoltaic market is that the high-performance devices have been fabricated under inert atmosphere to provide long-term stability, which limits the further large-scale production .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                30,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To improve the performance of PSCs, various approaches including different deposition of perovskite layer , anti-solvent treatment , interfacial engineering , additive engineering and surface passivation  have been developed",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Recently, surface passivation approach has been proven to be the most promising strategy because of ease of application and low cost",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For PSCs, surface passivation can be achieved by the addition of grain boundary passivation molecules or nanomaterials into perovskite absorber layer , the addition of passivation layer , and even surface passivation by oxygen",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The addition of passivation materials into perovskite layer is an effective way to address the losses at the grain boundary and interfaces",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "So far, several materials, such as, inorganic halide based , organic solvents , fullerenes , inorganic acids , CsPbBr3 nanocrystals , and small molecules  have been adopted to control the uniformity of film and to passivate grain boundaries",
+            "all_materials": [
+                "CsPbBr3"
+            ],
+            "other_materials": [
+                "CsPbBr3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The working of passivation mechanism of additives is generally explained by the forming of strong ion bonds with uncoordinated Pb2+ between their functional groups and perovskite",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Additionally, the additives can create hydrogen bonds with methylammonium  and halide ions, leading to improve the Pb\u2212I bonding and MA\u2212I bonding",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "With this, ion migration and non-radiative recombination can be reduced, which improves the device stability under atmospheric conditions.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Recent studies showed that quantum dots  are a good choice to be used as an additive due to their adjustable bandgap by controlling their size, their high photostability, surface functionalization, leading to have improved light-harvesting properties to produce optoelectronic devices",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Besides, QDs can be implemented into the solar cell structure as either hole transport layer  or electron transport layer",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Especially, carbon quantum dots  have been proven to be efficient material in PSCs configuration for defect diminution, along with improved charged transport properties and fill factor  at the same time",
+            "all_materials": [
+                "carbon"
+            ],
+            "other_materials": [
+                "carbon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A variety of methods for the preparation of highly luminescent and flexible functionalization CQDs, including doping of hetero-atoms or surface passivation were reported to provide oxygen-containing functional groups abundant quantum dots",
+            "all_materials": [
+                "CQDs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CQDs"
+        },
+        {
+            "sentence": "The doping of CQDs with atomic impurities  is one of the main strategies for adjusting their intrinsic properties",
+            "all_materials": [
+                "CQDs"
+            ],
+            "other_materials": [
+                "CQDs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "prepared nitrogen-doped CQDs by solvothermal method to tune optical properties of QDs, and they reported that the amino functionalized showed high photoluminescence quantum yield  and excellent stability Zang et al",
+            "all_materials": [
+                "CQDs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CQDs"
+        },
+        {
+            "sentence": "Even though the origin for the increase in PL QY has not been illuminated, there are different proposals such as the band gap tuneability via charge transfer effect, the quantum confinement effect, or the excitons emission in surface energy traps and defects by passivation ,",
+            "all_materials": [
+                "PL"
+            ],
+            "other_materials": [
+                "PL"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "So far, important efforts have been given in developing QDs with improved properties",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the studies on their potential applications in PSCs are surprisingly very limited",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In our previous studies, the addition of nitrogen-doped CQDs  and boron-doped CQDs  into methyl ammonium lead iodide  perovskite active layer were examined, and their effect in solar cell performance were reported ,",
+            "all_materials": [
+                "CQDs",
+                "CQDs",
+                "methyl ammonium lead iodide"
+            ],
+            "other_materials": [
+                "CQDs",
+                "CQDs",
+                "methyl ammonium lead iodide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In those studies, we prepared highly luminescent N-CQDs and B-CQDs with PL QY over 22.7% and 12.4%, respectively, at large scale",
+            "all_materials": [
+                "N-CQDs",
+                "B-CQDs",
+                "PL QY"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                5,
+                "StartingSynthesis"
+            ],
+            "targets": "N-CQDs"
+        },
+        {
+            "sentence": "It was revealed that the addition of luminescent hetero-atom doped CQDs into the perovskite layer improves the charge transport properties of PSCs and their stability",
+            "all_materials": [
+                "CQDs"
+            ],
+            "other_materials": [
+                "CQDs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Differently, phosphorus  shows high reactivity since it has electron-rich nature",
+            "all_materials": [
+                "phosphorus"
+            ],
+            "other_materials": [
+                "phosphorus"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, the introducing P into CQDs will bring novel optical features",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For instance, P-CQDs synthesized showed different emission results depending on the excitation conditions",
+            "all_materials": [
+                "P-CQDs"
+            ],
+            "other_materials": [
+                "P-CQDs"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                4,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To date, much research have been reported to prepare highly luminescent P-CQDs ,",
+            "all_materials": [
+                "P-CQDs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "P-CQDs"
+        },
+        {
+            "sentence": "In this study, we synthesized highly luminescent P-CQDs  with optimized dosing of P heteroatom",
+            "all_materials": [
+                "P-CQDs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                5,
+                "StartingSynthesis"
+            ],
+            "targets": "P-CQDs"
+        },
+        {
+            "sentence": "However, to the best of our knowledge, the studies on the effect of phosphorus doping as hetero-atom to CQDs  for the fabrication of high-performance PSCs is not performed",
+            "all_materials": [
+                "phosphorus",
+                "PSCs"
+            ],
+            "other_materials": [
+                "phosphorus"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "According to the literature, an electron rich system can be obtained in MAPbI3 perovskite layer by the addition of P-CQDs owing to the doping with the electron-rich phosphorus acting as an excellent core unit ,",
+            "all_materials": [
+                "MAPbI3",
+                "P-CQDs",
+                "phosphorus"
+            ],
+            "other_materials": [
+                "MAPbI3",
+                "phosphorus"
+            ],
+            "precursors": [
+                {
+                    "text": "P-CQDs",
+                    "start": 115,
+                    "end": 121,
+                    "token_ids": [
+                        20
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Additionally, phosphorus behaves like an n-type donor forming substitutional defects, unlike nitrogen acting as an acceptor ,",
+            "all_materials": [
+                "phosphorus"
+            ],
+            "other_materials": [
+                "phosphorus"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Thus, phosphorus can provide more active sites on the CQDs surface",
+            "all_materials": [
+                "phosphorus"
+            ],
+            "other_materials": [
+                "phosphorus"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, in this study, P-CQDs synthesized by solvothermal method are proposed to be utilized as novel additive in p-i-n structured PSCs",
+            "all_materials": [
+                "P-CQDs",
+                "PSCs"
+            ],
+            "other_materials": [
+                "P-CQDs"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                7,
+                "StartingSynthesis"
+            ],
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "The optical, electrical, and surface properties, and crystallization of the perovskite film were promoted by the addition of P-CQDs by the passivation effect",
+            "all_materials": [
+                "P-CQDs"
+            ],
+            "other_materials": [
+                "P-CQDs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, the optimum concentration of P-CQDs additive was determined, which was presented that the charge collection properties, increasing the FF of a PSCs can be well controlled by addition 5\u00a0vol% of P-CQDs",
+            "all_materials": [
+                "P-CQDs",
+                "P-CQDs"
+            ],
+            "other_materials": [
+                "P-CQDs"
+            ],
+            "precursors": [
+                {
+                    "text": "P-CQDs",
+                    "start": 206,
+                    "end": 212,
+                    "token_ids": [
+                        36
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As a result, the PCE of best performing PSC were increased from 10.7% to 13.1%",
+            "all_materials": [
+                "PSC"
+            ],
+            "other_materials": [
+                "PSC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition to improved optical properties, the energy bandgaps regulated showed a beneficial impact on the charge extraction and transport properties",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "More importantly, the reproducibility of devices was increased, which could be related to reduced surface defects showing the efficacy of P-CQDs as an additive for passivation.",
+            "all_materials": [
+                "P-CQDs"
+            ],
+            "other_materials": [
+                "P-CQDs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Hellmanex III solution, concentrated phosphoric acid , and other reagents including urea , citric acid , dimethyl sulfoxide , N,N-dimethylformamide , \u03b3-butyrolactone , chlorobenzene, toluene, acetone, isopropyl alcohol  etc were obtained from Sigma-Aldrich",
+            "all_materials": [
+                "phosphoric acid",
+                "urea",
+                "citric acid",
+                "dimethyl sulfoxide",
+                "N,N-dimethylformamide",
+                "\u03b3-butyrolactone",
+                "chlorobenzene",
+                "toluene",
+                "acetone",
+                "isopropyl alcohol"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "phosphoric acid",
+                    "start": 37,
+                    "end": 52,
+                    "token_ids": [
+                        5,
+                        6
+                    ]
+                },
+                {
+                    "text": "urea",
+                    "start": 84,
+                    "end": 88,
+                    "token_ids": [
+                        12
+                    ]
+                },
+                {
+                    "text": "citric acid",
+                    "start": 91,
+                    "end": 102,
+                    "token_ids": [
+                        14,
+                        15
+                    ]
+                },
+                {
+                    "text": "dimethyl sulfoxide",
+                    "start": 105,
+                    "end": 123,
+                    "token_ids": [
+                        17,
+                        18
+                    ]
+                },
+                {
+                    "text": "N,N-dimethylformamide",
+                    "start": 126,
+                    "end": 147,
+                    "token_ids": [
+                        20
+                    ]
+                },
+                {
+                    "text": "\u03b3-butyrolactone",
+                    "start": 150,
+                    "end": 165,
+                    "token_ids": [
+                        22
+                    ]
+                },
+                {
+                    "text": "chlorobenzene",
+                    "start": 168,
+                    "end": 181,
+                    "token_ids": [
+                        24
+                    ]
+                },
+                {
+                    "text": "toluene",
+                    "start": 183,
+                    "end": 190,
+                    "token_ids": [
+                        26
+                    ]
+                },
+                {
+                    "text": "acetone",
+                    "start": 192,
+                    "end": 199,
+                    "token_ids": [
+                        28
+                    ]
+                },
+                {
+                    "text": "isopropyl alcohol",
+                    "start": 201,
+                    "end": 218,
+                    "token_ids": [
+                        30,
+                        31
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "ITO substrates , 2,9-dimethyl-4,7-diphenyl-1,10-phenanthroline , [6,6]-phenyl-C61-butyric acid methyl ester  were",
+            "all_materials": [
+                "ITO",
+                "2,9-dimethyl-4,7-diphenyl-1,10-phenanthroline",
+                "[6,6]-phenyl-C61-butyric acid methyl ester"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "ITO",
+                    "start": 0,
+                    "end": 3,
+                    "token_ids": [
+                        0
+                    ]
+                },
+                {
+                    "text": "2,9-dimethyl-4,7-diphenyl-1,10-phenanthroline",
+                    "start": 17,
+                    "end": 62,
+                    "token_ids": [
+                        3
+                    ]
+                },
+                {
+                    "text": "[6,6]-phenyl-C61-butyric acid methyl ester",
+                    "start": 65,
+                    "end": 107,
+                    "token_ids": [
+                        5,
+                        6,
+                        7,
+                        8
+                    ]
+                }
+            ],
+            "operation": [
+                6,
+                6
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Successful synthesis of P-CQDs with %2.77 of phosphorus doping was investigated by UV-Vis, PL, and SEM-EDX mapping",
+            "all_materials": [
+                "P-CQDs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "P-CQDs"
+        },
+        {
+            "sentence": "UV-Vis and PL spectroscopy were performed to understand optical properties of the P-CQDs",
+            "all_materials": [
+                "P-CQDs"
+            ],
+            "other_materials": [
+                "P-CQDs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The absorption spectra of P-CQDs and the PL spectra of P-CQDs were shown in Fig",
+            "all_materials": [
+                "P-CQDs",
+                "P-CQDs"
+            ],
+            "other_materials": [
+                "P-CQDs",
+                "P-CQDs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "S1  and , respectively",
+            "all_materials": [
+                "S1"
+            ],
+            "other_materials": [
+                "S1"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A strong absorption peak of P-CQDs at around 270\u2009nm was observed",
+            "all_materials": [
+                "P-CQDs"
+            ],
+            "other_materials": [
+                "P-CQDs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This peak could be related to n-\u03c0\u2009*\u2009electronic transition of functional groups including CO, P\u2009=\u2009O, and CP groups",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In summary, an additive engineering method was adopted for the doping of perovskite absorber layer",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The defect diminution, along with improved charged transport and suppressed charge recombination at the same time were promoted in P-CQDs added MAPbI3 film, at 5\u2009vol% of P-CQDs concentration",
+            "all_materials": [
+                "P-CQDs",
+                "MAPbI3",
+                "P-CQDs"
+            ],
+            "other_materials": [
+                "P-CQDs",
+                "MAPbI3",
+                "P-CQDs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The characterization of thin films and the devices presented that electron-rich P-CQDs can passivate the defects, acting as a core unit in MAPbI3 and modulate the perovskite crystallization",
+            "all_materials": [
+                "P-CQDs",
+                "MAPbI3"
+            ],
+            "other_materials": [
+                "P-CQDs",
+                "MAPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Additionally,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "\u00c7isem K\u0131rb\u0131y\u0131k Kurukavak: Writing \u2013 original draft, Writing \u2013 review &amp; editing, Investigation, Conceptualization, Supervision, Validation, Funding acquisition",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Tu\u011fbahan Y\u0131lmaz: Writing \u2013 original draft, Writing \u2013 review &amp; editing, Investigation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Alihan B\u00fcy\u00fckbekar: Visualization, Methodology, Investigation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "M\u00fctahire Tok: Review &amp; editing, Investigation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Mahmut Ku\u015f: Review &amp; editing, Investigation.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors thank to financial support of the Scientific and Technological Research Council of Turkey  , Konya Technical University Scientific Research Council , and EngSurf-Twin project  European Union&#x27;s Horizon 2020 research and innovation programme.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Environmental pollution and the diminishing of fossil resources are the most important problems of today\u2019s modern life",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore the demand for sustainable and biodegradable packaging materials has increased with an increase in the consumption of packaged food products",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The development of bionanocomposite films with desired properties including biodegradability, lightweight, high performance, and so on, have been gained great attention over the last decades",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The fabrication of bionanocomposite meeting ecological requirements mainly focuses on the usage of nanomaterials in biopolymer matrix to improve stability, barrier performance, and mechanical strength of biopolymers",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Despite these, the extension of the shelf life of food products could be enhanced by the incorporation of nanomaterials in bionanocomposites for food packaging",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this chapter, the details of the main types of nanomaterials used in the most widely investigated biopolymers in food packaging applications and the properties of their bionanocomposites are overviewed.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this study, we describe that the interface modification of blocking TiO2  based polymer solar cells  by self-assembled monolayer  can enhance the entire device performance",
+            "all_materials": [
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Three different fluorine-terminated boronic acid SAMs were applied to modify bl-TiO2 layer in inverted PSCs",
+            "all_materials": [
+                "boronic acid SAMs",
+                "bl-TiO2",
+                "PSCs"
+            ],
+            "other_materials": [
+                "boronic acid SAMs",
+                "bl-TiO2",
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It was determined that surface traps could be passivated and the energy level matching could be improved by introducing of fluorine-terminated boronic acid SAMs",
+            "all_materials": [
+                "boronic acid SAMs"
+            ],
+            "other_materials": [
+                "boronic acid SAMs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The modifying with SAMs enhance the charge transport properties of bl-TiO2 layer",
+            "all_materials": [
+                "bl-TiO2"
+            ],
+            "other_materials": [
+                "bl-TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The morphological, optical and electrical characterizations were carried out for each solar cell fabricated",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                14,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "PSCs fabricated with 3,5-fluorophenylboronic acid  SAM modified bl-TiO2 resulted a power conversion efficiency  of 4.4%, which is a significant increase  compared with non-modified device",
+            "all_materials": [
+                "PSCs",
+                "3,5-fluorophenylboronic acid  SAM",
+                "bl-TiO2"
+            ],
+            "other_materials": [
+                "3,5-fluorophenylboronic acid  SAM",
+                "bl-TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                1,
+                "StartingSynthesis"
+            ],
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "These underrated SAM molecules and their easy application to electronic devices provides an opportunity to investigate their applications.",
+            "all_materials": [
+                "SAM"
+            ],
+            "other_materials": [
+                "SAM"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Photocatalytic hydrogen evolution using by semiconductor materials have been studied effectively by converting solar energy into the chemical energy",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Perovskite-based materials have been widely used as semiconductor catalysts for the photocatalytic hydrogen production",
+            "all_materials": [
+                "hydrogen"
+            ],
+            "other_materials": [
+                "hydrogen"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, molybdenum sulfide photodeposited onto MTiO3  perovskites  have been investigated on the photocatalytic hydrogen evolution under solar light irradiation in the presence of triethanolamine  and eosin Y  as an electron donor and photosensitizer, respectively",
+            "all_materials": [
+                "molybdenum sulfide",
+                "MTiO3",
+                "hydrogen",
+                "triethanolamine",
+                "eosin Y"
+            ],
+            "other_materials": [
+                "molybdenum sulfide",
+                "MTiO3",
+                "hydrogen",
+                "triethanolamine",
+                "eosin Y"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Compared to pristine MTiO3, BaTiO3/MoSx and SrTiO3/MoSx show a remarkable improvement in the hydrogen production efficiency and stability",
+            "all_materials": [
+                "MTiO3",
+                "BaTiO3/MoSx",
+                "SrTiO3/MoSx"
+            ],
+            "other_materials": [
+                "MTiO3",
+                "BaTiO3/MoSx",
+                "SrTiO3/MoSx"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Photocatalytic hydrogen evolution activities found in the order of SrTiO3/MoSx\u00a0&gt;\u00a0BaTiO3/MoSx\u00a0&gt;\u00a0MoSx\u00a0&gt;\u00a0SrTiO3\u00a0&gt;\u00a0BaTiO3",
+            "all_materials": [
+                "SrTiO3/MoSx\u00a0&gt",
+                "BaTiO3/MoSx\u00a0&gt",
+                "MoSx\u00a0&gt",
+                "SrTiO3\u00a0&gt",
+                "BaTiO3"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "SrTiO3/MoSx\u00a0&gt"
+        },
+        {
+            "sentence": "In addition, photocatalytic hydrogen activity of SrTiO3/Pt was evaluated for comparison with SrTiO3/MoSx under the same conditions and SrTiO3/MoSx produced higher hydrogen activity than SrTiO3/Pt due to the high active sites created by MoSx on the catalyst surface which is originated from Mo\u2013S and SS bonds.",
+            "all_materials": [
+                "SrTiO3/Pt",
+                "SrTiO3/MoSx",
+                "SrTiO3/MoSx",
+                "SrTiO3/Pt",
+                "MoSx",
+                "Mo"
+            ],
+            "other_materials": [
+                "SrTiO3/Pt",
+                "SrTiO3/MoSx",
+                "SrTiO3/MoSx",
+                "SrTiO3/Pt",
+                "MoSx",
+                "Mo"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As a revolutionary photovoltaic technology, organic-inorganic perovskite solar cells  have attracted increasing interests because of rapidly boosted power conversion efficiencies  in the last decade",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Nevertheless, the typical methylammonium lead iodide  perovskite suffers from the inferior perovskite film quality and high defect amount, retarding the stability and PCEs",
+            "all_materials": [
+                "methylammonium lead iodide"
+            ],
+            "other_materials": [
+                "methylammonium lead iodide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Using additives as defect passivators to effectively decrease the defect density and improve the perovskite film quality is a facile and useful method to enhance the PCEs and stability of MAPbI3-based PSCs",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, a new organic fluorine-based trifluoroethyl methacrylate  is introduced into the perovskite precursor to effectively suppress the defect amount, enhance the perovskite film quality , adjust the energy level alignment, reduce the charge recombination and promote the electron extraction at the same time",
+            "all_materials": [
+                "trifluoroethyl methacrylate"
+            ],
+            "other_materials": [
+                "trifluoroethyl methacrylate"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "By optimizing the amount of TFMA additive, the modified MAPbI3-based cell delivers a superior PCE of 21.0%, which is 16% higher than that of the control device",
+            "all_materials": [
+                "TFMA"
+            ],
+            "other_materials": [
+                "TFMA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, the addition of TFMA also significantly improves the moisture and thermal stability of MAPbI3-based PSCs",
+            "all_materials": [
+                "TFMA"
+            ],
+            "other_materials": [
+                "TFMA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work provides a simple and useful strategy for reducing defects and boosting the performance of organic-inorganic PSCs, which can facilitate the commercialization of PSCs.",
+            "all_materials": [
+                "PSCs",
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "Poly:polystyrene sulfonate  is the most widely-used transparent anode material of commercialization",
+            "all_materials": [
+                "Poly:polystyrene sulfonate"
+            ],
+            "other_materials": [
+                "Poly:polystyrene sulfonate"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the partially bonding between PSS and PEDOT greatly decreases the structural and electronic homogeneity of PEDOT:PSS system",
+            "all_materials": [
+                "PSS",
+                "PEDOT",
+                "PEDOT:PSS"
+            ],
+            "other_materials": [
+                "PSS",
+                "PEDOT",
+                "PEDOT:PSS"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In view of their molecular structure and functional groups, a S, N co-doped carbon nanodots  was developed as ameliorant to prepare PEDOT:PSS:CNDs hole transport layer",
+            "all_materials": [
+                "carbon",
+                "PEDOT:PSS:CNDs"
+            ],
+            "other_materials": [
+                "carbon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PEDOT:PSS:CNDs"
+        },
+        {
+            "sentence": "The uncombined S double bond introduces more microcosmic interstice inside CNDs, accompanying with many N-rich amino on the surface",
+            "all_materials": [
+                "CNDs"
+            ],
+            "other_materials": [
+                "CNDs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This highly reactive products can band the redundant PSS and remove the insulating component from PEDOT:PSS mixture, leading to the conductivity and structural homogeneity improvement",
+            "all_materials": [
+                "PSS",
+                "PEDOT:PSS"
+            ],
+            "other_materials": [
+                "PSS",
+                "PEDOT:PSS"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The hole-transport capability of PEDOT:PSS:CNDs is systematically investigated in inverted planar hetero-junction  perovskite solar cells  fabricated in air, and an optimized power conversion efficiency  of 18.03% was achieved, which is superior to PEDOT:PSS based PSCs produced under atmospheric",
+            "all_materials": [
+                "PEDOT:PSS:CNDs",
+                "air",
+                "PEDOT:PSS"
+            ],
+            "other_materials": [
+                "PEDOT:PSS:CNDs",
+                "air",
+                "PEDOT:PSS"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                23,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work offers a new strategy to improve the charge transfer capability of PEDOT:PSS in PSCs.",
+            "all_materials": [
+                "PEDOT:PSS",
+                "PSCs"
+            ],
+            "other_materials": [
+                "PEDOT:PSS",
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A guanidinium incorporated double cation mixed halide perovskite was investigated by including guanidinium bromide  in methylammonium lead iodide  under various GABr concentrations",
+            "all_materials": [
+                "halide",
+                "guanidinium bromide",
+                "methylammonium lead iodide",
+                "GABr"
+            ],
+            "other_materials": [
+                "guanidinium bromide",
+                "methylammonium lead iodide",
+                "GABr"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "halide"
+        },
+        {
+            "sentence": "The XRD patterns with characteristic ,  and  peaks showed an initial shift towards lower angles and then towards higher angles, indicating an initial lattice expansion and then contraction with increasing GABr content",
+            "all_materials": [
+                "GABr"
+            ],
+            "other_materials": [
+                "GABr"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Increasing the GABr concentration above 10% resulted in reducing the visible absorbance of the compound along with widening of the bandgap",
+            "all_materials": [
+                "GABr"
+            ],
+            "other_materials": [
+                "GABr"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The bandgap increased from 1.58\u00a0eV for MAPI to 2.06\u00a0eV for 80% GABr but not for 1\u201310% GABr",
+            "all_materials": [
+                "MAPI",
+                "GABr",
+                "GABr"
+            ],
+            "other_materials": [
+                "MAPI",
+                "GABr",
+                "GABr"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Steady state and time resolved photoluminescence measurements revealed that the 10% GABr incorporated samples exhibited higher photoluminescence emission and enhanced charge carrier lifetime than MAPI",
+            "all_materials": [
+                "GABr",
+                "MAPI"
+            ],
+            "other_materials": [
+                "GABr",
+                "MAPI"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The scanning electron microscopy images depicted typical surface passivation effect observed in the GA based additives, where an increase in grain size and low number of pinholes were observed for 10% GABr incorporated films",
+            "all_materials": [
+                "GABr"
+            ],
+            "other_materials": [
+                "GABr"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As an outcome of these synergistic effects, perovskite solar cells  fabricated from 10% GABr presented a superior power conversion efficiency  of 16.70\u00a0\u00b1\u00a00.20% compared to the conventional MAPI",
+            "all_materials": [
+                "GABr"
+            ],
+            "other_materials": [
+                "GABr"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                11,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The 10% GABr based PSCs exhibited lesser hysteresis compared to MAPI and retained\u00a0&gt;\u00a097% of their pristine PCE after 400\u00a0h of continuous illumination, while the PCE of MAPI-based PSCs deteriorated with time.",
+            "all_materials": [
+                "MAPI",
+                "PCE"
+            ],
+            "other_materials": [
+                "MAPI",
+                "PCE"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

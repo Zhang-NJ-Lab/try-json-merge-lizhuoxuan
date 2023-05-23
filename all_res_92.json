@@ -1,0 +1,1129 @@
+{
+    "rest": [
+        {
+            "sentence": "One of the key strategies to develop halide perovskite solar cells involves the preparation of good quality perovskite layer",
+            "all_materials": [
+                "halide"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "halide"
+        },
+        {
+            "sentence": "Although tackling the issues of perovskite crystallinity and morphology is central to ensuring high photovoltaic performance of the device, the feasibility of large-scale fabrication of perovskite is equally important",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this study, we argue that such aims can be achieved by using a new, scalable fabrication technique based on electrodeposition assisted by an external magnetic field to effectively prepare the high-quality PbI2 precursor and perovskite films",
+            "all_materials": [
+                "PbI2"
+            ],
+            "other_materials": [
+                "PbI2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The magnetic field-assisted electrodeposition technique required only 10\u00a0min of preparation of the precursor layer, which was subsequently converted to improved perovskite films, as supported by the results from scanning electron microscopy, X-ray diffraction, UV\u2013vis absorption, and photoluminescence",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "All preparation processes were carried out under ambient conditions with high humidity",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                4,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Interestingly, using a simple hole transport layer-free device structure with a carbon back contact, the perovskite film prepared using the magnetic field-assisted electrodeposition method showed 4.2% power conversion efficiency, as well as 0.62\u00a0V in open-circuit voltage and 16.65\u00a0mA/cm2 in photocurrent at AM 1.5 solar light of 100\u00a0mW/cm2",
+            "all_materials": [
+                "carbon"
+            ],
+            "other_materials": [
+                "carbon"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                21,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, the unencapsulated perovskite device prepared using electrodeposition under the external magnetic field also demonstrated high stability under ambient conditions, revealing essentially unchanged power conversion efficiency after 14\u00a0days of fabrication",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                6,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Taken together, this work provides an evidence in support of a relatively unexplored electrodeposition-based strategy as a rapid, facile, scalable, and potentially low-cost preparation of perovskite films for solar cells.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Download : Download high-res image Download : Download full-size image",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Perovskite solar cell  is one of the promising energy conversion technologies that has great potential to mitigate the issue of climate change and the challenges of energy crisis",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In just about one decade, the conversion efficiency of the PSC was improved significantly from 3.8% to 25.2%",
+            "all_materials": [
+                "PSC"
+            ],
+            "other_materials": [
+                "PSC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Methylammonium lead iodide  is a popular type of perovskite for planar solar cell structure due to favorable light absorption, energy bandgap, carrier transport, and electron-hole diffusion length",
+            "all_materials": [
+                "Methylammonium lead iodide"
+            ],
+            "other_materials": [
+                "Methylammonium lead iodide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The synthesis of MAPbI3 can normally be done via two routes: one-step and two-step methods",
+            "all_materials": [
+                "MAPbI3"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "MAPbI3"
+        },
+        {
+            "sentence": "The one-step method can be carried out by dissolving lead halide and methylammonium halide in dimethylformamide, dimethyl sulfoxide, \u03b3-butyrolactone, or the mixture of these solvents",
+            "all_materials": [
+                "lead halide",
+                "methylammonium halide",
+                "dimethylformamide",
+                "dimethyl sulfoxide",
+                "\u03b3-butyrolactone"
+            ],
+            "other_materials": [
+                "dimethylformamide",
+                "dimethyl sulfoxide",
+                "\u03b3-butyrolactone"
+            ],
+            "precursors": [
+                {
+                    "text": "lead halide",
+                    "start": 53,
+                    "end": 64,
+                    "token_ids": [
+                        11,
+                        12
+                    ]
+                },
+                {
+                    "text": "methylammonium halide",
+                    "start": 69,
+                    "end": 90,
+                    "token_ids": [
+                        14,
+                        15
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The precipitation of perovskite that results from this method is, alas, uncontrollable, which hinders the reproducibility of the photovoltaic performance",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "On the other hand, the two-step method can be achieved by depositing lead oxide or lead halide onto a substrate and subsequently treating with methylammonium halide via dipping or vaporizing method, which has been shown to exhibit good control over the morphology of perovskite film .",
+            "all_materials": [
+                "lead oxide",
+                "lead halide",
+                "methylammonium halide"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "lead oxide",
+                    "start": 69,
+                    "end": 79,
+                    "token_ids": [
+                        15,
+                        16
+                    ]
+                },
+                {
+                    "text": "lead halide",
+                    "start": 83,
+                    "end": 94,
+                    "token_ids": [
+                        18,
+                        19
+                    ]
+                },
+                {
+                    "text": "methylammonium halide",
+                    "start": 143,
+                    "end": 164,
+                    "token_ids": [
+                        27,
+                        28
+                    ]
+                }
+            ],
+            "operation": [
+                25,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Although utilization of the two-step method can result in a high power conversion efficiency of about 22% , its reliance on spin coating technique unfortunately hampers the prospect of industrialization of the module",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Several techniques for PSC upscaling such as blade coating , slot die coating , roll-to-roll processing , inkjet printing , and spray coating  were developed",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, these methods need demanding mechanical adjustment of the setup that inadvertently often results in reproducibility issues",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "On the other hand, a much less-explored electrodeposition  method holds great potential for mass-scale production with good controllability over the perovskite crystal growth",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "According to previous works, the ED of PbI2, which was then converted into perovskite film, could result in an efficiency of 9%",
+            "all_materials": [
+                "PbI2"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "PbI2",
+                    "start": 39,
+                    "end": 43,
+                    "token_ids": [
+                        8
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Although the level of efficiency obtained from the ED may not match that of other fabrication techniques, the ED still offers a promising alternative that may only need further improvement",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In fact, another method that also provides an interesting approach toward large-scale production is the use of magnetic field",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It was reported that spin-coating the perovskite layer under a magnetic field could yield a 2% increase in efficiency as a result of more regular perovskite morphology and less surface defect",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Pb, a central component in perovskite that is also paramagnetic, was thought to be influenced by the applied magnetic field that in turn allowed for a more ordered crystal morphology .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, a significant upgrade to the ED method was demonstrated by applying an external magnetic field during the deposition of PbI2",
+            "all_materials": [
+                "PbI2"
+            ],
+            "other_materials": [
+                "PbI2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The formation of perovskite was then obtained by dipping the PbI2 film in methylammonium iodide, and the device was completed by using a carbon back contact",
+            "all_materials": [
+                "PbI2",
+                "methylammonium iodide",
+                "carbon"
+            ],
+            "other_materials": [
+                "PbI2",
+                "methylammonium iodide",
+                "carbon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We note that the fabrication of the hole transport material-free device in this work was performed under 50\u201375% relative humidity  without the use of a glovebox",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The results of the characterizations reported herein suggested a significant improvement in the ED approach, both in terms of the time of preparation and the quality of the perovskite layer compatible with carbon-based device structure.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "All reagents used in this study were obtained from the commercial suppliers without further purification",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "They were fluorine-doped tin oxide  glass , titania paste , tin chloride dihydrate , zirconia paste , ethanol , isopropanol , dimethyl formamide , dimethyl sulphoxide , magnesium chloride anhydrate , silver paste ,",
+            "all_materials": [
+                "tin oxide",
+                "titania",
+                "tin chloride dihydrate",
+                "zirconia",
+                "ethanol",
+                "isopropanol",
+                "dimethyl formamide",
+                "dimethyl sulphoxide",
+                "magnesium chloride anhydrate",
+                "silver"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "tin oxide",
+                    "start": 25,
+                    "end": 34,
+                    "token_ids": [
+                        5,
+                        6
+                    ]
+                },
+                {
+                    "text": "titania",
+                    "start": 44,
+                    "end": 51,
+                    "token_ids": [
+                        9
+                    ]
+                },
+                {
+                    "text": "tin chloride dihydrate",
+                    "start": 60,
+                    "end": 82,
+                    "token_ids": [
+                        12,
+                        13,
+                        14
+                    ]
+                },
+                {
+                    "text": "zirconia",
+                    "start": 85,
+                    "end": 93,
+                    "token_ids": [
+                        16
+                    ]
+                },
+                {
+                    "text": "ethanol",
+                    "start": 102,
+                    "end": 109,
+                    "token_ids": [
+                        19
+                    ]
+                },
+                {
+                    "text": "isopropanol",
+                    "start": 112,
+                    "end": 123,
+                    "token_ids": [
+                        21
+                    ]
+                },
+                {
+                    "text": "dimethyl formamide",
+                    "start": 126,
+                    "end": 144,
+                    "token_ids": [
+                        23,
+                        24
+                    ]
+                },
+                {
+                    "text": "dimethyl sulphoxide",
+                    "start": 147,
+                    "end": 166,
+                    "token_ids": [
+                        26,
+                        27
+                    ]
+                },
+                {
+                    "text": "magnesium chloride anhydrate",
+                    "start": 169,
+                    "end": 197,
+                    "token_ids": [
+                        29,
+                        30,
+                        31
+                    ]
+                },
+                {
+                    "text": "silver",
+                    "start": 200,
+                    "end": 206,
+                    "token_ids": [
+                        33
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here we introduced the mixture of mesoporous TiO2-ZrO2 as the electron transport layer for the ED of PbI2",
+            "all_materials": [
+                "TiO2",
+                "ZrO2",
+                "PbI2"
+            ],
+            "other_materials": [
+                "TiO2",
+                "ZrO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PbI2"
+        },
+        {
+            "sentence": "To determine the potential range for the formation of PbI2 precursor layer, cyclic voltammetry was performed",
+            "all_materials": [
+                "PbI2"
+            ],
+            "other_materials": [
+                "PbI2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "2a and 2b show the cyclic voltammograms of the FTO/SnO2-Mg/TiO2-ZrO2/ZrO2  working electrode in the Pb2+ and I- precursor solutions, using the scan rates of 20\u00a0mV/s.Fig",
+            "all_materials": [
+                "FTO/SnO2-Mg/TiO2-ZrO2/ZrO2"
+            ],
+            "other_materials": [
+                "FTO/SnO2-Mg/TiO2-ZrO2/ZrO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "According to Fig",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "2a, the reduction of Pb2+/Pb started at \u22120.383\u00a0V, with peaks at",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We showed in this work that a good quality of PbI2 film can be electrodeposited on the substrate within only 10\u00a0min in the presence of the external magnetic field of \u223c550 mT under ambient condition of high humidity",
+            "all_materials": [
+                "PbI2"
+            ],
+            "other_materials": [
+                "PbI2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This method resulted in a uniform layer of perovskite with comparatively large crystal size and improved crystallinity, yielding highest PCE of 4.2% for non-encapsulated, carbon-based device without the conventional spiro-OMeTAD hole transport layer",
+            "all_materials": [
+                "spiro-OMeTAD"
+            ],
+            "other_materials": [
+                "spiro-OMeTAD"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The application of the external",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work was supported by the Royal Golden Jubilee Ph.D",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Program, Thailand, the National Research Council of Thailand , and the Center of Excellence for Innovation in Chemistry , Ministry of Higher Education, Science, Research and Innovation, Thailand",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We would also like to thank Dr",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Pongsakorn Kanjanaboos and Dr",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Aphichart Rodchanarowan for fruitful discussion.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In recent years, Perovskite solar cells  have garnered immense popularity in the field of photovoltaics, due to its efficiency comparable to silicon solar cells and its ease of processing makes it cost effective",
+            "all_materials": [
+                "silicon"
+            ],
+            "other_materials": [
+                "silicon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Owing to the vast scope of organic\u2013inorganic metal halides in the field of Perovskite Solar Cell, we have designed and fabricated a sandwiched methyl ammonium lead iodide  based PSC using PEDOT: PSS as hole transport material  in room ambient condition",
+            "all_materials": [
+                "methyl ammonium lead iodide",
+                "PSC",
+                "PEDOT: PSS"
+            ],
+            "other_materials": [
+                "methyl ammonium lead iodide",
+                "PEDOT: PSS"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                23,
+                "StartingSynthesis"
+            ],
+            "targets": "PSC"
+        },
+        {
+            "sentence": "The PSC with architecture of FTO/TiO2/Perovskite/PEDOT: PSS/Pt, show a high efficiency of 15.24% at one sun condition",
+            "all_materials": [
+                "PSC",
+                "FTO/TiO2/Perovskite/PEDOT: PSS/Pt"
+            ],
+            "other_materials": [
+                "PSC",
+                "FTO/TiO2/Perovskite/PEDOT: PSS/Pt"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Owing to the fact that most of PSC are unstable at room ambient, our PSC affirms a stability of two hours, at room environment",
+            "all_materials": [
+                "PSC"
+            ],
+            "other_materials": [
+                "PSC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In recent years, for the first time such high efficiency of PSC is reported in sandwich structure in ambient conditions",
+            "all_materials": [
+                "PSC"
+            ],
+            "other_materials": [
+                "PSC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Since it is completely based on solution processing with no usage of vacuum deposition, it is very cost effective.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Defects in the perovskite films impose a serious issue on the PCE and stability of the SnO2 based planar perovskite solar cells",
+            "all_materials": [
+                "SnO2"
+            ],
+            "other_materials": [
+                "SnO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "So far, most researches have focused on regulating the SnO2/perovskite interface to improve performance",
+            "all_materials": [
+                "SnO2"
+            ],
+            "other_materials": [
+                "SnO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, defect passivation of the perovskite/HTM interface is more significant and potential",
+            "all_materials": [
+                "HTM"
+            ],
+            "other_materials": [
+                "HTM"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, the non-toxic and cheap choline chloride was performed to passivate multiple defects of the MAPbI3/HTM interface in ambient atmosphere",
+            "all_materials": [
+                "choline chloride",
+                "MAPbI3/HTM"
+            ],
+            "other_materials": [
+                "choline chloride",
+                "MAPbI3/HTM"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "An optimal PCE of 19.93%  was obtained for the passivated device",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, the effect and mechanism of choline chloride on the humid and thermal stability of the SP-PSCs was investigated in detail",
+            "all_materials": [
+                "choline chloride",
+                "SP-PSCs"
+            ],
+            "other_materials": [
+                "choline chloride",
+                "SP-PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The passivated device without encapsulation retained 91% of its initial efficiency after 20 days in humid environment  and 95% of the initial value under heating for 7 cycles",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                26,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Chloride ions with smaller radius and larger electronegativity formed stronger ionic bonding with Pb2+ to passivate I\u2212 vacancy defects, while choline ions passivated MA+ vacancies",
+            "all_materials": [
+                "Chloride"
+            ],
+            "other_materials": [
+                "Chloride"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work not only provides guidance for fabrication of an efficient and stable device in air, but also opens an avenue to understanding of relation between stability and defects in the SP-PSCs.",
+            "all_materials": [
+                "air",
+                "SP-PSCs"
+            ],
+            "other_materials": [
+                "air",
+                "SP-PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A novel DMF-free perovskite solar cell fabrication protocol, based on electrodeposited PbI2 films from ionic liquid and subsequent conversion into perovskite is presented",
+            "all_materials": [
+                "PbI2"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "PbI2",
+                    "start": 87,
+                    "end": 91,
+                    "token_ids": [
+                        14
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Hexane is proposed to be used as an efficient co-solvent in the conversion solution, to affect the film morphology in a controlled way",
+            "all_materials": [
+                "Hexane"
+            ],
+            "other_materials": [
+                "Hexane"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The effect of the hexane in the [CH3NH3-PbI2]solvent complex formation and the impact of the complexes in the PbI2 to CH3NH3PbI3 conversion is discussed",
+            "all_materials": [
+                "hexane",
+                "[CH3NH3-PbI2]solvent",
+                "PbI2",
+                "CH3NH3PbI3"
+            ],
+            "other_materials": [
+                "hexane",
+                "[CH3NH3-PbI2]solvent",
+                "PbI2",
+                "CH3NH3PbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Close-packing density nanocrystalline perovskite films from open-packed PbI2 films platelets are successfully obtained after dipping during 10\u00a0minutes in isopropanol:hexane 90:10\u00a0v:v conversion solutions",
+            "all_materials": [
+                "PbI2",
+                "isopropanol",
+                "hexane"
+            ],
+            "other_materials": [
+                "PbI2",
+                "isopropanol",
+                "hexane"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Solar cells based on the obtained perovskite films exhibit a power conversion efficiency of 9%",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This finding points out the viability of the reported process in the DMF-free fabrication of perovskite solar cells.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "One strategy to enhance the performance of perovskite light-emitting diode is to reduce the surface defect of the perovskite",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, we investigated the post treatment of CsPbBr3 perovskite polycrystalline film using three passivation agents: cetylpyridinium bromide , cetyltrimethylammonium bromide , and hexadecylamine",
+            "all_materials": [
+                "CsPbBr3",
+                "cetylpyridinium bromide",
+                "cetyltrimethylammonium bromide",
+                "hexadecylamine"
+            ],
+            "other_materials": [
+                "CsPbBr3",
+                "cetylpyridinium bromide",
+                "cetyltrimethylammonium bromide",
+                "hexadecylamine"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The introduction of organic cationic functional groups on the CsPbBr3 surface helped remove the defects, causing less non-radiative recombination and therefore enhanced both photoluminescence and electroluminescence",
+            "all_materials": [
+                "CsPbBr3"
+            ],
+            "other_materials": [
+                "CsPbBr3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Additionally, excess bromide ions on the perovskite surface supplied by CPB and CTAB further passivated and increased the radiative recombination",
+            "all_materials": [
+                "CPB",
+                "CTAB"
+            ],
+            "other_materials": [
+                "CPB",
+                "CTAB"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In all cases, the use of these passivation agents did not alter the band gap of the CsPbBr3 perovskite emitter, preserving the core material and its emission wavelength",
+            "all_materials": [
+                "CsPbBr3"
+            ],
+            "other_materials": [
+                "CsPbBr3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To further understand the passivation mechanisms, a simple device fabricated without using a high vacuum evaporator was prepared with mesoporous ZrO2 insulating layer as a spacer between the anode and the cathode",
+            "all_materials": [
+                "ZrO2"
+            ],
+            "other_materials": [
+                "ZrO2"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                [
+                    10,
+                    "StartingSynthesis"
+                ],
+                [
+                    18,
+                    "StartingSynthesis"
+                ]
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Higher electroluminescence, voltage-independence recombination zone, as well as better stability were achieved with the passivation.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Nowadays, access to cheap, renewable and achievable energy sources is no longer just a dream with perovskite solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Reaching the record of \u223c25% efficiency in 2019 has increasingly led researchers to address the challenges facing commercialization, including finding suitable large scale preparation techniques and increasing the lifetime of PSCs",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "According to various reports in the thin film solar cells fabrication based on electrodeposition  routes, it is worth noting that the ED technique could be an interesting candidate for production of large-scale perovskite solar cells and low-cost modules in the future",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here, we compare the optoelectronic properties of the MAPb3 perovskite layers  synthesized in three and two step based on ED-PbO2 layer on FTO  substrates",
+            "all_materials": [
+                "MAPb3",
+                "ED-PbO2",
+                "FTO"
+            ],
+            "other_materials": [
+                "ED-PbO2",
+                "FTO"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                12,
+                "StartingSynthesis"
+            ],
+            "targets": "MAPb3"
+        },
+        {
+            "sentence": "We show that the direct conversion of ED-PbO2 to perovskite, in addition to its cost-cutting and time-saving benefits, can lead to a uniform layer with significantly admirable structural properties compared to the conventional perovskite conversion using the 3-steps ED method",
+            "all_materials": [
+                "ED-PbO2"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "ED-PbO2",
+                    "start": 38,
+                    "end": 45,
+                    "token_ids": [
+                        7,
+                        8,
+                        9
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The measured external quantum efficiency  spectrum shows the photo-sensing capability of the 2-step ED perovskite layer in a wide range from ultraviolet to visible light region",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The 2-step ED perovskite-based photodetector device exhibited superb performance, which resulted in high photo/dark current ratio of 107\u00a0at 1V under 660\u00a0nm  light illumination.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Graphene oxide-manganese dioxide  forms an interesting family of nanocomposites that have been widely studied and applied to many electrochemical applications, including supercapacitors",
+            "all_materials": [
+                "Graphene oxide-manganese dioxide"
+            ],
+            "other_materials": [
+                "Graphene oxide-manganese dioxide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, a number of reported preparation methods still suffer several disadvantages, including complex preparation, long synthesis time, and detrimental effects on the environment as a result of excessive use of chemicals",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In contrast, solution plasma process  offers a simple method that can be used to synthesize nanomaterials with minimal use of chemical reagents and short preparation time under ambient processing conditions",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work demonstrated that SPP-based preparation of the GO-MnO2 composite can be achieved",
+            "all_materials": [
+                "GO-MnO2"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "GO-MnO2"
+        },
+        {
+            "sentence": "Moreover, the SPP regime was found to enable interaction between the Mn ions and the exfoliated GO sheets, with the capability of upscaling the preparation",
+            "all_materials": [
+                "GO"
+            ],
+            "other_materials": [
+                "GO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The highest specific capacitance of the GO-MnO2 composite was obtained when only 10\u00a0min of SPP discharge time was used, resulting in the specific capacitance of 218 F g\u22121 at a scan rate of 5\u00a0mV\u00a0s\u22121 in 1\u00a0M Na2SO4 aqueous electrolyte solution",
+            "all_materials": [
+                "GO-MnO2",
+                "Na2SO4"
+            ],
+            "other_materials": [
+                "GO-MnO2",
+                "Na2SO4"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This method provides a facile in situ approach to deposit MnO2 onto the GO sheets and could offer a promising, green alternative strategy to prepare similar electrode materials for other applications.",
+            "all_materials": [
+                "MnO2",
+                "GO"
+            ],
+            "other_materials": [
+                "GO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "MnO2"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

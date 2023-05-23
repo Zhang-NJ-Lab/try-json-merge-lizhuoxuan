@@ -1,0 +1,1465 @@
+{
+    "rest": [
+        {
+            "sentence": "Recently, perovskite solar cells  have been attracting attention as the most promising alternative to conventional photovoltaics, mainly due to their high power conversion efficiency  of 25.7%",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, prior to commercialization, problems with their long-term stability caused by moisture should be solved",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Accordingly, encapsulation is a crucial strategy for enhancing the long-term stability of PSCs, meaning a well-established strategy that includes an excellent barrier that protects them from the external environment while minimizing any damage during encapsulation is required",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this study, a room temperature thin-film encapsulation  strategy is applied by transferring a defect-free thermally grown silicon dioxide nanomembrane , which is a well-known superior water molecule barrier, onto the PSCs",
+            "all_materials": [
+                "silicon dioxide",
+                "water"
+            ],
+            "other_materials": [
+                "silicon dioxide",
+                "water"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The average PCE of the devices decreased by only 0.012% with a standard deviation of 0.4249 during the entire encapsulation process, which was achieved by minimizing any thermal degradation of the photovoltaic components, including the perovskite and hole transport layers",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This t-SiO2 NM successfully protected the PSC from external water molecules in an underwater condition for 31 days at room temperature, which is the longest reported survival time of encapsulated PSCs",
+            "all_materials": [
+                "t-SiO2",
+                "PSC",
+                "water",
+                "PSCs"
+            ],
+            "other_materials": [
+                "t-SiO2",
+                "PSC",
+                "water",
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As a result, the RT-TFE PSC maintained more than 98% of the initial efficiency.",
+            "all_materials": [
+                "RT-TFE PSC"
+            ],
+            "other_materials": [
+                "RT-TFE PSC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Organic-inorganic lead halide perovskite is known as an exceptional light absorption material for photovoltaic devices due to its excellent photoelectronic properties, including a high light absorption coefficient, high carrier mobility, long carrier diffusion lengths, low exciton binding energy, and adjustable bandgap [, ]",
+            "all_materials": [
+                "lead halide"
+            ],
+            "other_materials": [
+                "lead halide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition to these excellent optoelectronic properties, lightweight and flexible perovskite solar cells  can be fabricated on flexible thin films with low manufacturing costs due to the possibility of solution processing, offering an attractive commercial advantage as next-generation photovoltaics [, ]",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                16,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Since the first PSC was reported in 2009, their power conversion efficiency  has rapidly increased from 3.8% to 25.7%, and photovoltaics based on perovskite are currently in the spotlight as a promising alternative to silicon-based solar cells [12,13]",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, despite their high PCE, flexibility, and low manufacturing costs, the most challenging issue facing PSCs is long-term stability, which must be resolved before they can be commercially practical in outdoor environments [, ]",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The major factor that impedes the lifetime of PSCs is instability caused by moisture from external environments [17,18]",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Due to the high reactivity between the organic-inorganic halide perovskite materials and water molecules, the photoactive perovskite layer is irreversibly decomposed by moisture, directly resulting in permanent performance degradation of the photovoltaics [19,20]",
+            "all_materials": [
+                "halide",
+                "water"
+            ],
+            "other_materials": [
+                "halide",
+                "water"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To prevent this performance degradation caused by moisture, numerous extrinsic encapsulation strategies for completely protecting PSCs from water molecules in external environments have been studied, usually by placing a physical barrier on the outermost layer of the PSCs [, ].",
+            "all_materials": [
+                "PSCs",
+                "water"
+            ],
+            "other_materials": [
+                "PSCs",
+                "water"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Encapsulation not only directly protects the device from external moisture, but also blocks the leakage of toxic heavy metals and traps the volatile gas to restrict endogenous decomposition of the perovskite [22,31,32]",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The encapsulation layer of PSCs should have low water and oxygen molecule transmittance, high dielectric constant and transparency, thermal stability, chemical inertness, and mechanical robustness",
+            "all_materials": [
+                "water",
+                "oxygen"
+            ],
+            "other_materials": [
+                "water",
+                "oxygen"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In particular, the water vapor transmission rate , which is the main performance indicator of the encapsulation barrier, should be within the range of 1\u00a0\u00d7\u00a010\u22123 to 1\u00a0\u00d7\u00a010\u22126\u00a0g\u00a0m\u22122 day\u22121 to effectively prevent moisture ingress",
+            "all_materials": [
+                "water"
+            ],
+            "other_materials": [
+                "water"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, during the entire encapsulation process of PSCs, their intrinsic performance must be protected from external interventions such as unwanted UV, incidental heat, and high-energy plasma ions [29,, ].",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Traditionally, glass has been used as an encapsulation material in the glass-to-glass cover encapsulation method due to its superior water barrier property",
+            "all_materials": [
+                "water"
+            ],
+            "other_materials": [
+                "water"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here, hot-melting film, UV or heat-curable epoxy, and glass-frit are used as the adhesive materials",
+            "all_materials": [
+                "epoxy"
+            ],
+            "other_materials": [
+                "epoxy"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, cover encapsulation is inherently bulky and heavy, rendering it unsuitable for flexible PSCs",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, when the photovoltaics and barrier cover are bonded, external energy, such as UV or heat, must be injected to cure the adhesive materials, which can degrade the PSCs [, ,34,39,40]",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "encapsulated PSCs using three hot-melting films  with glass sheets Fu et al",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, during the encapsulation process, when the laminating temperature of the hot-melting sheet reached 90\u00a0\u00b0C, performance degradation of the PSCs was induced through changes in the interface of the solar cell",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, at temperatures higher than 100\u00a0\u00b0C, deterioration of the devices occurred due to the decomposition of the perovskite layer",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Similarly, during the process of hot press sealing for cover encapsulation using polyisobutylene, a decrease in the performance of devices occurred",
+            "all_materials": [
+                "polyisobutylene"
+            ],
+            "other_materials": [
+                "polyisobutylene"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Matteocci et al",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "reported that UV irradiation used for epoxy curing during encapsulation reduced the PCE of PSCs",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "When TiO2-based PSCs are exposed to UV, degradation of the photovoltaics is caused by trap-assisted recombination at the TiO2 interface",
+            "all_materials": [
+                "TiO2",
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2",
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "demonstrated low temperature laser-assisted glass frit encapsulation Martins et al",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Despite the short-term and local laser irradiation, local heat during the sintering of the glass frits induced thermal degradation in the hole transport materials .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Generally, thin film encapsulation  is used for organic optoelectronic devices such as organic light-emitting diodes and organic photovoltaics that must be protected from moisture and oxygen [, ]",
+            "all_materials": [
+                "oxygen"
+            ],
+            "other_materials": [
+                "oxygen"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In contrast to glass-to-glass encapsulation using rigid glass sheets, TFE consisting of single or multi-stacked nanomembranes using chemical vapor deposition  or atomic layer deposition  can be applied to flexible devices due to its mechanical flexibility [45,47]",
+            "all_materials": [
+                "TFE"
+            ],
+            "other_materials": [
+                "TFE"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Accordingly, TFE provides a promising strategy for enhancing the long-term stability of flexible PSCs based on solution processes on flexible substrates [22,29,44,48,49]",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, since the TFE layer has a higher WVTR than a thick and rigid glass sheet, it is relatively difficult to achieve reasonable high long-term stability of the solar cells against external moisture",
+            "all_materials": [
+                "TFE"
+            ],
+            "other_materials": [
+                "TFE"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In the early stage of TFE development, single or multiple layers composed of inorganic nanomembranes, such as SiOx, SiNx, Al2O3, HfO2, ZrO2, and TiO2, were deposited on PSCs using CVD or ALD [50,51]",
+            "all_materials": [
+                "TFE",
+                "SiOx",
+                "SiNx",
+                "Al2O3",
+                "HfO2",
+                "ZrO2",
+                "TiO2",
+                "PSCs"
+            ],
+            "other_materials": [
+                "TFE",
+                "SiOx",
+                "SiNx",
+                "Al2O3",
+                "HfO2",
+                "ZrO2",
+                "TiO2",
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, preparing nanomembranes deposited by CVD and ALD that are free from defects creating pathways for external molecules, such as voids, pinholes, and particles, is very difficult",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                2,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, to minimize the defects in the encapsulation layer, TFE requires either a high temperature in vacuum deposition processes [21,22] or high-energy ions in plasma-enhanced deposition processes, which can also result in the degradation of PSCs",
+            "all_materials": [
+                "TFE",
+                "PSCs"
+            ],
+            "other_materials": [
+                "TFE",
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Accordingly, the high temperature processes of inorganic TFE are unsuitable for encapsulating PSCs",
+            "all_materials": [
+                "TFE",
+                "PSCs"
+            ],
+            "other_materials": [
+                "TFE",
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To encapsulate PSCs more effectively, hybrid TFEs with alternating organic and inorganic layers have been studied [22,29]",
+            "all_materials": [
+                "PSCs",
+                "TFEs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "TFEs"
+        },
+        {
+            "sentence": "In a hybrid TFE, multiple inorganic layers robustly prevent water and oxygen transmission, while the organic layers cover defects in the interface of the inorganic layers",
+            "all_materials": [
+                "water",
+                "oxygen"
+            ],
+            "other_materials": [
+                "water",
+                "oxygen"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, hybrid TFEs can provide a longer penetration path and better encapsulation performance than single-component TFEs, even with relatively low temperature manufacturing processes [54,55]",
+            "all_materials": [
+                "TFEs",
+                "TFEs"
+            ],
+            "other_materials": [
+                "TFEs",
+                "TFEs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "demonstrated a hybrid TFE that was achieved by stacking poly-1,3,5-trimethy-1,3,5-trivinyl cyclotrisiloxane and Al2O3 deposited layer-by-layer using initiated chemical deposition and ALD at a relatively low temperature  Lee et al",
+            "all_materials": [
+                "poly-1,3,5-trimethy-1,3,5-trivinyl cyclotrisiloxane",
+                "Al2O3"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "poly-1,3,5-trimethy-1,3,5-trivinyl cyclotrisiloxane"
+        },
+        {
+            "sentence": "The encapsulated PSC maintained 97% of its initial PCE after 300\u00a0h at 50\u00a0\u00b0C and 50% relative humidity",
+            "all_materials": [
+                "PSC"
+            ],
+            "other_materials": [
+                "PSC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "proposed a multi-layer TFE strategy utilizing an alucone layer to protect PSCs from oxidant precursors and oxygen plasma during plasma-enhanced ALD Wang et al",
+            "all_materials": [
+                "PSCs",
+                "oxygen"
+            ],
+            "other_materials": [
+                "PSCs",
+                "oxygen"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The PSCs were encapsulated with multi-layers of alucone and Al2O3 deposited at 50\u00a0\u00b0C, causing minimal degradation of the photovoltaic cells due to heat",
+            "all_materials": [
+                "alucone",
+                "Al2O3"
+            ],
+            "other_materials": [
+                "alucone",
+                "Al2O3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "At 30\u00a0\u00b0C and 80% RH, the encapsulated PSC retained 96% of its original PCE after 2000\u00a0h",
+            "all_materials": [
+                "PSC",
+                "PCE"
+            ],
+            "other_materials": [
+                "PSC",
+                "PCE"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, with all these various low temperature TFE strategies for preventing the thermal degradation of PSCs, the performance of the PSCs decreased during the encapsulation process",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, degradation of the PSCs inevitably accelerated as the deposition temperature was increased further to achieve high barrier performance [22,29,56]",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Thus, a novel TFE strategy based on a low temperature encapsulation process that ensures the high performance of PSCs without any degradation is highly desirable.",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, we demonstrate a novel room temperature thin-film encapsulation  strategy to enhance the long-term stability of PSCs",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This is achieved by encapsulating the PSCs with a thermally grown silicon dioxide nanomembrane   grown at 1100\u00a0\u00b0C, which could not be applied in the fabrication of the conventional PSCs",
+            "all_materials": [
+                "silicon dioxide"
+            ],
+            "other_materials": [
+                "silicon dioxide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Silicon dioxide grown at a high temperature  on a single crystalline silicon surface by thermal oxidation is a defect-free material that is well known as a superior barrier to water molecules [52,57,58]",
+            "all_materials": [
+                "Silicon dioxide",
+                "silicon",
+                "water"
+            ],
+            "other_materials": [
+                "Silicon dioxide",
+                "silicon",
+                "water"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, we transferred t-SiO2 NM with its previously-mentioned superior barrier performance to PSCs at room temperature while minimizing any thermal degradation of the photovoltaics",
+            "all_materials": [
+                "t-SiO2 NM"
+            ],
+            "other_materials": [
+                "t-SiO2 NM"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The average PCE value of the 17 employed devices, which were typical thermally unstable MAPbI3/2,2\u2032,7,7\u2032-tetrakis -9,9\u2032-spirobifluorene  based n-i-p type PSCs, only changed by 0.012% after the entire RT-TFE process",
+            "all_materials": [
+                "MAPbI3/2,2\u2032,7,7\u2032-tetrakis -9,9\u2032-spirobifluorene",
+                "PSCs",
+                "RT-TFE"
+            ],
+            "other_materials": [
+                "MAPbI3/2,2\u2032,7,7\u2032-tetrakis -9,9\u2032-spirobifluorene",
+                "PSCs",
+                "RT-TFE"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We evaluated the performance of the t-SiO2 encapsulation layer using an electrical calcium test",
+            "all_materials": [
+                "t-SiO2"
+            ],
+            "other_materials": [
+                "t-SiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The t-SiO2 NM was an excellent water molecule barrier, recording a water transmission rate  of 1.53\u00a0\u00d7\u00a010\u22123\u00a0g\u00a0m\u22122 day\u22121 when directly exposed to DI water at 85\u00a0\u00b0C",
+            "all_materials": [
+                "t-SiO2",
+                "water",
+                "water",
+                "water"
+            ],
+            "other_materials": [
+                "t-SiO2",
+                "water",
+                "water",
+                "water"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, the t-SiO2 encapsulation layer prevented liquid-state water molecules from penetrating the PSC for 31 days at room temperature and the device maintained more than 98% of its initial PCE",
+            "all_materials": [
+                "t-SiO2",
+                "water",
+                "PSC"
+            ],
+            "other_materials": [
+                "t-SiO2",
+                "water",
+                "PSC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Our RT-TFE approach effectively improved the long-term stability of PSCs based on MAPbI3/spiro-OMeTAD, which is particularly sensitive to heat and moisture, and successfully encapsulated the devices without causing any damage.",
+            "all_materials": [
+                "MAPbI3/spiro-OMeTAD"
+            ],
+            "other_materials": [
+                "MAPbI3/spiro-OMeTAD"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Thin-film encapsulation by applying an extrinsic moisture barrier to the outermost layer of PSCs is an outstanding strategy for enhancing their long-term stability",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In a typical solution-based process for thin-film PSC fabrication, an annealing process is needed to form each component, as well as organic-inorganic hybrid perovskite and organic HTM crystallization [59,60]",
+            "all_materials": [
+                "PSC",
+                "HTM"
+            ],
+            "other_materials": [
+                "HTM"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PSC"
+        },
+        {
+            "sentence": "However, PSC components, especially HTMs, are susceptible to stress from unwanted external heat during TFE processes [61,62",
+            "all_materials": [
+                "PSC"
+            ],
+            "other_materials": [
+                "PSC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In summary, we report on RT-TFE PSCs for enhancing long-term protection against the penetration of water molecules by encapsulating photovoltaic cells with 500-nm-thick t-SiO2 NM at room temperature to minimize the performance degradation of devices",
+            "all_materials": [
+                "RT-TFE",
+                "water",
+                "t-SiO2"
+            ],
+            "other_materials": [
+                "RT-TFE",
+                "water",
+                "t-SiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The defect-free SiO2 NM was grown on a handling wafer through thermal oxidation at 1100\u00a0\u00b0C and was sequentially stacked with a buffer layer and an adhesive layer",
+            "all_materials": [
+                "SiO2 NM"
+            ],
+            "other_materials": [
+                "SiO2 NM"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "By transferring the prepared encapsulation layer to the PSC in an inert environment",
+            "all_materials": [
+                "PSC"
+            ],
+            "other_materials": [
+                "PSC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "All the materials were purchased from commercial companies",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The SnO2 colloid precursor  oxide, 15% in H2O colloidal dispersion) was purchased from Alfa Aesar",
+            "all_materials": [
+                "SnO2",
+                "H2O"
+            ],
+            "other_materials": [
+                "H2O"
+            ],
+            "precursors": [
+                {
+                    "text": "SnO2",
+                    "start": 4,
+                    "end": 8,
+                    "token_ids": [
+                        1
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The PbI2 was purchased from TCI",
+            "all_materials": [
+                "PbI2"
+            ],
+            "other_materials": [
+                "PbI2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Bisimide lithium salt  and the anhydrous solvents were purchased from Sigma-Aldrich",
+            "all_materials": [
+                "Bisimide lithium"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "Bisimide lithium",
+                    "start": 0,
+                    "end": 16,
+                    "token_ids": [
+                        0,
+                        1
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Methylammonium iodide  was purchased from GreatCell Solar",
+            "all_materials": [
+                "Methylammonium iodide"
+            ],
+            "other_materials": [
+                "Methylammonium iodide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "2,2\u2032,7,7\u2032-tetrakis -9,9\u2032-spirobifluorene  was purchased from LumTech.",
+            "all_materials": [
+                "2,2\u2032,7,7\u2032-tetrakis -9,9\u2032-spirobifluorene",
+                "LumTech"
+            ],
+            "other_materials": [
+                "2,2\u2032,7,7\u2032-tetrakis -9,9\u2032-spirobifluorene",
+                "LumTech"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Myeongki Cho: Conceptualization, Methodology, Formal analysis, Investigation, Writing \u2013 original draft, Visualization, contributed equally to this work",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Jeon: Conceptualization, Methodology, Formal analysis, Investigation, Writing \u2013 original draft, and, Visualization, contributed equally to this workGyeong G",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Mingyu Sang: Conceptualization, Methodology, Formal analysis, Investigation, Writing \u2013 original draft, Visualization, contributed equally to this work",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Tae Soo Kim: Formal analysis,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work acknowledges the support received from the National Research Foundation of Korea  and the KIST Institutional Program",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "acknowledges the support of the Australian Renewable Energy Agency .J.K",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Low-cost, durable, and high-performance membranes are urgent requirements for zinc bromine redox flow battery  applications",
+            "all_materials": [
+                "zinc bromine"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "zinc bromine"
+        },
+        {
+            "sentence": "Sulfonated poly , SPEEK is a low-cost, ion-exchange membrane with excellent ionic conductivity, but its backbone is susceptible to the harsh bromine environment",
+            "all_materials": [
+                "poly"
+            ],
+            "other_materials": [
+                "poly"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, the successful incorporation of a multifunctional nanofiller, perovskite-structured cerium titanate nanoparticles dispersed on smooth carbon nanofibers  with varying carbon content into the polymer matrix protects the SPEEK backbone, reduces the crossover of active species and improves the selectivity of the composite membrane",
+            "all_materials": [
+                "cerium titanate",
+                "carbon"
+            ],
+            "other_materials": [
+                "cerium titanate",
+                "carbon"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                16,
+                "LiquidGrinding"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "At high current density of 100\u00a0mA\u00a0cm\u22122, the SP-p-CT350 membrane in ZBFB shows an energy efficiency of 73.34% compared to pristine SPEEK and SP-p-CT320 with 70.32 and 69.71%, respectively",
+            "all_materials": [
+                "SP-p-CT350",
+                "ZBFB",
+                "SPEEK",
+                "SP-p-CT320"
+            ],
+            "other_materials": [
+                "SP-p-CT350",
+                "ZBFB",
+                "SPEEK",
+                "SP-p-CT320"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Interestingly, the excellent dispersion of the nanofiller notably reduces the self-discharge rate of SP-p-CT350, retaining the OCV at 1.70\u00a0V for 117\u00a0h which is 1.86 and 1.75 times greater than pristine SPEEK and SP-p-CT320",
+            "all_materials": [
+                "SP-p-CT350",
+                "OCV",
+                "SPEEK",
+                "SP-p-CT320"
+            ],
+            "other_materials": [
+                "SP-p-CT350",
+                "OCV",
+                "SPEEK",
+                "SP-p-CT320"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, with the effect of loading to determine the durability of the SP-p-CT350 membrane, SP-p-CT350 with a nanofiller loading of 0.5\u00a0wt% demonstrates stable battery performance across 500 cycles at a current density of 40\u00a0mA\u00a0cm\u22122 with an outstanding energy efficiency of 81.13%.",
+            "all_materials": [
+                "SP-p-CT350",
+                "SP-p-CT350"
+            ],
+            "other_materials": [
+                "SP-p-CT350",
+                "SP-p-CT350"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Tunable bandgap and excellent optoelectronic properties can make perovskite solar cells  achieve high power conversion efficiencies in single junction as well as tandem architecture",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, 3 types of perovskite solar cell architectures i.e., single-junction, all-perovskite tandem and all-perovskite triple-junction, are modeled in SunSolve",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The optimized layer thickness, reflection/parasitic absorptions, quantum efficiency, IV characteristics and power conversion efficiencies  of each cell are analyzed in detail",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The single-junction solar cell of CH3NH3PbI3 with bandgap of 1.55\u00a0eV produces the PCE of 21.4%",
+            "all_materials": [
+                "CH3NH3PbI3"
+            ],
+            "other_materials": [
+                "CH3NH3PbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The all-perovskite tandem solar cell of 0.9Cs0.1Pb3  as top sub-cell and CH3NH3Pb0.5Sn0.5I3  as bottom sub-cell exhibits a PCE of 26.06%",
+            "all_materials": [
+                "0.9Cs0.1Pb3",
+                "CH3NH3Pb0.5Sn0.5I3"
+            ],
+            "other_materials": [
+                "0.9Cs0.1Pb3",
+                "CH3NH3Pb0.5Sn0.5I3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "While the all-perovskite triple-junction solar cell of FA0.83Cs0.17Pb3  as top sub-cell, CH3NH3PbI3  as middle sub-cell and CH3NH3Pb0.5Sn0.5I3  as bottom sub-cell has the remarkable PCE potential of 28.38%",
+            "all_materials": [
+                "FA0.83Cs0.17Pb3",
+                "CH3NH3PbI3",
+                "CH3NH3Pb0.5Sn0.5I3"
+            ],
+            "other_materials": [
+                "FA0.83Cs0.17Pb3",
+                "CH3NH3PbI3",
+                "CH3NH3Pb0.5Sn0.5I3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work guides towards multi-junction solar cells based on perovskite materials for the low-cost utilization of solar energy.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Perovskite/silicon tandem solar cells are one of the most efficient ways to improve the performance of the photovoltaic industry and should be viewed as a promising path in the photovoltaic field",
+            "all_materials": [
+                "silicon"
+            ],
+            "other_materials": [
+                "silicon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The silicon photovoltaic modules have a lifespan of over 20 years, while the low device stability of perovskite solar cells  remains a significant commercialization barrier",
+            "all_materials": [
+                "silicon"
+            ],
+            "other_materials": [
+                "silicon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "An air gap acts as an optical spacer layer for four terminal  perovskite/silicon tandem cells, resulting in a loss of efficiency",
+            "all_materials": [
+                "air",
+                "silicon"
+            ],
+            "other_materials": [
+                "air",
+                "silicon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Using polydimethylsiloxane  as an intermediate matching layer  and a clip-on design made of a PDMS-based material sandwiched between polyvinyl chloride \u00a0layers with the configuration of PVC/IML/PVC, this research not only achieved efficiency improvement of four-contact tandem solar cells but also greatly simplified disassembly of individual cells",
+            "all_materials": [
+                "polydimethylsiloxane",
+                "polyvinyl chloride",
+                "PVC/IML/PVC"
+            ],
+            "other_materials": [
+                "polydimethylsiloxane",
+                "polyvinyl chloride",
+                "PVC/IML/PVC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The 4T perovskite/silicon heterojunction tandem cells with a clip-on design achieved the highest efficiency of 23.49% for the active area of 1\u00a0cm2, while the fully tandem configuration without a clip-on layer only exhibited a PCE of 22.83%",
+            "all_materials": [
+                "silicon"
+            ],
+            "other_materials": [
+                "silicon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The clip-on technology has the potential to boost the current density of silicon heterojunction solar cells from 15.01\u00a0mA/cm2  up to 16.51\u00a0mA/cm2",
+            "all_materials": [
+                "silicon"
+            ],
+            "other_materials": [
+                "silicon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, this state-of-the-art allows for the removal of PSCs with a shorter lifespan while adhering two photovoltaic cells together securely and effectively.",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this study, perovskite solar antenna  is designed and implemented for multifunctional applications",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This PVKSA can translate solar energy into electricity and also transmit high-frequency  signals with long photovoltaic lifespans and high antenna gains",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A perovskite layer and a bottom transparent conducting oxide were used as the ground of the antenna; poly   was used to encapsulate the perovskite solar cell and also as the dielectric layer of the antenna",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                13,
+                "Mixing"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Electromagnetic simulation was performed to optimize the structure of the PVKSA",
+            "all_materials": [
+                "PVKSA"
+            ],
+            "other_materials": [
+                "PVKSA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The use of a highly conductive oxide film as the bottom electrode of the perovskite solar cell was necessary to markedly increase the antenna gain",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Because of the low thickness of perovskite solar cells, the PVKSA&#x27;s resonant frequency and gain were not influenced by the solar cell; these properties were noted to be superior to those of silicon-based solar cell antennas",
+            "all_materials": [
+                "PVKSA&#x27"
+            ],
+            "other_materials": [
+                "PVKSA&#x27"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The PMMA layer effectively blocked the release of water vapor and oxygen from the perovskite solar cell, thus reducing the formation of the delta phase and other secondary phases",
+            "all_materials": [
+                "PMMA",
+                "water",
+                "oxygen"
+            ],
+            "other_materials": [
+                "PMMA",
+                "water",
+                "oxygen"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "PMMA-encapsulated solar cells sustained approximately 80% of the original power conversion efficiency after 48\u00a0h",
+            "all_materials": [
+                "PMMA"
+            ],
+            "other_materials": [
+                "PMMA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, the influence of the absorber on the resonant frequency and gain of the resonator was reduced",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Thus, the proposed multifunctional PVKSAs with long lifespans is useful in communication and electricity generation.",
+            "all_materials": [
+                "PVKSAs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PVKSAs"
+        },
+        {
+            "sentence": "Although perovskite solar cells  have achieved significant success, there are still some barriers to their commercialization, such as poor stability and unsatisfactory power conversion efficiency",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here, we report low-dimensionality engineering of perovskites using mercaptoethylammonium iodide",
+            "all_materials": [
+                "mercaptoethylammonium iodide"
+            ],
+            "other_materials": [
+                "mercaptoethylammonium iodide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Two-dimensional  perovskite materials can simultaneously passivate the interface defects of the perovskite film and enhance carrier extraction",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The PCE of the device increased from 20.85% for the control device to a resultant of 22.41% for the target device",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Meanwhile, device stability was ameliorated after MEMI modification, and the stability of unencapsulated target devices decreased by 7.5% after aging in the dark air condition for 300\u00a0h",
+            "all_materials": [
+                "MEMI",
+                "air"
+            ],
+            "other_materials": [
+                "MEMI",
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Finally, the notorious lead leakage was significantly suppressed",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work guides to create efficient and stable environmentally friendly PSCs through low-dimensional engineering.",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "Cs0.05FA0.85MA0.10Pb3=Pb3 perovskite film was prepared",
+            "all_materials": [
+                "Cs0.05FA0.85MA0.10Pb3=Pb3"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                6,
+                "StartingSynthesis"
+            ],
+            "targets": "Cs0.05FA0.85MA0.10Pb3=Pb3"
+        },
+        {
+            "sentence": "Using X-ray diffraction, it was determined how the addition of 4-Hydroxyphenethylammonium iodide  layers affected the phases in the produced Pb3 perovskite film",
+            "all_materials": [
+                "4-Hydroxyphenethylammonium iodide",
+                "Pb3"
+            ],
+            "other_materials": [
+                "4-Hydroxyphenethylammonium iodide",
+                "Pb3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Crystallinity, linear, and nonlinear optical properties of the produced films were analyzed when 4-Hy was added",
+            "all_materials": [
+                "4-Hy"
+            ],
+            "other_materials": [
+                "4-Hy"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                17,
+                "Mixing"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The electrical and optical conductivity properties of the films were modified through the addition of a 4-Hy passivation layer, and the resulting films were designated for use in a wide range of photovoltaic applications",
+            "all_materials": [
+                "4-Hy"
+            ],
+            "other_materials": [
+                "4-Hy"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The optical band gaps  of all films are between 1.58 and 1.59\u00a0eV",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The modifications in the nonlinear optical parameters suggest using such films in numerous nonlinear optical devices",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The influence of adding 4-Hy to the films on the obtained photoluminescence intensity was also investigated",
+            "all_materials": [
+                "4-Hy"
+            ],
+            "other_materials": [
+                "4-Hy"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The power conversion efficiency , open-circuit voltage , short-circuit current density , and fill factor  for the unpassivated perovskite solar cells  are 18.29%, 1.043\u00a0V, 24.48 mAcm\u22122, and 71.6%, respectively",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For a 4-Hy concentration of 5\u00a0mg, a maximum PCE value of 19.12% was obtained, along with VOC value of 1.088\u00a0V, JSC value of 23.44 mAcm\u22122 and FF value of 74.98%.",
+            "all_materials": [
+                "4-Hy"
+            ],
+            "other_materials": [
+                "4-Hy"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

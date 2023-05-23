@@ -1,0 +1,979 @@
+{
+    "rest": [
+        {
+            "sentence": "Organic/inorganic perovskite solar cells have dramatically improved in efficiency in recent years and have a trend to be comparable to silicon solar cells, its simple process is expected to become an alternative to silicon solar cells in the future",
+            "all_materials": [
+                "silicon",
+                "silicon"
+            ],
+            "other_materials": [
+                "silicon",
+                "silicon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, in perovskite solar cells, the ineffective carrier extraction leads to non-radiative recombination of some carriers during the diffusion from the perovskite layer to other transport layers, which is a cause of cell efficiency loss",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This paper describes the introduction of solid particles of molybdenum oxide of a certain particle size dispersed between the perovskite layer/hole transport layer to improve the extraction of hole carriers, resulting in an improved device short-circuit current density",
+            "all_materials": [
+                "molybdenum oxide"
+            ],
+            "other_materials": [
+                "molybdenum oxide"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                16,
+                "LiquidGrinding"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We further investigated the dependence of the comprehensive performance of the molybdenum oxide incorporated perovskite solar cell on the amount of molybdenum oxide introduced, and the current density-voltage results showed that the optimal content of molybdenum oxide was 0.5\u00a0mg/ml, and the efficiency of the perovskite solar cell at this content was 18.27% with a short-circuit current density of 23.67 mA\u00b7cm\u22122, while the efficiency of the device without molybdenum oxide was 16.97% with a short-circuit current density of 21.84 mA\u00b7cm\u22122",
+            "all_materials": [
+                "molybdenum oxide",
+                "molybdenum oxide",
+                "molybdenum oxide",
+                "molybdenum oxide"
+            ],
+            "other_materials": [
+                "molybdenum oxide",
+                "molybdenum oxide",
+                "molybdenum oxide",
+                "molybdenum oxide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, this work provides an effective way to improve the efficiency of perovskite solar cells.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Download : Download high-res image Download : Download full-size image",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In recent years, devices made of perovskite materials have been intensively studied, among which organic-inorganic hybrid perovskite cells have attracted the attention of researchers because of their high absorption coefficient, long carrier diffusion distance and simple preparation process [, ]",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The efficiency of perovskite solar cells has also increased from 2% to 25.6% , which is comparable to that of conventional silicon-based solar cells [, ].",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Each functional layer of the perovskite solar cell plays a key role [, ]",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The hole transport layer plays the role of blocking electrons to extract holes in the perovskite solar cells [, ]",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, some carriers at the interface between the perovskite layer and the hole transport layer will have non-radiative recombination [, ], and because of the energy level mismatch between the energy level of the perovskite layer and the hole transport layer, it also leads to the non-radiative recombination of hole carriers during the extraction process recombination, which leads to the loss of efficiency of the whole device",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The researchers have improved this situation by using metal oxides",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For example, Kim et al",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "used modified NiOx as a hole transport layer to improve hole carrier extraction",
+            "all_materials": [
+                "NiOx"
+            ],
+            "other_materials": [
+                "NiOx"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "used NiO to improve the performance of the hole transport layer and fabricated devices with efficiencies exceeding 20% Phung et al",
+            "all_materials": [
+                "NiO"
+            ],
+            "other_materials": [
+                "NiO"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                12,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "fabricated more stable devices using CoOx Shalan et al",
+            "all_materials": [
+                "CoOx"
+            ],
+            "other_materials": [
+                "CoOx"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "introduce a facile and cost-effective solution-processed MoO3, synthesized by a simple low-temperature-processed solution approach, as the hole-transporting layer , with high optical and electrical properties Jung et al",
+            "all_materials": [
+                "MoO3"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                12,
+                "StartingSynthesis"
+            ],
+            "targets": "MoO3"
+        },
+        {
+            "sentence": "using a 10\u00a0nm thick molybdenum oxide  layer as a transparent and low barrier contact to p-CdTe, demonstrate nanowire CdS\u2013CdTe solar cells with a efficiency of 11% under front side illumination .Dang et at",
+            "all_materials": [
+                "molybdenum oxide",
+                "p-CdTe",
+                "CdS\u2013CdTe"
+            ],
+            "other_materials": [
+                "molybdenum oxide",
+                "p-CdTe",
+                "CdS\u2013CdTe"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "FTO conductive glass was purchased from Opiwet, alcohol, acetone, isopropanol, molybdenum oxide, NN-dimethylformamide , dimethyl sulfoxide , acetonitrile, chlorobenzene from Sinopharm, tin dioxide colloidal aqueous solution from Alpha, lead iodide , methylammonium iodide , 2,2\u2032,7,7\u2032-tetra[N,N-bisamino]-9,9\u2032-spiro-OMeTAD, and lithium bissulfonylimide , 4-tert-butylpyridine  purchased from Xi&#x27;an Baolite",
+            "all_materials": [
+                "FTO",
+                "alcohol",
+                "acetone",
+                "isopropanol",
+                "molybdenum oxide",
+                "NN-dimethylformamide",
+                "dimethyl sulfoxide",
+                "acetonitrile",
+                "chlorobenzene",
+                "tin dioxide",
+                "lead iodide",
+                "methylammonium iodide",
+                "2,2\u2032,7,7\u2032-tetra[N,N-bisamino]-9,9\u2032-spiro-OMeTAD",
+                "lithium bissulfonylimide , 4-tert-butylpyridine"
+            ],
+            "other_materials": [
+                "FTO"
+            ],
+            "precursors": [
+                {
+                    "text": "alcohol",
+                    "start": 48,
+                    "end": 55,
+                    "token_ids": [
+                        8
+                    ]
+                },
+                {
+                    "text": "acetone",
+                    "start": 57,
+                    "end": 64,
+                    "token_ids": [
+                        10
+                    ]
+                },
+                {
+                    "text": "isopropanol",
+                    "start": 66,
+                    "end": 77,
+                    "token_ids": [
+                        12
+                    ]
+                },
+                {
+                    "text": "molybdenum oxide",
+                    "start": 79,
+                    "end": 95,
+                    "token_ids": [
+                        14,
+                        15
+                    ]
+                },
+                {
+                    "text": "NN-dimethylformamide",
+                    "start": 97,
+                    "end": 117,
+                    "token_ids": [
+                        17
+                    ]
+                },
+                {
+                    "text": "dimethyl sulfoxide",
+                    "start": 120,
+                    "end": 138,
+                    "token_ids": [
+                        19,
+                        20
+                    ]
+                },
+                {
+                    "text": "acetonitrile",
+                    "start": 141,
+                    "end": 153,
+                    "token_ids": [
+                        22
+                    ]
+                },
+                {
+                    "text": "chlorobenzene",
+                    "start": 155,
+                    "end": 168,
+                    "token_ids": [
+                        24
+                    ]
+                },
+                {
+                    "text": "tin dioxide",
+                    "start": 185,
+                    "end": 196,
+                    "token_ids": [
+                        28,
+                        29
+                    ]
+                },
+                {
+                    "text": "lead iodide",
+                    "start": 236,
+                    "end": 247,
+                    "token_ids": [
+                        36,
+                        37
+                    ]
+                },
+                {
+                    "text": "methylammonium iodide",
+                    "start": 250,
+                    "end": 271,
+                    "token_ids": [
+                        39,
+                        40
+                    ]
+                },
+                {
+                    "text": "2,2\u2032,7,7\u2032-tetra[N,N-bisamino]-9,9\u2032-spiro-OMeTAD",
+                    "start": 274,
+                    "end": 321,
+                    "token_ids": [
+                        42
+                    ]
+                },
+                {
+                    "text": "lithium bissulfonylimide , 4-tert-butylpyridine",
+                    "start": 327,
+                    "end": 374,
+                    "token_ids": [
+                        45,
+                        46,
+                        47,
+                        48
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The MoO3 particles were added to chlorobenzene, and the MoO3 particles were drop-coated onto the perovskite layer by the anti-solvent method, and finally the film was annealed to obtain a dense and uniform perovskite film containing MoO3, As shown in Fig",
+            "all_materials": [
+                "MoO3",
+                "chlorobenzene",
+                "MoO3",
+                "MoO3"
+            ],
+            "other_materials": [
+                "chlorobenzene",
+                "MoO3",
+                "MoO3"
+            ],
+            "precursors": [
+                {
+                    "text": "MoO3",
+                    "start": 4,
+                    "end": 8,
+                    "token_ids": [
+                        1
+                    ]
+                }
+            ],
+            "operation": [
+                [
+                    4,
+                    "Mixing"
+                ],
+                [
+                    30,
+                    "HeatingOperation"
+                ]
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The MoO3 deposition is shown in Fig1",
+            "all_materials": [
+                "MoO3"
+            ],
+            "other_materials": [
+                "MoO3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "1, where MoO3 is dispersed on the perovskite surface in a granular form",
+            "all_materials": [
+                "MoO3"
+            ],
+            "other_materials": [
+                "MoO3"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                5,
+                "LiquidGrinding"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "1 shows the schematic diagram of the energy levels of each functional layer in the perovskite solar cell (the energy Fig",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In summary, this paper reports an effective method to improve the photovoltaic performance of perovskite solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The introduction of MoO3 particles between the perovskite layer and the hole transport layer reduces the loss of hole carriers due to energy level mismatch between these two functional layers and improves the efficiency of perovskite solar cells",
+            "all_materials": [
+                "MoO3"
+            ],
+            "other_materials": [
+                "MoO3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The results showed that the efficiency of the treated perovskite solar cells increased from 16.97% to 18.27%.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Shipeng Sun: Writing \u2013 review &amp; editing, Investigation, Conceptualization, Methodology, Formal analysis, Data curation, Software",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Mengqi Xu: Investigation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Yongqi Zhang: Investigation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Ruilin Liu: Investigation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Xueyan Wang: Investigation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Lisheng Zhang: Writing \u2013 review &amp; editing, Project administration, Funding acquisition",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Yan Fang: Funding acquisition",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Peijie Wang: Funding acquisition.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We acknowledge the support from the National Natural Science Foundation of China .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Tin halide perovskites are the front-runner for lead-free perovskite solar cells",
+            "all_materials": [
+                "Tin halide"
+            ],
+            "other_materials": [
+                "Tin halide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Currently the highest efficiency is reaching 15% which is the highest among other types of lead-free perovskites",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "There are several issues with tin halide perovskites that need to be addressed before they can really compete with lead-based PSC",
+            "all_materials": [
+                "tin halide",
+                "PSC"
+            ],
+            "other_materials": [
+                "tin halide",
+                "PSC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Among the issues are the prone of oxidation of Sn2+ into Sn4+ in air, fast crystallization leading to morphologically uneven surface and the formation of pinholes, large energy mismatch between commonly used charge transport layers , and current-voltage hysteresis due to unbalanced charge carrier transport and ion migration",
+            "all_materials": [
+                "air"
+            ],
+            "other_materials": [
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this experiment, we incorporated Cs+ which is a small A-site cation to reduce the energy mismatch between the perovskite layer and CTLs",
+            "all_materials": [
+                "CTLs"
+            ],
+            "other_materials": [
+                "CTLs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Although this was explored previously even in tin halide perovskite solar cells, we showed that Cs cation incorporation alone will not improve the performance, however when used simultaneously with [6,6]-Phenyl-C61 butyric acid butyl ester  as the electron transport layer , we managed to improve the efficiency of the tin PSC to more than 13%",
+            "all_materials": [
+                "tin halide",
+                "[6,6]-Phenyl-C61 butyric acid butyl ester",
+                "tin PSC"
+            ],
+            "other_materials": [
+                "tin halide",
+                "[6,6]-Phenyl-C61 butyric acid butyl ester",
+                "tin PSC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To understand this phenomenon, we used impedance spectroscopy analysis to evaluate the charge transport mechanism",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We attribute this enhancement due to better energy level alignment between the perovskite layer and ETL.",
+            "all_materials": [
+                "ETL"
+            ],
+            "other_materials": [
+                "ETL"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Energy level and the charge extraction/transportation ability of the hole transport layer  have significant impacts on the photovoltaic  parameters of the perovskite solar cell  devices",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A doping process has been one of the representative works to manage these characteristics, but the solution-blend doping, widely applied to the organic semiconductor HTL, has shown limited processability",
+            "all_materials": [
+                "HTL"
+            ],
+            "other_materials": [
+                "HTL"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, we design a facile interfacial doping process for poly[bisamine]  HTL in p-i-n structure PSC device",
+            "all_materials": [
+                "poly[bisamine]  HTL",
+                "PSC"
+            ],
+            "other_materials": [
+                "poly[bisamine]  HTL",
+                "PSC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This approach provides superior optical and electrical properties to the PTAA layer, even with better processability, and its proper hydrophobicity is beneficial to forming pinhole-free perovskite even with superior crystallinity and reduced trap density",
+            "all_materials": [
+                "PTAA"
+            ],
+            "other_materials": [
+                "PTAA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, the dipole layer localized at the interface with the perovskite enhance the built-in potential of device, improving its carrier transportation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As a result, this approach largely enhances the efficiency of the p-i-n PSC device from 18.06%  to 20.67% with superior stability preserving 94% of its initial efficiency after 500\u00a0h under ambient air.",
+            "all_materials": [
+                "p-i-n PSC",
+                "air"
+            ],
+            "other_materials": [
+                "p-i-n PSC",
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Defects at the surface and grain boundaries of three-dimensional  organic-inorganic metal halide perovskite films lead to the non-radiative recombination of charge carriers and accelerate perovskite decomposition",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In turn, this deteriorates the power conversion efficiency  and stability of perovskite solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, p-methylphenylmethylammonium iodide  was reacted with a 3D perovskite to in-situ form a two-dimensional  perovskite upper layer",
+            "all_materials": [
+                "p-methylphenylmethylammonium iodide"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "p-methylphenylmethylammonium iodide",
+                    "start": 8,
+                    "end": 43,
+                    "token_ids": [
+                        2,
+                        3
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This upper layer passivated the surface and grain boundary defects of the 3D perovskite film, improving its surface hydrophobicity",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As a result, a carbon counter electrode -based 2D/3D PSC achieved a maximum PCE of up to 15.63%, which was much higher than that of an unmodified 3D MAPbI3 PSC",
+            "all_materials": [
+                "PSC",
+                "MAPbI3 PSC"
+            ],
+            "other_materials": [
+                "PSC",
+                "MAPbI3 PSC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, the unencapsulated 2D/3D device maintained 80% of its initial PCE after exposure to air for 700\u00a0h with a relative humidity  of 40\u00a0\u00b1\u00a05%",
+            "all_materials": [
+                "air"
+            ],
+            "other_materials": [
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This research opens a new pathway for the successful construction of stable and efficient 2D/3D PSCs with organic ammonium salts.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In triple cation perovskite solar cells , polymer hole transport layers  based cells usually obtained lower power conversion efficiency  than 2,2\u2032,7,7\u2032-tetrakis \u2212\u00a09,9\u2032-spirobifluorene  HTLs based cells",
+            "all_materials": [
+                "2,2\u2032,7,7\u2032-tetrakis \u2212\u00a09,9\u2032-spirobifluorene"
+            ],
+            "other_materials": [
+                "2,2\u2032,7,7\u2032-tetrakis \u2212\u00a09,9\u2032-spirobifluorene"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, perylene with excellent stability was used to modify the interface between perovskite and HTLs of poly",
+            "all_materials": [
+                "perylene"
+            ],
+            "other_materials": [
+                "perylene"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Our study proved that the insertion of perylene smoothed surface morphology of perovskite, decreased the trap density, assisted the charge extraction, and polished the interfacial contact",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Improved photovoltaic performance and prolonged long-term stability were observed in perylene based cells",
+            "all_materials": [
+                "perylene"
+            ],
+            "other_materials": [
+                "perylene"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A champion PCE of 15.87 % was obtained in Perylene based cell, which was &gt;\u00a014 % higher than the PCE of 13.71 % obtained in reference cell",
+            "all_materials": [
+                "PCE",
+                "PCE"
+            ],
+            "other_materials": [
+                "PCE",
+                "PCE"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Meanwhile, the PSCs with perylene displayed better reproducibility than the reference cell",
+            "all_materials": [
+                "PSCs",
+                "perylene"
+            ],
+            "other_materials": [
+                "PSCs",
+                "perylene"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This study showed the potential of perylene like materials in efficient and stabile PSCs.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Tail state Urbach energy caused by the molecular disorder and stacking plays a crucial role for obtaining efficient organic solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, we proposed a theoretical and experimental method to adjust the Urbach energy  of organic photoactive materials",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Simulation results show that the EU of 32\u00a0meV for PM6:Y6-based single junction  OSCs can enhance Jsc and FF significantly, and thus achieving a high photovoltaic conversion efficiency  of 18.03%",
+            "all_materials": [
+                "PM6:Y6"
+            ],
+            "other_materials": [
+                "PM6:Y6"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Interestingly, further decreasing EU within a certain range cannot increase device efficiency obviously, and EU cannot be close to 0\u00a0meV in consideration of the molecule disorder of organic material",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Under the guidance of theoretical design, the ternary component IEICO-4F was introduced to optimize EU Experimental results show that the optimized EU is obtained upon introducing of IEICO-4F, and a championed PCE of 16.61% is achieved when EU is about 25.80\u00a0meV for SJ-OSCs",
+            "all_materials": [
+                "IEICO-4F",
+                "EU",
+                "EU",
+                "IEICO-4F",
+                "SJ-OSCs"
+            ],
+            "other_materials": [
+                "IEICO-4F",
+                "EU",
+                "EU",
+                "IEICO-4F",
+                "SJ-OSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Tandem solar cells  reach an experimental PCE of 18.57% when EU is about 27.46\u00a0meV, which facilitates current matching between the front and rear sub-cells.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For achieving efficient and stable perovskite solar cells , the interface between the perovskite absorber and charge transport material should be modulated to provide proper energy alignment, fast charge delivery, and suppressed charge recombination",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this study, a multifunctional interface modifier for PSCs was developed by the quaternization of trimethylamine with 1-bromo-2-ethane",
+            "all_materials": [
+                "trimethylamine",
+                "1-bromo-2-ethane"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "trimethylamine",
+                    "start": 100,
+                    "end": 114,
+                    "token_ids": [
+                        16
+                    ]
+                },
+                {
+                    "text": "1-bromo-2-ethane",
+                    "start": 120,
+                    "end": 136,
+                    "token_ids": [
+                        18
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This ethylene glycol-containing ammonium salt  effectively passivates interfacial traps and induces dipoles on the surface of the perovskite, facilitating charge transfer/extraction at the perovskite/hole transport material  interface",
+            "all_materials": [
+                "ethylene glycol",
+                "ammonium"
+            ],
+            "other_materials": [
+                "ethylene glycol",
+                "ammonium"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Accordingly, after the interface modification with EG, the PSCs showed a high efficiency of over 24% with a representative doped SpiroOMeTAD HTM",
+            "all_materials": [
+                "EG",
+                "SpiroOMeTAD"
+            ],
+            "other_materials": [
+                "EG",
+                "SpiroOMeTAD"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, the EG modification was revealed to be highly compatibility with dopant-free HTMs, resulting in an improved efficiency of up to 22.01% in its corresponding photovoltaics compared to those of the control and conventional alkyl-based salt treatments .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

@@ -1,0 +1,1898 @@
+{
+    "rest": [
+        {
+            "sentence": "The simple planar configuration of organic\u2013inorganic hybrid perovskite solar cells produced by a solution coating process has great potential to be a low-cost and high efficiency photovoltaic technology",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However planar perovskite films produced by \u201cnormal\u201d spin coating usually show a dendritic grain morphology giving many gaps in the film, resulting in poor coverage of the substrate and thus a low power conversion efficiency",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here a facile gas-assisted solution processing technique is reported that has changed the kinetics of nucleation and crystal growth of the perovskite during the spin coating, producing very uniform perovskite thin films consisting of densely packed single crystalline grains",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This microstructure is an ideal candidate for the p\u2013i\u2013n solar cell device",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Planar perovskite solar cells constructed from these films produced a highly reproducible average power conversion efficiency of 15.7\u00b10.7%",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The highest efficiency achieved was 17.0% with a slightly lower steady-state value of 16.5% at the maximum power output of the solar cell.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Download : Download high-res image Download : Download full-size image",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Perovskite solar cells  have attracted intense attention in recent years due to the rapid rise in their power conversion efficiency ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In a PSC, organic\u2013inorganic hybrid perovskite materials, such as CH3NH3PbI3 or CH3NH3PbClxI3\u2212x, act as a light absorber as well as a charge conductor ,",
+            "all_materials": [
+                "CH3NH3PbI3",
+                "CH3NH3PbClxI3\u2212x"
+            ],
+            "other_materials": [
+                "CH3NH3PbI3",
+                "CH3NH3PbClxI3\u2212x"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Two general PSC device architectures have been reported:  a mesoporous structure, formed by a thin layer of an inorganic scaffold material, such as either TiO2 , Al2O3 ,  or ZrO2 , ; and  a planar structure , where a p\u2013i\u2013n junction is formed",
+            "all_materials": [
+                "TiO2",
+                "Al2O3",
+                "ZrO2"
+            ],
+            "other_materials": [
+                "TiO2",
+                "Al2O3",
+                "ZrO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Compared to the mesostructured devices, the planar structure has the advantage of being a simpler arrangement that is easier to fabricate ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In a planar structure, each layer should be pinhole free and provide good contact with the adjacent layers to minimize the series resistance and maximize the shunt resistance",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Thus, a dense perovskite layer is crucial to achieve a high efficiency device",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "employed a dual-source vapor deposition method to fabricate a planar device achieving a homogenous deposition of the perovskite layer and an efficiency above 15% Snaith et al",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, to reduce the manufacturing cost, a solution-based process that is compatible with printing technologies would be desirable.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In previous studies, a spin-coating method  has been used for making mesostructured PSCs ,",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "This method was, however, shown to produce perovskite films with poor coverage of the substrate",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Islands of micrometer-sized perovskite grains were formed on the top of the mesoporous TiO2 film, leaving a significant fraction of the underlying TiO2 film uncovered ,",
+            "all_materials": [
+                "TiO2",
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2",
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This results in a reduction in light harvesting and significant charge recombination losses across the TiO2/spiro-OMeTAD interface under forward bias conditions",
+            "all_materials": [
+                "TiO2/spiro-OMeTAD"
+            ],
+            "other_materials": [
+                "TiO2/spiro-OMeTAD"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A two-step sequential deposition method has recently been developed, where PbI2 was first coated on a mesoporous TiO2 film on the conductive glass substrate, which was then dipped in a CH3NH3I solution",
+            "all_materials": [
+                "PbI2",
+                "TiO2",
+                "CH3NH3I"
+            ],
+            "other_materials": [
+                "PbI2",
+                "TiO2",
+                "CH3NH3I"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The pre-formed PbI2 particles react quickly with CH3NH3I to form a full coverage of CH3NH3PbI3",
+            "all_materials": [
+                "PbI2",
+                "CH3NH3I",
+                "CH3NH3PbI3"
+            ],
+            "other_materials": [
+                "PbI2"
+            ],
+            "precursors": [
+                {
+                    "text": "CH3NH3I",
+                    "start": 49,
+                    "end": 56,
+                    "token_ids": [
+                        7
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "CH3NH3PbI3"
+        },
+        {
+            "sentence": "But the surface of the perovskite film fabricated by the two-step method is relatively rough and this method is more suitable for the mesostructured PSC",
+            "all_materials": [
+                "PSC"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                7,
+                "StartingSynthesis"
+            ],
+            "targets": "PSC"
+        },
+        {
+            "sentence": "Alternatively, a PbI2 film was annealed in CH3NH3I vapor for several hours to form the perovskite film with good substrate coverage",
+            "all_materials": [
+                "PbI2",
+                "CH3NH3I"
+            ],
+            "other_materials": [
+                "PbI2",
+                "CH3NH3I"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                6,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A dense perovskite film was also obtained by the introduction of a second solvent to promote fast crystallization ,  or by the additive of 1,8-diiodooctane in the perovskite solution to control the crystallization of the perovskite",
+            "all_materials": [
+                "1,8-diiodooctane"
+            ],
+            "other_materials": [
+                "1,8-diiodooctane"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, we report a facile gas-assisted method that results in fast-solvent evaporation, promoting rapid supersaturation and precipitation, and the formation of a smooth thin film comprised of densely packed single grains of the alkylammonium lead iodide perovskite material",
+            "all_materials": [
+                "alkylammonium lead iodide"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "alkylammonium lead iodide"
+        },
+        {
+            "sentence": "By controlling the subsequent annealing conditions, an average power conversion efficiency  of 15.7\u00b10.7% was achieved.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Unless specified otherwise, all materials were purchased from either Alfa Aesar or Sigma-Aldrich and used as received",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Spiro-OMeTAD -9,9-spirobifluorene) was purchased from Luminescence Technology Corp",
+            "all_materials": [
+                "Spiro-OMeTAD -9,9-spirobifluorene"
+            ],
+            "other_materials": [
+                "Spiro-OMeTAD -9,9-spirobifluorene"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "CH3NH3I was synthesized by mixing 24\u00a0mL CH3NH3  and 10\u00a0mL HI  in 100\u00a0mL ethanol",
+            "all_materials": [
+                "CH3NH3I",
+                "CH3NH3",
+                "HI"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "CH3NH3",
+                    "start": 40,
+                    "end": 46,
+                    "token_ids": [
+                        7
+                    ]
+                },
+                {
+                    "text": "HI",
+                    "start": 58,
+                    "end": 60,
+                    "token_ids": [
+                        11
+                    ]
+                }
+            ],
+            "operation": [
+                [
+                    2,
+                    "StartingSynthesis"
+                ],
+                [
+                    4,
+                    "SolutionMixing"
+                ]
+            ],
+            "targets": "CH3NH3I"
+        },
+        {
+            "sentence": "After stirring for 2\u00a0h, the solvent was removed on a rotary evaporator",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The white crystals were washed by diethyl ether and then",
+            "all_materials": [
+                "diethyl ether"
+            ],
+            "other_materials": [
+                "diethyl ether"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Spin-coating was used to prepare the CH3NH3PbI3 films on FTO glass substrates coated with a dense TiO2 blocking layer in a glove box",
+            "all_materials": [
+                "CH3NH3PbI3",
+                "FTO",
+                "TiO2"
+            ],
+            "other_materials": [
+                "CH3NH3PbI3",
+                "FTO",
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Based on the conventional spin-coating method, an additional step was introduced where a dry argon gas flow was blown over the surface of the perovskite solution during the spin-coating process , promoting evaporation of the solvent and accelerating the supersaturation of the solution",
+            "all_materials": [
+                "argon"
+            ],
+            "other_materials": [
+                "argon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The as-cast films deposited by the",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In summary, a facile gas-assisted method was developed to fabricate dense methylammonium lead iodide perovskite thin films of ~300\u00a0nm in thickness for high efficiency planar solar cells",
+            "all_materials": [
+                "methylammonium lead iodide"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "methylammonium lead iodide"
+        },
+        {
+            "sentence": "This new technique facilitated a high degree of supersaturation of the perovskite components in the wet film during spin-coating, resulting in a large number of nuclei and, subsequently, very fine perovskite grains in the dried film that provided full coverage of the substrate",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The perovskite film consisted of a",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors acknowledge the Australian Centre for Advanced Photovoltaics, the Australian Renewable Energy Agency and the Victorian State Government  for financial support",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Monash University Centre for Electron Microscopy  and the Advanced Microscopy Facility at The University of Melbourne are acknowledged for electron microscopy facilities",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The Commonwealth Scientific and Industrial Research Organization is acknowledged for providing support through OCE Science",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Fuzhi Huang received his Ph.D",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "in Chemistry  from The University of Melbourne, Australia",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "He is currently working as a research fellow in the Department of Materials Engineering, Monash University",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "His research interest is developing new materials and techniques for high efficiency organic\u2013inorganic hybrid perovskite solar cells.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Halide perovskites have drawn the researcher&#x27;s attention in the last decade because of their marvellous performance in photovoltaic devices",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It started in 2009 with organic-inorganic perovskite sensitized solar cells, showing a power conversion efficiency  of 3.13%",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Since then, continuous efforts have been made to enhance perovskite solar cell  performance using different halide perovskite materials and changing other parameters",
+            "all_materials": [
+                "halide"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "halide",
+                    "start": 108,
+                    "end": 114,
+                    "token_ids": [
+                        16
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Researchers have recently achieved 25.8% PCE with perovskite-based solar cells, which challenged the mainstream solar cell technologies",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here, we have reviewed the exotic electronic and optical properties of different halide perovskites and the continuous development of PSCs with varying device architectures using these materials, fabrication techniques, and various carrier transport layers",
+            "all_materials": [
+                "halide"
+            ],
+            "other_materials": [
+                "halide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The main problem in the commercialization of perovskites-based photovoltaic devices is poor stability in the ambient",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This review also includes the challenges such as the stability of perovskite materials, device fabrications, toxicity, and performance improvement, which provides the understanding towards achieving the high PCE",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Encapsulation is one of the best ways to improve the stability of the halide perovskites",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A perspective to enhance the efficiency and stability of the PSC is also given at the end.",
+            "all_materials": [
+                "PSC"
+            ],
+            "other_materials": [
+                "PSC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The highly crystalline TiO2 nanorod as an underlying electron transport layer in perovskite solar cell has gained much attention due to its directional charge transport, better carrier extraction and enhanced light scattering",
+            "all_materials": [
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the morphology of perovskite film is critical to the photovoltaic performance, which makes it challenging to realize a high-quality perovskite film readily on an uneven nanorod-shaped underlying layer",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this regard, we develop a facile strategy to modify the two-step deposited methylammonium lead iodide  film, deposited on hydrothermally synthesized TiO2 nanorod, by rapidly introducing methylamine vapor during the rotation, which enables another control to film planarization via a shear force induced by air flow, to investigate the influence of methylamine  healing on such perovskite solar devices",
+            "all_materials": [
+                "methylammonium lead iodide",
+                "TiO2",
+                "methylamine",
+                "air",
+                "methylamine"
+            ],
+            "other_materials": [
+                "methylammonium lead iodide",
+                "TiO2",
+                "methylamine",
+                "air",
+                "methylamine"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The morphology and porosity of PbI2 on nanorod-based TiO2 are systemically studied by controlling the mixed solvent effect of dimethylformamide and dimethyl sulfoxide to satisfy a preferred PbI2 for the two-step deposited perovskite using TiO2 nanorod",
+            "all_materials": [
+                "PbI2",
+                "TiO2",
+                "dimethylformamide",
+                "dimethyl sulfoxide",
+                "PbI2",
+                "TiO2"
+            ],
+            "other_materials": [
+                "PbI2",
+                "TiO2",
+                "dimethylformamide",
+                "dimethyl sulfoxide",
+                "PbI2",
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The performance of such two-step deposited perovskite film after the developed MA treatment can be further improved, which suggests the occurrence of liquified MAPbI3 during the rotation to provide the positive healing effect on the film smoothness, pore infiltration, and unreacted PbI2 residues",
+            "all_materials": [
+                "MA",
+                "MAPbI3",
+                "PbI2"
+            ],
+            "other_materials": [
+                "MA",
+                "MAPbI3",
+                "PbI2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The perovskite film after a long MA treatment is found to suffer from the formation of more defects or disorders than the defect tolerance in MAPbI3, which outweighs the healing advantages",
+            "all_materials": [
+                "MAPbI3"
+            ],
+            "other_materials": [
+                "MAPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Such a trend highlights the importance of delicately optimizing the developed MA treatment process, which can possibly achieve a high-performance perovskite solar cell of using two-step deposited MAPbI3 on TiO2 NR.",
+            "all_materials": [
+                "MA",
+                "MAPbI3",
+                "TiO2"
+            ],
+            "other_materials": [
+                "MA",
+                "MAPbI3",
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Recent advancements in perovskites&#x27; application as a solar energy harvester have been astonishing",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The power conversion efficiency  of perovskite solar cells  is currently reaching parity , an accomplishment attained over past decades",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "PSCs are seen as perovskites sandwiched between an electron transporting material  and a hole transporting material",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As a primary component of PSCs, HTM has been shown to have a considerable effect on solar energy harvesting, carrier extraction and transport, crystallization of perovskite, stability, and price",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In PSCs, it is still necessary to use a HTM",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "While perovskites are capable of conducting holes, they are present in trace amounts, necessitating the use of an HTM layer for efficient charge extraction",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this review, we provide an understanding of the significant forms of HTM accessible , to motivate further research and development of such materials",
+            "all_materials": [
+                "HTM"
+            ],
+            "other_materials": [
+                "HTM"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The identification of additional criteria suggests a significant challenge to high stability and affordability in PSC.",
+            "all_materials": [
+                "PSC"
+            ],
+            "other_materials": [
+                "PSC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The performance of hybrid metal halide perovskite-based solar cells has been improved at an exceptional rate compared to other solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Just in a decade, the efficiency of perovskite solar cells  could be increased from 3.8% to 25.5%",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The halide-based perovskite materials have gained increased attention for optoelectronics applications because of their simple synthesis method and the ability to achieve high-efficiency solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this article, we have reviewed the significant developments in PSC that have contributed to the high-efficiency achievements",
+            "all_materials": [
+                "PSC"
+            ],
+            "other_materials": [
+                "PSC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "These include the evolution of device structure, the development of absorber layer materials as well as charge selective layers, and the advancement in the device fabrication techniques targeting to improve the control over perovskite film morphology, crystallinity, composition, and the interface properties of the devices leading to enhancement in the overall performances",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We have also discussed the challenges and prospects for PSC research and development towards commercialization.",
+            "all_materials": [
+                "PSC"
+            ],
+            "other_materials": [
+                "PSC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This chapter is focused on the most common techniques reported for the preparation of lead halide perovskites , emphasizing their fundamental, pioneer examples, advantages, and drawbacks",
+            "all_materials": [
+                "lead halide"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "lead halide"
+        },
+        {
+            "sentence": "Moreover, oversight of the recent advances in the most used techniques is provided",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The synthesis approaches for the fabrication of LHPs for potential application in photovoltaic and optoelectronic have been classified into two main sections: thin-film technology  and colloidal nanoparticle synthesis",
+            "all_materials": [
+                "LHPs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "LHPs"
+        },
+        {
+            "sentence": "Finally, a summary of the synthesis routes and an outlook on the future direction of the topic will be provided.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A device fabrication method is reported to efficiently produce CH3NH3PbI3-based planar perovskite solar cells on polymer substrates with the entire process conducted at 150\u00a0\u00b0C or below",
+            "all_materials": [
+                "CH3NH3PbI3"
+            ],
+            "other_materials": [
+                "CH3NH3PbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The hole blocking layer employed is a solution processed 100\u00a0nm thick mesoporous TiO2 layer",
+            "all_materials": [
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A gas-assisted perovskite deposition method is used to produce excellent coverage of the hole blocking layer by a \u223c350\u00a0nm thick CH3NH3PbI3 film, resulting in high device performance reproducibility",
+            "all_materials": [
+                "CH3NH3PbI3"
+            ],
+            "other_materials": [
+                "CH3NH3PbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We show that an average efficiency of 10.6\u00a0\u00b1\u00a01.2%, and a maximum efficiency of 12.3% are obtained for flexible perovskite solar cells, offering great promise for further improvement of this low-temperature, low-cost processing solar technology.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Efficiencies of perovskite solar cells  have risen unprecedentedly from 3.8% to 25.2% in just over a decade as the light absorber material has evolved from the original methylammonium - to formamidinium -dominated perovskite",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "While FA lead iodide  has a lower bandgap and, therefore, a higher theoretical efficiency limit, it is less phase stable, although this can overcome by incorporating cesium , MA, bromide , or a combination of these",
+            "all_materials": [
+                "FA lead iodide",
+                "cesium",
+                "MA"
+            ],
+            "other_materials": [
+                "FA lead iodide"
+            ],
+            "precursors": [
+                {
+                    "text": "cesium",
+                    "start": 166,
+                    "end": 172,
+                    "token_ids": [
+                        30
+                    ]
+                },
+                {
+                    "text": "MA",
+                    "start": 175,
+                    "end": 177,
+                    "token_ids": [
+                        32
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Cs being a nonvolatile component remains in the perovskite film and therefore it is important to understand the effect of the amount of Cs on film properties and associated PSC performance and stability",
+            "all_materials": [
+                "Cs",
+                "Cs",
+                "PSC"
+            ],
+            "other_materials": [
+                "Cs",
+                "Cs",
+                "PSC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Future research opportunities for Cs-containing PSCs including large-area demonstrations are also discussed in this review.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Scalable sheet-to-sheet slot die coating processes have been demonstrated for perovskite solar cells and modules",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The processes have been developed on 6\u00a0in",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "glass/ITO substrates for two functional layers: the perovskite photo-active layer and the Spiro-OMeTAD hole transport layer\u00d7 6\u00a0in",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Perovskite solar cells produced using these slot die coating processes demonstrate device performances identical to the spin coated devices",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "All manufactured devices illustrate a high level of reproducibility",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The developed slot die coating processes were also used for the manufacturing of perovskite PV modules",
+            "all_materials": [
+                "PV"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PV"
+        },
+        {
+            "sentence": "Large area modules of 12.5 \u00d7 13.5\u00a0cm2 were realized by slot die coating on 6\u00a0in",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "substrates in combination with newly developed laser ablation processes for conventional P1-P2-P3 monolithic cell interconnections\u00d7 6\u00a0in",
+            "all_materials": [
+                "P1-P2-P3"
+            ],
+            "other_materials": [
+                "P1-P2-P3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The modules demonstrate power conversion efficiencies above 10%, with a power output of 1.7\u00a0W",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This achievement is an important milestone in the development of up-scalable manufacturing technologies for perovskite PV modules.",
+            "all_materials": [
+                "PV"
+            ],
+            "other_materials": [
+                "PV"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Hybrid perovskites have emerged as the most promising thin-film photovoltaic technology with efficiencies exceeding 20% merely in the last five years",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Most high-efficiency perovskite solar cells reported in the recent years have relatively small device area in comparison to that required for commercial photovoltaic modules",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "While these results are excellent from an academic perspective, scaling up the overall cell device area is crucial for achieving practical utility for hybrid perovskite based thin-film solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this paper, we present a comprehensive study on the use of temperature-controlled doctor blading technique for the growth of large island, crystalline perovskite thin-films",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Specifically, we elucidate the physical conditions such as substrate temperature, solution volume, and blade speed under ambient conditions that control the growth of large area perovskite thin-films with desired island size, thickness, uniformity and crystallinity",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Using these doctor-bladed thin-films we fabricated devices of \u223c1\u00a0cm2 area in air that yielded an average efficiency of 7.32% with negligible hysteresis in the current-voltage scans",
+            "all_materials": [
+                "air"
+            ],
+            "other_materials": [
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                9,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Further improvements in efficiency can be expected by reproducing the perovskite thin-film growth using doctor-blading in a controlled environment, through compositional tuning of the band-gap, or by selecting electron and hole transport layers with better band alignment with the perovskite electronic energy level.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We report organic cation additives in lead iodide solutions as a practical approach for roll-to-roll production of perovskite solar cells",
+            "all_materials": [
+                "lead iodide"
+            ],
+            "other_materials": [
+                "lead iodide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Sequential deposition, which is known to be more reliable than 1 step process, is modified to be even more reliable and suitable in roll-to-roll process",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Addition of less than stoichiometric amount of organic cations in PbI2 solution effectively improves processability by working as crystallization retardant and make dried PbI2 film more reactive for faster conversion to perovskite",
+            "all_materials": [
+                "PbI2",
+                "PbI2"
+            ],
+            "other_materials": [
+                "PbI2",
+                "PbI2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The printing-friendly sequential deposition is used in air with slot die coating, an industrial up-scaling technique, to produce a perovskite solar cell on glass with a 14.4% power conversion efficiency",
+            "all_materials": [
+                "air"
+            ],
+            "other_materials": [
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The process is then used in actual roll-to-roll machine in air to produce flexible perovskite solar cells with up to 11.0% PCE.",
+            "all_materials": [
+                "air",
+                "PCE"
+            ],
+            "other_materials": [
+                "air",
+                "PCE"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The performance of large-area perovskite solar cells  is confined to the non-uniformity edge-coating and crystalline defects",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Focusing on the critical requirement of large-area uniform and compact crystallized perovskite film for efficient PSCs, here, an inkjet manipulated approach is introduced for controlling the thin-film perovskite growth in a mesoporous solar cell device structure",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The ink droplet wetting behavior on mesoporous substrate, the physical properties of solutions have been systematically investigated",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Uniform liquid membrane was obtained via precisely controlled micro-droplets by inkjet-printing",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Mesoporous substrates guarantee fast and complete coalescence of the precursor droplets, and limit random diffusion of the precursor solution",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Homogeneous PbI2 film leads to a compact perovskite film with micro-scale crystalline grains, which enables PSCs high power conversion efficiencies  of 18.64% for small area  and 17.74% for large area",
+            "all_materials": [
+                "PbI2"
+            ],
+            "other_materials": [
+                "PbI2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The enhanced performance can be ascribed to improved uniformity of the perovskite film morphology, favorable perovskite crystallite orientation, large grain size  and less grain boundaries",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Inkjet manipulation provides a facile approach to fabricate large-area and high-quality films for future optoelectronics, including field effect transistors, light-emitting diodes, and sensor devices.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Fuzhi Huang received his Ph.D",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "in Chemistry  from The University of Melbourne, Australia",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "He is currently working as a research fellow in the Department of Materials Engineering, Monash University",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "His research interest is developing new materials and techniques for high efficiency organic\u2013inorganic hybrid perovskite solar cells.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Yasmina Dkhissi received her B.S and M.S degrees in Chemistry from the Lyon Engineering School of Chemistry, Physics and Electronics and the University Claude Bernard, Lyon in 2009 and 2011, respectively",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "She is currently doing her Ph.D",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "at the University of Melbourne with A/Prof",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Caruso and works in close collaboration with Monash UniversityRachel A",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Her research focuses on solid-state thin film solar cells on polymer substrates.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Wenchao Huang received his bachelor\u05f3s degree from the Monash University",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Currently he is a Ph.D",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "candidate in the Department of Materials Engineering, Monash University",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "His current research interest is in the field of organic electronics.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Manda Xiao is currently a Ph.D",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "student in Chemistry in Professor Leone Spiccia&#x27;s group in Monash University",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "He received his B.S",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Degree in Polymer Science and Engineering from Fudan University in 2008 and his M.Phil",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "degree in Materials Science and Engineering from The Chinese University of Hong Kong in 2010",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "His research interests focus on the development of high performance perovskite solar cells.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Iacopo Benesperi received the B.S",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "in Industrial Chemistry from the Chemistry Department, Pisa University, Italy, in 2010 and the M.S",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "in Materials Science from the Chemistry Department, Turin University, Italy, in 2013",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "He is currently a Ph.D",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "student at the School of Chemistry, Monash University, Melbourne, Australia",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "His current research interests include the development of novel hole transporting materials for perovskite and solid-state dye-sensitised solar cells.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Sergey Rubanov received his Ph.D",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "in Materials Science from University of NSW and M.Sc",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "in Physics from the Novosibirsk State University, Russia",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Between 2003 and 2006 he was part of the Centre for Quantum Computer Technology team at the School of Physics, University of Melbourne",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Sergey has been a research fellow in the Bio21 Electron Microscope Unit since 2006",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "He supervises the operation of the Nova dual-beam, focused ion beam system and the Tecnai TF20 transmission electron microscope.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Ye Zhu received his Ph.D",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "in Materials Science and Engineering from the University of Wisconsin-Madison, US",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "After graduation in 2008, he has worked in 3M company and Cornell University",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "He joined the Materials Engineering Department at Monash University as a research fellow in 2012",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "His research interests include transmission electron microscopy , scanning TEM, electron energy loss spectroscopy, and focused-ion beam.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Xiongfeng Lin is currently undertaking his bachelor degree in Material Engineering at Monash University, Australia",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "His research interests include dye-sensitized solar cell and perovskite based solar cell.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Liangcong Jiang is currently taking his Bachelor degree in Material Engineering from the Monash University and will finish at 2014",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "His research interests in thin film perovskite solar cells.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Yecheng Zhou received his B.S",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "degree in Physics from Lanzhou University, Lanzhou, China",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "He obtained the Joined M.S",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "degree  in Organic Chemistry from the Lanzhou University and Dalian Institute of Chemical Physical , Chinese Academy of Science",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "From 2013, he is a Ph.D",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "student of The University of Melbourne under Dr",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Angus Gray-Weale",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "His current research interest is theoretical simulation of perovskite solar cells.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Angus Gray-Weale studied Chemistry and Applied Mathematics at the University of Sydney, and received his doctorate at the University of Oxford for work on the structures of fluids of polarisable ions with Prof",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "He then returned to the University of Sydney as an Australian Postdoctoral Fellow, and started at the University of Melbourne as a Lecturer in Chemistry in 2011Paul Madden",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "He uses mathematical and computer models, and also some experiments, to study the interactions of atoms, molecules, and ions",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Despite the unimaginable complexity of the motions of these particles, we can understand their collective behaviour with our models and computer simulations",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Our calculations lead to discoveries about the microscopic world; they help us understand old experiments and design new ones",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Simulations are used to design high-tech materials, to understand the machinery of life, and in many other areas of physics and chemistry.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Joanne Etheridge is the Director of the Monash Centre for Electron Microscopy and Professor in the Department of Materials Engineering at Monash University",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Her research interests are in the theory of electron scattering in solids and its application to the determination of the atomic structure of materials, including perovskite and nanoparticle systems.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "McNeill obtained his Ph.DChristopher R",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "in Physics from the University of Newcastle, Australia in 2005 before moving to the Cavendish Laboratory, University of Cambridge, initially as a research associate and then as an EPSRC Advanced Research Fellow",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "He joined the Department of Materials Engineering at Monash University in 2011 and is currently an Associate Professor",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "His research interests include structure/function relationships in solution-processed thin-film solar cells.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Caruso obtained her Ph.DRachel A",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "from the School of Chemistry at The University of Melbourne, Australia, in 1997",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "She then held postdoctoral positions at the Hahn Meitner Institute and the Max Planck Institute of Colloids and Interfaces in Germany before returning to an academic position in Australia, where she is currently an Associate Professor in the School of Chemistry at The University of Melbourne and a Science Leader in the Manufacturing Flagship of the Commonwealth Scientific and Industrial Research Organisation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Her research interests focus on the morphological control of materials with applications in energy and environmental related areas.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Udo Bach currently holds a joint appointment with CSIRO and Monash University",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "He has been an Australian Research Fellow since 2006 and a CSIRO OCE Science Leader as well as a Melbourne Centre for Nanofabrication Tech Fellow since 2011",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Prof Bach has a strong background in the area of photovoltaics and nanofabrication",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "He received his PhD from the Swiss Federal Institute of Technology  and worked for 3 years in a technology start-up company in Dublin",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Subsequently he spent 15 months as a postdoc in the group of Prof",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Paul Alivisatos at UC Berkeley , before moving to Monash University in November 2005 to establishing his own research group",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Prof Bach is involved in fundamental and applied research in the area of dye-sensitized solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "He has additional research activities in the area of nanofabrication, DNA-directed self-assembly, nanoprinting and plasmonics for sensing and photovoltaic applications.",
+            "all_materials": [
+                "DNA"
+            ],
+            "other_materials": [
+                "DNA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Leone Spiccia obtained his Ph.D",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "degree in Physical and Inorganic Chemistry from the University of Western Australia in 1984",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "After postdoctoral position at the University of Calgary, Universit\u00e9 de Neuch\u00e2tel and the Australian National University, he took up an academic appointment at Monash University in 1987, where he is currently Professor of Chemistry",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "His research interests include solar, water splitting, dye-sensitized solar cells, thin film solar cells, coordination and bio-inorganic chemistry, biomimetic chemistry, biosensors, therapeutic and diagnostic applications of nanomaterials and radiolabelled bioconjugates.",
+            "all_materials": [
+                "water"
+            ],
+            "other_materials": [
+                "water"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Yi-Bing Cheng is a professor in the Department of Materials Engineering at Monash University, Australia",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "He completed his undergraduate  and Master  studies at Wuhan University of Technology, China and received a Ph.D",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "degree from University of Newcastle-upon-Tyne, U.K",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "He joined Monash University in 1991in 1989",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "He specialises in inorganic materials and composites",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "He started working on dye sensitised solar cells in 2001 and is mainly interested in solution processed solar cells.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

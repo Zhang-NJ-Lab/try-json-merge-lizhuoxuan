@@ -1,0 +1,114 @@
+{
+    "rest": [
+        {
+            "sentence": "\u2022The TiO2 electron transport layers for PSCs were prepared by magnetron sputtering technology, without the need for high-temperature annealing required by the solution method.",
+            "all_materials": [
+                "TiO2"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                [
+                    8,
+                    "StartingSynthesis"
+                ],
+                [
+                    21,
+                    "HeatingOperation"
+                ]
+            ],
+            "targets": "TiO2"
+        },
+        {
+            "sentence": "On the FTO substrate, the TiO2 ETLs were prepared by magnetron sputtering with different sputtering time.",
+            "all_materials": [
+                "FTO",
+                "TiO2 ETLs"
+            ],
+            "other_materials": [
+                "FTO"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                9,
+                "StartingSynthesis"
+            ],
+            "targets": "TiO2 ETLs"
+        },
+        {
+            "sentence": "Effect of sputtering time on the surface morphology and photoelectric properties of the TiO2 ETLs was discussed.",
+            "all_materials": [
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The photoelectric performance of the perovskite cell is affected by the surface morphology and thickness of the TiO2 ETLs, and the mechanism was discussed.",
+            "all_materials": [
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Magnetron sputtering technology benefits from an easy process parameter adjustment strategy, good experimental reproducibility, and high-quality film formation; thus, it is widely used in thin-film electronic devices",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In the present work, the thickness and morphology of the TiO2 electron transport layer were controlled by magnetron sputtering time, and based on this technology, planar heterojunction perovskite solar cells were prepared",
+            "all_materials": [
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                34,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The results showed that with an increase in the sputtering time, the surface roughness of the TiO2 film decreased, and the electrical homogeneity and square resistance of the film increased",
+            "all_materials": [
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Especially, the film transmittance showed a maximum value of 82.29% at 45 min of deposition, and the so prepared perovskite solar cells exhibited the highest photoelectric conversion efficiency of up to 12.42%.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

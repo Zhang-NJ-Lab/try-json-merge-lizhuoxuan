@@ -1,0 +1,1361 @@
+{
+    "rest": [
+        {
+            "sentence": "Tin-lead  mixed perovskite solar cells  with the advantage of low bandgap to photovoltaic application, have been developed well in recent years, but the poor stability and rapid crystallization of Sn\u2013Pb perovskite cause the large open-circuit voltage  loss and defects",
+            "all_materials": [
+                "Sn\u2013Pb"
+            ],
+            "other_materials": [
+                "Sn\u2013Pb"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here, we report a coordination effect to passivate Sn defects by adding 4-pyridine-methylamine iodine  in perovskite precursor solution to optimize morphology and enhance the performance of Sn\u2013Pb mixed PSCs",
+            "all_materials": [
+                "4-pyridine-methylamine iodine",
+                "Sn\u2013Pb",
+                "PSCs"
+            ],
+            "other_materials": [
+                "Sn\u2013Pb",
+                "PSCs"
+            ],
+            "precursors": [
+                {
+                    "text": "4-pyridine-methylamine iodine",
+                    "start": 72,
+                    "end": 101,
+                    "token_ids": [
+                        13,
+                        14
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It&#x27;s found that multiple coordination bonds are formed in Sn\u2013Pb mixed perovskite under the reaction of PyAI in an acid environment, which lead to modulate Sn\u2013Pb mixed perovskite film formation process, improve film crystallinity, reduce electronic disorder, and optimize the overall film quality",
+            "all_materials": [
+                "PyAI",
+                "Sn",
+                "Pb"
+            ],
+            "other_materials": [
+                "PyAI",
+                "Sn",
+                "Pb"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As a result, 1.5%PyAI-treated Sn\u2013Pb mixed PSCs exhibit the power conversion efficiency  improvement from 14.87% to 17.04% compared with the control Sn\u2013Pb mixed PSCs",
+            "all_materials": [
+                "PyAI",
+                "Sn\u2013Pb",
+                "PSCs",
+                "Sn\u2013Pb",
+                "PSCs"
+            ],
+            "other_materials": [
+                "PyAI",
+                "Sn\u2013Pb",
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "Sn\u2013Pb"
+        },
+        {
+            "sentence": "Moreover, the unencapsulated 1.5%PyAI-treated device maintains 80% of its initial performance after being stored in an N2-filled glove box for 15 days, also inhibitory effect of the oxidation process is obvious under the air environment condition.",
+            "all_materials": [
+                "PyAI",
+                "N2",
+                "air"
+            ],
+            "other_materials": [
+                "PyAI",
+                "N2",
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Download : Download high-res image Download : Download full-size image",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Hybrid organic\u2212inorganic PSCs have developed rapidly in the past years and the certified PCE reached 25.7%",
+            "all_materials": [
+                "PSCs",
+                "PCE"
+            ],
+            "other_materials": [
+                "PSCs",
+                "PCE"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "According to the detailed balance limit, single-junction solar cells with the bandgap of 1.2\u20131.4\u00a0eV show the potential to obtain highest efficiencies in a larger absorption range",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Pb-based perovskite has been widely used as the absorber layer , and the short-circuit current density  is hard to reach high level",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "At the same time, the pollution of Pb to environment is worth considering, Sn performs best among the current substitute metals",
+            "all_materials": [
+                "Pb",
+                "Sn"
+            ],
+            "other_materials": [
+                "Pb",
+                "Sn"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this case, Sn\u2013Pb mixed PSCs become a research direction for its great application in tandem solar cells [, ], which also can decrease toxicity by partially replacing Pb",
+            "all_materials": [
+                "Sn",
+                "Pb"
+            ],
+            "other_materials": [
+                "Sn",
+                "Pb"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Recent years, the gap of efficiency between Sn\u2013Pb mixed PSCs and Pb-based PSCs is narrowing [, ]",
+            "all_materials": [
+                "PSCs",
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs",
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Although Sn has performed well to alloy with Pb to adjust bandgap, the development of Sn-based PSCs is limited by some thorny problems such as open-circuit voltage loss and poor stability",
+            "all_materials": [
+                "Sn"
+            ],
+            "other_materials": [
+                "Sn"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Rapid crystallization of Sn\u2013Pb mixed perovskite films cause defects and vacancies, which accelerate charge carrier recombination and shorten carrier lifetime",
+            "all_materials": [
+                "Sn\u2013Pb"
+            ],
+            "other_materials": [
+                "Sn\u2013Pb"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, the strong chemical oxidation tendency of Sn2+ to Sn4+ usually induces self p-type doping and recombination, which aggravate the performance degradation of the perovskite film",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, this oxidation is hard to avoid, even if in the environment with a tiny amount of water and oxygen",
+            "all_materials": [
+                "water",
+                "oxygen"
+            ],
+            "other_materials": [
+                "water",
+                "oxygen"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The oxidation problem leads to serious defect-assisted non-radiative recombination also the reduction of device stability",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Based on this situation, many researchers focus on a proper strategy that not only effectively improve the surface quality of the perovskite film but also decrease Voc loss.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Controlling the film formation process and electronic characteristics is necessary to stabilize and improve the performance of Sn\u2013Pb PSCs",
+            "all_materials": [
+                "Sn\u2013Pb PSCs"
+            ],
+            "other_materials": [
+                "Sn\u2013Pb PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Additive engineering is an effective and convenient way to coordinate the energy level and structure of the perovskites, modulate crystallization and film formation of the perovskite films",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A variety of organic and inorganic complex additives have been used, such as antioxidant additives  which have been proved to suppress hole doping owing to oxidation of Sn2+ [, ]; hydrazine  treatment which can retard the oxidation of Sn2+ ; and also thiocyanate-based additives 2, KSCN), which are able to passivate the grain boundaries  and reduce the dark current [, ]",
+            "all_materials": [
+                "KSCN"
+            ],
+            "other_materials": [
+                "KSCN"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Using Lewis bases to interact with Sn2+ or FA+ in perovskite forming Lewis acid-base adducts is also an usually method to control the perovskite film quality",
+            "all_materials": [
+                "Lewis acid"
+            ],
+            "other_materials": [
+                "Lewis acid"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Although researchers have explored many kinds of additives, in the case of compounding the characteristics of two metals, the synergistic mechanism of various additives on Sn\u2013Pb mixed perovskite is worthy of further study",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Many high-efficient Sn\u2013Pb mixed PSCs have generally added SnF2, but the local Sn-rich environments can cause Sn interstitials and iodide vacancies, which introduce non-radiative recombination pathways and constitute deep-level traps [23,24]",
+            "all_materials": [
+                "SnF2",
+                "Sn"
+            ],
+            "other_materials": [
+                "SnF2",
+                "Sn"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                9,
+                "Mixing"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "And cesium as a widely used element to stabilize perovskite phase will accelerate the perovskite crystallization process when its addition amount is slightly excessive and then form small grain sizes and a substantial number of GBs, which will deteriorate the PCE of the resultant PSCs [25,26]",
+            "all_materials": [
+                "cesium"
+            ],
+            "other_materials": [
+                "cesium"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The GBs are considered to be the main way for oxygen and water to penetrate the perovskite lattice and destroy perovskite structure",
+            "all_materials": [
+                "oxygen",
+                "water"
+            ],
+            "other_materials": [
+                "oxygen",
+                "water"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "added an organic lead salt pyridine-2-carboxylic lead salt  as passivator in antisolvent solution to prepare MAPbI3 perovskite films, they found that pyridine and carboxyl groups of PbPyA2 effectively control crystallization and passivate GBs Fang et al",
+            "all_materials": [
+                "lead",
+                "pyridine-2-carboxylic lead",
+                "MAPbI3",
+                "PbPyA2"
+            ],
+            "other_materials": [
+                "lead",
+                "pyridine-2-carboxylic lead",
+                "PbPyA2"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                0,
+                "Mixing"
+            ],
+            "targets": "MAPbI3"
+        },
+        {
+            "sentence": "proposed that a hydrogen bond interaction  by the carboxylic acid  and the ammonium  with iodide from SnI64\u2212 octahedra in the FASnI3 film, which affects the crystal growth of perovskites Kayesh et al",
+            "all_materials": [
+                "carboxylic acid",
+                "ammonium",
+                "SnI64\u2212 octahedra",
+                "FASnI3"
+            ],
+            "other_materials": [
+                "carboxylic acid",
+                "ammonium",
+                "SnI64\u2212 octahedra",
+                "FASnI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, these additives are often designed to improve a single property, and most studies use SnF2 as a Sn source supplement to respond the Sn defects.",
+            "all_materials": [
+                "SnF2",
+                "Sn"
+            ],
+            "other_materials": [
+                "SnF2",
+                "Sn"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, we study the effect of PyAI on the Sn\u2013Pb mixed low-bandgap PSCs, PyAI into the perovskite precursor can form multiple coordination bonds including hydrogen bond and Lewis acid-base, which not only passivate the Sn defects but also effectively suppressed the formation of Sn4+ during the fabrication process of the devices",
+            "all_materials": [
+                "PyAI",
+                "PyAI"
+            ],
+            "other_materials": [
+                "PyAI",
+                "PyAI"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The hydrophobic phenyl group in PyAI can enhance the hydrophobicity of perovskite films and thus inhibit the decomposition of perovskite",
+            "all_materials": [
+                "PyAI"
+            ],
+            "other_materials": [
+                "PyAI"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We chose Pb2  as the control antioxidant instead of SnF2 in precursor solution",
+            "all_materials": [
+                "Pb2",
+                "SnF2"
+            ],
+            "other_materials": [
+                "Pb2",
+                "SnF2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It&#x27;s found that PbAc2 could cooperate with PyAI to strengthen the passivation effect",
+            "all_materials": [
+                "PbAc2",
+                "PyAI"
+            ],
+            "other_materials": [
+                "PbAc2",
+                "PyAI"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This multiple coordination effect could also benefit the crystal growth in thermodynamically preferred orientation and improve the overall perovskite film quality",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Attributed to these benefits, the optimum concentration of PyAI is 1.5\u00a0mol%, the best performing device achieves Voc of 0.80\u00a0V",
+            "all_materials": [
+                "PyAI"
+            ],
+            "other_materials": [
+                "PyAI"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The champion device realize efficiency of 17.04% increased from 14.87% of control device",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Meanwhile, the unencapsulated PyAI-treated devices retain 80% of its initial performance after being stored in an N2-filled glove box for 15 days, and the oxidation process inhibitory effect is obvious in the air environment",
+            "all_materials": [
+                "PyAI",
+                "N2",
+                "air"
+            ],
+            "other_materials": [
+                "PyAI",
+                "N2",
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The optimization of the film quality is also obvious",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It&#x27;s worthy to study fabricating high performance and stable Sn\u2013Pb mixed perovskites by synergistic effect.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Materials: phenyl-C61-butyric acid methyl ester , Poly : poly-  , CH3NH3I , HC2I , PyAI, PbAc2, PbI2 were purchased from Xi&#x27;an Polymer Light Technology Co",
+            "all_materials": [
+                "phenyl-C61-butyric acid methyl ester",
+                "Poly : poly-",
+                "CH3NH3I",
+                "HC2I",
+                "PyAI",
+                "PbAc2",
+                "PbI2"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "phenyl-C61-butyric acid methyl ester",
+                    "start": 11,
+                    "end": 47,
+                    "token_ids": [
+                        2,
+                        3,
+                        4,
+                        5
+                    ]
+                },
+                {
+                    "text": "Poly : poly-",
+                    "start": 50,
+                    "end": 62,
+                    "token_ids": [
+                        7,
+                        8,
+                        9
+                    ]
+                },
+                {
+                    "text": "CH3NH3I",
+                    "start": 66,
+                    "end": 73,
+                    "token_ids": [
+                        11
+                    ]
+                },
+                {
+                    "text": "HC2I",
+                    "start": 76,
+                    "end": 80,
+                    "token_ids": [
+                        13
+                    ]
+                },
+                {
+                    "text": "PyAI",
+                    "start": 83,
+                    "end": 87,
+                    "token_ids": [
+                        15
+                    ]
+                },
+                {
+                    "text": "PbAc2",
+                    "start": 89,
+                    "end": 94,
+                    "token_ids": [
+                        17
+                    ]
+                },
+                {
+                    "text": "PbI2",
+                    "start": 96,
+                    "end": 100,
+                    "token_ids": [
+                        19
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The SnI2 , dimethyl sulfoxide  and N, N-dimethyl formamide  were purchased from Alfa Aesar",
+            "all_materials": [
+                "SnI2",
+                "dimethyl sulfoxide",
+                "N, N-dimethyl formamide"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "SnI2",
+                    "start": 4,
+                    "end": 8,
+                    "token_ids": [
+                        1
+                    ]
+                },
+                {
+                    "text": "dimethyl sulfoxide",
+                    "start": 11,
+                    "end": 29,
+                    "token_ids": [
+                        3,
+                        4
+                    ]
+                },
+                {
+                    "text": "N, N-dimethyl formamide",
+                    "start": 35,
+                    "end": 58,
+                    "token_ids": [
+                        6,
+                        7,
+                        8,
+                        9
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "ITO with a surface resistance of 7\u00a0\u03a9 was purchased from Advanced Election",
+            "all_materials": [
+                "ITO"
+            ],
+            "other_materials": [
+                "ITO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Generally, the Sn\u2013Pb mixed perovskite films\u2019 morphology without any additives is poor",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As shown in Fig",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "S1, the pinholes on the surface of 0.60.4 film are partially reduced after adding 2.5% PbAc2",
+            "all_materials": [
+                "PbAc2"
+            ],
+            "other_materials": [
+                "PbAc2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The UV\u2013vis image shows that the bandgap of the perovskite film does not change significantly",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The CO in PbAc2 has strong interaction with perovskite framework , which could suppress the morphological defects formation",
+            "all_materials": [
+                "CO",
+                "PbAc2"
+            ],
+            "other_materials": [
+                "CO",
+                "PbAc2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The photoelectric performance improvement is shown",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In conclusion, high quality 0.60.4 films can be fabricated through the multiple coordination effect of PyAI",
+            "all_materials": [
+                "PyAI"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "PyAI",
+                    "start": 103,
+                    "end": 107,
+                    "token_ids": [
+                        16
+                    ]
+                }
+            ],
+            "operation": [
+                9,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "PyAI regulates the morphology of 0.60.4 films by suppressing the crystallization and passivating the surface film defects",
+            "all_materials": [
+                "PyAI"
+            ],
+            "other_materials": [
+                "PyAI"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In the absence of such Sn source additives as SnF2, PyAI can also prevent the oxidation of Sn2+ under the synergistic effect of PbAc2 during the fabricating process",
+            "all_materials": [
+                "SnF2",
+                "PyAI",
+                "PbAc2"
+            ],
+            "other_materials": [
+                "PbAc2"
+            ],
+            "precursors": [
+                {
+                    "text": "SnF2",
+                    "start": 46,
+                    "end": 50,
+                    "token_ids": [
+                        9
+                    ]
+                },
+                {
+                    "text": "PyAI",
+                    "start": 52,
+                    "end": 56,
+                    "token_ids": [
+                        11
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, the overall device performance is improved",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The 0.6",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Luyun Bai: Writing \u2013 review &amp; editing, Writing \u2013 original draft, Project administration, Investigation, Formal analysis, Data curation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Mina Guli: Writing \u2013 review &amp; editing, Funding acquisition",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Yifan Yang: Resources, Conceptualization",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Qin Chen: Investigation, Data curation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Yujing Zhang: Conceptualization.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work was supported by the Fundamental Research Funds for the Central Universities .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It is imperative to recover lead  contained in end-of-life solar modules",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this paper, a two-step leaching and electrowinning process using acetic acid is investigated for Pb recovery",
+            "all_materials": [
+                "acetic acid",
+                "Pb"
+            ],
+            "other_materials": [
+                "acetic acid",
+                "Pb"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Acetic acid with hydrogen peroxide can dissolve Pb quickly and, under some conditions, in a matter of minutes",
+            "all_materials": [
+                "Acetic acid",
+                "hydrogen peroxide",
+                "Pb"
+            ],
+            "other_materials": [
+                "Acetic acid",
+                "hydrogen peroxide",
+                "Pb"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Pb electrowinning has been successfully demonstrated from aqueous solutions of 0.009\u00a0M lead acetate with 0\u201310% v/v acetic acid",
+            "all_materials": [
+                "Pb",
+                "lead acetate",
+                "acetic acid"
+            ],
+            "other_materials": [
+                "Pb",
+                "acetic acid"
+            ],
+            "precursors": [
+                {
+                    "text": "lead acetate",
+                    "start": 87,
+                    "end": 99,
+                    "token_ids": [
+                        12,
+                        13
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Pb-containing deposits are found on both the copper cathode and graphite anode",
+            "all_materials": [
+                "copper",
+                "graphite"
+            ],
+            "other_materials": [
+                "copper",
+                "graphite"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "X-ray diffraction, energy-dispersive X-ray spectroscopy, and Fourier transform infrared spectroscopy confirm the presence of metallic Pb and Pb oxide  co-deposits on the cathode",
+            "all_materials": [
+                "Pb",
+                "Pb oxide"
+            ],
+            "other_materials": [
+                "Pb",
+                "Pb oxide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "There is also the formation of lead subacetate on the cathode under certain conditions",
+            "all_materials": [
+                "lead subacetate"
+            ],
+            "other_materials": [
+                "lead subacetate"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "On the anode, the deposit consists of lead oxide and superoxide",
+            "all_materials": [
+                "lead oxide",
+                "superoxide"
+            ],
+            "other_materials": [
+                "lead oxide",
+                "superoxide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A Pb recovery rate of 99% is achieved in 0.009\u00a0M lead acetate solutions with 10% v/v acetic acid by applying a reduction potential of either \u20130.8\u00a0V or \u20131.0\u00a0V versus the silver/silver chloride reference electrode for 24\u00a0h",
+            "all_materials": [
+                "Pb",
+                "lead acetate",
+                "acetic acid",
+                "silver/silver chloride"
+            ],
+            "other_materials": [
+                "Pb",
+                "lead acetate",
+                "acetic acid",
+                "silver/silver chloride"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Pb leaching with acetic acid is also demonstrated from milled silicon solar modules.",
+            "all_materials": [
+                "Pb",
+                "acetic acid",
+                "silicon"
+            ],
+            "other_materials": [
+                "Pb",
+                "acetic acid",
+                "silicon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Nanofluid-based direct absorption solar collectors , where the transfer fluid also shows the solar absorption functionality, could offer advantages with respect to existing conventional surface-absorber thermal solar collectors, due to volumetric radiation absorption and reduced thermal resistance at the absorber-fluid interface",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In the framework of investigation of novel nanofluids with favourable properties for NDASC applications, the present work is aimed to assess the stability , structural  and optical properties  of aqueous nanofluids containing boron carbide  and titanium carbonitride , both as mono or hybrid nanodditives",
+            "all_materials": [
+                "boron carbide",
+                "titanium carbonitride"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "boron carbide",
+                    "start": 226,
+                    "end": 239,
+                    "token_ids": [
+                        33,
+                        34
+                    ]
+                },
+                {
+                    "text": "titanium carbonitride",
+                    "start": 245,
+                    "end": 266,
+                    "token_ids": [
+                        36,
+                        37
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The chosen B4C and TiCN materials are representative components of the family of so-called Ultra-High Temperature Ceramics , which are known for a number of appealing properties, among those high-temperature stability and promising bulk optical properties, while the optical properties at the nanoscale were unexplored to date",
+            "all_materials": [
+                "B4C",
+                "TiCN"
+            ],
+            "other_materials": [
+                "B4C",
+                "TiCN"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "No formation of nanocomposites was evidenced, while optical properties of nanofluids resulted substantially changed with respect to the pure base fluid and promising for solar absorber applications",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The dynamic viscosity was also evaluated, in order to check if the pumping power required for the flow of the new materials differs substantially, finding a Newtonian behaviour and a minimal viscosity increase.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In recent years, high energy demands have posed a huge challenge to the research community to come up with efficient and robust energy-producing materials",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In lieu of this, materials discovery by building a Process-Structure-Properties  relationship for organic photovoltaic  cells using mathematical and statistical models is a useful approach, however, computationally expensive and time-consuming",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The present study utilizes the physics-based model to develop the Process-Structure  relationship for 68 different blend ratios and proposed Artificial Neural Network  models to map blend concentration with structural properties of OPV cells, namely, Percolation Fraction  and Interfacial Area",
+            "all_materials": [
+                "OPV"
+            ],
+            "other_materials": [
+                "OPV"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The fitted ANN model is then utilised for multi-objective optimization to find the optimal concentration of donor and acceptor to have maximum PF and IA using a Genetic Algorithm; this is further verified by search-based multi-objective optimization to have better insight into the design sub-space which contained optimal solution",
+            "all_materials": [
+                "PF",
+                "IA"
+            ],
+            "other_materials": [
+                "PF",
+                "IA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Finally, the optimal values of concentrations are validated through device optimization where efficiency predictions were made on structural data of the same morphologies using a mechanistic and regression model",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It has been demonstrated that the amalgamation of data-driven techniques and physics-based simulation is the new way forward for accelerated material discovery.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The development of tin-based perovskite solar cells  is hindered by the issue of high defect density in Sn-perovskite film, which seriously deteriorates the power conversion efficiency  and stability",
+            "all_materials": [
+                "Sn-perovskite"
+            ],
+            "other_materials": [
+                "Sn-perovskite"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, an ionic compensation strategy is proposed by adding guanidine iodide  into the FA0.75MA0.25SnI3 precursor solution to fabricate high-quality Sn-perovskite films by healing multi-vacancy defects",
+            "all_materials": [
+                "guanidine iodide",
+                "FA0.75MA0.25SnI3",
+                "Sn-perovskite"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "guanidine iodide",
+                    "start": 61,
+                    "end": 77,
+                    "token_ids": [
+                        10,
+                        11
+                    ]
+                },
+                {
+                    "text": "FA0.75MA0.25SnI3",
+                    "start": 88,
+                    "end": 104,
+                    "token_ids": [
+                        14
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "Sn-perovskite"
+        },
+        {
+            "sentence": "GA+ cations are rationally incorporated into perovskite crystal to compensate for the organic cation vacancies during thermal annealing, while the I-rich condition can simultaneously heal the iodine vacancies",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                17,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This method significantly improves the crystalline quality and surface morphology of Sn-perovskite films during annealing",
+            "all_materials": [
+                "Sn-perovskite"
+            ],
+            "other_materials": [
+                "Sn-perovskite"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                14,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "At the same time, the optimized film obtains a reduction in the density of defect states and an extension of the carrier lifetime",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Consequently, the best performing Sn-PSC modified by ionic compensation with GAI achieves an increase in PCE from 7.56%  to 10.41%, while also improving stability, retaining \u223c83% of the initial PCE after aging for 30 days in an N2 environment without encapsulation",
+            "all_materials": [
+                "Sn-PSC",
+                "GAI",
+                "PCE",
+                "PCE",
+                "N2"
+            ],
+            "other_materials": [
+                "Sn-PSC",
+                "GAI",
+                "PCE",
+                "PCE",
+                "N2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work represents that the ionic compensation strategy is an effective and practical approach toward reducing defects and realizing enhanced performance of Sn\u2013PSCs.",
+            "all_materials": [
+                "Sn\u2013PSCs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "Sn\u2013PSCs"
+        },
+        {
+            "sentence": "Defects at the interface and grain boundaries of perovskite solar cells  will result in severe non-radiative recombination and open-circuit voltage  loss",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, we reported a zwitterionic ionic liquid imidazolium tetrafluoroborate  to passivate the defects at tin dioxide /perovskite interface",
+            "all_materials": [
+                "imidazolium tetrafluoroborate",
+                "tin dioxide"
+            ],
+            "other_materials": [
+                "imidazolium tetrafluoroborate",
+                "tin dioxide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The results showed that the electron-rich nitrogen atom contained IM+ could diffuse into the buried perovskite to exhibit a strong chemical passivation effect on the organic vacancy defect by interacting with uncoordinated Pb2+",
+            "all_materials": [
+                "Pb2+"
+            ],
+            "other_materials": [
+                "Pb2+"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The F\u2013 in BF4- has a strong coordination effect with Pb2+in perovskite and Sn2+ in SnO2 synchronously to fill the anion vacancy defect",
+            "all_materials": [
+                "BF4-",
+                "SnO2"
+            ],
+            "other_materials": [
+                "BF4-",
+                "SnO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Also, the BF4- anions could help to form an interface dipole layer to increase the charge transfer rate and reduce the work function",
+            "all_materials": [
+                "BF4-"
+            ],
+            "other_materials": [
+                "BF4-"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The IMBF4 modified device could achieve an efficiency enhancement from 20.18% to 23.05% by vacuum flash-assisted solution-processed, with the increased Voc from 1.09\u00a0V to 1.15\u00a0V",
+            "all_materials": [
+                "IMBF4"
+            ],
+            "other_materials": [
+                "IMBF4"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The unencapsulated IMBF4 modified device could maintain 93% of the initial efficiency after ageing for 2000\u00a0h under ambient conditions by the ISOS-D-1 stability-testing protocols",
+            "all_materials": [
+                "IMBF4"
+            ],
+            "other_materials": [
+                "IMBF4"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work emphasizes the importance of multifunctional additives in passivating defects and improving interface contact for achieving efficient and stable perovskite solar cells.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A facilitated approach for improving the efficiency and stability of perovskite solar cells is explored by introducing the potassium cation-18-crown ether-6  complexes at the interface of the electron transport layer and perovskite absorber layer",
+            "all_materials": [
+                "potassium cation-18-crown ether-6"
+            ],
+            "other_materials": [
+                "potassium cation-18-crown ether-6"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The results indicated that the 18C6 molecular can capture the potassium cation  owing to the matched size of the K+ and crown ether cavity, which eventually suppresses the migration of K+ and then improving the stability of perovskite solar cells while retaining its excellent passivation effect",
+            "all_materials": [
+                "18C6"
+            ],
+            "other_materials": [
+                "18C6"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, 18C6 also plays a crucial role in trap density reduction by mitigating the grain boundaries, passivating the uncoordinated Pb2+in the crystals, as witnessed by the SEM images, absorption spectra, carrier lifetime, and chemical bonding information",
+            "all_materials": [
+                "18C6"
+            ],
+            "other_materials": [
+                "18C6"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Ultimately, the short circuit current, open circuit voltage, fill factor, and conversion efficiency are enhanced accompanied with the improved long-term stability and eliminated hysteresis",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The champion efficiency of 21.57% is delivered for the 18C6\u2013K+ incorporated solar cells, much-leading the control cell without the 18C6\u2013K+ incorporation with an efficiency of 20.25%.",
+            "all_materials": [
+                "18C6\u2013K+",
+                "18C6\u2013K+"
+            ],
+            "other_materials": [
+                "18C6\u2013K+",
+                "18C6\u2013K+"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

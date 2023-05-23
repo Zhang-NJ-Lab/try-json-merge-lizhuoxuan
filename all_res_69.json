@@ -1,0 +1,1146 @@
+{
+    "rest": [
+        {
+            "sentence": "Precisely controlling the amount and location of PbI2 in a lead halide perovskite light absorption layer is crucial for improving the performance of perovskite solar cells  by utilizing the passivation effect of PbI2",
+            "all_materials": [
+                "PbI2",
+                "lead halide",
+                "PbI2"
+            ],
+            "other_materials": [
+                "PbI2",
+                "lead halide",
+                "PbI2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Based on the high absorption coefficient of perovskite materials and the resulting extremely shallow UV penetration depth, a non-contact approach of the precise preparation of a PbI2 passivation layer based on excimer laser irradiation  is proposed",
+            "all_materials": [
+                "PbI2"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PbI2"
+        },
+        {
+            "sentence": "248\u00a0nm KrF excimer laser is adopted to irradiate the surface of [0.870.13]0.92[CsPbI3]0.08 film, and a PbI2 passivation layer could be obtained on the surface of the triple cation perovskite film through the partial decomposition of the surface layer of perovskite films induced by ELI process",
+            "all_materials": [
+                "[0.870.13]0.92[CsPbI3]0.08",
+                "PbI2"
+            ],
+            "other_materials": [
+                "[0.870.13]0.92[CsPbI3]0.08",
+                "PbI2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "And then, the average power conversion efficiency of the PSCs has been increased obviously from 17.82% to 20.68%",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This non-contact photonic approach successfully breaks through the bottleneck of precisely preparing PbI2 passivation layer and is expected to contribute to the further development of perovskite based devices.",
+            "all_materials": [
+                "PbI2"
+            ],
+            "other_materials": [
+                "PbI2"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                11,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Download : Download high-res image Download : Download full-size image",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In the past decade, the power conversion efficiency  of perovskite solar cells  has risen unprecedentedly from 3.8% to 25.7% [, ]",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It has been proved that appropriate amount of excess or unreacted PbI2 located in the proper position of lead halide perovskite light harvesting layers could play a passivation role and effectively improve the performance of PSCs [, ]",
+            "all_materials": [
+                "PbI2",
+                "lead halide"
+            ],
+            "other_materials": [
+                "PbI2",
+                "lead halide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The passivation mechanism of residual PbI2 could be divided into two categories according to their positions in perovskite layers [, ]",
+            "all_materials": [
+                "PbI2"
+            ],
+            "other_materials": [
+                "PbI2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The PbI2 located at the surface of perovskite films and perovskite grain boundaries could suppress charge recombination through the formation of the proper band alignment, and PbI2 located at the electron transport layer /perovskite interface could act as a hole-blocking layer to reduce the carrier recombination probability [13,15]",
+            "all_materials": [
+                "PbI2",
+                "PbI2"
+            ],
+            "other_materials": [
+                "PbI2",
+                "PbI2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, it is difficult to precisely modulate the distribution and content of PbI2 in a perovskite layer through the common method by adding excess PbI2 into the perovskite precursor solution",
+            "all_materials": [
+                "PbI2",
+                "PbI2"
+            ],
+            "other_materials": [
+                "PbI2"
+            ],
+            "precursors": [
+                {
+                    "text": "PbI2",
+                    "start": 149,
+                    "end": 153,
+                    "token_ids": [
+                        25
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The precise preparation of a PbI2 passivation layer has become a bottleneck of in-depth investigations on the PbI2 passivation effect and in the performance improvement of perovskite based devices by utilizing the passivation effect of PbI2.",
+            "all_materials": [
+                "PbI2",
+                "PbI2",
+                "PbI2"
+            ],
+            "other_materials": [
+                "PbI2",
+                "PbI2",
+                "PbI2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In recent years, laser based photonic technologies have been introduced into the research of organic-inorganic hybrid perovskite materials and devices [, ], and most of the investigations have focused on the rapid crystallization of perovskite materials based on the photothermal effect of visible or near-infrared laser radiations [, ]",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Only a few investigations on laser surface modification of perovskite materials have been reported and all of them adopted short-wavelength lasers [, ]",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For example, the second harmonic  of a mode-locked Ti:sapphire laser was adopted to irradiate NH2CHNH2PbI3  films, and the trap density of the FAPbI3 films was reduced successfully",
+            "all_materials": [
+                "NH2CHNH2PbI3",
+                "FAPbI3"
+            ],
+            "other_materials": [
+                "NH2CHNH2PbI3",
+                "FAPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Another investigation has proved that short-wavelength lasers  could promote the reaction of residual PbI2 and CH3NH3I  on the surface of CH3NH3PbI3  films to form MAPbI3",
+            "all_materials": [
+                "PbI2",
+                "CH3NH3I",
+                "CH3NH3PbI3",
+                "MAPbI3"
+            ],
+            "other_materials": [
+                "PbI2",
+                "CH3NH3I",
+                "CH3NH3PbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "MAPbI3"
+        },
+        {
+            "sentence": "Besides, our team has introduced an excimer laser for the surface modification of perovskite films for the first time, utilizing high-energy photons of a 248\u00a0nm KrF excimer laser to peel off the Ii defects in the surface layer of MAPbI3 films, which reduced the trap density of the films effectively and improved the performance of PSCs successfully .",
+            "all_materials": [
+                "MAPbI3"
+            ],
+            "other_materials": [
+                "MAPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this investigation, the interaction between excimer laser and perovskite materials is further investigated and an approach of the precise preparation of a PbI2 passivation layer based on excimer laser irradiation  is proposed",
+            "all_materials": [
+                "PbI2"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PbI2"
+        },
+        {
+            "sentence": "The 248\u00a0nm KrF excimer laser is employed to irradiate a [0.870.13]0.92[CsPbI3]0.08 perovskite film aiming to prepare a PbI2 passivation layer on the surface of perovskite film based on the thermal effect and shallow UV penetration depth of excimer laser for improving the performance of PSCs",
+            "all_materials": [
+                "[0.870.13]0.92[CsPbI3]0.08",
+                "PbI2"
+            ],
+            "other_materials": [
+                "[0.870.13]0.92[CsPbI3]0.08",
+                "PbI2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It should be noted that the triple cation perovskite [0.870.13]0.92[CsPbI3]0.08 is one of the perovskite materials with the most excellent photoelectric properties, and it has been proved that an appropriate amount of excess PbI2 could enhance its photovoltaic performance [24,25].",
+            "all_materials": [
+                "[0.870.13]0.92[CsPbI3]0.08",
+                "PbI2"
+            ],
+            "other_materials": [
+                "[0.870.13]0.92[CsPbI3]0.08",
+                "PbI2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Titanium isopropoxide  was purchased from Sigma-Aldrich",
+            "all_materials": [
+                "Titanium isopropoxide"
+            ],
+            "other_materials": [
+                "Titanium isopropoxide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "TiO2 paste , FK 102 Co bisimide  salt , and Li-TFSI were purchased from Greatcell Solar",
+            "all_materials": [
+                "TiO2",
+                "FK 102 Co",
+                "Li-TFSI"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "TiO2",
+                    "start": 0,
+                    "end": 4,
+                    "token_ids": [
+                        0
+                    ]
+                },
+                {
+                    "text": "FK 102 Co",
+                    "start": 13,
+                    "end": 22,
+                    "token_ids": [
+                        3,
+                        4,
+                        5
+                    ]
+                },
+                {
+                    "text": "Li-TFSI",
+                    "start": 44,
+                    "end": 51,
+                    "token_ids": [
+                        10,
+                        11,
+                        12
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Methylammonium bromide , formamidine iodine 2PbI3, FAI, 99.5%), Cesium iodide , Lead bromide , Lead iodide , and 2,2\u2032,7,7\u2032-Tetrakis -9,9\u2032-spirobifluorene  were",
+            "all_materials": [
+                "Methylammonium bromide",
+                "formamidine iodine 2PbI3",
+                "FAI",
+                "Cesium iodide",
+                "Lead bromide",
+                "Lead iodide",
+                "2,2\u2032,7,7\u2032-Tetrakis -9,9\u2032-spirobifluorene"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "Methylammonium bromide",
+                    "start": 0,
+                    "end": 22,
+                    "token_ids": [
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "text": "formamidine iodine 2PbI3",
+                    "start": 25,
+                    "end": 49,
+                    "token_ids": [
+                        3,
+                        4,
+                        5
+                    ]
+                },
+                {
+                    "text": "FAI",
+                    "start": 51,
+                    "end": 54,
+                    "token_ids": [
+                        7
+                    ]
+                },
+                {
+                    "text": "Cesium iodide",
+                    "start": 64,
+                    "end": 77,
+                    "token_ids": [
+                        13,
+                        14
+                    ]
+                },
+                {
+                    "text": "Lead bromide",
+                    "start": 80,
+                    "end": 92,
+                    "token_ids": [
+                        16,
+                        17
+                    ]
+                },
+                {
+                    "text": "Lead iodide",
+                    "start": 95,
+                    "end": 106,
+                    "token_ids": [
+                        19,
+                        20
+                    ]
+                },
+                {
+                    "text": "2,2\u2032,7,7\u2032-Tetrakis -9,9\u2032-spirobifluorene",
+                    "start": 113,
+                    "end": 153,
+                    "token_ids": [
+                        23,
+                        24
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The XRD patterns  of the samples reveal that the pristine-perovskite film exhibits good crystallinity and there is no obvious diffraction peak belonging to PbI2 could be observed",
+            "all_materials": [
+                "PbI2"
+            ],
+            "other_materials": [
+                "PbI2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, with the laser energy density increasing, a diffraction peak corresponding to the  plane of PbI2  appears at 12.7\u00b0 and its intensity increases gradually, which indicates the ELI process with sufficiently high laser energy density could induce the formation of PbI2",
+            "all_materials": [
+                "PbI2",
+                "PbI2"
+            ],
+            "other_materials": [
+                "PbI2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PbI2"
+        },
+        {
+            "sentence": "The area ratio",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In summary, an approach of the precise preparation of a PbI2 passivation layer based on ELI has been developed and realized",
+            "all_materials": [
+                "PbI2",
+                "ELI"
+            ],
+            "other_materials": [
+                "ELI"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PbI2"
+        },
+        {
+            "sentence": "A 248\u00a0nm KrF excimer laser with appropriate energy density is introduced to irradiate the [0.870.13]0.92[CsPbI3]0.08 films and successfully provide appropriate amount of PbI2 in the surface layer of the perovskite films",
+            "all_materials": [
+                "[0.870.13]0.92[CsPbI3]0.08",
+                "PbI2"
+            ],
+            "other_materials": [
+                "[0.870.13]0.92[CsPbI3]0.08",
+                "PbI2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The obtained ELI-PbI2 plays a passivation role in PSCs, suppresses the charge carrier recombination, and improves the performance of",
+            "all_materials": [
+                "ELI-PbI2"
+            ],
+            "other_materials": [
+                "ELI-PbI2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Xueyan Shan: Investigation, Data curation, Conceptualization, Writing \u2013 original draft",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Shimao Wang: Supervision, Methodology, Conceptualization, Writing \u2013 review &amp; editing, Funding acquisition",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Mengyu Fu: Investigation, Visualization",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Xiao Zhao: Investigation, Visualization",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Toru Aoki: Writing \u2013 review &amp; editing",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Volodymyr Gnatyuk: Writing \u2013 review &amp; editing",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Zanhong Deng: Investigation, Formal analysis",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Ruhua Tao: Resources, Project administration, Validation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Xiaodong Fang: Supervision,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work was financially supported by National Natural Science Foundation of China , International Cooperation and Exchange Programme  , Advanced Laser Technology Laboratory of Anhui Province , CAS Pioneer Hundred Talents Program of Chinese Academy of Sciences, State Key Laboratory of Particle Detection and Electronics , Key Lab of Photovoltaic and Energy Conservation Materials, CAS , Natural Science",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this study, a multiphase flow model using fermentation gas-driven magnetite nanoparticles and carbon particles in the anode chamber is proposed to improve the power generation performance",
+            "all_materials": [
+                "magnetite",
+                "carbon"
+            ],
+            "other_materials": [
+                "magnetite",
+                "carbon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The fluidized carbon particles attached by electroactive biofilms are used as dynamic electrodes",
+            "all_materials": [
+                "carbon"
+            ],
+            "other_materials": [
+                "carbon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Free electrons are transferred from the electrolyte to the electrode via the fluidized magnetite nanoparticles acting as the electron shuttle medium, and electron conduction in the biofilm thickness direction is assisted by the magnetite nanoparticles fixed within the biofilm, both of which together construct the conductive grids from the carbon particles to the electrode",
+            "all_materials": [
+                "magnetite",
+                "magnetite"
+            ],
+            "other_materials": [
+                "magnetite",
+                "magnetite"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The power density of 0.36\u00a0mW/cm2 and the surprising open-circuit voltage of 0.98\u00a0V are obtained",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Microbial morphology of the model with carbon particles and magnetite nanoparticles shows a higher bacterial density of biofilms and stronger Fe response on the cell membrane surface than the model with carbon particles, also the interspecific electron transfer channels between bacteria are established by magnetite nanoparticles",
+            "all_materials": [
+                "carbon",
+                "magnetite",
+                "carbon",
+                "magnetite"
+            ],
+            "other_materials": [
+                "carbon",
+                "magnetite",
+                "carbon",
+                "magnetite"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Further tests indicate that the improved electricity generation performance of the carbon particles and magnetite nanoparticles model with fluidized states can be attributed to their excellent capacitive properties, lower electron transfer resistance, and enrichment of electroactive bacteria by magnetite.",
+            "all_materials": [
+                "carbon",
+                "magnetite",
+                "magnetite"
+            ],
+            "other_materials": [
+                "carbon",
+                "magnetite",
+                "magnetite"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The charge/ion transfer and structural stability of silicon suboxide  for lithium-ion batteries  are plaguing",
+            "all_materials": [
+                "silicon suboxide"
+            ],
+            "other_materials": [
+                "silicon suboxide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Titanate oxide  shows zero strain and high ion diffusion for lithiation, promising for improving its electrochemical properties",
+            "all_materials": [
+                "Titanate oxide"
+            ],
+            "other_materials": [
+                "Titanate oxide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, hybrid TiOX/SiOX@C  was prepared via magnesiothermic reaction and self-assembled as hierarchical microspheres",
+            "all_materials": [
+                "TiOX/SiOX@C"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                9,
+                "StartingSynthesis"
+            ],
+            "targets": "TiOX/SiOX@C"
+        },
+        {
+            "sentence": "The embedded TiOX and hierarchical structures buffer the volume-expansion-induced strain of TiOX/SiOX@C for high structural integrity",
+            "all_materials": [
+                "TiOX",
+                "TiOX/SiOX@C"
+            ],
+            "other_materials": [
+                "TiOX",
+                "TiOX/SiOX@C"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Oxygen-vacancy sites around Ti and Si atoms for charge transfer tunnel and the heterostructure for fast interfacial charge response improve its electronic conductivity",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The introduction of locally reduced Ti atoms alters oxygen structural dispersion, further reducing Li diffusion barriers",
+            "all_materials": [
+                "Ti",
+                "Li"
+            ],
+            "other_materials": [
+                "Ti",
+                "Li"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Even, the inevitable crack of TiOX/SiOX induces its exposure to the electrolyte, facilitating a compact solid electrolyte interphase layer for stable electrochemical performance",
+            "all_materials": [
+                "TiOX/SiOX"
+            ],
+            "other_materials": [
+                "TiOX/SiOX"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Thus, its open-circuit voltage curve displays a low lithiation platform due to its low polarization for Si-based anodes",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "These synergetic findings deliver the optimal TiOX/SiOX@C with high cycling stability  and superb rate capability",
+            "all_materials": [
+                "TiOX/SiOX@C"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "TiOX/SiOX@C"
+        },
+        {
+            "sentence": "This work provides a deep understanding of charge/ion kinetics for SiOX-based anodes of LIBs.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The hydrophobicity of microporous layer  plays an important role in the water management and thereby performance improvement of proton exchange membrane fuel cells",
+            "all_materials": [
+                "water"
+            ],
+            "other_materials": [
+                "water"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Hydrophobic additive polytetrafluoroethylene  used in the conventional MPL requires post-heat treatment at high temperature and tends to block the pores of MPL",
+            "all_materials": [
+                "polytetrafluoroethylene",
+                "MPL"
+            ],
+            "other_materials": [
+                "MPL"
+            ],
+            "precursors": [
+                {
+                    "text": "polytetrafluoroethylene",
+                    "start": 21,
+                    "end": 44,
+                    "token_ids": [
+                        2
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, we develop a facile and low-cost method to fabricate the MPL layer by functionalizing carbon with 3- propyl methacrylate",
+            "all_materials": [
+                "MPL",
+                "carbon",
+                "3- propyl methacrylate"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "carbon",
+                    "start": 94,
+                    "end": 100,
+                    "token_ids": [
+                        18
+                    ]
+                },
+                {
+                    "text": "3- propyl methacrylate",
+                    "start": 106,
+                    "end": 128,
+                    "token_ids": [
+                        20,
+                        21,
+                        22
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "MPL"
+        },
+        {
+            "sentence": "Covalently grafted KH570 endows carbon black with super-hydrophobicity and high stability",
+            "all_materials": [
+                "KH570",
+                "carbon"
+            ],
+            "other_materials": [
+                "KH570",
+                "carbon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The contact angle of carbon black increases from 63\u00b0 to 157\u00b0 upon covalent cross-linking with KH570, resulting in super-hydrophobicity",
+            "all_materials": [
+                "carbon",
+                "KH570"
+            ],
+            "other_materials": [
+                "carbon",
+                "KH570"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The MPL fabricated with thus-functionalized carbon black is tested in a PEMFC, which delivers a maximum power density up to 1265\u00a0mW\u00a0cm\u22122, superior to that of PEMFC based on traditional MPL",
+            "all_materials": [
+                "MPL",
+                "carbon",
+                "MPL"
+            ],
+            "other_materials": [
+                "carbon",
+                "MPL"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "MPL"
+        },
+        {
+            "sentence": "This fluorine-free, covalent grafting protocol may open up a new avenue for the construction of MPL for PEMFC.",
+            "all_materials": [
+                "PEMFC"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PEMFC"
+        },
+        {
+            "sentence": "The large-scale synthesis of non-toxic, efficient quantum dots  is critical for expanding the practical application scope of QD-based photovoltaic  devices",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this study, we synthesize ZnCuInSSe  QDs on a gram scale  using a hybrid flow reactor method",
+            "all_materials": [
+                "ZnCuInSSe"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "ZnCuInSSe"
+        },
+        {
+            "sentence": "This method is capable of producing QDs in gram quantities using solid-state chemicals",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Additionally, by observing the composition, composition ratio, and reaction temperature, it is possible to produce ZCISSe QDs with highly controllable stoichiometry and a tuneable bandgap",
+            "all_materials": [
+                "ZCISSe"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "ZCISSe"
+        },
+        {
+            "sentence": "Moreover, to improve the surface conditions of ZCISSe QDs, we propose for the first time the use of different types of surfactants with oleylamine  and S2\u2212 surface ligands via ligand-exchange techniques",
+            "all_materials": [
+                "ZCISSe",
+                "oleylamine"
+            ],
+            "other_materials": [
+                "ZCISSe"
+            ],
+            "precursors": [
+                {
+                    "text": "oleylamine",
+                    "start": 136,
+                    "end": 146,
+                    "token_ids": [
+                        25
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Subsequently, we validate the PV quality of the manufactured ZCISSe QDs",
+            "all_materials": [
+                "ZCISSe QDs"
+            ],
+            "other_materials": [
+                "ZCISSe QDs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Additionally, we develop QD-based solar cells, in which the TiO2 film functions as an n-type semiconductor",
+            "all_materials": [
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The S2--ligand-capped QD solar cell has a 25% higher power conversion efficiency than the OAm-ligand-capped QD solar cell.",
+            "all_materials": [
+                "OAm"
+            ],
+            "other_materials": [
+                "OAm"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Rational understanding of interaction and structure of ionic liquids  is vital for their application in supercapacitors",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The force field trained by machine learning has aroused considerable interest in the molecular design of ILs, which can effectively balance the competition between computational accuracy and efficiency",
+            "all_materials": [
+                "ILs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "ILs"
+        },
+        {
+            "sentence": "In this work, a new deep learning force field  for 10 different ILs was obtained, where the dataset for atomic energy and force was prepared via the ab initio molecular dynamics  simulation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                26,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Using the trained DPFF, the ns-long MD simulations for various ILs were performed successfully",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Combining the error analysis on atomic energy, distribution of bonds and angles, and potential energy, one can prove that the MD simulation with DPFF can describe the force and energy of ILs with ab initio precision",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Meanwhile, the analysis of the vibrational spectrum and hydrogen bond suggests that the DPFF can also predict the coupling nature between coulombic and hydrogen bonding interactions within ILs reasonably",
+            "all_materials": [
+                "ILs"
+            ],
+            "other_materials": [
+                "ILs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, the DPFF for ILs is trained to extend to the bulk system",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Hence, DPFF, possessing high accuracy and low computational cost, can serve as an effective tool for the molecular design of new ILs-based electrolytes for high-performance energy storage devices.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The presence of heterogeneous interfacial defects limits the efficiency and long-term stability of the perovskite solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Rational passivation of interfacial defects and reduction of nonradiative recombination at the perovskite active layer are effective ways to achieve efficient PSCs",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here, a heterointerface engineering strategy is presented by employing a multifunctional molecule of reduced l-glutathione",
+            "all_materials": [
+                "l-glutathione"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "l-glutathione",
+                    "start": 109,
+                    "end": 122,
+                    "token_ids": [
+                        15
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The introduction of GSH improves the crystallization of SnO2, resulting in a continuous and conformal coverage of SnO2 on the FTO surface",
+            "all_materials": [
+                "GSH",
+                "SnO2",
+                "SnO2",
+                "FTO"
+            ],
+            "other_materials": [
+                "GSH",
+                "SnO2",
+                "SnO2",
+                "FTO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "And the GSH buffer layer improves the affinity between SnO2 and perovskite, resulting in the formation of large grains of perovskite",
+            "all_materials": [
+                "GSH",
+                "SnO2"
+            ],
+            "other_materials": [
+                "GSH",
+                "SnO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, GSH bridges the perovskite to SnO2 through multi-dentate ligands , which passivates the multiple defects at the heterogeneous interfaces while accelerates the electron transport",
+            "all_materials": [
+                "GSH",
+                "SnO2"
+            ],
+            "other_materials": [
+                "GSH",
+                "SnO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As a result, the PCE of the GSH-SnO2 ETL based PSC significantly increases to 21.66% with no noticeable hysteresis",
+            "all_materials": [
+                "GSH-SnO2",
+                "PSC"
+            ],
+            "other_materials": [
+                "GSH-SnO2",
+                "PSC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Meanwhile, compared with the control PSC, the unencapsulated GSH-SnO2 based PSC exhibits better environmental stability, which maintains more than 80% of its initial PCE after 600\u00a0h of placement in atmospheric environment.",
+            "all_materials": [
+                "GSH-SnO2",
+                "PSC"
+            ],
+            "other_materials": [
+                "GSH-SnO2",
+                "PSC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

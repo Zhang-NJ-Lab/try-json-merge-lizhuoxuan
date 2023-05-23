@@ -1,0 +1,977 @@
+{
+    "rest": [
+        {
+            "sentence": "Organic\u2013inorganic metal halide perovskites are widely used in solar cells, but the toxic metal Pb2+ is still a necessary element to ensure excellent photovoltaic properties, so it is urgent to accomplish the conversion to low toxic perovskite solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, by introducing MAGeI3 to form a double absorber layer structure with MAPbI3, a novel germanium\u2013lead\u200b perovskite solar cell is presented for the first time",
+            "all_materials": [
+                "MAGeI3",
+                "MAPbI3",
+                "germanium\u2013lead\u200b"
+            ],
+            "other_materials": [
+                "MAPbI3"
+            ],
+            "precursors": [
+                {
+                    "text": "MAGeI3",
+                    "start": 29,
+                    "end": 35,
+                    "token_ids": [
+                        6
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "germanium\u2013lead\u200b"
+        },
+        {
+            "sentence": "Based on the conditional data matching the experimentally reported results, we simulated the device numerically with SCAPS-1D",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Considering the interfacial recombination that exists between the surfaces of the various layers, interface defect layers  were added on both sides of the absorber layer respectively",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                18,
+                "Mixing"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "By adjusting the critical parameters including the thickness of IDL and the absorber layer, defect density, electron affinity, band gap, and operating temperature of the device, the influence of various factors on the cell performance was comprehensively analyzed and optimized",
+            "all_materials": [
+                "IDL"
+            ],
+            "other_materials": [
+                "IDL"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The results demonstrate that the optimum values for IDL1 and IDL2 thicknesses are 10\u00a0nm and 1\u00a0nm, respectively",
+            "all_materials": [
+                "IDL1",
+                "IDL2"
+            ],
+            "other_materials": [
+                "IDL1",
+                "IDL2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "When the defect density of IDL2 exceeds 1016 cm \u22123, the optoelectronic properties of the device deteriorate significantly",
+            "all_materials": [
+                "IDL2"
+            ],
+            "other_materials": [
+                "IDL2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Appropriately increasing the doping concentration of the absorber layer can enhance the built-in electric field of the device",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, by studying the different electron transport layers, we found an interesting phenomenon that the conduction band of the as-designed material is negatively correlated with the VOC of the cell",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Benefiting from the above-optimized performance, germanium\u2013lead perovskite solar cells achieved an outstanding efficiency of 27.67% and the fill factor is 90.32%",
+            "all_materials": [
+                "germanium\u2013lead"
+            ],
+            "other_materials": [
+                "germanium\u2013lead"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "MAGeI 3/MAPbI3 double absorber layer structure ameliorates light absorption characteristics and stability of the device, while significantly reducing the toxicity of lead",
+            "all_materials": [
+                "MAGeI 3/MAPbI3"
+            ],
+            "other_materials": [
+                "MAGeI 3/MAPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work provides a novel approach for realizing highly efficient and stable perovskite solar cells.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For decades, fossil fuels have been rapidly depleted with the rapid development of society and have had a serious impact on the environment",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Solar energy is put high expectations as a clean and renewable energy source",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In photovoltaic applications, organic\u2013inorganic halide perovskite solar cells  have received extensive concern because of their simple structure, low preparation cost, suitable and tunable band gap, and higher power conversion efficiency\u00a0,",
+            "all_materials": [
+                "halide"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "halide"
+        },
+        {
+            "sentence": "Due to their unique semiconductor properties, perovskite materials can exhibit both n-type and p-type properties, making them more widely applied",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In recent years, the power conversion efficiency  of perovskite solar cells has grown significantly from 3.8% to over 25.2%\u00a0,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, as Pb2+ is still an essential element to ensure excellent photovoltaic properties, perovskite solar cells are affected by the toxic element lead, which hinders their widespread commercial application\u00a0.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To alleviate this problem, the development of less toxic lead perovskite materials maintaining high performance and favorable stability is an important research direction",
+            "all_materials": [
+                "lead"
+            ],
+            "other_materials": [
+                "lead"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The homologous metal elements tin  and germanium  are the most feasible options for replacing lead in perovskite structures\u00a0,",
+            "all_materials": [
+                "tin",
+                "germanium",
+                "lead"
+            ],
+            "other_materials": [
+                "tin",
+                "germanium",
+                "lead"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Tin is widely found in nature and has little impact on humans and the environment",
+            "all_materials": [
+                "Tin"
+            ],
+            "other_materials": [
+                "Tin"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Compared with lead-based perovskites, tin-based perovskites have narrower optical band gaps and better light absorption performance",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, on account of the easy oxidation of Sn from Sn2+ to Sn4+, the structure of Sn-based perovskite solar cells has inadequate structural stability, and the photoelectric conversion efficiency  is only 6% in the available reports\u00a0,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Germanium comes from the 14th group of the periodic table, and is the same group as lead, which is another effective solution to replace lead",
+            "all_materials": [
+                "Germanium"
+            ],
+            "other_materials": [
+                "Germanium"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Germanium-based perovskites have band gaps suitable for solar cell applications and are considered as promising absorber layer materials for PSCs\u00a0,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Krishnamoorthy et\u00a0al",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "achieved the first use of germanium-based perovskite as an absorber layer for solar cells in 2015, and the constituent PSCs also exhibit notable stability at high temperatures",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, its overall performance has yet to be further improved compared to lead-based perovskites.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Currently, metal mixed halide perovskites are widely studied in order to reduce the toxicity of lead-based PSCs while maintaining high performance and favorable stability\u00a0,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In 2018, Ito et\u00a0al",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "achieved a photovoltaic conversion efficiency of 4.48% using Sn\u2013Ge perovskite as the absorber layer",
+            "all_materials": [
+                "Sn\u2013Ge"
+            ],
+            "other_materials": [
+                "Sn\u2013Ge"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Later, Ng et\u00a0al",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "continued to carry out research on Sn\u2013Ge perovskite cells and found that FA0.75MA0.25Sn0.95Ge0.05I3 had a PCE of 7.9%",
+            "all_materials": [
+                "Sn\u2013Ge",
+                "FA0.75MA0.25Sn0.95Ge0.05I3"
+            ],
+            "other_materials": [
+                "Sn\u2013Ge",
+                "FA0.75MA0.25Sn0.95Ge0.05I3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The reason is that the stability of Sn\u2013Ge cells in the air is improved due to the addition of Ge",
+            "all_materials": [
+                "Sn\u2013Ge",
+                "air",
+                "Ge"
+            ],
+            "other_materials": [
+                "Sn\u2013Ge",
+                "air",
+                "Ge"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In 2019, Chen et\u00a0al",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "utilized tin and germanium mixed inorganic halide perovskites in solar cells for the first time",
+            "all_materials": [
+                "tin",
+                "germanium",
+                "halide"
+            ],
+            "other_materials": [
+                "tin",
+                "germanium"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "halide"
+        },
+        {
+            "sentence": "They used CsSn 0.5Ge0.5I3 perovskite to achieve 7.11% efficiency",
+            "all_materials": [
+                "CsSn 0.5Ge0.5I3"
+            ],
+            "other_materials": [
+                "CsSn 0.5Ge0.5I3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "conducted research on inorganic Sn\u2013Pb mixed halide perovskites, and achieved a conversion efficiency of 13.7% for CsSn 0.4Pb0.6I3 PSCs by passivating grain boundaries and surface defects\u00a0Hu et\u00a0al",
+            "all_materials": [
+                "Sn\u2013Pb",
+                "CsSn 0.4Pb0.6I3 PSCs"
+            ],
+            "other_materials": [
+                "Sn\u2013Pb",
+                "CsSn 0.4Pb0.6I3 PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "These enable the development of more efficient single-cell halide perovskite solar cells and mixed absorber layer perovskite solar cells.",
+            "all_materials": [
+                "halide"
+            ],
+            "other_materials": [
+                "halide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, we constructed and simulated a novel germanium\u2013lead double absorber layer perovskite solar cell by applying SCAPS-1D",
+            "all_materials": [
+                "germanium\u2013lead"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "germanium\u2013lead"
+        },
+        {
+            "sentence": "For the first time, we have used germanium\u2013lead as the double absorber layer for perovskite solar cells",
+            "all_materials": [
+                "germanium\u2013lead"
+            ],
+            "other_materials": [
+                "germanium\u2013lead"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The selection of MAGeI3 and MAPbI3 as the double absorber layer structure of the solar cell can optimize the light energy absorption efficiency and light response range of the device",
+            "all_materials": [
+                "MAGeI3",
+                "MAPbI3"
+            ],
+            "other_materials": [
+                "MAGeI3",
+                "MAPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "By contrasting the original simulation findings with the practical experimentally reported data, the validity of device modeling is confirmed",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We investigated the effects of different electron transport layers on the cell",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The influence of various factors on the cell capability was comprehensively investigated and optimized by adjusting parameters including the defect density of each layer, thickness, doping concentration, and operating temperature of the device",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Benefiting from the above-mentioned optimized properties, the germanium\u2013lead double absorber layer perovskite solar cell exhibits favorable performance and significantly reduced toxicity, which provides theoretical guidance for future PSCs.",
+            "all_materials": [
+                "germanium\u2013lead"
+            ],
+            "other_materials": [
+                "germanium\u2013lead"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As seen in Fig.\u00a01, the structure of the perovskite solar cell consists of Glass substrate/FTO/TiO2/MAGeI3/MAPbI3/Spiro-OMeTAD/Au, with FTO and Au as the front electrode and metal back electrode, respectively",
+            "all_materials": [
+                "FTO",
+                "TiO2",
+                "MAGeI3",
+                "MAPbI3",
+                "Spiro-OMeTAD/Au",
+                "FTO",
+                "Au"
+            ],
+            "other_materials": [
+                "FTO",
+                "TiO2",
+                "MAGeI3",
+                "MAPbI3",
+                "Spiro-OMeTAD/Au",
+                "FTO",
+                "Au"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Light incident from the FTO side",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Fig.\u00a01 shows the energy band structure, with TiO2 and Spiro-OMeTAD as ETL and HTL, respectively, and the absorption layer materials are MAGeI3 and MAPbI3",
+            "all_materials": [
+                "TiO2",
+                "Spiro-OMeTAD",
+                "ETL",
+                "HTL",
+                "MAGeI3",
+                "MAPbI3"
+            ],
+            "other_materials": [
+                "TiO2",
+                "Spiro-OMeTAD",
+                "ETL",
+                "HTL",
+                "MAGeI3",
+                "MAPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The HOMO energy level of the absorber layer MAGeI3  is higher than that of the",
+            "all_materials": [
+                "HOMO",
+                "MAGeI3"
+            ],
+            "other_materials": [
+                "HOMO",
+                "MAGeI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "From the carrier transport process, photogenerated carriers are generated by the absorber layer and reach the transport interface to form free electrons and holes, which are transported through ETL and HTL to reach the corresponding electrodes",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, there is a significant relationship between the performance of PSCs and the interface defect layers IDL1 and IDL2 that are present between ETL/MAGeI3 and MAPbI3/HTL",
+            "all_materials": [
+                "PSCs",
+                "IDL1",
+                "IDL2",
+                "ETL/MAGeI3",
+                "MAPbI3/HTL"
+            ],
+            "other_materials": [
+                "PSCs",
+                "IDL1",
+                "IDL2",
+                "ETL/MAGeI3",
+                "MAPbI3/HTL"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "According to the given initial parameters, we set the variation range of IDL1",
+            "all_materials": [
+                "IDL1"
+            ],
+            "other_materials": [
+                "IDL1"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, we have used SCAPS-1D to construct and simulate a novel germanium\u2013lead\u200b double absorber layer perovskite solar cell",
+            "all_materials": [
+                "germanium\u2013lead\u200b"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "germanium\u2013lead\u200b"
+        },
+        {
+            "sentence": "In order to further optimize the performance of the cell, we investigated different electron transport layers, the effects of parameters including the thickness of the interfacial defect layer  and the absorber layer, defect density, band gap, electron affinity, doping concentration, and operating temperature on the device performance were explored separately.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A fifth-generation  new radio  fiber-free-space-optical -wireless system with dual-polarization and single\u201d\u2013carrier optical modulation schemes is proposed and realized for the first time",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Compared with the single-polarization scheme, adopting the dual-polarization scheme is attractive because it can significantly enhance the transmission capacity of the system",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Compared with the multi-carrier optical modulation scheme, using single-carrier optical modulation is attractive because it can effectually suppress the dispersion-induced limitations caused by fiber transmission and distortions produced by beating from multiple optical carries",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Through 40-km single-mode fiber, 500-m FSO, and 4-m/3-m/2-m/1-m/0.5-m 5G wireless cascaded-medium, 5G NR millimeter-wave  and sub-THz signals are transmitted with low bit error rates  and clear constellations in x- and y-polarizations",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This newly-built 5G NR fiber-FSO-wireless system shows promise to enable 5G NR evolution toward MMW and sub-THz bands, which has a substantial impact on the convergence of fiber optics, optical wireless, and 5G wireless communications.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Metamaterials provide high degrees of freedom for the design and manipulation of electromagnetic  waves such as polarization conversion due to their unique controllable capabilities",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this paper, we propose a tunable wide-angle chiral metamaterial incorporating with vanadium dioxide , which can realize different operating modes and polarization conversions",
+            "all_materials": [
+                "vanadium dioxide"
+            ],
+            "other_materials": [
+                "vanadium dioxide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "When working in reflection mode, it can achieve circular polarization conversion at 3.35 THz and 3.07 THz for two different incident directions, the corresponding polarization conversion rate  can reach 93.5% and 97.1%, respectively",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "When operating in transmission mode, the incident x -polarized waves can be converted to the orthogonal counterparts in the range of 2.24\u20132.88 THz, the asymmetric transmission  parameter is over 0.6",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, the good PCR and large AT effect can still be maintained in wide angle range",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The proposed structure has potential application prospects in controllable switch, isolation device, communication system and so on.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Recently, a novel approach to satisfy the nonlinearity compensation criteria by mid-span optical-phase-conjugation  was proposed and excellent transmission performance was achieved, there the OPC propagation symmetry was obtained through optimized dispersion management with inverse-dispersion fiber",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, the author numerically investigates the possibilities of using dispersion-compensating fiber  instead of IDF for construction of the link",
+            "all_materials": [
+                "IDF"
+            ],
+            "other_materials": [
+                "IDF"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Nonlinearity compensation effectiveness of the two links are compared with respected to the intrachannel four-wave mixing  induced intensity fluctuation of the \u20181\u2019 bits and the generation of the ghost pulse",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It is found that, by launching different powers  into the spans before and after the OPC, nonlinearity mismatch between the spans of the DCF-managed link can be counterbalanced with significantly improved transmission performance",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For a given input energy, there exists an optimum ratio of the energies into the spans before and after the OPC, at which optimum nonlinearity compensation can be achieved, and the compensation effectiveness is very close to that of the IDF-managed link",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Further studies show that the optimum energy ratio increases with the input energy but is independent of the span number of the link.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The microstructured optical fiber  sensor based on the surface plasmon resonance  has a compact structure, high sensitivity, and real-time monitoring advantages",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Beyond that, the SPR effect could improve the sensitivity of the sensor",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this paper, the self-made grapefruit MOF was polished in a D-shaped and coated with a silver film on the polished surface by silver mirror reaction",
+            "all_materials": [
+                "MOF",
+                "silver",
+                "silver"
+            ],
+            "other_materials": [
+                "MOF",
+                "silver",
+                "silver"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "After that, the MOF was spliced with the multimode fiber  and finally formed the MMF\u2013MOF\u2013MMF sensing structure",
+            "all_materials": [
+                "MMF\u2013MOF"
+            ],
+            "other_materials": [
+                "MMF\u2013MOF"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The experimental study found that the resonance coupling between the cladding mode and the metal film can be enhanced, and the SPR effect between the transmission field and the silver film can be strengthened by D-shaped polishing",
+            "all_materials": [
+                "silver"
+            ],
+            "other_materials": [
+                "silver"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "According to that, the highest sensitivity of the sensor was increased from 4821 nm/RIU to 5431 nm/RIU when the refractive index is 1.3921, and the polished sensor can reach the highest sensitivity of 6338\u00a0nm/RIU when the refractive index is 1.4083",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, the analyte\u2019s measurement range was extended from 1.33-1.3921 to 1.33-1.4083",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition to the high sensitivity and wide measurement range, the proposed D-shaped sensor also has the advantages of easy manufacturing, good stability, and compact structure.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The valley topological edge states  have become a new research hotspot in topological photonics because of its flexibility and diversity",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The major challenge for them comes from the limit bandwidth, the weak energy of localized field and the weak ability of direction-locked",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this paper, through the design of a triangular lattice with a compound unit cell, it is demonstrated that with the coupling of the VTESs and the defect states, some new hybrid VTESs called valley topological defect-edge states  occur and their performance can be greatly enhanced",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Through enlarging the interval between the two lattices with opposite valley topological phases, the VTDESs absorb both the topological properties of the pure VTESs, and the properties of intense field and wide bandwidth of the defect states",
+            "all_materials": [
+                "VTDESs",
+                "VTESs"
+            ],
+            "other_materials": [
+                "VTDESs",
+                "VTESs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The VTDESs have larger bandwidth, more intense transmission energy and the ideal ability of direction-locked",
+            "all_materials": [
+                "VTDESs"
+            ],
+            "other_materials": [
+                "VTDESs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The robust transmission property against the structure obstacle has been demonstrated for the VTDESs.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The vortex symmetric Airy beam  which couples the autofocusing symmetric Airy beam  and topological charge can provide new possibilities for the optical carrier of free space optical communication",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This paper focuses on the performance of VSAB propagating through turbulent link",
+            "all_materials": [
+                "VSAB"
+            ],
+            "other_materials": [
+                "VSAB"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Based on the wave optics simulation, the model of VSAB propagating in atmospheric turbulence is constructed",
+            "all_materials": [
+                "VSAB"
+            ],
+            "other_materials": [
+                "VSAB"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "By using the model, the evaluation parameters light intensity and aperture averaged scintillation of VSAB are calculated",
+            "all_materials": [
+                "VSAB"
+            ],
+            "other_materials": [
+                "VSAB"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The influence of different beam parameters on the characteristics of VSAB propagation in turbulent link is investigated",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The results show that the VSAB with small decaying factor, small transverse length scales and less topological charge has more advantage in turbulence resistance.",
+            "all_materials": [
+                "VSAB"
+            ],
+            "other_materials": [
+                "VSAB"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

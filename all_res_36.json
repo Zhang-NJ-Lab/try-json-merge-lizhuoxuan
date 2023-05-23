@@ -1,0 +1,1221 @@
+{
+    "rest": [
+        {
+            "sentence": "As one of the most promising next-generation photovoltaic technologies, organic-inorganic halide perovskite solar cells  have undergone great progress during the past decade",
+            "all_materials": [
+                "halide"
+            ],
+            "other_materials": [
+                "halide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To further improve the device performance of PSCs, a series of two dimensional  materials have been introduced into the cell structure with remarkable effects",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this review, recent progress on the applications of 2D materials  as electrodes, charge transport layers and additives in perovskite layers in PSCs are summarized",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The effect of various 2D materials on charge transport characteristics, crystallization dynamics and long-term stability of PSCs are discussed",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Finally, challenges and prospects for the future development of 2D materials-based PSCs are addressed.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Download : Download high-res image Download : Download full-size imageThe applications of 2D materials as electrodes, charge transport layers and additives in perovskite solar cells are reviewed",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The effect of different 2D materials on the charge transport characteristics, crystallization dynamics and long-term stability of perovskite solar cells are systematically summarized",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Challenges and prospects for the future development of 2D material-based PSCs are addressed.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The global energy supply is mainly relying on unsustainable fossil fuels , which have caused serious environmental problems such as the greenhouse effect",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Hence, the use of renewable and clean energy sources is the major solution for the above problems as well as upcoming energy crisis",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Among various renewable energy sources, solar light is the most promising one because it can supply inexhaustible energy",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Photovoltaic  technology, which directly converts solar energy into electricity, is an efficient way of solar energy harvesting",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Although the photovoltaic market is currently dominated by silicon-based solar cells, other emerging photovoltaic technologies, such as copper indium gallium selenide solar cells  , organic solar cells  , dye-sensitized solar cells  , quantum dot solar cells  , and perovskite solar cells  , also demonstrated rapid development in recent years.",
+            "all_materials": [
+                "copper indium gallium selenide"
+            ],
+            "other_materials": [
+                "copper indium gallium selenide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In the past decade, PSCs based on organic-inorganic halide perovskite materials have aroused wide concern and much research interests",
+            "all_materials": [
+                "halide"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "halide"
+        },
+        {
+            "sentence": "According to the best research cell efficiency chart provided by the website of National Renewable Energy Laboratory  , the certified efficiencies of PSCs have been growing at an unprecedented rate",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Since the first introduction of metal halide perovskite materials in solar cells in 2009,  the certified power conversion efficiencies  of small-area  PSCs have now reached 25.7%, approaching that of monocrystalline silicon solar cells",
+            "all_materials": [
+                "metal halide",
+                "silicon"
+            ],
+            "other_materials": [
+                "metal halide",
+                "silicon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The high PCE and low fabrication costs of PSCs make them a promising next-generation photovoltaic technology for commercial applications.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The superior device performance of PSCs is mainly attributed to the outstanding optoelectronic properties of the organic-inorganic hybrid perovskite materials, which have a general chemical formula of ABX3, where A denotes the organic cations like methylammonium  and formamidinium 2+) or inorganic cation Cs+, B denotes metal cations like Pb2+ and Sn2+, and X represents halogen anions like I-, Br- and Cl-",
+            "all_materials": [
+                "ABX3",
+                "formamidinium 2+"
+            ],
+            "other_materials": [
+                "formamidinium 2+"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "ABX3"
+        },
+        {
+            "sentence": " For the typical cubic phase of the organic-inorganic halide perovskites, cation A is located in the center of the cage made by four BX6 octahedra",
+            "all_materials": [
+                "BX6"
+            ],
+            "other_materials": [
+                "BX6"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "By tuning the combinations of the cations and anions in the perovskite materials through compositional engineering, the bandgap of perovskites can be tuned within a broad range ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As direct-bandgap semiconducting materials, the hybrid perovskites possess high light absorption coefficient , small exciton binding energy , small effective carrier masses , low trap densities , high carrier mobilities , long carrier lifetimes and diffusion lengths , making them ideal candidate materials for PV technology.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The fabrication of PSCs can be finished through a convenient solution process at low temperature",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "Generally, the perovskite film in a PSC is sandwiched between hole transport material  and electron transport material",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The photogenerated electrons and holes are extracted by ETM and HTM respectively, and then collected by the electrodes",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Currently, the most frequently used cell structures include mesoporous n-i-p structure, planar n-i-p structure, and planar p-i-n structure  , while more and more researchers tend to choose planar device structures  because of their easier fabrication procedures",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Notably, the quality of perovskite films, charge transport layers and electrodes, as well as interfacial engineering of PSCs, have been found to be critical to the device performance , .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Recent studies have indicated that 2-dimensional  materials can play important roles in every component  of PSCs",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "2D materials show some unique properties, such as high surface to volume ratio, ultrahigh carrier mobility and excellent mechanical flexibility, due to their reduction of thickness to single or a few layers",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Graphene is one of the best-known 2D materials, which has a zero band gap and exhibits exceptional conductivity",
+            "all_materials": [
+                "Graphene"
+            ],
+            "other_materials": [
+                "Graphene"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Since the discovery of the extraordinary physicochemical properties of graphene, other 2D materials such as transition metal dichalcogenides , black phosphorus, metal nitride/carbide  and 2D perovskites have also been extensively studied",
+            "all_materials": [
+                "graphene",
+                "phosphorus"
+            ],
+            "other_materials": [
+                "graphene",
+                "phosphorus"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "These 2D materials have been incorporated into PSCs by taking advantage of their exceptional physical and chemical properties, and remarkable improvements have been observed in resultant devices.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this review, we will summarize the recent progress of 2D materials-incorporated PSCs",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The applications of a variety of 2D materials , other 2D materials like black phosphorus , MXene, metal-organic framework  and 2D perovskite materials) in electrodes, charge transport layers or buffer layers, and additives in perovskite layers in PSCs are comprehensively reviewed",
+            "all_materials": [
+                "phosphorus",
+                "MXene"
+            ],
+            "other_materials": [
+                "phosphorus",
+                "MXene"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The underlying mechanisms for the improved device performance and stability after the introduction of various 2D materials are analyzed systematically",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Finally, the potential challenges and prospects of this research field are discussed.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Since the first discovery of single-layer graphene by Geim and Novoselov in 2004 , graphene and its corresponding derivatives have found numerous applications in different research fields due to their excellent physicochemical properties",
+            "all_materials": [
+                "graphene",
+                "graphene"
+            ],
+            "other_materials": [
+                "graphene",
+                "graphene"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Beyond graphene and its derivatives, transition metal dichalcogenides  are one of the most studied 2D material groups",
+            "all_materials": [
+                "graphene"
+            ],
+            "other_materials": [
+                "graphene"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "TMDs, with the formula of MX2, where M is a transition metal atom  and X is a chalcogen atom , show some",
+            "all_materials": [
+                "TMDs",
+                "MX2"
+            ],
+            "other_materials": [
+                "TMDs",
+                "MX2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition to graphene-based 2D materials and TMDs mentioned above, a variety of emerging 2D materials  have been successfully applied to PSCs, which enriches the choices of 2D materials toward performance improvement",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The performances of PSCs with the incorporation of other 2D materials are listed in Table 5.",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "PSCs have recently dominated the industrial and academic photovoltaic researches due to their high efficiency and low-cost preparation method",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the poor stability issues hinder their further commercial applications",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "There are some approaches devoted to solving this issue, such as composition engineering , introducing additives , devices encapsulation by water resistant materials or employing novel transporting layers ,",
+            "all_materials": [
+                "water"
+            ],
+            "other_materials": [
+                "water"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Due to the limit of tolerance",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In summary, we have systematically reviewed the application of various 2D materials in PSCs",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The exceptional optical transparency and ultrahigh carrier mobilities of single or few layer graphene make it an ideal material for transparent conducting electrodes to substitute commonly used FTO or ITO, while the sheet resistance of a graphene transparent electrode remains to be improved",
+            "all_materials": [
+                "graphene",
+                "FTO",
+                "ITO",
+                "graphene"
+            ],
+            "other_materials": [
+                "graphene",
+                "FTO",
+                "ITO",
+                "graphene"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, the good mechanical flexibility of graphene makes it an excellent electrode material for flexible PSCs",
+            "all_materials": [
+                "graphene"
+            ],
+            "other_materials": [
+                "graphene"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work is financially supported by the Research Grants Council  of Hong Kong, China , Innovation and Technology Commission of Hong Kong, China , Project No",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "GHP/042/19SZ), the funding for Projects of Strategic Importance of the Hong Kong Polytechnic University , the Research Institute for Sports Science and Technology  and",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Jiupeng Cao received his BSc degree in applied physics from Jilin University in 2014 and his MSc degree in microelectronics from Shandong University in 2017",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "He received his PhD degree in 2021 from the Department of Applied Physics at the Hong Kong Polytechnic University under the supervision of Prof",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "His current research focuses on the physical properties of perovskite materials and their photovoltaic applications.Feng Yan",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "CH3NH2SnI3, a benchmark lead-free perovskite has become a prospective replacement for lead-based perovskites due to its remarkable optoelectronic features, non-toxicity, and multi-functionality",
+            "all_materials": [
+                "CH3NH2SnI3"
+            ],
+            "other_materials": [
+                "CH3NH2SnI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work SCAPS-1D, was used to design and simulate the halide-free perovskite solar cell",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The structure of the solar cell is designed as ZnO: Al/TiO2/CH3NH2SnI3/NiO/Au and its performance were simulated",
+            "all_materials": [
+                "ZnO: Al/TiO2/CH3NH2SnI3/NiO/Au"
+            ],
+            "other_materials": [
+                "ZnO: Al/TiO2/CH3NH2SnI3/NiO/Au"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The highest efficiency 27.59\u00a0% is achieved by optimizing the thickness of the absorber layer as 0.2\u00a0\u00b5m, and the defect density of the absorber layer as 1012 cm\u22123",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, the assumed radiative recombination coefficient is 3\u00a0\u00d7\u00a010\u221213 C, and the gaussian defect and characteristic energy at the HTM/absorber interface are 0.6\u00a0eV and 0.1\u00a0eV respectively",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Under the above condition, the simulation study represents the compatibility of NiO with the perovskite absorber material and the interdependency of various parameters and performance of the model",
+            "all_materials": [
+                "NiO"
+            ],
+            "other_materials": [
+                "NiO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The novelty of this work is that it approximated the results of the stated experimental studies under non-ideal settings during the simulation phase",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Additionally, finding the absorber layer parameters, such as doping density, thickness, and bandgap was greatly aided by using recombination plots",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The simulation programs simplifying assumptions are the most frequent cause of this work",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The overall findings show that, despite a large variation in cell performance, the simulated cell is more representative of experimental settings and provides a more accurate representation of a solar cell model.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Organic/inorganic perovskite solar cells have dramatically improved in efficiency in recent years and have a trend to be comparable to silicon solar cells, its simple process is expected to become an alternative to silicon solar cells in the future",
+            "all_materials": [
+                "silicon",
+                "silicon"
+            ],
+            "other_materials": [
+                "silicon",
+                "silicon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, in perovskite solar cells, the ineffective carrier extraction leads to non-radiative recombination of some carriers during the diffusion from the perovskite layer to other transport layers, which is a cause of cell efficiency loss",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This paper describes the introduction of solid particles of molybdenum oxide of a certain particle size dispersed between the perovskite layer/hole transport layer to improve the extraction of hole carriers, resulting in an improved device short-circuit current density",
+            "all_materials": [
+                "molybdenum oxide"
+            ],
+            "other_materials": [
+                "molybdenum oxide"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                16,
+                "LiquidGrinding"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We further investigated the dependence of the comprehensive performance of the molybdenum oxide incorporated perovskite solar cell on the amount of molybdenum oxide introduced, and the current density-voltage results showed that the optimal content of molybdenum oxide was 0.5\u00a0mg/ml, and the efficiency of the perovskite solar cell at this content was 18.27% with a short-circuit current density of 23.67 mA\u00b7cm\u22122, while the efficiency of the device without molybdenum oxide was 16.97% with a short-circuit current density of 21.84 mA\u00b7cm\u22122",
+            "all_materials": [
+                "molybdenum oxide",
+                "molybdenum oxide",
+                "molybdenum oxide",
+                "molybdenum oxide"
+            ],
+            "other_materials": [
+                "molybdenum oxide",
+                "molybdenum oxide",
+                "molybdenum oxide",
+                "molybdenum oxide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, this work provides an effective way to improve the efficiency of perovskite solar cells.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A Pb-free perovskite solar cell has been designed based on methylammonium  tin-iodide",
+            "all_materials": [
+                "methylammonium  tin-iodide"
+            ],
+            "other_materials": [
+                "methylammonium  tin-iodide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The effect of electron transporting layer  material on the performance of the solar cell has been studied through substituting the ETL by TiO2 and C60 nanolayers",
+            "all_materials": [
+                "ETL",
+                "TiO2",
+                "C60"
+            ],
+            "other_materials": [
+                "ETL",
+                "TiO2",
+                "C60"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The energy level and charge carrier concentration profiles of the solar cells have been obtained for better understanding the involved mechanisms",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The TiO2-containing solar cell showed the maximum power conversion efficiency  of \u223c25.5\u00a0% at room temperature, with open circuit voltage, short circuit current density and filling factor of \u223c1.06\u00a0V, 33.0\u00a0mA/cm2 and 73.1\u00a0%, respectively",
+            "all_materials": [
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Although the C60-containing perovskite solar cell presented a lower \u03b7 with the value of \u223c20.8\u00a0%, it could present a higher external quantum efficiency at NIR wavelength region, as compared to the TiO2-containing cell",
+            "all_materials": [
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "These results can excite further investigation about the role of ETL nanomaterials in the performance of Pb-free perovskite solar cells.",
+            "all_materials": [
+                "ETL"
+            ],
+            "other_materials": [
+                "ETL"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Viruses lacking the capacity to infect mammals exhibit minimal toxicity, good biocompatibility, and well-defined structures",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As self-organized biomolecular assemblies, they can be produced from standard biological techniques on a large scale at a low cost",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Genetic, chemical, self-assembly, and mineralization techniques have been applied to allow them to display functional peptides or proteins, encapsulate therapeutic drugs and genes, assemble with other materials, and be conjugated with bioactive molecules, enabling them to bear different biochemical properties",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "So far, a variety of viruses , as well as their particle variants, have been used as biomaterials to advance human disease prevention, diagnosis, and treatment",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                29,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Specifically, the virus-based biomaterials can serve as multifunctional nanocarriers for targeted therapy, antimicrobial agents for infectious disease treatment, hierarchically structured scaffolds for guiding cellular differentiation and promoting tissue regeneration, versatile platforms for ultrasensitive disease detection, tissue-targeting probes for precision bioimaging, and effective vaccines and immunotherapeutic agents for tackling challenging diseases",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This review provides an in-depth discussion of these exciting applications",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It also gives an overview of the viruses from materials science perspectives and attempts to correlate the structures, properties, processing, and performance of virus-based biomaterials",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It describes the use of virus-based biomaterials for preventing and treating COVID-19 and discusses the challenges and future directions of virus-based biomaterials research",
+            "all_materials": [
+                "COVID-19"
+            ],
+            "other_materials": [
+                "COVID-19"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                12,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It summarizes the progressive clinical trials of using viruses in humans",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "With the impressive progress made in the exciting field of virus-based biomaterials, it is clear that viruses are playing key roles in advancing important areas in biomedicine such as early detection and prevention, drug delivery, infectious disease treatment, cancer therapy, nanomedicine, and regenerative medicine.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Microelectrode arrays  are devices that gather multiple microscopic electrodes in a small area and are used to electrically record and/or stimulate the biological activity of cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Recently, MEAs that use organic mixed ionic and electronic conductors  as active materials, have gained significant attention due to the profound advantages over traditional metal-based MEAs",
+            "all_materials": [
+                "MEAs"
+            ],
+            "other_materials": [
+                "MEAs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "OMIECs, usually polymer-based, can be processed from solution and offer high-charge capacitance and mechanical properties that match those of cells",
+            "all_materials": [
+                "OMIECs"
+            ],
+            "other_materials": [
+                "OMIECs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "These advantages offer organic microelectrode arrays with a high signal-to-noise ratio and low electrochemical impedance",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Organic MEAs  have been applied for in vivo applications, showing outstanding biocompatibility and lowering the \u201cforeign body responses\u201d",
+            "all_materials": [
+                "MEAs"
+            ],
+            "other_materials": [
+                "MEAs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "They have also been applied for the study of in vitro systems with various scales, such as tissues , cells , membranes , and biomolecules",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here we present an overview of OMEA technology",
+            "all_materials": [
+                "OMEA"
+            ],
+            "other_materials": [
+                "OMEA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "First, we discuss the properties of OMIECs and the benefits over traditional MEA technology",
+            "all_materials": [
+                "OMIECs",
+                "MEA"
+            ],
+            "other_materials": [
+                "OMIECs",
+                "MEA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Then, we introduce OMEAs device physics based on typical electrochemical techniques and discuss exemplar OMIECs for OMEAs",
+            "all_materials": [
+                "OMEAs",
+                "OMEAs"
+            ],
+            "other_materials": [
+                "OMEAs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "OMEAs"
+        },
+        {
+            "sentence": "We then present an overview of microfabrication methods for functional OMEAs",
+            "all_materials": [
+                "OMEAs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "OMEAs"
+        },
+        {
+            "sentence": "Finally, we collect together recent breakthroughs in device design and novel bioelectronic applications of OMEAs, spanning from in vivo long-term implants for electroactive recordings to in vitro systems for drug discovery, among others",
+            "all_materials": [
+                "OMEAs"
+            ],
+            "other_materials": [
+                "OMEAs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The possibility of using light-sensitive and optically transparent OMEAs to optically stimulate biological activity is also discussed in this section",
+            "all_materials": [
+                "OMEAs"
+            ],
+            "other_materials": [
+                "OMEAs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Overall, we put together all aspects necessary for further advancement of OMEAs technology, i.e",
+            "all_materials": [
+                "OMEAs"
+            ],
+            "other_materials": [
+                "OMEAs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "fundamental materials and device principles, fabrication and bioelectronic applications to foster further advances of OMEA technologies.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Environment friendly tin perovskite solar cells  have become a promising candidate due to their low toxicity and similar electronic configuration to lead counterparts",
+            "all_materials": [
+                "tin",
+                "lead"
+            ],
+            "other_materials": [
+                "tin",
+                "lead"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the easily generated defects due to the Sn2+oxidation and poor morphology originated from rapid crystallization are both barriers for tin-based devices in the enhancement of photovoltaic performance",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here, phenethylammonium chloride  is introduced for post-treating FASnI3 films, which plays dual roles in adjusting film topography and passivating defects in bulk and interface of films",
+            "all_materials": [
+                "phenethylammonium chloride",
+                "FASnI3"
+            ],
+            "other_materials": [
+                "phenethylammonium chloride",
+                "FASnI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "First, the film morphology can be improved by eliminating SnF2 impurities",
+            "all_materials": [
+                "SnF2"
+            ],
+            "other_materials": [
+                "SnF2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, a small amount of two-dimension perovskite can be formed in the films, inducing preferred orientation in secondary crystallization, well-matched energy level, and effective defect passivation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Finally, the FASnI3-based devices with PEACl treatment obtained a champion conversion efficiency of 11.63% with an average value of 10.76%, along with the obvious enhanced open circuit voltage and fill factor",
+            "all_materials": [
+                "PEACl"
+            ],
+            "other_materials": [
+                "PEACl"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In contrast, the pristine FASnI3 devices range from 6.92% to 9.40% with an average value of 7.96%",
+            "all_materials": [
+                "FASnI3"
+            ],
+            "other_materials": [
+                "FASnI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work not only deepens our understanding of the suppression of defects in tin-based perovskites but also paves a facile way to ameliorate film morphology and interfaces to fabricate promising tin perovskites and devices.",
+            "all_materials": [
+                "tin"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "tin"
+        },
+        {
+            "sentence": "Jiupeng Cao received his BSc degree in applied physics from Jilin University in 2014 and his MSc degree in microelectronics from Shandong University in 2017",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "He received his PhD degree in 2021 from the Department of Applied Physics at the Hong Kong Polytechnic University under the supervision of Prof",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "His current research focuses on the physical properties of perovskite materials and their photovoltaic applications.Feng Yan",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Peng You received his PhD degree in 2018 under the supervision of Prof",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Feng Yan from the Department of Applied Physics at the Hong Kong Polytechnic University",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "He is currently an associate professor at College of New Materials and New Energies, Shenzhen Technology University",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "His research interests are focused on perovskite solar cells, 2D materials and transmission electron microscopy.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Guanqi Tang received his MSc degree in 2015 from Shandong University and his PhD degree from the Department of Applied Physics at the Hong Kong Polytechnic University under the supervision of Prof",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Feng Yan in 2019",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "His research interests are organic-inorganic halide perovskite based electronic devices.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Feng Yan has research interests on organic electronics, 2D materials, solar cells, thin film transistors, biosensors and smart materials",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "He received his PhD degree in physics from Nanjing University in 1997 and then worked at the Department of Physics of Nanjing University as Associate Professor until Jan 2001",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "He joined the Engineering Department of Cambridge University in Feb 2001 as a Research Associate and joined National Physical Laboratory in UK in April 2006 as a Higher Research Scientist",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "He became an Assistant Professor at the Department of Applied Physics of the Hong Kong Polytechnic University in September 2006 and was promoted to Chair Professor in 2023",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "He is a Fellow of Royal Society of Chemistry  and a senior member of IEEE",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "He has published more than 280 papers in peer-reviewed journals, including Adv",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Mater., Nature Commun., Nano Lett., JACS, and given more than 100 invited talks in international conferences.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

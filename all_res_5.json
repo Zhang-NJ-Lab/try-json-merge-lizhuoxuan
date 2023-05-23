@@ -1,0 +1,1669 @@
+{
+    "rest": [
+        {
+            "sentence": "CsPbBr3 perovskite solar cell has become a hot research object due to its excellent stability",
+            "all_materials": [
+                "CsPbBr3"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CsPbBr3"
+        },
+        {
+            "sentence": "It has been proved that anti-solvent washing is a good way to improve the crystal quality of organic-inorganic hybrid perovskite materials using a one-step spin-coating method",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, it is rarely reported in the preparation of all-inorganic perovskite materials",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here, an anti-solvent rinsing strategy was introduced for the synthesis of CsPbBr3 films via the multi-step spin-coating process",
+            "all_materials": [
+                "CsPbBr3"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CsPbBr3"
+        },
+        {
+            "sentence": "We found that the addition of anti-solvent with high boiling points could significantly improve the surface morphology and crystal quality of CsPbBr3 films by optimizing the nucleation and crystallization of PbBr2 films",
+            "all_materials": [
+                "CsPbBr3",
+                "PbBr2"
+            ],
+            "other_materials": [
+                "CsPbBr3",
+                "PbBr2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "By virtue of the anti-solvent rinsing strategy, the highest efficiency of 9.6% and long-term stability over 800\u00a0h in ambient air without encapsulation were achieved",
+            "all_materials": [
+                "air"
+            ],
+            "other_materials": [
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Our conclusions provide a certain reference value for the preparation of highly efficient and stable CsPbBr3 perovskite solar cells.",
+            "all_materials": [
+                "CsPbBr3"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CsPbBr3"
+        },
+        {
+            "sentence": "As a new solar cell material in recent years, perovskite has many advantages, such as high light-absorption coefficient, high defect tolerance, low exciton binding energy, long carrier life, long carrier diffusion length and tunable bandgap",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Based on these excellent properties of perovskite materials, the power conversion efficiency  of perovskite solar cells  have improved fast from 3.8%  to 25.5%  in 11 years.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Organic-inorganic hybrid perovskite materials, usually composed of methylamine ions , methylamidine ions , and lead halide, are considered the first choice for high-efficiency solar cells application due to their proper bandgaps",
+            "all_materials": [
+                "methylamidine",
+                "lead halide"
+            ],
+            "other_materials": [
+                "methylamidine",
+                "lead halide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, organic ions, MA+ and FA+, are very sensitive to temperature and humidity, which leads to the instability of organic-inorganic hybrid PSCs",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "Usually, good encapsulation, complex passivation, and interface treatments are required to achieve excellent water, oxygen, and thermal stability",
+            "all_materials": [
+                "water",
+                "oxygen"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "water"
+        },
+        {
+            "sentence": "These would greatly increase the cost and difficulty of perovskite solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In contrast to the high efficiency and low stability of organic-inorganic hybrid PSCs, the all-inorganic perovskite materials, especially CsPbBr3, have inherent high stability",
+            "all_materials": [
+                "PSCs",
+                "CsPbBr3"
+            ],
+            "other_materials": [
+                "PSCs",
+                "CsPbBr3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Even unencapsulated CsPbBr3 perovskite solar cells can achieve long-term stability of over 30 days",
+            "all_materials": [
+                "CsPbBr3"
+            ],
+            "other_materials": [
+                "CsPbBr3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, due to the wide bandgap , limited light absorption capacity , and serious charge recombination of CsPbBr3 active layers the PCE of CsPbBr3 PSCs is rarely over 10% [5,6]",
+            "all_materials": [
+                "CsPbBr3",
+                "CsPbBr3"
+            ],
+            "other_materials": [
+                "CsPbBr3",
+                "CsPbBr3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "So the preparation of highly efficient and stable all-inorganic CsPbBr3 PSCs has become a new hot research direction.",
+            "all_materials": [
+                "CsPbBr3"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CsPbBr3"
+        },
+        {
+            "sentence": "In order to improve the PCE of CsPbBr3 perovskite solar cells, researchers have made various attempts",
+            "all_materials": [
+                "CsPbBr3"
+            ],
+            "other_materials": [
+                "CsPbBr3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For example, the modification of the electron transport layer",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Wei&#x27;s group enhanced the performance of CsPbBr3 perovskite solar cells from 5.92% to 7.22% by reducing the conduction band offsets via a Sr-modified TiO2 layer",
+            "all_materials": [
+                "CsPbBr3",
+                "TiO2"
+            ],
+            "other_materials": [
+                "CsPbBr3",
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Chu&#x27;s group enhanced the PCE from 5.79% to 7.06% with Li doped amorphous Nb2O5 layer",
+            "all_materials": [
+                "Nb2O5"
+            ],
+            "other_materials": [
+                "Nb2O5"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "There are also some reports on the doping of perovskite",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Tang&#x27;s group introduced 1,3,5-triazine-2,4,6-triamine  into the PbBr2 precursor solution to enlarge grains and passivate defects",
+            "all_materials": [
+                "1,3,5-triazine-2,4,6-triamine",
+                "PbBr2"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "1,3,5-triazine-2,4,6-triamine",
+                    "start": 29,
+                    "end": 58,
+                    "token_ids": [
+                        9
+                    ]
+                },
+                {
+                    "text": "PbBr2",
+                    "start": 69,
+                    "end": 74,
+                    "token_ids": [
+                        12
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For the PSC with FTO/c-TiO2/m-TiO2/melamine added CsPbBr3/carbon-based cavity structure, the highest PCE of 9.65% was obtained",
+            "all_materials": [
+                "PSC",
+                "FTO/c-TiO2/m-TiO2/melamine",
+                "CsPbBr3"
+            ],
+            "other_materials": [
+                "PSC",
+                "FTO/c-TiO2/m-TiO2/melamine",
+                "CsPbBr3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Besides, Tang&#x27;s group got a champion PCE as high as 10.26% by spectra engineering",
+            "all_materials": [
+                "#x27;"
+            ],
+            "other_materials": [
+                "#x27;"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Yang&#x27;s group made a Europium -Doped all-inorganic CsPbBr3 perovskite solar cells with carbon electrodes and got the champion PCE over 7.28%",
+            "all_materials": [
+                "CsPbBr3",
+                "carbon"
+            ],
+            "other_materials": [
+                "carbon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CsPbBr3"
+        },
+        {
+            "sentence": "Kang&#x27;s group improved the photovoltaic performance of CsPbBr3 perovskite solar cells by a solvent-assisted rinsing step .",
+            "all_materials": [
+                "CsPbBr3"
+            ],
+            "other_materials": [
+                "CsPbBr3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It has been recognized that the morphology and crystal quality of the perovskite layer is one of the most important parameters determining the final performance of perovskite solar cell devices",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To improve the surface morphology and crystal quality of perovskite films, various methods have been reported, such as the solvent-vapour annealing [14,15], amino halide additive method [, ], anti-solvent treatment [, ], vacuum treatment",
+            "all_materials": [
+                "amino halide"
+            ],
+            "other_materials": [
+                "amino halide"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                24,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Among them, the anti-solvent treatment is regarded as the most effective and easiest way to regulate crystal nucleation and grain growth",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It was reported that a suitable anti-solvent treatment could accelerate the heterogeneous nucleation in the early stage of film formation and affect the growth of the initial crystals, thereby forming a uniform film morphology without pinholes during the thermal annealing process [, ]",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, anti-solvent treatment is seldom reported in the preparation of CsPbBr3 films.",
+            "all_materials": [
+                "CsPbBr3"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CsPbBr3"
+        },
+        {
+            "sentence": "Herein, an anti-solvent rinsing strategy was introduced for the synthesis of CsPbBr3 layers via the multi-step spin-coating method",
+            "all_materials": [
+                "CsPbBr3"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CsPbBr3"
+        },
+        {
+            "sentence": "Five anti-solvents, trifluorotoluene , toluene , chlorobenzene , diethyl ether , and dichloromethane , was used, whose boiling points and solubility are shown in Table S1",
+            "all_materials": [
+                "trifluorotoluene",
+                "toluene",
+                "chlorobenzene",
+                "diethyl ether",
+                "dichloromethane"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "trifluorotoluene",
+                    "start": 20,
+                    "end": 36,
+                    "token_ids": [
+                        3
+                    ]
+                },
+                {
+                    "text": "toluene",
+                    "start": 39,
+                    "end": 46,
+                    "token_ids": [
+                        5
+                    ]
+                },
+                {
+                    "text": "chlorobenzene",
+                    "start": 49,
+                    "end": 62,
+                    "token_ids": [
+                        7
+                    ]
+                },
+                {
+                    "text": "diethyl ether",
+                    "start": 65,
+                    "end": 78,
+                    "token_ids": [
+                        9,
+                        10
+                    ]
+                },
+                {
+                    "text": "dichloromethane",
+                    "start": 85,
+                    "end": 100,
+                    "token_ids": [
+                        13
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We found that the good anti-solvents, TFT, TL, and CB, which had high boiling points, could significantly improve the surface morphology and crystal quality of CsPbBr3 films by optimizing the nucleation and crystallization of PbBr2 films, while the poor anti-solvents, DE and DCMA, which had low boiling points, do the opposite",
+            "all_materials": [
+                "TFT",
+                "TL",
+                "CB",
+                "CsPbBr3",
+                "PbBr2",
+                "DE",
+                "DCMA"
+            ],
+            "other_materials": [
+                "TFT",
+                "TL",
+                "CB",
+                "CsPbBr3",
+                "PbBr2",
+                "DE",
+                "DCMA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The above high-quality CsPbBr3 active layer shows increased absorbance and reduced non-radiative recombination, promoting light capture and charge transfer and greatly improving device performance",
+            "all_materials": [
+                "CsPbBr3"
+            ],
+            "other_materials": [
+                "CsPbBr3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "By virtue of the anti-solvent rinsing strategy, a highest efficiency of 9.6% and long-term stability over 800\u00a0h were achieved.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Ethanol , titanium  isopropoxid, N, N-Dimethylformamide , methanol , chlorobenzene , trifluorotoluene  were purchased from Aladdin",
+            "all_materials": [
+                "Ethanol",
+                "titanium  isopropoxid",
+                "N, N-Dimethylformamide",
+                "methanol",
+                "chlorobenzene",
+                "trifluorotoluene"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "Ethanol",
+                    "start": 0,
+                    "end": 7,
+                    "token_ids": [
+                        0
+                    ]
+                },
+                {
+                    "text": "titanium  isopropoxid",
+                    "start": 10,
+                    "end": 31,
+                    "token_ids": [
+                        2,
+                        3
+                    ]
+                },
+                {
+                    "text": "N, N-Dimethylformamide",
+                    "start": 33,
+                    "end": 55,
+                    "token_ids": [
+                        5,
+                        6,
+                        7
+                    ]
+                },
+                {
+                    "text": "methanol",
+                    "start": 58,
+                    "end": 66,
+                    "token_ids": [
+                        9
+                    ]
+                },
+                {
+                    "text": "chlorobenzene",
+                    "start": 69,
+                    "end": 82,
+                    "token_ids": [
+                        11
+                    ]
+                },
+                {
+                    "text": "trifluorotoluene",
+                    "start": 85,
+                    "end": 101,
+                    "token_ids": [
+                        13
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Diethyl ether  and toluene  were purchased from Shanghai Macklin Biochemical Co., Ltd",
+            "all_materials": [
+                "Diethyl ether",
+                "toluene"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "Diethyl ether",
+                    "start": 0,
+                    "end": 13,
+                    "token_ids": [
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "text": "toluene",
+                    "start": 19,
+                    "end": 26,
+                    "token_ids": [
+                        3
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Dichloromethane  was purchased from Beijing Chemical Works",
+            "all_materials": [
+                "Dichloromethane"
+            ],
+            "other_materials": [
+                "Dichloromethane"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Lead  bromide  and Cesium bromide   were obtained in the Polymer Light Technology Corp",
+            "all_materials": [
+                "Lead  bromide",
+                "Cesium bromide"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "Lead  bromide",
+                    "start": 0,
+                    "end": 13,
+                    "token_ids": [
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "text": "Cesium bromide",
+                    "start": 19,
+                    "end": 33,
+                    "token_ids": [
+                        3,
+                        4
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "All reagents were",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "When using the multi-step spin-coating method to prepare the CsPbBr3 perovskite films, the PbBr2 film prepared in the first step serves as the nucleation center and the crystal growth framework of the following steps",
+            "all_materials": [
+                "CsPbBr3",
+                "PbBr2"
+            ],
+            "other_materials": [
+                "PbBr2"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                18,
+                "StartingSynthesis"
+            ],
+            "targets": "CsPbBr3"
+        },
+        {
+            "sentence": "Therefore, the quality of the PbBr2 layers will greatly affect the quality of the perovskite films",
+            "all_materials": [
+                "PbBr2"
+            ],
+            "other_materials": [
+                "PbBr2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To facilitate the growth of high-quality CsPbBr3 perovskite films, the PbBr2 film formed in the first step should have a multi-layer porous structure with high coverage after",
+            "all_materials": [
+                "CsPbBr3",
+                "PbBr2"
+            ],
+            "other_materials": [
+                "PbBr2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CsPbBr3"
+        },
+        {
+            "sentence": "In conclusion, we introduced an anti-solvent rinsing strategy for the synthesis of CsPbBr3 films",
+            "all_materials": [
+                "CsPbBr3"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CsPbBr3"
+        },
+        {
+            "sentence": "It was found that the anti-solvents with high boiling points  could significantly improve the surface morphology and crystal quality of CsPbBr3 films by optimizing the nucleation and crystallization of PbBr2 films",
+            "all_materials": [
+                "CsPbBr3",
+                "PbBr2"
+            ],
+            "other_materials": [
+                "CsPbBr3",
+                "PbBr2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In contrast, the anti-solvents with low boiling points do the opposite",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The above high-quality CsPbBr3 active layer has reduced traps and defects, exhibits",
+            "all_materials": [
+                "CsPbBr3"
+            ],
+            "other_materials": [
+                "CsPbBr3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Jiahao Yan: Conceptualization, Methodology, Validation, Formal analysis, Investigation, Resources, Data curation, Writing \u2013 original draft, Visualization, Project administration",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Shaochuan Hou: Data curation, Formal analysis",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Xiaoyan Li: Formal analysis",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Jingjing Dong: Writing \u2013 review &amp; editing, Supervision, Funding acquisition",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Li Zou: Formal analysis",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Meili Yang: Formal analysis",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Jie Xing: Funding acquisition",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Hao Liu: Supervision",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Huiying Hao: Supervision.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work was supported by the \u201cthe Fundamental Research Funds for the Central Universities\u201d  and \u201cthe National Natural Science Foundation of China\u201d .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In recent years, CsPbBr3 perovskite solar cells  have attracted the attention of a large number of researchers due to their excellent temperature and humidity stability",
+            "all_materials": [
+                "CsPbBr3"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CsPbBr3"
+        },
+        {
+            "sentence": "And in the current studies, due to the lack of suitable solvents to dissolve PbBr2 and CsBr at the same time, most studies have used sequential solution-processing techniques  to prepare CsPbBr3 films",
+            "all_materials": [
+                "PbBr2",
+                "CsBr",
+                "CsPbBr3"
+            ],
+            "other_materials": [
+                "PbBr2",
+                "CsBr"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CsPbBr3"
+        },
+        {
+            "sentence": "However, in the process of the sequential deposition of PbBr2 and CsBr, the uneven reaction could lead to the generation of impure phase , which would deteriorate the photoelectric performance of the device",
+            "all_materials": [
+                "PbBr2",
+                "CsBr"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "PbBr2",
+                    "start": 56,
+                    "end": 61,
+                    "token_ids": [
+                        10
+                    ]
+                },
+                {
+                    "text": "CsBr",
+                    "start": 66,
+                    "end": 70,
+                    "token_ids": [
+                        12
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here, a solvent-vapor annealing  method has been proposed for fabricating mesoporous PbBr2 films by exposing the PbBr2 films in N,N-Dimethylformamide  vapor environment",
+            "all_materials": [
+                "PbBr2",
+                "PbBr2",
+                "N,N-Dimethylformamide"
+            ],
+            "other_materials": [
+                "PbBr2",
+                "N,N-Dimethylformamide"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                12,
+                "StartingSynthesis"
+            ],
+            "targets": "PbBr2"
+        },
+        {
+            "sentence": "The porous PbBr2 frameworks could facilitate the reaction with CsBr to fully convert into inorganic perovskite CsPbBr3",
+            "all_materials": [
+                "PbBr2",
+                "CsBr",
+                "CsPbBr3"
+            ],
+            "other_materials": [
+                "PbBr2"
+            ],
+            "precursors": [
+                {
+                    "text": "CsBr",
+                    "start": 63,
+                    "end": 67,
+                    "token_ids": [
+                        9
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "CsPbBr3"
+        },
+        {
+            "sentence": "A series of characterization results show that a compact, uniform and high-quality CsPbBr3 film with large grains was obtained, where the porosity of PbBr2 scaffold could be tuned by the volume of DMF",
+            "all_materials": [
+                "CsPbBr3",
+                "PbBr2",
+                "DMF"
+            ],
+            "other_materials": [
+                "PbBr2",
+                "DMF"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CsPbBr3"
+        },
+        {
+            "sentence": "Consequently, the devices based on optimized PbBr2 films treated by SA method achieved a champion power convention efficiency  of 9.60%, an open-circuit voltage  of 1.54\u00a0V, a short-circuit current density  of 7.57\u00a0mA\u00a0cm\u22122 and a fill factor  of 82.37%, compared with the devices treated by conventional thermal annealing  method achieved a PCE of 8.42%, a VOC of 1.49\u00a0V, JSC of 7.31\u00a0mA\u00a0cm\u22122 and FF of 77.30%",
+            "all_materials": [
+                "PbBr2",
+                "JSC"
+            ],
+            "other_materials": [
+                "PbBr2",
+                "JSC"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                [
+                    9,
+                    "HeatingOperation"
+                ],
+                [
+                    54,
+                    "HeatingOperation"
+                ]
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, the SA treated devices exhibit more durable stability than TA treated devices, and the SA treated devices still retain 94.28% of its original PCE without any encapsulation in the ambient atmosphere after 30 days.",
+            "all_materials": [
+                "SA",
+                "TA",
+                "SA",
+                "PCE"
+            ],
+            "other_materials": [
+                "SA",
+                "TA",
+                "SA",
+                "PCE"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                [
+                    4,
+                    "HeatingOperation"
+                ],
+                [
+                    18,
+                    "HeatingOperation"
+                ]
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "All-brominated cesium lead bromide  perovskite solar cells  have drawn growing attention owing to unprecedented stability in the family of perovskites",
+            "all_materials": [
+                "cesium lead bromide"
+            ],
+            "other_materials": [
+                "cesium lead bromide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It usually employs a two-step method to prepare CsPbBr3 films owing to the low solubility of CsBr in the common solvents",
+            "all_materials": [
+                "CsPbBr3",
+                "CsBr"
+            ],
+            "other_materials": [
+                "CsBr"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CsPbBr3"
+        },
+        {
+            "sentence": "The researchers have to provide enough Cs source through increasing the reaction time or repeat times of CsBr deposition so as to obtain the target CsPbBr3 films",
+            "all_materials": [
+                "CsBr",
+                "CsPbBr3"
+            ],
+            "other_materials": [
+                "CsBr"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CsPbBr3"
+        },
+        {
+            "sentence": "The long preparation period and tedious process increase the time and economic cost, which may limit the practical application of CsPbBr3 solar cells",
+            "all_materials": [
+                "CsPbBr3"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CsPbBr3"
+        },
+        {
+            "sentence": "Herein, a facile method is proposed to prepare CsPbBr3 films, in which appropriate CsBr is pre-introduced into PbBr2 solutions in the first step, and CsBr/2-methoxyethanol solution  is used as solution conversion medium in the second step",
+            "all_materials": [
+                "CsPbBr3",
+                "CsBr",
+                "PbBr2",
+                "CsBr/2-methoxyethanol"
+            ],
+            "other_materials": [
+                "CsBr/2-methoxyethanol"
+            ],
+            "precursors": [
+                {
+                    "text": "CsBr",
+                    "start": 83,
+                    "end": 87,
+                    "token_ids": [
+                        15
+                    ]
+                },
+                {
+                    "text": "PbBr2",
+                    "start": 111,
+                    "end": 116,
+                    "token_ids": [
+                        19
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "CsPbBr3"
+        },
+        {
+            "sentence": "Benefitting from the pre-introduction of CsBr in the first step, a single phase of CsPbBr3 films with full coverage can be conversed for only once CsBr supplementation",
+            "all_materials": [
+                "CsBr",
+                "CsPbBr3",
+                "CsBr"
+            ],
+            "other_materials": [
+                "CsBr",
+                "CsPbBr3",
+                "CsBr"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "After integrating the CsPbBr3 films into a solar cell, it delivers a power conversion efficiency  of 7.48% basing on the configuration of FTO/TiO2/CsPbBr3/Carbon",
+            "all_materials": [
+                "CsPbBr3",
+                "FTO/TiO2/CsPbBr3/Carbon"
+            ],
+            "other_materials": [
+                "CsPbBr3",
+                "FTO/TiO2/CsPbBr3/Carbon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work largely shortens the preparation time of CsPbBr3 films, which may provide a practical way for the large-scale production of CsPbBr3 based devices.",
+            "all_materials": [
+                "CsPbBr3",
+                "CsPbBr3"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CsPbBr3"
+        },
+        {
+            "sentence": "Perovskite-structured cesium lead bromide  halide is a rising light harvester for perovskite solar cell applications due to its high absorption coefficient and stability upon heat and humidity attacks",
+            "all_materials": [
+                "cesium lead bromide  halide"
+            ],
+            "other_materials": [
+                "cesium lead bromide  halide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the serious electron-hole recombination arising from large interfacial energy differences has markedly limited charge extraction for enhanced photovoltaic performances",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, we systematically study fast charge extraction at TiO2/CsPbBr3 and CsPbBr3/carbon interfaces by setting intermediate energy levels with carbon quantum dots and red phosphorus quantum dots, respectively",
+            "all_materials": [
+                "TiO2/CsPbBr3",
+                "CsPbBr3/carbon",
+                "carbon",
+                "phosphorus"
+            ],
+            "other_materials": [
+                "TiO2/CsPbBr3",
+                "CsPbBr3/carbon",
+                "carbon",
+                "phosphorus"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The interfacial radiative or trap-dominant recombination can be significantly suppressed owing to the boosted charge transfer ability as well as the passivation effect by incorporating the carbon quantum dots and red phosphorus quantum dots into solar cells",
+            "all_materials": [
+                "carbon",
+                "phosphorus"
+            ],
+            "other_materials": [
+                "carbon",
+                "phosphorus"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Finally, the optimal perovskite solar cell device achieves a maximized power conversion efficiency of 8.20% under one sun illumination in comparison with 6.37% for quantum dots-free solar cell",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, the efficiency is reduced by only 3% upon persistent attack with 80% relative humidity over 1000\u202fh, suggesting a good environmental tolerance to boost the commercialization.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Inorganic halide perovskite CsPbI2Br has attracted tremendous attentions in the photovoltaic fields in view of its improved ambient phase stability and reasonable band gap",
+            "all_materials": [
+                "halide",
+                "CsPbI2Br"
+            ],
+            "other_materials": [
+                "halide",
+                "CsPbI2Br"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Traditional one-step solution-processed CsPbI2Br absorbers, however, usually suffer from poor morphology, low crystallinity and thin thickness, which impede further promotion of device performance",
+            "all_materials": [
+                "CsPbI2Br"
+            ],
+            "other_materials": [
+                "CsPbI2Br"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, an anti-solvent assisted multi-step deposition strategy for high-quality CsPbI2Br film is demonstrated, wherein different anti-solvents are first introduced in the PbI2 precursor filming processes to construct porous PbI2 films",
+            "all_materials": [
+                "CsPbI2Br",
+                "PbI2",
+                "PbI2"
+            ],
+            "other_materials": [
+                "PbI2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CsPbI2Br"
+        },
+        {
+            "sentence": "Then CsBr solution intercalates into the porous PbI2 film by multi-step deposition, effectively facilitating the close contact of reactants and complete annealing reaction",
+            "all_materials": [
+                "CsBr",
+                "PbI2"
+            ],
+            "other_materials": [
+                "CsBr",
+                "PbI2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "CsBr drops and porosity degree of PbI2 film are found to control the final morphology and phase composition of the perovskite film",
+            "all_materials": [
+                "CsBr",
+                "PbI2"
+            ],
+            "other_materials": [
+                "CsBr",
+                "PbI2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Utilizing green ethanol  treated PbI2 film with high porosity and randomized orientation, highly pure-phase and full-coverage CsPbI2Br films with high thickness, large grain sizes and high crystallinity are obtained after optimizing CsBr drops",
+            "all_materials": [
+                "PbI2",
+                "CsPbI2Br",
+                "CsBr"
+            ],
+            "other_materials": [
+                "PbI2",
+                "CsBr"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                3,
+                "HeatingOperation"
+            ],
+            "targets": "CsPbI2Br"
+        },
+        {
+            "sentence": "Finally, carbon-based all-inorganic planar perovskite solar cells  with absorbers prepared through above methods achieve a champion efficiency of 10.21%, which is a record value for the CsPbI2Br PSCs without hole transport layer",
+            "all_materials": [
+                "CsPbI2Br"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                14,
+                "StartingSynthesis"
+            ],
+            "targets": "CsPbI2Br"
+        },
+        {
+            "sentence": "More importantly, the unencapsulated all-inorganic CsPbI2Br device shows a promising long-term stability with no obvious efficiency degradation when exposed in ambient atmosphere with 15\u201330% relative humidity  at room temperature for 44 days.",
+            "all_materials": [
+                "CsPbI2Br"
+            ],
+            "other_materials": [
+                "CsPbI2Br"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "All-inorganic CsPbBr3 is attracting tremendous attentions in photovoltaic field due to its superior stability",
+            "all_materials": [
+                "CsPbBr3"
+            ],
+            "other_materials": [
+                "CsPbBr3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, CsPbBr3 perovskite always suffers from a poor crystallinity and film morphology",
+            "all_materials": [
+                "CsPbBr3"
+            ],
+            "other_materials": [
+                "CsPbBr3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Many efforts have been paid on the CsBr deposition process to improve the film quality, while few attentions are paid on the crystallization kinetics of the PbBr2 framework film",
+            "all_materials": [
+                "CsBr",
+                "PbBr2"
+            ],
+            "other_materials": [
+                "CsBr",
+                "PbBr2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here, we demonstrate a novel antisolvent-washing strategy for the PbBr2 film for the first time to fabricate high-quality CsPbBr3 film",
+            "all_materials": [
+                "PbBr2",
+                "CsPbBr3"
+            ],
+            "other_materials": [
+                "PbBr2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CsPbBr3"
+        },
+        {
+            "sentence": "This technique has a significant impact on the nucleation and growth of PbBr2 crystals",
+            "all_materials": [
+                "PbBr2"
+            ],
+            "other_materials": [
+                "PbBr2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As-prepared CsPbBr3 films exhibit more homogeneous with higher crystallinity and coverage as well as larger grain sizes compared to those untreated ones",
+            "all_materials": [
+                "CsPbBr3"
+            ],
+            "other_materials": [
+                "CsPbBr3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The best-performing antisolvent-treated perovskite solar cell achieves a scanned power conversion efficiency of 8.55%, which is an excellent efficiency for planar CsPbBr3 cells reported yet",
+            "all_materials": [
+                "CsPbBr3"
+            ],
+            "other_materials": [
+                "CsPbBr3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This enhancement can be mainly attributed to the more effective charge transport and suppressed non-radiative recombination caused by the reduced defect densities",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, our devices show superb stability when stored in air for 1000\u202fh and upon persistent thermal attack at 80\u202f\u00b0C",
+            "all_materials": [
+                "air"
+            ],
+            "other_materials": [
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Our work provides a new train of thought for controlling the growth dynamics and film morphology of CsPbBr3 films.",
+            "all_materials": [
+                "CsPbBr3"
+            ],
+            "other_materials": [
+                "CsPbBr3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The quality of perovskite absorber is one of the most important factors to influence the efficiency and stability of perovskite solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, it is still challenging to obtain perovskite layers with required properties including large grain sizes, better crystallinity, less grain boundaries, and uniform morphology by the current preparation techniques",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here we develop a novel method, where the CsPbBr3 nanoparticles  are introduced into the chlorobenzene anti-solvent to improve the MAPbI3 film quality in terms of film structure, morphology and crystallinity, leading to reduced charge recombination and improved charge transfer",
+            "all_materials": [
+                "CsPbBr3",
+                "chlorobenzene",
+                "MAPbI3"
+            ],
+            "other_materials": [
+                "chlorobenzene",
+                "MAPbI3"
+            ],
+            "precursors": [
+                {
+                    "text": "CsPbBr3",
+                    "start": 42,
+                    "end": 49,
+                    "token_ids": [
+                        9
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "CsPbBr3 NPs play a role as nucleation centers in the growth process of perovskite films, and CsPbBr3 NPs also induce a passivation layer Cs1-yMAyPbI3-xBrx on the top of perovskite layer",
+            "all_materials": [
+                "CsPbBr3",
+                "CsPbBr3",
+                "Cs1-yMAyPbI3-xBrx"
+            ],
+            "other_materials": [
+                "CsPbBr3",
+                "CsPbBr3",
+                "Cs1-yMAyPbI3-xBrx"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The charge transport and power conversion efficiency  are improved due to the introduction of CsPbBr3 NPs",
+            "all_materials": [
+                "CsPbBr3"
+            ],
+            "other_materials": [
+                "CsPbBr3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A champion PCE of 20.46% is obtained for the PSCs based on high quality perovskite film prepared with CsPbBr3 NPs",
+            "all_materials": [
+                "CsPbBr3"
+            ],
+            "other_materials": [
+                "CsPbBr3"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                17,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, the PSCs with CsPbBr3 NPs also exhibit improved stability",
+            "all_materials": [
+                "CsPbBr3"
+            ],
+            "other_materials": [
+                "CsPbBr3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work not only demonstrates a novel strategy to prepare high quality perovskite films for PSCs with high efficiency and stability, but also provides important insight in the growth mechanisms of perovskite films toward high crystallinity and less defects.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "High efficiency and long-term stability are vital for further development of perovskite solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "PSCs based on cesium lead halide perovskites exhibit better stability but lower power conversion efficiencies , compared with organic-inorganic hybrid perovskites",
+            "all_materials": [
+                "PSCs",
+                "cesium lead halide"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": [
+                {
+                    "text": "cesium lead halide",
+                    "start": 14,
+                    "end": 32,
+                    "token_ids": [
+                        3,
+                        4,
+                        5
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Lower PCE is likely associated with trap defects, overgrowth of partial crystals and irreversible phase transition in the films",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here we introduce a strategy to fabricate high-efficiency CsPbBr3-based PSCs by controlling the ratio of CsBr and PbBr2 to form the perovskite derivative phases  via a vapor growth method",
+            "all_materials": [
+                "CsPbBr3",
+                "CsBr",
+                "PbBr2"
+            ],
+            "other_materials": [
+                "CsPbBr3"
+            ],
+            "precursors": [
+                {
+                    "text": "CsBr",
+                    "start": 105,
+                    "end": 109,
+                    "token_ids": [
+                        19
+                    ]
+                },
+                {
+                    "text": "PbBr2",
+                    "start": 114,
+                    "end": 119,
+                    "token_ids": [
+                        21
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Following post-annealing, the perovskite derivative phases as nucleation sites transform to the pure CsPbBr3 phase accompanied by crystal rearrangements and retard rapid recrystallization of perovskite grains",
+            "all_materials": [
+                "CsPbBr3"
+            ],
+            "other_materials": [
+                "CsPbBr3"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                1,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This growth procedure induced by phase transition not only makes the grain size of perovskite films more uniform, but also lowers the surface potential barrier that existsbetween the crystals and grain boundaries",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Owing to the improved film quality, a PCE of 10.91% was achieved for n-i-p structured PSCs with silver electrodes, and a PCE of 9.86% for hole-transport-layer-free devices with carbon electrodes",
+            "all_materials": [
+                "PSCs",
+                "silver",
+                "carbon"
+            ],
+            "other_materials": [
+                "PSCs",
+                "silver",
+                "carbon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, the carbon electrode-based devices exhibited excellent long-term stability and retained 80% of the initial efficiency in ambient air for more than 2000\u202fh without any encapsulation.",
+            "all_materials": [
+                "air"
+            ],
+            "other_materials": [
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Precise manipulation on buried interface of perovskite film highly determines the photovoltaic performance of perovskite solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, we demonstrate a SnO2-SnS2 heterojunction nanocrystal as an efficient electron transfer material to heal the defective interface for planar all-inorganic CsPbBr3 PSCs",
+            "all_materials": [
+                "SnO2-SnS2",
+                "CsPbBr3 PSCs"
+            ],
+            "other_materials": [
+                "SnO2-SnS2",
+                "CsPbBr3 PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Arising from the matched lattice distance of SnS2 with SnO2 and CsPbBr3, an all-in-one SnO2-SnS2-CsPbBr3 interface is fabricated, in which SnS2 plays a role of \u201cbridge\u201d to connect incompatible interface",
+            "all_materials": [
+                "SnS2",
+                "SnO2",
+                "CsPbBr3",
+                "SnO2-SnS2-CsPbBr3",
+                "SnS2"
+            ],
+            "other_materials": [
+                "SnS2",
+                "SnO2",
+                "CsPbBr3",
+                "SnS2"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                22,
+                "StartingSynthesis"
+            ],
+            "targets": "SnO2-SnS2-CsPbBr3"
+        },
+        {
+            "sentence": "Consequently, the charge recombination loss is minimized owing to the Type-II band alignment and epitaxial growth induced defect reduction, achieving a remarkable efficiency of 10.72% with a high open-circuit voltage of 1.635V",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Considering the high tolerance to high humidity  for 700\u00a0h and high temperature  over 30 days, these preliminary results can provide a new perspective for the rational design of ideal charge transfer materials to improve the efficiency and stability of PSCs.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

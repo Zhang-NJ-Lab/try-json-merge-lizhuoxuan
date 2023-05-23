@@ -1,0 +1,1156 @@
+{
+    "rest": [
+        {
+            "sentence": "As a post graphene low dimensional material developed in the last two years, antimonene has attracted much attention",
+            "all_materials": [
+                "graphene",
+                "antimonene"
+            ],
+            "other_materials": [
+                "graphene",
+                "antimonene"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In contrast to graphite based low dimensional materials, antimonene is a bandgap semiconductor material, similar to black phosphorus, but its higher stability facilitates practical applications",
+            "all_materials": [
+                "antimonene",
+                "phosphorus"
+            ],
+            "other_materials": [
+                "antimonene",
+                "phosphorus"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Till to date, extensive theoretical studies have been conducted to explore their unique properties, but there are only a few experimental studies on their properties, let alone their applications",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, in this study, high-quality antimonene oxide based low dimensional materials are prepared using a liquid exfoliation method in butanol",
+            "all_materials": [
+                "antimonene oxide",
+                "butanol"
+            ],
+            "other_materials": [
+                "butanol"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                16,
+                "StartingSynthesis"
+            ],
+            "targets": "antimonene oxide"
+        },
+        {
+            "sentence": "It is found that the antimonene oxide quantum dots have proper energy level alignment with CH3NH3PbI3",
+            "all_materials": [
+                "antimonene oxide",
+                "CH3NH3PbI3"
+            ],
+            "other_materials": [
+                "antimonene oxide",
+                "CH3NH3PbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Consequently, they are successfully applied for perovskite solar cells based on copper doped nicklus oxide hole transfer layer, providing improved power conversion efficiency from 15.7% to near 18%",
+            "all_materials": [
+                "nicklus oxide"
+            ],
+            "other_materials": [
+                "nicklus oxide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Detailed investigation shows that the performance improvement arises from enhanced charge extraction between hole transfer layer and perovskite",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This study surely paves the way for the application of antimonene oxide based low dimensional materials in photovoltaic devices.",
+            "all_materials": [
+                "antimonene oxide"
+            ],
+            "other_materials": [
+                "antimonene oxide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Download : Download high-res image Download : Download full-size image",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Low dimensional materials  have become a popular research area in the past decade due to their tunable optoelectronic properties with size or thickness",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Zero-dimensional materials , such as nanoparticles of the compound, also known as quantum dots , have been widely used to boost solar cell efficiencies [, ], and two-dimensional  materials have also been successfully applied in advanced electronic and optoelectronic devices due to their ultrathin nature, flexibility, and high carrier mobility",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The most famous LDMs, graphene quantum dots, and nanosheets have improved stability and photoconversion performance of perovskite solar cells  [, ]",
+            "all_materials": [
+                "graphene"
+            ],
+            "other_materials": [
+                "graphene"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Post graphene LDMs have been recently developed as a new generation of LDMs [, ]",
+            "all_materials": [
+                "graphene LDMs"
+            ],
+            "other_materials": [
+                "graphene LDMs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Compared to graphene-based LDMs, these intriguing materials have tunable bandgaps by controlling their thickness [26,27].",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Different LDM bandgap energies are of fundamental importance for optoelectronic applications",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For example, black phosphorus has direct bandgap of 0.3\u202feV for bulk structure, and 2\u202feV for single layered., respectively",
+            "all_materials": [
+                "phosphorus"
+            ],
+            "other_materials": [
+                "phosphorus"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This property was used to boost the hole extraction efficiency of perovskite solar cell",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Among the post graphene LDMs, antimonene has attracted intense research interest due to its ultrahigh air stability , which is fundamental for practical device applications",
+            "all_materials": [
+                "antimonene"
+            ],
+            "other_materials": [
+                "antimonene"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Together with high charge conductivity, antimonene LDMs have tunable band gaps covering a wide range from 0 to 2.28\u202feV, which is within the promising bandgap range for functional layers of photovoltaic devices",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A recent theoretical study suggested that oxidation of antimonene could also strongly affect their physical properties",
+            "all_materials": [
+                "antimonene"
+            ],
+            "other_materials": [
+                "antimonene"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, there have been few reports on practical antimonene oxide preparation , let alone their application in optoelectronic devices.",
+            "all_materials": [
+                "antimonene oxide"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "antimonene oxide"
+        },
+        {
+            "sentence": "This study successfully prepared high-quality 0D antimonene oxides  and large-scale few-layer 2D antimonene oxide nanosheets  through a solution exfoliation method in butanol",
+            "all_materials": [
+                "antimonene oxides",
+                "antimonene oxide",
+                "butanol"
+            ],
+            "other_materials": [
+                "butanol"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                3,
+                "StartingSynthesis"
+            ],
+            "targets": "antimonene oxides"
+        },
+        {
+            "sentence": "AntQ has a 1.62\u202feV bandgap, which is ideal for photovoltaic application",
+            "all_materials": [
+                "AntQ"
+            ],
+            "other_materials": [
+                "AntQ"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In our previous study, we found that the application of antimonene as hole-transport layer  could increase the PSC performance",
+            "all_materials": [
+                "antimonene"
+            ],
+            "other_materials": [
+                "antimonene"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "But the discontinuous nature of the HTL based on antimonene limited further performance improvement",
+            "all_materials": [
+                "HTL",
+                "antimonene"
+            ],
+            "other_materials": [
+                "HTL",
+                "antimonene"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As the valence band of AntQ has proper alignment with that of CH3NH3PbI3 [31,32], we further investigated the interaction between antimonene oxide based LDMs and the perovskite crystal layer through steady-state photoluminescence , Time-Resolved Photoluminescence , confocal fluorescent microscopy  and fluorescence lifetime imaging microscopy , and space-charge limited conduction",
+            "all_materials": [
+                "AntQ",
+                "CH3NH3PbI3"
+            ],
+            "other_materials": [
+                "AntQ",
+                "CH3NH3PbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Perovskite fluorescence was strongly quenched when LDMs were used",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                4,
+                "QuenchingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We found that application of AntQ prevented interfacial defects through the results from FLIM experiment",
+            "all_materials": [
+                "AntQ"
+            ],
+            "other_materials": [
+                "AntQ"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "When AntQ was used under MAPbI3 perovskite, the Jsc and PCE of the planar heterojunction PSCs with inverted p-i-n architecture were remarkably improved to 23.3\u202fmA\u202fcm\u22122 and 18%",
+            "all_materials": [
+                "AntQ",
+                "MAPbI3"
+            ],
+            "other_materials": [
+                "AntQ",
+                "MAPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The SCLC measurements also confirmed that the AntQ could prevent interfacial defects.",
+            "all_materials": [
+                "AntQ"
+            ],
+            "other_materials": [
+                "AntQ"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Commercially available metal antimony  powder was placed in a mortar and ground with 2-butanol  for 1\u202fh",
+            "all_materials": [
+                "antimony",
+                "2-butanol"
+            ],
+            "other_materials": [
+                "2-butanol"
+            ],
+            "precursors": [
+                {
+                    "text": "antimony",
+                    "start": 29,
+                    "end": 37,
+                    "token_ids": [
+                        3
+                    ]
+                }
+            ],
+            "operation": [
+                11,
+                "Mixing"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The mixture was then placed into a glass container and sonicated for 3\u202fh with a tip sonicator  at 10\u202fW in a water bath",
+            "all_materials": [
+                "water"
+            ],
+            "other_materials": [
+                "water"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The prepared mixture was centrifuged at 7000\u202frpm for 10\u202fmin",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The obtained supernatant was centrifuged again at 10000\u202frpm for another 10min",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Solid AntS was obtained from the bottom of the centrifuge tube",
+            "all_materials": [
+                "AntS"
+            ],
+            "other_materials": [
+                "AntS"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "AntQ was",
+            "all_materials": [
+                "AntQ"
+            ],
+            "other_materials": [
+                "AntQ"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Mechanical isolation, epitaxial growth, and liquid-phase exfoliation have been developed in previous studies to prepare antimonene based LDMs",
+            "all_materials": [
+                "LDMs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "LDMs"
+        },
+        {
+            "sentence": "Among these, liquid-phase exfoliation is a promising method for mass material preparation but is challenging to produce high-quality few-layered nanosheet with uniform thickness due to the strong binding energy between every single atomic layer due to the ultra-short distance between them",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "S1 shows transmission electron microscopy imagesFig",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "High-quality 0D and 2D materials based on antimonene oxides can be conveniently prepared using a solution exfoliation method",
+            "all_materials": [
+                "antimonene oxides"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                14,
+                "StartingSynthesis"
+            ],
+            "targets": "antimonene oxides"
+        },
+        {
+            "sentence": "It lays the foundation for further application of antimonene oxide based LDMs in optoelectronic devices",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "PL, CFM, and FLIM showed that AntQ and AntS can efficiently extract photoinduced charges from the perovskite layer",
+            "all_materials": [
+                "AntQ",
+                "AntS"
+            ],
+            "other_materials": [
+                "AntQ",
+                "AntS"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The valence band energy level of AntQ is slightly higher than that of MAPbI3 perovskite",
+            "all_materials": [
+                "AntQ",
+                "MAPbI3"
+            ],
+            "other_materials": [
+                "AntQ",
+                "MAPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Its application in Cu:NiOx based planar PSCs enhanced device",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "JDr",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "FHe and Dr",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Zhang contributed equally to this work",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work has been partially supported by the National Key R&amp;D Program of China ; the National Natural Science Foundation of China; China Postdoctoral Science Foundation; Guangdong Natural Science Foundation Innovation Team; and Shenzhen Basic Research Project (JCYJ20170412110212234/JCYJ20150930104948169/",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As one of the most promising next-generation photovoltaic technologies, organic-inorganic halide perovskite solar cells  have undergone great progress during the past decade",
+            "all_materials": [
+                "halide"
+            ],
+            "other_materials": [
+                "halide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To further improve the device performance of PSCs, a series of two dimensional  materials have been introduced into the cell structure with remarkable effects",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this review, recent progress on the applications of 2D materials  as electrodes, charge transport layers and additives in perovskite layers in PSCs are summarized",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The effect of various 2D materials on charge transport characteristics, crystallization dynamics and long-term stability of PSCs are discussed",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Finally, challenges and prospects for the future development of 2D materials-based PSCs are addressed.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Perovskite solar cell  has gradually shown its great superiority in photovoltaic filed to compete commercial solar cells owing to its great advantages, such as high efficiency and low fabrication cost",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "On the way towards commercialization, great efforts have been achieved by accelerating charge extraction and reducing carrier recombination",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Recently, two-dimensional  layered materials have attracted increasing interests for application in PSCs due to their distinctive chemical and physical properties, such as high carrier mobility and tunable bandgap, which greatly determines the perovskite film growth kinetics, carrier transfer and stability of PSCs",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, with the aim to better understand their recent development and application in PSC, in this review, the emerging 2D materials beyond graphene as charge transport layers, buffer layers and additives in perovskite film for enhancing the efficiency and stability of PSCs are summarized",
+            "all_materials": [
+                "graphene"
+            ],
+            "other_materials": [
+                "graphene"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, there are still some crucial challenges to be addressed for commercialization",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Finally, the challenges and prospects of these 2D nanomaterials for application in PSCs are further proposed for future development.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "MicroRNA exhibits different levels of expression in cancer and can affect the transformation, metastasis, and carcinogenesis of the cancer cell",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, we developed a novel kind of electrochemical microRNA biosensor based on two-dimensional nanomaterial of antimonene nano-flakes  and carbon quantum dots  which were used as substrating to cadmium ion  for specific detection of breast cancer-relevant biomarker-microRNA-21",
+            "all_materials": [
+                "antimonene",
+                "carbon"
+            ],
+            "other_materials": [
+                "antimonene",
+                "carbon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Compared to graphene, the first principle energetic calculation shows that the AMNFs have completely a stronger force interaction with single strand , due to the antimonene has a more delocalized 5\u00a0s/5p orbital.",
+            "all_materials": [
+                "graphene",
+                "AMNFs"
+            ],
+            "other_materials": [
+                "graphene",
+                "AMNFs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "After the addition of complementary microRNA, due to the low adsorption affinity of double-stranded RNA  to antimonene, the hybridized target is easy to desorb from the antimonene interface, and the oxidation peak of metal ions is significantly reduced",
+            "all_materials": [
+                "RNA",
+                "antimonene"
+            ],
+            "other_materials": [
+                "RNA",
+                "antimonene"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Results showed the microRNA-21 concentration can be detected from 100 aM to 1\u00a0nM, the limit of detection as low as 21 aM toward microRNA-21, which is 3 times lower than those of the established microRNA biosensors",
+            "all_materials": [
+                "microRNA-21",
+                "microRNA-21"
+            ],
+            "other_materials": [
+                "microRNA-21",
+                "microRNA-21"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The unique combination of not be attempted before existing sensing material which has special adsorption properties represents an approach to the detection of breast cancer",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "And it provides a promising method for early diagnosis, monitoring, and staging of breast cancer.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                13,
+                "Mixing"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Organic-inorganic hybrid perovskite with large crystal size and high quality are desirable for making high-performance solar cell",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the expectant film with good surface is normally limited by various factors, such as under-layer, film thickness",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here, an efficient dual effect method on the performance by means of under-layer abduction strategy is developed to improve perovskite crystallization by incorporating nitrogen-doped reduced graphene oxide into nickel oxide as hole transport layer, which significantly improves the electrical conductivity, and endows composite material with encouraging hydrophobic property",
+            "all_materials": [
+                "graphene oxide",
+                "nickel oxide"
+            ],
+            "other_materials": [
+                "graphene oxide",
+                "nickel oxide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, the modified under-layer enhances the space of crystal nucleation and facilitates crystal growth through grain boundary migration, thereby achieving large crystal size and reduced grain boundaries",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Consequently, a best device with maximum power conversion efficiency of 18.84% is achieved due to a significant improvement in fill factor and short-circuit current density",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, its flexible application shows an efficiency of 14.11%, retaining &gt;90% after aging for 1200\u202fh without encapsulation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work provides a potential platform to fabricate low cost and efficient hole extraction materials for large scale and flexible perovskite solar cell.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Quantum-dot-sensitized solar cells  usually suffer from a strong recombination effect or low stability, resulting in a low efficiency and limiting their practical application",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A facile liquid-phase synthesis of antimonene quantum dots  with unique morphology and size distribution is demonstrated, and applied as an effective photoactive material in QDSSCs for the first time",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The intrinsic advantages of AMQDs, in association with a strong light\u2013matter interaction, moderate energy band-gap in the visible range and antioxidation properties, enable an impressive photoelectric conversion efficiency  to be obtained, where the hysteresis-free AMQD-based solar cells can reach up to 3.07%",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, the as-fabricated solar cell shows a long-term stability, where the PCE value maintains to more than 90% of the initial value after 1000\u202fh",
+            "all_materials": [
+                "PCE"
+            ],
+            "other_materials": [
+                "PCE"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In view of highly cost-effective synthesis and outstanding photoelectrochemical performance, we anticipate that AMQDs will have a promising future in solar cells and related photonics applications",
+            "all_materials": [
+                "AMQDs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "AMQDs"
+        },
+        {
+            "sentence": "AMQDs may provide a new direction for the rapidly developing photovoltaic technology, which is necessary for further developments in this field.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Nickel oxide  has exhibited great potential as an inorganic hole transport layer  in perovskite solar cells  due to its wide optical bandgap and superior stability",
+            "all_materials": [
+                "Nickel oxide"
+            ],
+            "other_materials": [
+                "Nickel oxide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this study, we have modulated the Ni2+ vacancies in NiOx film by controlling deposition temperature in a hot-casting process, resulting the change of coordination structure and charge state of NiOx",
+            "all_materials": [
+                "NiOx",
+                "NiOx"
+            ],
+            "other_materials": [
+                "NiOx",
+                "NiOx"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, the change of the HOMO level of NiOx makes it more compatible with perovskite to decrease energy losses and enhance hole carrier injection efficiency",
+            "all_materials": [
+                "HOMO",
+                "NiOx"
+            ],
+            "other_materials": [
+                "HOMO",
+                "NiOx"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Besides, the defect modulation in the electronic structure of NiOx is beneficial for increasing the electrical conductivity and mobility, which are considered to achieve the balance of charge carrier transport and avoid charge accumulation at the interface between perovskite and HTL effectively",
+            "all_materials": [
+                "NiOx"
+            ],
+            "other_materials": [
+                "NiOx"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Both experimental analyses and theoretical calculations reveal the increase of nickel vacancy defects change the electronic structure of NiOx by increasing the ratio of Ni3+/Ni2+ and improving the p-type characteristics",
+            "all_materials": [
+                "NiOx"
+            ],
+            "other_materials": [
+                "NiOx"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Accordingly, an optimal deposition temperature at 120\u00b0C enabled a 36.24% improvement in the power conversion efficiency compared to that deposited at room temperature",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, this work provides a facile method to manipulate the electronic structure of NiOx to improve the charge carrier transport and photovoltaic performance of related PSCs.",
+            "all_materials": [
+                "NiOx"
+            ],
+            "other_materials": [
+                "NiOx"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Nickel oxide  hole transport layer -based planar perovskite solar cells  have attracted much attention due to high power conversion efficiency  and simple processing",
+            "all_materials": [
+                "Nickel oxide"
+            ],
+            "other_materials": [
+                "Nickel oxide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, smooth and compact Sr-doped NiOx films with different Sr doping concentration were successfully prepared through a simple low temperature sol-gel method",
+            "all_materials": [
+                "NiOx"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                19,
+                "StartingSynthesis"
+            ],
+            "targets": "NiOx"
+        },
+        {
+            "sentence": "The 1\u202fat.% Sr-doped NiOx HTL-based PSCs exhibited the best performance with PCE of 20.07%, which is greatly higher than PCE of reference NiOx based PSCs",
+            "all_materials": [
+                "NiOx",
+                "NiOx"
+            ],
+            "other_materials": [
+                "NiOx",
+                "NiOx"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, the unencapsulated PSCs based on Sr:NiOx HTL still retains over 60% of the original PCE value aging for 100\u202fdays under ambient air, showing better stability",
+            "all_materials": [
+                "Sr:NiOx HTL",
+                "PCE",
+                "air"
+            ],
+            "other_materials": [
+                "Sr:NiOx HTL",
+                "PCE",
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The superior performance of Sr-doped NiOx based PSCs is attributed to better electrical conductivity, crystallinity of perovskite film and energy level matching with perovskite layer, which can greatly improve hole transport and extraction abilities and reduce carrier recombination, resulting in high PCE and better stability.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Room-temperature direct current magnetron sputtering was employed to prepare pristine and Cu+ doped NiOx films for perovskite solar cells",
+            "all_materials": [
+                "NiOx"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NiOx"
+        },
+        {
+            "sentence": "Optimal power conversion efficiency  of about 15% was obtained with a 20\u202fnm thick film with copper content of 5.7%",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The solar cells based on as sputtered films demonstrated high reproducibility and stability",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The origin of dramatically boosted photovoltaic performance of PSCs based on Cu doped NiOx was analysed from energy loss considerations",
+            "all_materials": [
+                "NiOx"
+            ],
+            "other_materials": [
+                "NiOx"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The optical, carrier transport as well as recombination losses were discussed",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "According to our results, PSC with Cu doped NiOx have lower recombination and transport loss which ensured the hysteresis free high efficiency.",
+            "all_materials": [
+                "PSC",
+                "NiOx"
+            ],
+            "other_materials": [
+                "PSC",
+                "NiOx"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Numerical simulation of inverted planar perovskite solar cells based on NiOx hole transport layer was performed with AMPS-1D program",
+            "all_materials": [
+                "NiOx"
+            ],
+            "other_materials": [
+                "NiOx"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The simulated device parameters were shown to agree well with our experimental work",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The simulated results revealed that the device contained typical p-i-n junction configuration",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The optimum thickness of the absorber, the effects of the absorber quality, the defect density of interfaces, the effects of VBO and CBO, the interface contact at front and back electrodes were analyzed",
+            "all_materials": [
+                "VBO",
+                "CBO"
+            ],
+            "other_materials": [
+                "VBO",
+                "CBO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Open-circuit voltage mainly depended on the defect density in CH3NH3PbI3 layer, the recombination at HTL/CH3NH3PbI3 and ETL/CH3NH3PbI3 interface, the values of VBO and CBO, while short-circuit current mainly depended on the thickness of CH3NH3PbI3 layer",
+            "all_materials": [
+                "CH3NH3PbI3",
+                "HTL/CH3NH3PbI3",
+                "ETL/CH3NH3PbI3",
+                "VBO",
+                "CBO",
+                "CH3NH3PbI3"
+            ],
+            "other_materials": [
+                "CH3NH3PbI3",
+                "HTL/CH3NH3PbI3",
+                "ETL/CH3NH3PbI3",
+                "VBO",
+                "CBO",
+                "CH3NH3PbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Fill factor was significantly influenced by the interface contact at front and back electrodes",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Remarkably, a power conversion efficiency of 21.8% is obtained under optimised conditions",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Real devices with PCE of up to 15% were obtained by initially optimizing the preparation of CH3NH3PbI3 absorber layer",
+            "all_materials": [
+                "CH3NH3PbI3"
+            ],
+            "other_materials": [
+                "CH3NH3PbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Our work can provide some important guidance for device design and optimization from the considerations of both theory and experiment.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

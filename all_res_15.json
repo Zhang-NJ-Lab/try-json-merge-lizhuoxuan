@@ -1,0 +1,2312 @@
+{
+    "rest": [
+        {
+            "sentence": "This paper presents a novel solar cell with FTO/MoSe2/perovskite/PMMA/C60/AZO/silver nanostructures",
+            "all_materials": [
+                "FTO/MoSe2/",
+                "PMMA/C60/AZO/silver"
+            ],
+            "other_materials": [
+                "FTO/MoSe2/",
+                "PMMA/C60/AZO/silver"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The hole-transporting material , active absorber layer, electron-transporting material , electron buffer layer, and transparent-conducting oxide layer were made of MoSe2, MAPbI3, PMMA, fullerene, and Al-doped ZnO, respectively",
+            "all_materials": [
+                "MoSe2",
+                "MAPbI3",
+                "PMMA",
+                "ZnO"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "MoSe2",
+                    "start": 164,
+                    "end": 169,
+                    "token_ids": [
+                        28
+                    ]
+                },
+                {
+                    "text": "MAPbI3",
+                    "start": 171,
+                    "end": 177,
+                    "token_ids": [
+                        30
+                    ]
+                },
+                {
+                    "text": "PMMA",
+                    "start": 179,
+                    "end": 183,
+                    "token_ids": [
+                        32
+                    ]
+                },
+                {
+                    "text": "ZnO",
+                    "start": 209,
+                    "end": 212,
+                    "token_ids": [
+                        40
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The SEM analysis confirmed that the MAPbI3 perovskite crystal size increased with the annealing temperature of the MoSe2 HTM films",
+            "all_materials": [
+                "MAPbI3",
+                "MoSe2 HTM"
+            ],
+            "other_materials": [
+                "MAPbI3",
+                "MoSe2 HTM"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The unique modified PMMA ETM films have been prepared and characterized at various thicknesses",
+            "all_materials": [
+                "PMMA ETM"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                8,
+                "StartingSynthesis"
+            ],
+            "targets": "PMMA ETM"
+        },
+        {
+            "sentence": "At the optimal thickness of 25\u00a0nm, the experimental results showed that the multilayer solar cell&#x27;s open-circuit voltage increased from 0.99\u00a0V to 1.11\u00a0V, and the short-circuit current value was elevated from 16.98\u00a0mA/cm2 to 21.11\u00a0mA/cm2",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The device fill factor value was also improved from 60.67% to 76.12%",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Thus, the device power-conversion efficiency exhibited significant improvement from 10.2% to 18.0%",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, the output power Pmax was as good as 1.79\u00a0mW",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The PMMA, in conjunction with fullerene C60, has become an excellent candidate for the role of charge transporting for the multilayer perovskite solar cells.",
+            "all_materials": [
+                "PMMA",
+                "C60"
+            ],
+            "other_materials": [
+                "PMMA",
+                "C60"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In the past few years, many studies have focused on hybrid organic and inorganic perovskite photovoltaics  due to their extraordinary characteristics for optoelectronic applications [1,2]",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Many investigators are racing for new materials and new structures to harvest the sun&#x27;s photon energy and they should present more flexibility than today&#x27;s silicon solar panels",
+            "all_materials": [
+                "silicon"
+            ],
+            "other_materials": [
+                "silicon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The organic perovskite materials exhibit advantages in easy fabrication, and may be designed to absorb photons from a wide wavelength range [3,4]",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Solar power is a fast-growing sector in the industry",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Its new capacity can even overtake the growth in coal",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To encounter the challenges in renewable energy demand, it is inevitable to explore for more effective and lower-cost photon-harvesting materials",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A variety of electron-transporting layer and hole-transporting layer materials are under investigation for the CH3NH3PbI3  based perovskite solar cells.",
+            "all_materials": [
+                "CH3NH3PbI3"
+            ],
+            "other_materials": [
+                "CH3NH3PbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The MAPbX3-based materials, have attracted the attention for research in recent years",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It is synthesized by utilizing lead iodide  and methylammonium iodide  for CH3NH3PbI3",
+            "all_materials": [
+                "lead iodide",
+                "methylammonium iodide",
+                "CH3NH3PbI3"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "lead iodide",
+                    "start": 31,
+                    "end": 42,
+                    "token_ids": [
+                        5,
+                        6
+                    ]
+                },
+                {
+                    "text": "methylammonium iodide",
+                    "start": 48,
+                    "end": 69,
+                    "token_ids": [
+                        8,
+                        9
+                    ]
+                }
+            ],
+            "operation": [
+                2,
+                "StartingSynthesis"
+            ],
+            "targets": "CH3NH3PbI3"
+        },
+        {
+            "sentence": "The perovskite can be deposited in two steps, i.e",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "one precursor at a time",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Or, both precursors are combined in a single-step procedure",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Also, the inverted plannar nanostructure was reported as poly:poly/perovskite/-phenyl-C61-butyric-acid-methylester /silver, in which PEDOT:PSS was used as the hole-transporting material",
+            "all_materials": [
+                "poly:poly/perovskite/-phenyl-C61-butyric-acid-methylester /silver",
+                "PEDOT:PSS"
+            ],
+            "other_materials": [
+                "PEDOT:PSS"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "poly:poly/perovskite/-phenyl-C61-butyric-acid-methylester /silver"
+        },
+        {
+            "sentence": "However, the organic PEDOT:PSS was acidic, which could corrode the anode and consequently reduced the cell stability.",
+            "all_materials": [
+                "PEDOT:PSS"
+            ],
+            "other_materials": [
+                "PEDOT:PSS"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                8,
+                "Mixing"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Recently, the influence of HTM and electron-transporting material  has been studied to upgrade the perovskite PV performance",
+            "all_materials": [
+                "PV"
+            ],
+            "other_materials": [
+                "PV"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For example, the current-voltage  property and quantum efficiency were evaluated using a variety of buffer layer materials, such as PEDOT:PSS, poly and Cu-based materials",
+            "all_materials": [
+                "PEDOT:PSS"
+            ],
+            "other_materials": [
+                "PEDOT:PSS"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It has been contrasted with the standard 2,2\u2032,7,7\u2032-tetrakis -9,9\u2032-spirobifluorene , which is more sensitive to humidity and is quite expensive",
+            "all_materials": [
+                "2,2\u2032,7,7\u2032-tetrakis -9,9\u2032-spirobifluorene"
+            ],
+            "other_materials": [
+                "2,2\u2032,7,7\u2032-tetrakis -9,9\u2032-spirobifluorene"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "simplified effective natural element of HTM and could reduce the manufacturing cost Mutalib et al",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "reported bi-layer formation of MoO3/PEDOT:PSS material as the HTM on perovskite solar cells Hou et al",
+            "all_materials": [
+                "MoO3/PEDOT:PSS"
+            ],
+            "other_materials": [
+                "MoO3/PEDOT:PSS"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It did not only increase the transport charge, but also improved the power conversion efficiency and the durability",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "inspected some inorganic p-type metal oxides for better carrier mobility Jeng et al",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, Urieta-Mora et al",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "revealed cadmium telluride and silicon as HTMs to achieve exceptional power conversion efficiencies",
+            "all_materials": [
+                "cadmium telluride",
+                "silicon"
+            ],
+            "other_materials": [
+                "cadmium telluride",
+                "silicon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Also, Zhou et al",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "ameliorated the hole-transporting material about free carbon-based perovskite solar cells and showed some potential applications due to its low-cost and stability",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "reported hetero-structure geometry using dichalcogenide exhibiting long electron-hole diffusion length Peng et al",
+            "all_materials": [
+                "dichalcogenide"
+            ],
+            "other_materials": [
+                "dichalcogenide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The methylammonium lead halide perovskite could offer charge transfer at the hetero-structure interface",
+            "all_materials": [
+                "methylammonium lead halide"
+            ],
+            "other_materials": [
+                "methylammonium lead halide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The MoS2/perovskite hetero-structure was deposited by spin-coating CH3NH3PbI3 on MoS2 HTM layer",
+            "all_materials": [
+                "MoS2/",
+                "CH3NH3PbI3",
+                "MoS2"
+            ],
+            "other_materials": [
+                "MoS2/",
+                "CH3NH3PbI3",
+                "MoS2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "MoSe2 is an inorganic compound of molybdenum and selenium",
+            "all_materials": [
+                "MoSe2",
+                "molybdenum",
+                "selenium"
+            ],
+            "other_materials": [
+                "MoSe2",
+                "molybdenum"
+            ],
+            "precursors": [
+                {
+                    "text": "selenium",
+                    "start": 49,
+                    "end": 57,
+                    "token_ids": [
+                        8
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Its formation is similar to that of MoS2",
+            "all_materials": [
+                "MoS2"
+            ],
+            "other_materials": [
+                "MoS2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "revealed a superior optical responsivity because of a MoTe2/MoSe2 hetero-junction as a result of the inter-layer and built-in potential Luo et al",
+            "all_materials": [
+                "MoTe2",
+                "MoSe2"
+            ],
+            "other_materials": [
+                "MoTe2",
+                "MoSe2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, Hao et al",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "developed heterogeneous MoSe2/MoO2 by a flower-like structure for high-performance lithium-ion batteries",
+            "all_materials": [
+                "MoSe2/MoO2"
+            ],
+            "other_materials": [
+                "MoSe2/MoO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "revealed the synchronous composition of interfacial MoSe2/Mox film, and increased the uniformity of Cu, Zn and Sn distribution at the absorber layer Wang et al",
+            "all_materials": [
+                "MoSe2/Mox"
+            ],
+            "other_materials": [
+                "MoSe2/Mox"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The MoSe2 material has proper electrical properties and may gather the bias current, thus can accomplish the higher photo to electron conversion efficiency for photonic and optoelectronic applications.",
+            "all_materials": [
+                "MoSe2"
+            ],
+            "other_materials": [
+                "MoSe2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The electron-transporting mechanism in ETM films could be analyzed along with its Voc effects according to the energy band levels",
+            "all_materials": [
+                "ETM"
+            ],
+            "other_materials": [
+                "ETM"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It should promote solar cell device efficiency and stability",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Several electron-transporting materials have been developed so far",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "They are mainly transition metal oxides, metal oxide composites, and metal oxide hetero-structures and nano-particles",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The ETM films were sometimes described as the electron extraction layers or electron collection layers, in which the electrons were injected from the photon-absorbing film",
+            "all_materials": [
+                "ETM"
+            ],
+            "other_materials": [
+                "ETM"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It can be replaced by a bi-electrode compound to achieve better charge collection efficiency by lowering the series resistance",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The systematic charge collection would lead to ideal current/voltage characteristics",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Many metal oxides, such as TiO2, ZnO, SnO2, SiO2, ZrO2 , and organic based materials [20,21] have been used as ETMs and/or interfacial layer modification [, ]",
+            "all_materials": [
+                "TiO2",
+                "ZnO",
+                "SnO2",
+                "SiO2",
+                "ZrO2"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "TiO2",
+                    "start": 27,
+                    "end": 31,
+                    "token_ids": [
+                        6
+                    ]
+                },
+                {
+                    "text": "ZnO",
+                    "start": 33,
+                    "end": 36,
+                    "token_ids": [
+                        8
+                    ]
+                },
+                {
+                    "text": "SnO2",
+                    "start": 38,
+                    "end": 42,
+                    "token_ids": [
+                        10
+                    ]
+                },
+                {
+                    "text": "SiO2",
+                    "start": 44,
+                    "end": 48,
+                    "token_ids": [
+                        12
+                    ]
+                },
+                {
+                    "text": "ZrO2",
+                    "start": 50,
+                    "end": 54,
+                    "token_ids": [
+                        14
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Doped ETM film could increase efficiency by tuning energy band gap and Fermi level, which might increase/decrease the open circuit voltage",
+            "all_materials": [
+                "ETM"
+            ],
+            "other_materials": [
+                "ETM"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Also, several researchers have adopted the core-shell nano-particle ideas to promote charge recombination resistance by isolating inter-film consisting of efficient charge implantation and carriage charge.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Polymethyl methacrylate  has been known as acrylic, acrylic glass, or plexi-glass",
+            "all_materials": [
+                "Polymethyl methacrylate",
+                "acrylic",
+                "acrylic glass"
+            ],
+            "other_materials": [
+                "Polymethyl methacrylate",
+                "acrylic",
+                "acrylic glass"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It is the synthetic polymer of methyl methacrylate",
+            "all_materials": [
+                "methyl methacrylate"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "methyl methacrylate"
+        },
+        {
+            "sentence": "This material exhibits good tensile strength, flexural strength, transparency, polishing ability, and ultraviolet tolerance, as well as chemical and heat resistance",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In general, unmodified PMMA products are brittle, especially under an impact condition",
+            "all_materials": [
+                "PMMA"
+            ],
+            "other_materials": [
+                "PMMA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Nevertheless, Peng et al",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "studied PMMA:PCBM thin film ETM on a mesoporous structural device",
+            "all_materials": [
+                "PMMA",
+                "PCBM",
+                "ETM"
+            ],
+            "other_materials": [
+                "PMMA",
+                "PCBM",
+                "ETM"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It was reported that ultra-thin PMMA film at the interlayer could enhance open\u2010circuit voltage, short\u2010circuit current and fill\u2010factor",
+            "all_materials": [
+                "PMMA"
+            ],
+            "other_materials": [
+                "PMMA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The inter-film traps/defects could be effectively reduced while still allowing efficient carrier extraction to transport charges",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "investigated the short circuit current density and fill factor with PMMA film .The film roughness could be improved, and the electron-charge of transformation was promotedAwino et al",
+            "all_materials": [
+                "PMMA"
+            ],
+            "other_materials": [
+                "PMMA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The crystal defects of the perovskite could be modified by the PMMA film and increased the charge of the composite electron",
+            "all_materials": [
+                "PMMA"
+            ],
+            "other_materials": [
+                "PMMA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "By eliminating inter-film&#x27;s defects, the charge loss was reduced along with the photoelectric conversion efficiency improvement",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "also modified the solution-processed PMMA with CsPbI2Br, and the photoelectric characteristics had been systematically improved .Zhang et al",
+            "all_materials": [
+                "PMMA",
+                "CsPbI2Br"
+            ],
+            "other_materials": [
+                "PMMA",
+                "CsPbI2Br"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Fullerene is one of the n-type organic semiconductor materials, and has been actively investigated for organic electronics, such as organic field-effect transistors and organic photovoltaic cells",
+            "all_materials": [
+                "Fullerene"
+            ],
+            "other_materials": [
+                "Fullerene"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It is an allotrope of carbon molecule composed of carbon atoms connected by single or double bonds",
+            "all_materials": [
+                "carbon"
+            ],
+            "other_materials": [
+                "carbon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The molecules show a closed or partially closed mesh with fused rings of five to seven atoms",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "studied evaporated C60 as electron-transporting material and dopant-free copper phthalocyanine as hole-transporting material Liu et al",
+            "all_materials": [
+                "C60",
+                "copper phthalocyanine"
+            ],
+            "other_materials": [
+                "C60",
+                "copper phthalocyanine"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                1,
+                "DryingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The C60 ETM did not only transit photon-generated electrons, but also delivered carriers at the perovskite film effectively",
+            "all_materials": [
+                "C60 ETM"
+            ],
+            "other_materials": [
+                "C60 ETM"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "They optimized the C60 ETM thickness and achieved 16.7% power conversion efficiency",
+            "all_materials": [
+                "C60"
+            ],
+            "other_materials": [
+                "C60"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, another C60 film study reduced the work function, helped to match an alternative quasi-ohmic contact with silver electrode",
+            "all_materials": [
+                "silver"
+            ],
+            "other_materials": [
+                "silver"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The dipole film restrained the energy barrier between the ETM and the electrode",
+            "all_materials": [
+                "ETM"
+            ],
+            "other_materials": [
+                "ETM"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, Castro et al",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "reported adopting triple cathode buffer film with PCBM/C60/LiF, and achieved 14.2% PCE",
+            "all_materials": [
+                "PCBM/C60/LiF",
+                "PCE"
+            ],
+            "other_materials": [
+                "PCBM/C60/LiF",
+                "PCE"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "employed C60/ultra-thin TiOx bi-layer as a compact ETM and significantly increased the UV stability Liu et al",
+            "all_materials": [
+                "TiOx"
+            ],
+            "other_materials": [
+                "TiOx"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "tested perovskite solar cells on flexible substrates and coated with vacuum processed ZnO/C60 electron-transporting multilayer, and showed stabilized efficiency Pisoni et al",
+            "all_materials": [
+                "ZnO/C60"
+            ],
+            "other_materials": [
+                "ZnO/C60"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "showed amino-based fulleropyrrolidine as an efficient ETM on inverted planar heterojunction perovskite solar cells Li et al",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The solar cell device exhibited a high 16.6% PCE, significantly better than the traditional PCBM-based 12.3% solar cell.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The Al-doped ZnO  transparent conducting oxide film has received much attention, due to its low-cost, non-toxicity, abundantly available elements, and simple deposition procedures",
+            "all_materials": [
+                "ZnO"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "ZnO"
+        },
+        {
+            "sentence": "The higher transmittance at near-infrared range should add an additional advantage for the perovskite solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A variety of deposition techniques can be used to synthesize epitaxial and textured AZO films",
+            "all_materials": [
+                "AZO"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "AZO"
+        },
+        {
+            "sentence": "The magnetron sputtering process that adopts a ceramic target has warranted for practical industrial applications, due to the uniform coating over large area and high reproducibility",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The various sputtering conditions could influence the electrical and optical characteristics of the films, by adjusting the thickness as well as the morphology",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "reported the magnetron sputtering process to deposit ZnO electron-transporting material layers for both ITO/glass and ITO/PET substrates Liang et al",
+            "all_materials": [
+                "ZnO",
+                "ITO/glass",
+                "ITO/PET"
+            ],
+            "other_materials": [
+                "ZnO",
+                "ITO/glass",
+                "ITO/PET"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Baltakesmez et al",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "investigated an inverted structure of hybrid perovskite solar cell by adopting AZO transparent thin film",
+            "all_materials": [
+                "AZO"
+            ],
+            "other_materials": [
+                "AZO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "They revealed the optimal growth parameters by RF magnetron sputtering",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "On the other hand, the solar cell device could be fabricated with AZO thin-film and produced with the higher current influence on the basis of efficient absorbance",
+            "all_materials": [
+                "AZO"
+            ],
+            "other_materials": [
+                "AZO"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                11,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this study, the novel perovskite solar cell device was designed by employing transparent-conducting oxide AZO film and PMMA material, as well as C60 fullerene, to implement with the hole/electron transporting materials",
+            "all_materials": [
+                "AZO",
+                "PMMA",
+                "C60"
+            ],
+            "other_materials": [
+                "AZO",
+                "PMMA",
+                "C60"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It is a suitable green renewable energy nanostructure for the next generation thin-film solar cells and should be beneficial for the future environmental protection.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In the experiment, fluorinated tin-oxide  coated glass substrate  was cleaned by acetone , ethanol , and de-ionized water, each for 15\u00a0min, and then dried in an oven",
+            "all_materials": [
+                "tin-oxide",
+                "acetone",
+                "ethanol",
+                "water"
+            ],
+            "other_materials": [
+                "tin-oxide",
+                "acetone",
+                "ethanol",
+                "water"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                29,
+                "DryingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The MoSe2 HTM material was coated by radio-frequency  magnetron sputtering using MoSe2 target",
+            "all_materials": [
+                "MoSe2 HTM",
+                "MoSe2"
+            ],
+            "other_materials": [
+                "MoSe2 HTM",
+                "MoSe2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The argon flow rate and RF power were maintained at 55 sccm  and 85\u00a0W, respectively, under a base pressure below",
+            "all_materials": [
+                "argon"
+            ],
+            "other_materials": [
+                "argon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "2 presents the energy level diagram of the Ag/AZO/C60/PMMA/MAPbI3/MoSe2/FTO multilayered structures on glass substrateFig",
+            "all_materials": [
+                "Ag/AZO/C60/PMMA/MAPbI3/MoSe2/FTO"
+            ],
+            "other_materials": [
+                "Ag/AZO/C60/PMMA/MAPbI3/MoSe2/FTO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The ultra-thin molybdenum diselenide HTM  has been deposited between the perovskite active absorbing layer and the FTO back-electrode layer, to promote carrier transporting through tunneling, with well ohmic-contact",
+            "all_materials": [
+                "molybdenum diselenide HTM",
+                "FTO"
+            ],
+            "other_materials": [
+                "molybdenum diselenide HTM",
+                "FTO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The innovative PMMA layer of about 50\u00a0nm in thickness was coated on the MAPbI3 active absorbing layer",
+            "all_materials": [
+                "PMMA",
+                "MAPbI3"
+            ],
+            "other_materials": [
+                "PMMA",
+                "MAPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The PMMA/MAPbI3 and MoSe2/MAPbI3",
+            "all_materials": [
+                "PMMA/MAPbI3",
+                "MoSe2/MAPbI3"
+            ],
+            "other_materials": [
+                "PMMA/MAPbI3",
+                "MoSe2/MAPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In summary, the inorganic MoSe2 HTM and organic PMMA modified layer have been successfully employed to prepare MAPbI3 perovskite solar cells",
+            "all_materials": [
+                "MoSe2 HTM",
+                "PMMA",
+                "MAPbI3"
+            ],
+            "other_materials": [
+                "MoSe2 HTM",
+                "PMMA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "MAPbI3"
+        },
+        {
+            "sentence": "The perovskite-type solar cells were fabricated by a spin-coating method, and the effects of C60/PMMA layer were investigated for photovoltaic characteristics",
+            "all_materials": [
+                "C60",
+                "PMMA"
+            ],
+            "other_materials": [
+                "C60",
+                "PMMA"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                7,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "By setting the optimized PMMA layer with the fullerene C60 electron buffer layer, the Voc, Jsc and FF were all significantly improved",
+            "all_materials": [
+                "PMMA",
+                "Jsc",
+                "FF"
+            ],
+            "other_materials": [
+                "PMMA",
+                "Jsc",
+                "FF"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The open-circuit voltage was increased to 1.11\u00a0V, the",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors declare that they have no known conflict of interests or personal relationships that could have appeared to influence the work reported in this paper.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work was supported in part by the Ministry of Science and Technology under research grants MOST105-2221-E-182-059-MY3, MOST-108-2221-E-182-020-MY3 and CGMH financial support of CMRPG2H0291 and CMRPD3G0063.",
+            "all_materials": [
+                "MOST105-2221-E-182-059-MY3",
+                "MOST-108-2221-E-182-020-MY3",
+                "CGMH",
+                "CMRPG2H0291",
+                "CMRPD3G0063"
+            ],
+            "other_materials": [
+                "MOST105-2221-E-182-059-MY3",
+                "MOST-108-2221-E-182-020-MY3",
+                "CGMH",
+                "CMRPG2H0291",
+                "CMRPD3G0063"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In order to fabricate pure-phase CsPbBr3 films with high crystalline quality, the stoichiometry between precursors is of great importance",
+            "all_materials": [
+                "CsPbBr3"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CsPbBr3"
+        },
+        {
+            "sentence": "However, the precise control of the stoichiometry is difficult for solution processed methods, which is hindered by the poor solubility of CsBr in commonly used solvents",
+            "all_materials": [
+                "CsBr"
+            ],
+            "other_materials": [
+                "CsBr"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "On the other hand, in terms of co-evaporation method, the stoichiometry of CsPbBr3 films can be easily modulated by controlling the deposition rates of precursors",
+            "all_materials": [
+                "CsPbBr3"
+            ],
+            "other_materials": [
+                "CsPbBr3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, the impact of deposition rate ratio between CsBr and PbBr2 on the crystalline quality and optoelectronic properties of orthorhombic CsPbBr3 polycrystalline films has been investigated",
+            "all_materials": [
+                "CsBr",
+                "PbBr2",
+                "CsPbBr3"
+            ],
+            "other_materials": [
+                "CsBr",
+                "PbBr2",
+                "CsPbBr3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "CsPbBr3 polycrystalline films with high crystalline quality and preferential crystalline orientation have been fabricated using co-evaporation method at the optimized deposition rate ratio",
+            "all_materials": [
+                "CsPbBr3"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                13,
+                "StartingSynthesis"
+            ],
+            "targets": "CsPbBr3"
+        },
+        {
+            "sentence": "The reversible structural transformation from orthorhombic to cubic phase CsPbBr3 films is confirmed using temperature-dependent XRD characterizations",
+            "all_materials": [
+                "CsPbBr3"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CsPbBr3"
+        },
+        {
+            "sentence": "At the deposition ratio of 0.5:0.7, largest grain size of 7.82\u00a0\u00d7\u00a0104\u00a0nm2 along with a high uniformity is observed for CsPbBr3 films",
+            "all_materials": [
+                "CsPbBr3"
+            ],
+            "other_materials": [
+                "CsPbBr3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, the longest lifetime of 24.0 ns for photo-generated exciton within CsPbBr3 films has also been revealed at the optimized deposition rate ratio",
+            "all_materials": [
+                "CsPbBr3"
+            ],
+            "other_materials": [
+                "CsPbBr3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Because of the high crystalline quality and prolonged lifetime for photo-generated exciton, a photoresponsivity of 20.2 A/W and external quantum efficiency of 48.7% are achieved for CsPbBr3 based photodetector",
+            "all_materials": [
+                "CsPbBr3"
+            ],
+            "other_materials": [
+                "CsPbBr3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Our findings demonstrate a facile approach for the growth of CsPbBr3 polycrystalline films with high crystalline quality and promote their applications in optoelectronic devices.",
+            "all_materials": [
+                "CsPbBr3"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CsPbBr3"
+        },
+        {
+            "sentence": "Surface passivation is an effective strategy to improve the efficiency and stability of perovskite solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this paper, we use the defect post-passivating method to enhance the performance of the p-i-n planar structure of ITO/PEDOT:PSS/MAPbI3/PCBM/Bphen/Ag",
+            "all_materials": [
+                "ITO/PEDOT",
+                "PSS/MAPbI3/PCBM/Bphen/Ag"
+            ],
+            "other_materials": [
+                "ITO/PEDOT",
+                "PSS/MAPbI3/PCBM/Bphen/Ag"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The solution-processed TPPO is selected to passivate the MAPbI3 films",
+            "all_materials": [
+                "TPPO",
+                "MAPbI3"
+            ],
+            "other_materials": [
+                "TPPO",
+                "MAPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The TPPO passivation layer can protect MAPbI3 from moisture and oxygen degradation and improve the photoelectric properties",
+            "all_materials": [
+                "TPPO",
+                "MAPbI3",
+                "oxygen"
+            ],
+            "other_materials": [
+                "TPPO",
+                "MAPbI3",
+                "oxygen"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The optimized efficiency of TPPO-MAPbI3 solar cells can achieve high efficiency of 14.9% with a negligible hysteresis behavior",
+            "all_materials": [
+                "TPPO-MAPbI3"
+            ],
+            "other_materials": [
+                "TPPO-MAPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The unpacked TPPO-MAPbI3 PSCs demonstrate the increased stability, and the samples remain about 83% of their initial efficiency after being stored for 30 days under the condition of relative humidity 35% at 25\u00a0\u00b0C, and the devices maintain about 87% of initial efficiency after being stored in a glovebox for 1800\u00a0h at room temperature",
+            "all_materials": [
+                "TPPO-MAPbI3"
+            ],
+            "other_materials": [
+                "TPPO-MAPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The work provides an effective strategy to fabricate efficient and stable MAPbI3 PSCs.",
+            "all_materials": [
+                "MAPbI3 PSCs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "MAPbI3 PSCs"
+        },
+        {
+            "sentence": "Perovskite solar cell  has gradually shown its great superiority in photovoltaic filed to compete commercial solar cells owing to its great advantages, such as high efficiency and low fabrication cost",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "On the way towards commercialization, great efforts have been achieved by accelerating charge extraction and reducing carrier recombination",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Recently, two-dimensional  layered materials have attracted increasing interests for application in PSCs due to their distinctive chemical and physical properties, such as high carrier mobility and tunable bandgap, which greatly determines the perovskite film growth kinetics, carrier transfer and stability of PSCs",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, with the aim to better understand their recent development and application in PSC, in this review, the emerging 2D materials beyond graphene as charge transport layers, buffer layers and additives in perovskite film for enhancing the efficiency and stability of PSCs are summarized",
+            "all_materials": [
+                "graphene"
+            ],
+            "other_materials": [
+                "graphene"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, there are still some crucial challenges to be addressed for commercialization",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Finally, the challenges and prospects of these 2D nanomaterials for application in PSCs are further proposed for future development.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "NiO is widely applied as the hole transport layer  in the high-efficient organic-inorganic hybrid perovskite solar cells  due to its stable optical and electrical properties, especially its energy level matches well with the perovskite",
+            "all_materials": [
+                "NiO"
+            ],
+            "other_materials": [
+                "NiO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We had prepared the inverted planar CH3NH3PbI3 PSCs with the solution-processed NiOx-HTLs, and investigated the effects of NiOx precursor solution concentrations on photovoltaic performance and air-stability of PSCs",
+            "all_materials": [
+                "CH3NH3PbI3",
+                "NiOx-HTLs",
+                "NiOx",
+                "air",
+                "PSCs"
+            ],
+            "other_materials": [
+                "NiOx-HTLs",
+                "NiOx",
+                "air",
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                2,
+                "StartingSynthesis"
+            ],
+            "targets": "CH3NH3PbI3"
+        },
+        {
+            "sentence": "The un-encapsulated PSCs with the optimized NiOx-0.125 HTLs exhibit a large open-circuit voltage of 1.05\u00a0V and high power conversion efficiency of 16.69%",
+            "all_materials": [
+                "NiOx-0.125"
+            ],
+            "other_materials": [
+                "NiOx-0.125"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "After being exposed to the atmospheric air for 720 hours, it still keeps \u223c95% of the initial open-circuit voltage and \u223c75% of the initial power conversion efficiency, showing better air-stability than previous CH3NH3PbI3 cells with the solution-processed NiOx-HTLs.",
+            "all_materials": [
+                "air",
+                "air",
+                "CH3NH3PbI3",
+                "NiOx-HTLs"
+            ],
+            "other_materials": [
+                "air",
+                "air",
+                "CH3NH3PbI3",
+                "NiOx-HTLs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Mixed halide perovskites are considered to have great application prospects in the field of optoelectronics due to their bandgap tunability",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, their applications are limited by phase instability under illumination",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here, we have used PL measurement to investigate phase segregation in mixed halide perovskite films with and without post-treatment using methylammonium halide solutions",
+            "all_materials": [
+                "halide",
+                "methylammonium halide"
+            ],
+            "other_materials": [
+                "halide",
+                "methylammonium halide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Our findings reveal the PL evolution is strongly dependent on the morphology of perovskite films: the PL peak from small I-rich clusters is observed at the initial time in the films with unreacted lead halides, accompanied by faster PL evolution with increase of the concentration of methylammonium halide solution; adding excess methylammonium halide solution to the perovskite film leads to the disappearance of that PL peak",
+            "all_materials": [
+                "lead halides",
+                "PL",
+                "methylammonium halide",
+                "methylammonium halide",
+                "PL"
+            ],
+            "other_materials": [
+                "lead halides",
+                "PL",
+                "methylammonium halide",
+                "PL"
+            ],
+            "precursors": [
+                {
+                    "text": "methylammonium halide",
+                    "start": 330,
+                    "end": 351,
+                    "token_ids": [
+                        56,
+                        57
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We attribute the difference of PL evolution in various films to the different evolution of local electric fields, which are induced by carrier trapping at grain boundaries",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Our results indicate the local electric fields play an essential role in the halide segregation process.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Eliminating the carrier recombination loss is of great significance for the performance of the perovskite solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here, three small molecules with the same core unit  but different end groups  were incorporated into the perovskite films by engineering the composition of the perovskite precursor solutions",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It is suggested that the molecules not only increase the grain size and passivate the non-coordinated Pb2+ cations among the grain boundaries, but also balance the carrier transport by regulating the electronic structure of the perovskite/molecule hybrid films , and produce a hydrophobic surface to prohibit the moisture permeation into the active layers",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Finally, the devices based on PMHFs exhibits a significant improvement in photoelectric conversion efficiency  and the stability",
+            "all_materials": [
+                "PMHFs"
+            ],
+            "other_materials": [
+                "PMHFs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The PSCs based on IT-4F realizes a champion PCE of 19.75% , which is far larger than those control ones",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Cells sustain over 90% of their initial efficiency after 20 days in a N2-filled glove box.",
+            "all_materials": [
+                "N2"
+            ],
+            "other_materials": [
+                "N2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The closely stacked layer in molybdenum diselenide  and low rate of charge transfer limits its application in solar cell devices",
+            "all_materials": [
+                "molybdenum diselenide"
+            ],
+            "other_materials": [
+                "molybdenum diselenide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here, in-situ polymerization of aniline was carried out on MoSe2/r-GO nanocomposites to achieve an enhanced electronically conductive system with a homogenously dispersed phase for its active role as a counter electrode electrocatalyst in dye sensitized solar cell",
+            "all_materials": [
+                "aniline",
+                "MoSe2/r-GO"
+            ],
+            "other_materials": [
+                "MoSe2/r-GO"
+            ],
+            "precursors": [
+                {
+                    "text": "aniline",
+                    "start": 32,
+                    "end": 39,
+                    "token_ids": [
+                        5
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Physicochemical studies such as Raman and XRD confirmed the formation of a hybrid system",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The hybrid showed up a buffered surface area of 41.892\u00a0m2/g as estimated by the BET study",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The uniformly dispersed phase was observed in the SEM morphology",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Nyquist plots provided Rct \u2248 38\u03a9 revealing the low charge transfer resistance offered by the hybrid, improving the charge transfer phenomenon on its surface",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The cyclic voltammograms showed nearly symmetrical oxidation-reduction peaks indicating the excellent reversibility of the charge transfer cycle",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Additionally, solar cell characterization results pursued that the fabricated hybrid system can be a potential alternative as a counter electrode electrocatalyst in DSSC.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Organo-lead halide perovskites, specifically methylammonium lead iodide , has grown to be promising material for a wide array of photovoltaic applications",
+            "all_materials": [
+                "Organo-lead halide",
+                "methylammonium lead iodide"
+            ],
+            "other_materials": [
+                "Organo-lead halide",
+                "methylammonium lead iodide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, perovskite still lacks in its long-term stability and is sensitive to decomposition via moisture",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work investigates the integration of multiple polymer coatings that have the potential to improve the air stability of the perovskite",
+            "all_materials": [
+                "air"
+            ],
+            "other_materials": [
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The investigated polymers include poly , polyvinyl alcohol , poly vinylpyrrolidone , and sodium polyacrylate",
+            "all_materials": [
+                "poly",
+                "polyvinyl alcohol",
+                "poly vinylpyrrolidone",
+                "sodium polyacrylate"
+            ],
+            "other_materials": [
+                "poly",
+                "polyvinyl alcohol",
+                "poly vinylpyrrolidone",
+                "sodium polyacrylate"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Scanning electron microscopy  was able to confirm the morphology of the perovskite and areas of degradation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, X-ray diffraction  study reveals that the perovskite coated in the PMMA remains the most efficient polymer coating among the rest of the studied polymers.",
+            "all_materials": [
+                "PMMA"
+            ],
+            "other_materials": [
+                "PMMA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Due to a wide range of intriguing properties, such as efficient one-dimensional  electron pathways and extraordinarily large surface areas, titanium dioxide  nanotube arrays are considered as the promising electron transport material for high-performance perovskite solar cells",
+            "all_materials": [
+                "titanium dioxide"
+            ],
+            "other_materials": [
+                "titanium dioxide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, it is still a great challenge to directly synthesize the TiO2 nanotube arrays with well-controlled geometries  on the surface of fluorine-doped tin oxide",
+            "all_materials": [
+                "TiO2",
+                "tin"
+            ],
+            "other_materials": [
+                "tin"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                10,
+                "StartingSynthesis"
+            ],
+            "targets": "TiO2"
+        },
+        {
+            "sentence": "Here, vertically standing TiO2 nanotube arrays with desirable heights and diameters are directly synthesized on the FTO surface by employing the aqueous TiO2 sol-gel method on tubular photoresist templates",
+            "all_materials": [
+                "TiO2",
+                "FTO",
+                "TiO2"
+            ],
+            "other_materials": [
+                "FTO",
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                14,
+                "StartingSynthesis"
+            ],
+            "targets": "TiO2"
+        },
+        {
+            "sentence": "The tube height can be precisely tailored within a range of 350\u2013900\u202fnm for the effective loading of perovskite precursor solution",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Importantly, it is demonstrated that TiO2 nanotube arrays with the optimized tube diameter and length can facilitate the infiltration of perovskite precursor solution, and thus ensuring the formation of a dense, smooth and large grain-sized perovskite film",
+            "all_materials": [
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, the contact between the perovskite and TiO2 nanotube arrays are enhanced simultaneously",
+            "all_materials": [
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Benefiting from the high-quality perovskite film, good interfacial contact at the perovskite/TiO2 tube interface, enhanced light trapping as well as rapid electron collection and transport induced by one-dimensional TiO2 nanotubes, the fabricated PVSCs exhibit an impressive power conversion efficiency  of up to 14.13%",
+            "all_materials": [
+                "TiO2",
+                "TiO2",
+                "PVSCs"
+            ],
+            "other_materials": [
+                "TiO2",
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PVSCs"
+        },
+        {
+            "sentence": "Our work does not only demonstrate the promising potential of vertical TiO2 nanotube arrays for PVSCs, but also provides valuable insights into the design and utilization of TiO2 nanotubes for practical applications.",
+            "all_materials": [
+                "TiO2",
+                "PVSCs",
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2",
+                "PVSCs",
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Semi-transparent photovoltaics are promising technologies to be applied for building-integrated elements and alternative windows",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Notably, organometallic halide perovskite solar cells that have shown unprecedented power conversion efficiencies  are highly attractive for integration as solar windows in buildings because of its low-cost manufacturing and tunable transparency in the visible regime",
+            "all_materials": [
+                "halide"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "halide"
+        },
+        {
+            "sentence": "Here, we demonstrate an approach to fabricate void-passivated transparent perovskite films by utilizing a poly  as a framework for crystal growth",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The semitransparent perovskite film  is prepared from PbICl layer assisting sequential inter-diffusion process in which PMMA  is added into CH3NH3I  solution",
+            "all_materials": [
+                "PbICl",
+                "PMMA",
+                "CH3NH3I"
+            ],
+            "other_materials": [
+                "PbICl"
+            ],
+            "precursors": [
+                {
+                    "text": "PMMA",
+                    "start": 120,
+                    "end": 124,
+                    "token_ids": [
+                        15
+                    ]
+                },
+                {
+                    "text": "CH3NH3I",
+                    "start": 140,
+                    "end": 147,
+                    "token_ids": [
+                        19
+                    ]
+                }
+            ],
+            "operation": [
+                [
+                    5,
+                    "StartingSynthesis"
+                ],
+                [
+                    17,
+                    "Mixing"
+                ]
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The presence of PMMA in perovskite films have a negligible effect on transparency, and the coverage and crystallinity of perovskite films are improved",
+            "all_materials": [
+                "PMMA"
+            ],
+            "other_materials": [
+                "PMMA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Intensity-modulated photocurrent spectroscopy  and time-correlated single photon counting  characterization further demonstrate that the PMMA embedded perovskite films have better carrier transport and enhanced carrier extraction rate",
+            "all_materials": [
+                "PMMA"
+            ],
+            "other_materials": [
+                "PMMA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The semitransparent perovskite film based photovoltaic device with PMMA presents 15.46% efficiency with less hysteresis, which is mainly attributed to increased Jsc.",
+            "all_materials": [
+                "PMMA"
+            ],
+            "other_materials": [
+                "PMMA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Full coverage of perovskite layer onto ZnO nanorod substrates with less pinholes is crucial for achieving high-efficiency perovskite solar cells",
+            "all_materials": [
+                "ZnO"
+            ],
+            "other_materials": [
+                "ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, a two-step sequential deposition method is modified to achieve an appropriate property of perovskite  film",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Surface treatment of perovskite layer and its precursor have been systematically performed and their morphologies have been investigated",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "By pre-wetting of lead iodide  and letting it dry before reacting with methylammonium iodide  provide better coverage of perovskite film onto ZnO nanorod substrate than one without any treatment",
+            "all_materials": [
+                "lead iodide",
+                "methylammonium iodide",
+                "ZnO"
+            ],
+            "other_materials": [
+                "lead iodide",
+                "methylammonium iodide",
+                "ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "An additional MAI deposition followed with toluene drop-casting technique on the perovskite film is also found to increase the coverage and enhance the transformation of PbI2 to MAPbI3",
+            "all_materials": [
+                "toluene",
+                "PbI2",
+                "MAPbI3"
+            ],
+            "other_materials": [
+                "toluene",
+                "PbI2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "MAPbI3"
+        },
+        {
+            "sentence": "These lead to longer charge carrier lifetime, resulting in an enhanced power conversion efficiency  from 1.21% to 3.05%",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The modified method could been applied to a complex ZnO nanorods/TiO2 nanoparticles substrate",
+            "all_materials": [
+                "ZnO",
+                "TiO2"
+            ],
+            "other_materials": [
+                "ZnO",
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The enhancement in PCE to 3.41% is observed",
+            "all_materials": [
+                "PCE"
+            ],
+            "other_materials": [
+                "PCE"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "These imply that our introduced method provides a simple way to obtain the full coverage and better transformation to MAPbI3 phase for enhancement in performances of perovskite solar cells.",
+            "all_materials": [
+                "MAPbI3"
+            ],
+            "other_materials": [
+                "MAPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A solution-processed CuOx film has been successfully integrated as the hole-transporting layer  for inverted planar heterojunction perovskite solar cells",
+            "all_materials": [
+                "CuOx"
+            ],
+            "other_materials": [
+                "CuOx"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The CuOx layer is fabricated by simply spin-coating a copper acetylacetonate 2) chloroform solution onto ITO glass with high transparency in the visible range",
+            "all_materials": [
+                "CuOx",
+                "copper acetylacetonate 2) chloroform",
+                "ITO"
+            ],
+            "other_materials": [
+                "CuOx",
+                "copper acetylacetonate 2) chloroform",
+                "ITO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The compact and pinhole-free perovskite film with large grain domains is grown on the CuOx film",
+            "all_materials": [
+                "CuOx"
+            ],
+            "other_materials": [
+                "CuOx"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The inverted PVSCs with the structure of ITO/CuOx/MAPbI3/PC61BM/ZnO/Al are fabricated and show a best PCE of 17.43% under standard AM 1.5G simulated solar irradiation with a VOC of 1.03\u00a0V, a JSC of 22.42\u00a0mA\u00a0cm\u22122, and a fill factor of 0.76, which is significantly higher and more stable than that fabricated from the often used hole-transporting material PEDOT:PSS  under the same experimental conditions",
+            "all_materials": [
+                "PVSCs",
+                "ITO/CuOx/MAPbI3/PC61BM/ZnO/Al",
+                "PEDOT:PSS"
+            ],
+            "other_materials": [
+                "ITO/CuOx/MAPbI3/PC61BM/ZnO/Al",
+                "PEDOT:PSS"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                [
+                    19,
+                    "StartingSynthesis"
+                ],
+                [
+                    65,
+                    "StartingSynthesis"
+                ]
+            ],
+            "targets": "PVSCs"
+        },
+        {
+            "sentence": "The enhanced performance is attributed to the efficient hole extraction through the CuOx layer as well as the high-quality CH3NH3PbI3 films grown on the CuOx",
+            "all_materials": [
+                "CuOx",
+                "CH3NH3PbI3",
+                "CuOx"
+            ],
+            "other_materials": [
+                "CuOx",
+                "CH3NH3PbI3",
+                "CuOx"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Our results indicate that low-cost and solution-processed CuOx film is a promising HTL for high performance PVSCs with better stability.",
+            "all_materials": [
+                "CuOx",
+                "PVSCs"
+            ],
+            "other_materials": [
+                "CuOx"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PVSCs"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

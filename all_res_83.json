@@ -1,0 +1,1432 @@
+{
+    "rest": [
+        {
+            "sentence": "Though perovskite solar cell  is achieving an immense 25.7\u00a0% efficiency within a few years of extensive research, a shorter life span with organic part and charge transporting layers hinders their commercialization",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "So, inorganic perovskite aligned with the hole transporting layer  could be an alternative to achieve long-term device stability",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The delafossite, CuCrO2 was prepared by the green synthesized method and then characterized",
+            "all_materials": [
+                "CuCrO2"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                5,
+                "StartingSynthesis"
+            ],
+            "targets": "CuCrO2"
+        },
+        {
+            "sentence": "According to the X-ray diffraction  pattern, the crystallites are polycrystalline phases, and the average crystallite size is 159.3\u00a0nm",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Spectrophotometric measurement was used to determine the bandgap , which is 3.0\u00a0eV",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "These results are applied for simulation study in Pb-free RbGeI3-based inorganic perovskite device using CuCrO2 as HTL",
+            "all_materials": [
+                "RbGeI3",
+                "CuCrO2"
+            ],
+            "other_materials": [
+                "RbGeI3",
+                "CuCrO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "HTL thickness, diffusion length, interface defect, carrier concentration, activation energy, and temperature effects on the device performance have been explored by SCAPS-1D simulation software",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In the optimized condition, the simulated result shows the maximum device efficiency is 23.8\u00a0%, corresponding open circuit voltage , short circuit current density  and fill-factor  of 0.89\u00a0V, 33.7\u00a0mA\u00a0cm\u22122, and 79.2\u00a0%, respectively",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A study of activation energy for the device elucidates that the significant recombination is Shockley Read Hall  type at the  interface layer",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The result of temperature impact has supported better thermal stability",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Indium tin oxide  is suitable front contact for the proposed p-i-n structure",
+            "all_materials": [
+                "Indium tin oxide"
+            ],
+            "other_materials": [
+                "Indium tin oxide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The study reveals that the delafossite, CuCrO2 can be a potential HTL for Pb-free inorganic perovskite solar cells.",
+            "all_materials": [
+                "CuCrO2"
+            ],
+            "other_materials": [
+                "CuCrO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Download : Download high-res image Download : Download full-size image",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It is a great urgency to introduce renewable energy to replace conventional fossil fuels in our energy systems due to the rapid depletion and severe environmental hazards caused by fossil fuels",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Fossil fuels still account for over 80\u00a0% of the world&#x27;s energy system ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "One of the greenest technologies, solar photovoltaic , is the second-largest contributor to the renewable energy sectors",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The most promising and alluring areas for investments and research are photovoltaics because of the inclusion of new materials in PV devices ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Among the various PV materials, organic metal halide perovskites  are the most promising materials because of their superior optoelectronic characteristics",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Organic-inorganic  halide perovskite solar cell  began its journey in 2009 with a power conversion efficiency  of 3.8\u00a0% and stability of a few minutes",
+            "all_materials": [
+                "halide"
+            ],
+            "other_materials": [
+                "halide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The PCE has reached 25.7\u00a0% within a decade, and device stability for more than three months ,",
+            "all_materials": [
+                "PCE"
+            ],
+            "other_materials": [
+                "PCE"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This has been possible due to material engineerings, such as variation in composition, charge transport layers, interface modification, efficient device fabrication techniques, and different device structures with process parameters",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As emerging photo-active materials, perovskites exhibit a high coefficient of optical absorption , negligible dipolar binding energy , excellent carrier mobilities , long carrier diffusion lengths , excellent carrier lifetime , impressive tolerance of defect densities , robust bipolar transport properties and high dielectric constant",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, adjustable bandgaps  properties, simple preparation methods , low cost, and availability make this hybrid perovskite an emerging PV material in solar cell technology ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, PSCs ability to produce electricity has improved too rapidly, but there are significant barriers still present to commercialization due to long-term stability and Pb-related contamination",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To solve the issue of lead pollution in the environment, lead-free perovskite solar cells with high efficiency and stability  should be developed",
+            "all_materials": [
+                "lead"
+            ],
+            "other_materials": [
+                "lead"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Recently same group elements Ge/Sn halide perovskite ,   including Ti, Bi, Sb etc",
+            "all_materials": [
+                "Ge/Sn halide"
+            ],
+            "other_materials": [
+                "Ge/Sn halide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "based double perovskite materials  ,  are widely investigating in the replacement of Pb halide perovskite",
+            "all_materials": [
+                "Pb halide"
+            ],
+            "other_materials": [
+                "Pb halide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Unfortunately, their PCE is limited to around 11\u00a0% to 13\u00a0%",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "But their devices also exhibit better stability, except for the sn-based perovskite solar cell, as it quickly forms SnO2 due to the higher oxidation potential of Sn+2 to Sn+4",
+            "all_materials": [
+                "SnO2",
+                "Sn+2",
+                "Sn+4"
+            ],
+            "other_materials": [
+                "SnO2",
+                "Sn+2",
+                "Sn+4"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Germanium, having a lower atomic diameter than tin and lead, higher conductivity, and the ability to form a stable perovskite structure, makes it an ideal candidate to replace Pb2+",
+            "all_materials": [
+                "Germanium",
+                "tin",
+                "lead",
+                "Pb2+"
+            ],
+            "other_materials": [
+                "Germanium",
+                "tin",
+                "lead",
+                "Pb2+"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Grishma Pindolia et al",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "worked on a RbGeI3-based perovskite solar cell and obtained a maximum PCE of 10.11\u00a0%",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Houari investigated the optoelectronic properties of RbGeI3 and stated that RbGeI3 is a promising candidate for photovoltaic applications as light cultivators M",
+            "all_materials": [
+                "RbGeI3",
+                "RbGeI3"
+            ],
+            "other_materials": [
+                "RbGeI3",
+                "RbGeI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "From the group 1 alkali metal series of the periodic table, Rb is less reactive than Cs",
+            "all_materials": [
+                "Rb"
+            ],
+            "other_materials": [
+                "Rb"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "That is the reason for selecting highly stable RbGeI3 as absorber materials.",
+            "all_materials": [
+                "RbGeI3"
+            ],
+            "other_materials": [
+                "RbGeI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, to enhance the performance and stability, the selection of charge transport layers  of both the electron transporting layer  and hole transporting layer  is required to be more concerned",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In the planar p-i-n structured PSCs, HTL is positioned between the absorber and front contact to extract holes effectively",
+            "all_materials": [
+                "PSCs",
+                "HTL"
+            ],
+            "other_materials": [
+                "PSCs",
+                "HTL"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It acts as a barrier to electrons and diminishes unexpected charge recombination",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Besides, HTL protects the perovskite layer from susceptible degradation factors like oxygen, moisture, and ultraviolet UV radiation, which are the major causes of the quick failure of the perovskite material",
+            "all_materials": [
+                "oxygen"
+            ],
+            "other_materials": [
+                "oxygen"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As an efficient hole transport material , materials should have excepted band alignment, strong hole extraction, transport ability, and sound physiochemical and optoelectronic properties with cost-effective, abundance, and easy application process",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Extensive studies have shown that numerous materials like SpiroMeOTAD , poly polystyrene sulfonate  and Poly[bis  amine  are remarkable organic HTMs have been widely used in high-performing PSCs",
+            "all_materials": [
+                "SpiroMeOTAD",
+                "poly polystyrene sulfonate",
+                "Poly[bis  amine",
+                "HTMs"
+            ],
+            "other_materials": [
+                "SpiroMeOTAD",
+                "poly polystyrene sulfonate",
+                "Poly[bis  amine",
+                "HTMs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "But predominantly, all organic HTMs suffer due to low conductivity, acidic and hygroscopic nature, high cost, tedious synthesis process, and sophisticated application procedures that limit their commercial application as efficient HTLs in PSCs ,",
+            "all_materials": [
+                "HTMs"
+            ],
+            "other_materials": [
+                "HTMs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Alternatively, transitional metal oxides  are the most promising candidates because of their abundance, cheapness, eco-friendly, and enhanced device stability ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Among all, doped NiOx exhibits the best performance in PSCs",
+            "all_materials": [
+                "NiOx"
+            ],
+            "other_materials": [
+                "NiOx"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, its low conductivity and high absorption profile continue the search for new inorganic HTMs ,  to create perovskite solar cells that are both very robust and effective for commercialization",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Delafossites are a class of ternary metal oxide  composed of transitional and pre or post-transitional metals with ABO2 formula, where A and B represent monovalent and trivalent metal ions respectively ,",
+            "all_materials": [
+                "ABO2"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "ABO2"
+        },
+        {
+            "sentence": "Among such oxides, Cu based delafossites, especially CuBO2, CuAlO2, CuCrO2, CuGaO2 are p-type oxides and intrinsically possess the excellent semiconducting properties ,",
+            "all_materials": [
+                "CuBO2",
+                "CuAlO2",
+                "CuCrO2",
+                "CuGaO2"
+            ],
+            "other_materials": [
+                "CuGaO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CuBO2"
+        },
+        {
+            "sentence": "Due to the suitable band gap energy , proper band alignment with deep VBM , good conductivity , supper stability and facile fabrication methods  make them promising conductors as HTLs in organic solar cells ,\u00a0dye-sensitized solar cells  and PSCs , .",
+            "all_materials": [
+                "VBM"
+            ],
+            "other_materials": [
+                "VBM"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this study, CuCrO2 powder was synthesized by green sol\u2013gel  process and investigated its morphological, structural, and optical properties",
+            "all_materials": [
+                "CuCrO2"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                7,
+                "StartingSynthesis"
+            ],
+            "targets": "CuCrO2"
+        },
+        {
+            "sentence": "Delafossite, CuCrO2 has been prepared by several methods, such as hydrothermal, coprecipitation, sol\u2013gel, high-temperature solid-state reaction etc., using Cu and Cr salts as the primary precursors",
+            "all_materials": [
+                "CuCrO2"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                5,
+                "StartingSynthesis"
+            ],
+            "targets": "CuCrO2"
+        },
+        {
+            "sentence": "In the sol\u2013gel method, citric acid , tartaric acid, acetic acid  etc",
+            "all_materials": [
+                "citric acid",
+                "tartaric acid",
+                "acetic acid"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "citric acid"
+        },
+        {
+            "sentence": "have been used as complexing agents",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this study, Aloe Vera water extract acts as a complexing agent and solvent",
+            "all_materials": [
+                "Aloe Vera water"
+            ],
+            "other_materials": [
+                "Aloe Vera water"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Additionally, the modeling of Ge-based perovskite solar cells has been explored with synthesized CuCrO2 as HTL using SCAPS-1D software",
+            "all_materials": [
+                "CuCrO2"
+            ],
+            "other_materials": [
+                "CuCrO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Further investigations, i.e., Effect of HTL thickness, acceptor carrier concentration, carrier lifetime, hole diffusion length, Interface defect, activation energy of recombination, the effect of temperature, back contact materials, etc., were done to optimize the performance of RbGeI3-based inorganic PSC device",
+            "all_materials": [
+                "HTL",
+                "RbGeI3",
+                "PSC"
+            ],
+            "other_materials": [
+                "HTL",
+                "RbGeI3",
+                "PSC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This study paves the way for using delafossite CuCrO2 as low-cost green synthesized HTMs to replace SpiroOMeTAD in the perovskite solar cell",
+            "all_materials": [
+                "CuCrO2",
+                "SpiroOMeTAD"
+            ],
+            "other_materials": [
+                "CuCrO2",
+                "SpiroOMeTAD"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                14,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this study not only proposing Pb-free perovskite using inorganic HTM, but also proposing the elimination of an unstable organic part of organometal halide perovskite in order to fabricate all-inorganic stable perovskite solar cells.",
+            "all_materials": [
+                "HTM"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "HTM",
+                    "start": 68,
+                    "end": 71,
+                    "token_ids": [
+                        12
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Delafossite CuCrO2 was prepared by a modified sol\u2013gel process, where the natural plant extract  in water acted as a green chelating/complexing agent",
+            "all_materials": [
+                "CuCrO2",
+                "water"
+            ],
+            "other_materials": [
+                "water"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                3,
+                "StartingSynthesis"
+            ],
+            "targets": "CuCrO2"
+        },
+        {
+            "sentence": "Commonly, fresh chemicals such as ethylenediamine, Schiff-bases, tripodal tetraamine etc., used as precipitating or capping agents",
+            "all_materials": [
+                "ethylenediamine",
+                "Schiff-bases",
+                "tripodal tetraamine"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "ethylenediamine",
+                    "start": 34,
+                    "end": 49,
+                    "token_ids": [
+                        6
+                    ]
+                },
+                {
+                    "text": "Schiff-bases",
+                    "start": 51,
+                    "end": 63,
+                    "token_ids": [
+                        8,
+                        9,
+                        10
+                    ]
+                },
+                {
+                    "text": "tripodal tetraamine",
+                    "start": 65,
+                    "end": 84,
+                    "token_ids": [
+                        12,
+                        13
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Phytochemicals such as green tea extract  , and fruits peal extract have been employed for the same purposes",
+            "all_materials": [
+                "fruits"
+            ],
+            "other_materials": [
+                "fruits"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this study, Aloe-Vera extract in water has been investigated.",
+            "all_materials": [
+                "Aloe-Vera",
+                "water"
+            ],
+            "other_materials": [
+                "Aloe-Vera",
+                "water"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The morphologies of the synthetic material  are depicted in Fig",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "3 and 3, respectively",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The images show that the shapes and sizes of all particles are mostly polygonal, with dimensions around 104.6 to 240\u00a0nm",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The EDX result shows that a small quantity of C is present, which originated in the plant extract utilized in the synthesis process",
+            "all_materials": [
+                "C"
+            ],
+            "other_materials": [
+                "C"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "But the presence of Cu  and Cr  in atomic percentage is almost equivalent to the stoichiometric ratio  of the",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The one-dimensional solar cell modeling software SCAPS-1D\u00a0was created by Professor Marc Burgelman et al.\u00a0at the Department of Electronics and Information Systems , Gent University, Belgium",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Prior to now, SCAPS-1D concentrated on creating cell architectures for the CuInSe2 and CdTe families",
+            "all_materials": [
+                "CuInSe2",
+                "CdTe"
+            ],
+            "other_materials": [
+                "CuInSe2",
+                "CdTe"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "After upgradation, it is\u00a0now applicable to amorphous , microporous, and crystalline silicon solar cells\u00a0, and thin film-based emerging perovskite solar cells",
+            "all_materials": [
+                "silicon"
+            ],
+            "other_materials": [
+                "silicon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A wide range of",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this study, p-type semiconductor, CuCrO2 was synthesized by sol\u2013gel method using green Aloe-Vera extract as a complexing agent",
+            "all_materials": [
+                "CuCrO2",
+                "Aloe-Vera"
+            ],
+            "other_materials": [
+                "Aloe-Vera"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                11,
+                "StartingSynthesis"
+            ],
+            "targets": "CuCrO2"
+        },
+        {
+            "sentence": "The characterized results show that CuCrO2 has successfully synthesized",
+            "all_materials": [
+                "CuCrO2"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                8,
+                "StartingSynthesis"
+            ],
+            "targets": "CuCrO2"
+        },
+        {
+            "sentence": "The optoelectronic properties of the synthesized material were applied to the simulation program to elucidate the optimum condition for practical device fabrication",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The simulation was carried out on the device as FTO/CuCrO2/RbGeI3/TiO2/Au, giving more attention to the property of HTM and CuCrO2",
+            "all_materials": [
+                "FTO/CuCrO2/RbGeI3/TiO2/Au",
+                "CuCrO2"
+            ],
+            "other_materials": [
+                "FTO/CuCrO2/RbGeI3/TiO2/Au",
+                "CuCrO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Sarkar: Writing \u2013 original draftD.K",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Mottakin: Writing \u2013 review &amp; editingM",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Selvanathan: Writing \u2013 review &amp; editing, Formal analysisV",
+            "all_materials": [
+                "Selvanathan"
+            ],
+            "other_materials": [
+                "Selvanathan"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Sobayel: Software, Formal analysisK",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Khan: VisualizationM.N.I",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Shahinuzzaman: VisualizationM",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Mohammod Aminuzzaman: Visualization, Funding acquisition",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Anuar: Writing \u2013 review &amp; editing, Formal analysisFarah H",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Takashi Suemasu: Formal analysis, Resources",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Kamaruzzaman Sopian: Visualization, Funding acquisition",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Akhtaruzzaman: Visualization.Md",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We acknowledge the Universiti Kebangsaan Malaysia, Malaysia, for financial support through Dana Impact Research Grant",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors also would like to acknowledge the Rajshahi University, Bangladesh, and Bangabandhu Science and Technology Fellowship Trust, Ministry of Science and Technology, the Peoples Republic of Bangladesh, for providing study leave and conveying all expenses, respectively",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The Authors gratefully acknowledge Dr",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Satoru Yoshimura, Research Center of Advanced",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The regulation of the interface energetics and the simultaneous passivation of the surface defects of perovskite  film play an important role in improving the efficiency and stability of perovskite solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here, a composite modification of poly /NiFe2O4 quantum dots  that is formed by the light-triggered polymerization of AMPS monomer in homogeneous AMPS/NQDs is launched at the interface of PVK/carbon in all-inorganic CsPbBr3 PSCs",
+            "all_materials": [
+                "poly /NiFe2O4",
+                "AMPS",
+                "AMPS/NQDs",
+                "PVK",
+                "carbon",
+                "CsPbBr3 PSCs"
+            ],
+            "other_materials": [
+                "poly /NiFe2O4",
+                "AMPS/NQDs",
+                "PVK",
+                "carbon",
+                "CsPbBr3 PSCs"
+            ],
+            "precursors": [
+                {
+                    "text": "AMPS",
+                    "start": 118,
+                    "end": 122,
+                    "token_ids": [
+                        21
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Due to the higher hole mobility and conductivity of PAMPS/NQDs and its interface modification induced better energy level alignment and interfacial contact, the hole transport and extraction are significantly promoted",
+            "all_materials": [
+                "PAMPS/NQDs"
+            ],
+            "other_materials": [
+                "PAMPS/NQDs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Combined with the simultaneous passivation of cations and anions  defects on CsPbBr3 PVK surface by the SO, CO, NH and OH groups in PAMPS, the non-radiative recombination is effectively restrained, rendering a champion power conversion efficiency of 10.21\u00a0% with excellent high humidity and temperature  and light soaking tolerances for PAMPS/NQDs composite modified carbon-based CsPbBr3 PSCs without encapsulation in air, which is markedly higher than the 6.81\u00a0% efficiency of the control device.",
+            "all_materials": [
+                "CsPbBr3 PVK",
+                "SO",
+                "PAMPS",
+                "PAMPS/NQDs",
+                "CsPbBr3 PSCs",
+                "air"
+            ],
+            "other_materials": [
+                "CsPbBr3 PVK",
+                "SO",
+                "PAMPS",
+                "PAMPS/NQDs",
+                "CsPbBr3 PSCs",
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In recent years, carbon-based all-inorganic perovskite solar cells without hole transport layers have attracted much attention due to their good stability",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, because of the lack of hole transport layers, there are problems such as poor interface charge extraction and poor energy band alignment",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here, the surface of CsPbIBr2 is treated with Ti3C2Clx MXene, where the formed Pb-Cl bonds play a role in passivating defects and improving crystallization, and the adjustable work function of MXene can form a good gradient energy band at the CsPbIBr2/carbon interface",
+            "all_materials": [
+                "CsPbIBr2",
+                "Ti3C2Clx MXene",
+                "MXene",
+                "CsPbIBr2/carbon"
+            ],
+            "other_materials": [
+                "CsPbIBr2",
+                "Ti3C2Clx MXene",
+                "MXene",
+                "CsPbIBr2/carbon"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                7,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As a result, the Ti3C2Clx MXene passivation strategy successfully improves the hole extraction efficiency and inhibits the charge recombination at the interface based on the improved morphology and crystallization of the CsPbIBr2 film",
+            "all_materials": [
+                "Ti3C2Clx MXene",
+                "CsPbIBr2"
+            ],
+            "other_materials": [
+                "Ti3C2Clx MXene",
+                "CsPbIBr2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, the power conversion efficiency of CsPbIBr2 solar cells has increased from 8.16\u00a0% to 10.43\u00a0%, and the long-term stability exceeds 900\u00a0h under environmental conditions of 40\u00a0% relative humidity.",
+            "all_materials": [
+                "CsPbIBr2"
+            ],
+            "other_materials": [
+                "CsPbIBr2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Halide perovskite solar cells have attracted widespread attention in recent years due to their high photoelectric conversion efficiency",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the cask effect from the brittleness of the polycrystalline perovskite films restricts their application in wearable devices",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, alkyl materials with different end groups are introduced into perovskite films to regulate the mechanical property of films",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The experimental results demonstrate alkyl materials with special end groups such as \u2013NH2 or \u2013COOH can interact with perovskite and further improve the mechanical stability of films effectively",
+            "all_materials": [
+                "NH2",
+                "COOH"
+            ],
+            "other_materials": [
+                "NH2",
+                "COOH"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Especially, 5-ammonium valeric acid with bifunctional end groups of \u2013NH2 and \u2013COOH can strongly interact with adjacent perovskite grains and links them together to resist the formation of cracks during deformation",
+            "all_materials": [
+                "5-ammonium valeric acid",
+                "NH2",
+                "COOH"
+            ],
+            "other_materials": [
+                "5-ammonium valeric acid",
+                "NH2",
+                "COOH"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As a result, the average fracture energy of the perovskite film with 5-ammonium valeric acid is increased from 0.33\u00a0J/cm2 to 1.19\u00a0J/cm2 and the elastic modulus is reduced from 31.8\u00a0GPa to 2.57\u00a0GPa, leading to the high mechanical stability of perovskite solar cells",
+            "all_materials": [
+                "5-ammonium valeric acid"
+            ],
+            "other_materials": [
+                "5-ammonium valeric acid"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The work provides an innovative method to improve the toughness of perovskite films, thus opening up opportunities for the applications of perovskite solar cells in wearable electronics.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, based on CsSnI3, we propose a hole transport layer-free perovskite solar cell, whose electron transport material consists of TiO2, PCBM and C60",
+            "all_materials": [
+                "CsSnI3",
+                "TiO2",
+                "PCBM",
+                "C60"
+            ],
+            "other_materials": [
+                "CsSnI3",
+                "TiO2",
+                "PCBM",
+                "C60"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The solar cell was optimized by varying absorber layer thickness, defect density, doping concentration, and working temperature, which resulted in a final structure performance improvement of about 11\u00a0%, where VOC\u00a0=\u00a01.26\u00a0V, JSC\u00a0=\u00a026.519\u00a0mA/cm2, FF\u00a0=\u00a090.19\u00a0%, and PCE\u00a0=\u00a030.17\u00a0%",
+            "all_materials": [
+                "VOC",
+                "PCE"
+            ],
+            "other_materials": [
+                "VOC",
+                "PCE"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Compared with the previous theoretical and experimental organic\u2013inorganic PSCs, the photovoltaic conversion efficiency of our designed solar cells has been greatly improved",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, the quantum efficiency reaches up to 90\u00a0% and remains over 50\u00a0% in the near 900\u00a0nm wavelength range.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this paper, we report ZnO nanowires  and silicon-based type-II PN heterojunction for UV\u2013Visible\u2013Infrared self-powered photodetection",
+            "all_materials": [
+                "ZnO",
+                "PN"
+            ],
+            "other_materials": [
+                "ZnO",
+                "PN"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The as-grown ZnO NWs were highly crystalline and aligned along the c-axis in the  direction revealed in the HRTEM and XRD measurements",
+            "all_materials": [
+                "ZnO"
+            ],
+            "other_materials": [
+                "ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The Hall measurements revealed the n-type behavior for ZnO and p-type for p-Si with carrier concentrations of 4.09\u00a0\u00d7\u00a01016\u00a0cm\u22123 and 1.38\u00a0\u00d7\u00a01017\u00a0cm\u22123, respectively",
+            "all_materials": [
+                "ZnO",
+                "p-Si"
+            ],
+            "other_materials": [
+                "ZnO",
+                "p-Si"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The depletion widths were estimated to be \u223c35\u00a0nm and \u223c120\u00a0nm, respectively for p-Si and n-ZnO NWs",
+            "all_materials": [
+                "p-Si",
+                "n-ZnO"
+            ],
+            "other_materials": [
+                "p-Si",
+                "n-ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The Ag/n-ZnO NWs/p-Si/Ag PN heterojunction showed large photoresponse, even at zero bias, under the illumination of commercially available UV\u2013Visible\u2013NIR LEDs, thus acting as a self-powered photodetector",
+            "all_materials": [
+                "Ag/n-ZnO NWs/p-Si/Ag PN"
+            ],
+            "other_materials": [
+                "Ag/n-ZnO NWs/p-Si/Ag PN"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It was interesting to observe that the photoresponse was dependent on the growth time and hence the thickness of ZnO NWs thin film",
+            "all_materials": [
+                "ZnO"
+            ],
+            "other_materials": [
+                "ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A maximum zero bias responsivity of \u223c0.1 A/W at green  was observed and was large for the junction with thicker ZnO NWs film , compared with thinner  device under IR  LED illumination, however, it was observed otherwise for UV  LED",
+            "all_materials": [
+                "ZnO"
+            ],
+            "other_materials": [
+                "ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This suggests that tuning the thickness of the ZnO NWs thin film results in the wavelength selective photoresponse, consequently, paving the way towards UV blind IR-visible photodetector based on ZnO NWs",
+            "all_materials": [
+                "ZnO",
+                "ZnO"
+            ],
+            "other_materials": [
+                "ZnO",
+                "ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The transient short circuit current  and open circuit voltage  properties showed fast and large responses under periodic illumination of all LEDs",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The response was observed to depend on the intensity of light and the maximum Voc comes out to be \u223c102\u00a0mV and Isc \u223c5.58\u00a0\u03bcA, under the illumination of a red laser diode.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The rapid development in the industrial sector as well as an increasing population worldwide during the past few decades have led to the increase in demand for the energy",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We all are familiar that the major source of energy mainly constitutes the fossil fuels which are predicted to get exhausted in near future",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, to serve the increasing demands of energy, researchers were urged to find an alternate renewable source of energy which would be able to replace fossil fuels",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work reports the simulation of an inorganic/organic perovskite solar cell and to study the variation in the conversion efficiency by varying the ETL , and the HTL",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We note here that the perovskite / absorber layer is kept the same for all combinations of HTL and ETL",
+            "all_materials": [
+                "HTL",
+                "ETL"
+            ],
+            "other_materials": [
+                "HTL",
+                "ETL"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The absorber layer taken into consideration in this particular paper is CH3NH3PbI3",
+            "all_materials": [
+                "CH3NH3PbI3"
+            ],
+            "other_materials": [
+                "CH3NH3PbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, we compare the results of various cell combinations to obtain the one with the highest conversion efficiency",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "All the simulation work is done in SCAPS-1D software.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

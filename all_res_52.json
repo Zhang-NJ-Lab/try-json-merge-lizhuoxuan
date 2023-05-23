@@ -1,0 +1,884 @@
+{
+    "rest": [
+        {
+            "sentence": "Perovskite solar cells with inorganic and organic transporting layers offer a new venue for their commercialization due to their low cost and high-power conversion efficiency",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This manuscript focuses on using inorganic calcium ferrite  as a hole transport layer  and offers superior stability and efficiency compared to organic HTL",
+            "all_materials": [
+                "calcium ferrite",
+                "HTL"
+            ],
+            "other_materials": [
+                "calcium ferrite",
+                "HTL"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Time-resolved photoluminescence spectroscopy  demonstrated better charge extraction and less recombination at the HTL/perovskite and ETL/perovskite interface",
+            "all_materials": [
+                "HTL/",
+                "ETL/"
+            ],
+            "other_materials": [
+                "HTL/",
+                "ETL/"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A theoretical investigation has been carried out to compare the experimental findings and to find the mechanism behind the observed high-power conversion efficiency",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Theoretical analysis validates the experimental results with a power conversion efficiency of ~16%",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The role of HTL, ETL, and perovskite absorbing layers along with the influence of their thickness on power conversion parameters viz",
+            "all_materials": [
+                "HTL",
+                "ETL"
+            ],
+            "other_materials": [
+                "HTL",
+                "ETL"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "short-circuit current , open-circuit voltage , fill factor , and power conversion efficacy , have been investigated",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The possible mechanism behind the observed result has been discussed.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Download : Download high-res image Download : Download full-size image",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Organic-inorganic perovskite materials inherit the amazing optoelectronic properties and satisfy the long-term stability requirements for industrial requirements and have been used as transporting layers for efficient perovskite solar cells ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Calcium hexaferrites were recently identified as magnetically stimulated ferroelectrics with a non-collinear magnetic structure and reported to exhibit spontaneous electrical polarization at ambient temperature",
+            "all_materials": [
+                "Calcium hexaferrites"
+            ],
+            "other_materials": [
+                "Calcium hexaferrites"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Large magnetoelectric effects and the coexistence of spontaneous magnetic and electric ordering at ambient temperature were also found in hexaferrites with collinear magnetic structure ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Single-phase and composite ferrite-based materials seem to be both theoretically and practically relevant",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Materials in nanoform are crucial right now because they can have more desirable electrical and magnetic characteristics than their bulk equivalents",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Recently, a lot of research has been done on ferrites in nanoform and the properties of those ferrites",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "There are other classes of functional iron oxide materials with excellent properties which should be suitable for the device ETL/HTL like ferrite, orthoferrite and hexaferrites ,",
+            "all_materials": [
+                "iron oxide",
+                "ETL/HTL"
+            ],
+            "other_materials": [
+                "iron oxide",
+                "ETL/HTL"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Shockley-Queisser\u2019s model predicts that the power conversion efficiency  limit for a single-junction solar cell is about 33.7%  and researchers across the globe are working to reach this limit by adopting different approaches ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Conversely, some approaches and materials that are much more costly involve the use of toxic materials thereby hindering their large-scale production",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Over the past decade, perovskite materials  have attained a great deal of interest, and this material and helped to reach PCE from 3.4 to 25.5%  by optimizing the energy bandgap, absorption coefficient, charge mobility with low exciton binding energy which could impressively decrease the open-circuit voltage and its band gap potential ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, there are many perovskites and doped perovskite materials , CuBi2O4 with unique magnetic and electrical properties ,",
+            "all_materials": [
+                "CuBi2O4"
+            ],
+            "other_materials": [
+                "CuBi2O4"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The experimental and theoretical results suggest that the movement of MA+ and I- ions induced phase segregation in perovskite layers and this might impair the long-term stability of the fabricated device",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Many organic and inorganic HTLs have been used so far to improve stability and power conversion efficiency",
+            "all_materials": [
+                "HTLs"
+            ],
+            "other_materials": [
+                "HTLs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Perovskite solar cells have a planar n-i-p configuration with a hole extraction layer made of many organic materials such as Spiro-OMeTAD, PEDOT:PSS due to their massive hole extraction and transport characteristics, effective charge shuttling  but their hygroscopic nature reduces device stability",
+            "all_materials": [
+                "Spiro-OMeTAD",
+                "PEDOT:PSS"
+            ],
+            "other_materials": [
+                "Spiro-OMeTAD",
+                "PEDOT:PSS"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Recently, the focus has been on solution-processed inorganic HTL  as these have large grain size, oriented crystal growth, and enhanced charge carrier mobility and this is the key to efficient perovskite solar cells",
+            "all_materials": [
+                "HTL"
+            ],
+            "other_materials": [
+                "HTL"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The crucial issue associated with perovskite solar cells is their long-term stability",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Inorganic CaFeO3 has been used as HTL due to its impressive optical properties",
+            "all_materials": [
+                "CaFeO3"
+            ],
+            "other_materials": [
+                "CaFeO3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This manuscript is an attempt in this direction",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "CaFeO3  has been used as HTL to improve the efficiency and stability of the perovskite solar cell",
+            "all_materials": [
+                "CaFeO3"
+            ],
+            "other_materials": [
+                "CaFeO3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The theoretical calculation has been carried out by using SCAPS-1D software in order to understand the sole of HTL.",
+            "all_materials": [
+                "HTL"
+            ],
+            "other_materials": [
+                "HTL"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "All the chemicals and reagents were purchased from Sigma-Aldrich and used as it without any further purification",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The sols of CaFeO3  and ZnO were prepared using calcium nitrate 2.4H2O), ferric nitrate 3.9H2O), zinc acetate dehydrate Zn2.2H2O), sodium hydroxide , ethylene glycol , isopropanol 2CHOH), acetone , deionized water and citric acid",
+            "all_materials": [
+                "CaFeO3",
+                "ZnO",
+                "calcium nitrate 2.4H2O",
+                "ferric nitrate 3.9H2O",
+                "zinc acetate dehydrate Zn2.2H2O",
+                "sodium hydroxide",
+                "ethylene glycol",
+                "isopropanol 2CHOH",
+                "acetone",
+                "water",
+                "citric acid"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "calcium nitrate 2.4H2O",
+                    "start": 48,
+                    "end": 70,
+                    "token_ids": [
+                        9,
+                        10,
+                        11
+                    ]
+                },
+                {
+                    "text": "ferric nitrate 3.9H2O",
+                    "start": 73,
+                    "end": 94,
+                    "token_ids": [
+                        14,
+                        15,
+                        16
+                    ]
+                },
+                {
+                    "text": "zinc acetate dehydrate Zn2.2H2O",
+                    "start": 97,
+                    "end": 128,
+                    "token_ids": [
+                        19,
+                        20,
+                        21,
+                        22
+                    ]
+                },
+                {
+                    "text": "sodium hydroxide",
+                    "start": 131,
+                    "end": 147,
+                    "token_ids": [
+                        25,
+                        26
+                    ]
+                },
+                {
+                    "text": "ethylene glycol",
+                    "start": 150,
+                    "end": 165,
+                    "token_ids": [
+                        28,
+                        29
+                    ]
+                },
+                {
+                    "text": "isopropanol 2CHOH",
+                    "start": 168,
+                    "end": 185,
+                    "token_ids": [
+                        31,
+                        32
+                    ]
+                },
+                {
+                    "text": "acetone",
+                    "start": 188,
+                    "end": 195,
+                    "token_ids": [
+                        35
+                    ]
+                },
+                {
+                    "text": "water",
+                    "start": 208,
+                    "end": 213,
+                    "token_ids": [
+                        38
+                    ]
+                },
+                {
+                    "text": "citric acid",
+                    "start": 218,
+                    "end": 229,
+                    "token_ids": [
+                        40,
+                        41
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "CaFeO3"
+        },
+        {
+            "sentence": "The perovskite absorbing layer was fabricated using lead  iodide and methylamine",
+            "all_materials": [
+                "lead  iodide",
+                "methylamine"
+            ],
+            "other_materials": [
+                "lead  iodide",
+                "methylamine"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                5,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The surface morphology of the different transporting layers is presented in the supplementary information",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "1 shows a cross-sectional SEM view of the solar cell device with the n-i-p configuration FTO/ZnO/MAPbI3/CaFeO3/PtFig",
+            "all_materials": [
+                "FTO/ZnO/MAPbI3/CaFeO3/PtFig"
+            ],
+            "other_materials": [
+                "FTO/ZnO/MAPbI3/CaFeO3/PtFig"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The thickness of the over a layer of MAPbI3 between ZnO/MAPbI3 and CaFeO3 is found to be around 110\u00a0nm, whereas ETL and HTL are around 100\u00a0nm",
+            "all_materials": [
+                "MAPbI3",
+                "ZnO/MAPbI3",
+                "CaFeO3",
+                "ETL",
+                "HTL"
+            ],
+            "other_materials": [
+                "MAPbI3",
+                "ZnO/MAPbI3",
+                "CaFeO3",
+                "ETL",
+                "HTL"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This thickness  of the transporting layers is enough to effectively block the",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In summary, a low-cost inorganic hole extraction layer  has been fabricated and characterized using XRD, XPS, and UV-visible spectroscopy",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                13,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Theoretical and experimental analysis of n-i-p configured solar cells with the structure FTO/ZnO/MAPbI3/CaFeO3/Pt was carried out",
+            "all_materials": [
+                "FTO/ZnO/MAPbI3/CaFeO3/Pt"
+            ],
+            "other_materials": [
+                "FTO/ZnO/MAPbI3/CaFeO3/Pt"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The PCE of the device is found to be 16.80% experimentally with MAPbI3 and CaFeO3 thicknesses of 120 and 110\u00a0nm, respectively",
+            "all_materials": [
+                "MAPbI3",
+                "CaFeO3"
+            ],
+            "other_materials": [
+                "MAPbI3",
+                "CaFeO3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Using the SCAPS simulator, an optimization of thickness was performed which predicted an",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Conceptualization, G",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "L, MS",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "K, SB",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "K, AG-S, A-A",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "TK",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Smethodology, G",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "BL, M",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "G-S, A-AK, S",
+            "all_materials": [
+                "G-S",
+                "A-AK"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "G-S",
+                    "start": 0,
+                    "end": 3,
+                    "token_ids": [
+                        0
+                    ]
+                },
+                {
+                    "text": "A-AK",
+                    "start": 5,
+                    "end": 9,
+                    "token_ids": [
+                        2
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "KK, A",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "ST; software, G",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "BL, M",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "G-S, A-AK, S",
+            "all_materials": [
+                "G-S",
+                "A-AK"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "G-S",
+                    "start": 0,
+                    "end": 3,
+                    "token_ids": [
+                        0
+                    ]
+                },
+                {
+                    "text": "A-AK",
+                    "start": 5,
+                    "end": 9,
+                    "token_ids": [
+                        2
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "KK, A",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "T; validation, G",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "L, MS",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "K, SB",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "K, AG-S, A-A",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "T, JK",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "PK, M",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "G.; formal analysis, G",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "L, MS",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "K, SB",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "K, AG-S, A-A",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "T, JK",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "PK, M",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "G.; investigation, G",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "L, MS",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "K, SB",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "G-S.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "; resources, A G",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "L, MS",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "K, SB",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "G-S; data curation, G",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "L, MS",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "K, SB",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "G-S.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "; writing\u2014original draft preparation, A G",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "L, MS",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "K, SB",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

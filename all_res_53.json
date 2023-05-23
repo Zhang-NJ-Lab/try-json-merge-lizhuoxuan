@@ -1,0 +1,1502 @@
+{
+    "rest": [
+        {
+            "sentence": "AMX3 -type hybrid Perovskite Solar Cells  initiated a promising new generation of Solar Cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Photovoltaics utilizing lead Halide Perovskites  absorbers swiftly have enhanced Power Conversion Efficiencies",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, for materials used in fabricating process of SCs and Solar Energy Conversion , using bio-photonic systems has shown great promise",
+            "all_materials": [
+                "SCs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "SCs"
+        },
+        {
+            "sentence": "Accordingly, plants&#x27; photosynthetic organs have attracted tremendous attention",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "SEC in the photosynthesis organs of plants has indicated a substantial potential towards the advancement of green renewable energy technologies",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The maximum absorption spectrum wavelengths of the principal member of photosynthetic components, the photosystem I  protein complex, are 430\u00a0nm and 665\u00a0nm",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Hence, they act as a complementary mechanism in PeSCs in which the absorption spectrum infirmity is at the 665\u00a0nm wavelength area",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In the present research, we enhance the PeSCs via using the photosystem1 protein complex and present their positive obtained results",
+            "all_materials": [
+                "PeSCs"
+            ],
+            "other_materials": [
+                "PeSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The device&#x27;s absorption spectrum and external quantum efficiency  show advantageous ameliorates",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Hereupon, the PCE of the PeSCs, is optimized from 17.84% to 18.63%.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Download : Download high-res image Download : Download full-size image",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In today&#x27;s research world, solar energy , the most significant renewable energy source, fascinated considerable attention because of being easy access and ceaselessness",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Modern photovoltaic devices are made based on Hybrid Organic-Inorganic Perovskites  with AMX3 structure [, ]; the devices have been investigated as a hot research topic due to supreme photoelectric properties, like significant light absorption coefficients, long charge carrier diffusion length, broad optical band gap, and considerable carrier mobility [4,5]",
+            "all_materials": [
+                "AMX3"
+            ],
+            "other_materials": [
+                "AMX3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Among all of the HOIPs, more practical properties have been released from lead-organic iodide perovskites  than the others",
+            "all_materials": [
+                "HOIPs"
+            ],
+            "other_materials": [
+                "HOIPs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Also, MAPbI3 was evaluated as an outstanding light harvester [, ].",
+            "all_materials": [
+                "MAPbI3"
+            ],
+            "other_materials": [
+                "MAPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In 2008, for fabricating sensitized solar cells, iodide liquid electrolyte, CH3NH3PbI3 and CH3NH3PbBr3 together were used by Miyasaka, and as a result, a PCE above 6% was gained [, ]",
+            "all_materials": [
+                "iodide",
+                "CH3NH3PbI3",
+                "CH3NH3PbBr3"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "iodide",
+                    "start": 49,
+                    "end": 55,
+                    "token_ids": [
+                        9
+                    ]
+                },
+                {
+                    "text": "CH3NH3PbI3",
+                    "start": 76,
+                    "end": 86,
+                    "token_ids": [
+                        13
+                    ]
+                },
+                {
+                    "text": "CH3NH3PbBr3",
+                    "start": 91,
+                    "end": 102,
+                    "token_ids": [
+                        15
+                    ]
+                }
+            ],
+            "operation": [
+                4,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As organometal HPe is considered a kind of ionic crystal, it can easily dis-solve into an iodic electrolyte",
+            "all_materials": [
+                "HPe"
+            ],
+            "other_materials": [
+                "HPe"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To solve the problem of instability, spiro-OMeTAD was brought forward by Park as a kind of hole transport material  to replace the liquid iodide electrolyte, plus a PCE overstepping of 9% was obtained",
+            "all_materials": [
+                "spiro-OMeTAD"
+            ],
+            "other_materials": [
+                "spiro-OMeTAD"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "From that moment on, research on PeSCs was began to intensify, which included searching about the mechanisms of these devices, synthesizing the materials used in this fieldwork, and expanding various fabrication methods which can increase PeSCs efficiency [, ].",
+            "all_materials": [
+                "PeSCs",
+                "PeSCs"
+            ],
+            "other_materials": [
+                "PeSCs",
+                "PeSCs"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                23,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To increase the quality of the perovskite layers\u2019 morphology plus, consequently, a higher PCE, Burschka et al",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "presented a new two-step sequential deposition method",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "At first, PbI2 is turned into a nanoporous TiO2 film, and afterwards, by exposing it to a solution of CH3NH3I, it is converted to MAPbI3",
+            "all_materials": [
+                "PbI2",
+                "TiO2",
+                "CH3NH3I",
+                "MAPbI3"
+            ],
+            "other_materials": [
+                "PbI2",
+                "TiO2",
+                "CH3NH3I",
+                "MAPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "If the PbI2 crystal morphology is properly controlled, then the perovskite layer morphology is adjustable; consequently, the highest PCE of 15% has been obtained",
+            "all_materials": [
+                "PbI2"
+            ],
+            "other_materials": [
+                "PbI2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Efficiencies have quickly risen to over 18% in a concise time by highly efficient PeSCs fabrication procedures such a small increase in methylammonium iodide  molar proportion and directly mixing MAPbI3, PbCl2, and MAI methods [, ].",
+            "all_materials": [
+                "PeSCs",
+                "methylammonium iodide",
+                "MAPbI3",
+                "PbCl2",
+                "MAI"
+            ],
+            "other_materials": [
+                "methylammonium iodide",
+                "MAPbI3"
+            ],
+            "precursors": [
+                {
+                    "text": "PbCl2",
+                    "start": 204,
+                    "end": 209,
+                    "token_ids": [
+                        32
+                    ]
+                },
+                {
+                    "text": "MAI",
+                    "start": 215,
+                    "end": 218,
+                    "token_ids": [
+                        35
+                    ]
+                }
+            ],
+            "operation": [
+                29,
+                "Mixing"
+            ],
+            "targets": "PeSCs"
+        },
+        {
+            "sentence": "Plus, thin layers made of perovskite materials are used both as charge carrier transporter and light absorber",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To make high-efficiency PeSCs, it is necessary to deposit the perovskite thin-layer films with high quality; because the quality of the perovskite layer, its morphology, and crystallite domains are very important in the final characteristics of PeSCs [22,23].",
+            "all_materials": [
+                "PeSCs",
+                "PeSCs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PeSCs"
+        },
+        {
+            "sentence": "In addition to morphological modification, enhancement of absorption of PeSCs has always been researchers&#x27; concern",
+            "all_materials": [
+                "PeSCs"
+            ],
+            "other_materials": [
+                "PeSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Despite the mentioned advances in the field of morphological modification and achieving uniform films, there has been a slight increase in the absorption spectrum increment of PeSCs, especially in the area of the blue light absorption spectrum [24,25].",
+            "all_materials": [
+                "PeSCs"
+            ],
+            "other_materials": [
+                "PeSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "At the same time, the research which recently has been done on SEC focused on the photosynthetic organs of plants\u2019 application as the photosensitizer",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As their absorption spectrum is maximum in both blue and red light spans",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Also, they can enhance the other kind of SCs",
+            "all_materials": [
+                "SCs"
+            ],
+            "other_materials": [
+                "SCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "During photosynthesis actions which occur on our planet, photosynthesizing organisms prepare their needed energy supply as well as the other kinds of living Creatures; actually, they turn solar energy into chemical energy [, ].",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Plants&#x27; leaf cells absorb light by using their photosynthesis centre and provide specific energy variation that goes to chemical activities, potential, and current output being essential for carbohydrate molecular synthesis [29,30]",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The photosynthesis process is accomplished in two different steps",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As the first one, which is named Light Step , the photosynthetic organs absorb light that leads to providing potential and configuring the ATP and NADPH molecules",
+            "all_materials": [
+                "ATP",
+                "NADPH"
+            ],
+            "other_materials": [
+                "ATP",
+                "NADPH"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "During the second step, there is no need for light, and this is the reason why this stage is called Dark; actually, using carbon dioxide, ATP, and NADPH, as proton source molecules, the process of synthesizing carbohydrate molecules is accomplished",
+            "all_materials": [
+                "carbon dioxide",
+                "ATP",
+                "NADPH"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "carbon dioxide",
+                    "start": 122,
+                    "end": 136,
+                    "token_ids": [
+                        27,
+                        28
+                    ]
+                },
+                {
+                    "text": "ATP",
+                    "start": 138,
+                    "end": 141,
+                    "token_ids": [
+                        30
+                    ]
+                },
+                {
+                    "text": "NADPH",
+                    "start": 147,
+                    "end": 152,
+                    "token_ids": [
+                        33
+                    ]
+                }
+            ],
+            "operation": [
+                43,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As the molecules of oxygen involved in the breakdown of water molecules are high in this process, this process is called oxygenic",
+            "all_materials": [
+                "water"
+            ],
+            "other_materials": [
+                "water"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Then, after passing million years, releasing oxygen resulting from the photosynthesis process provides the earth&#x27;s atmosphere oxygen",
+            "all_materials": [
+                "oxygen"
+            ],
+            "other_materials": [
+                "oxygen"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The oxygenic photosynthesis process has been specified by the process below:CO2+H2O+h\u03c5\u2192[CH2O]+O2Where the absorbed photon&#x27;s energy has been mentioned by h\u03c5",
+            "all_materials": [
+                "CO2+H2O+h\u03c5\u2192[CH2O]+O2Where"
+            ],
+            "other_materials": [
+                "CO2+H2O+h\u03c5\u2192[CH2O]+O2Where"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In the thylakoid located inside the plants&#x27; leaf cells&#x27; chloroplast, the LS in oxygenic photosynthesis comes to pass",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In fact, occurring in a chain-like process, LS is enzymatic activities having been catalyzed by four transmembrane protein enzymes: PS1, Photosystem II , Cytochrome b6f, and ATP synthesis [, ].",
+            "all_materials": [
+                "LS",
+                "PS1",
+                "Cytochrome b6f",
+                "ATP"
+            ],
+            "other_materials": [
+                "LS",
+                "PS1",
+                "Cytochrome b6f",
+                "ATP"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In 1999, Robert Carpenter presented a paper in which, for the first time, the isolated thylakoid was utilized from spinach leaves as a photosensitizer",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This bio-layer within the device was placed with no moderator",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Accordingly, the generated current must directly transfer to the electrodes.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Also, to produce a photo sensor  or even Biohybrid Solar Cells , related research groups, as a photosensitizer, have isolated and applied the PS1 protein complex",
+            "all_materials": [
+                "PS1"
+            ],
+            "other_materials": [
+                "PS1"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "These BHSCs are applying mediated electron transfer structures for generating more charge transfer by PS1 protein.",
+            "all_materials": [
+                "BHSCs",
+                "PS1"
+            ],
+            "other_materials": [
+                "BHSCs",
+                "PS1"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Instead of thylakoid, applying PS1 protein has remarkable benefits",
+            "all_materials": [
+                "thylakoid",
+                "PS1"
+            ],
+            "other_materials": [
+                "thylakoid",
+                "PS1"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Suchlike photosensitizer organs are closer to the electrodes; hence generated electrons\u2019 transfer gets better, and via using PS1 protein, there is less efficacy exerted by the other members of the electron transfer chain [, ].",
+            "all_materials": [
+                "PS1"
+            ],
+            "other_materials": [
+                "PS1"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In spite of the fact that till today much research has been done to increase perovskite solar cell efficiency, there is still a deficiency of red range absorption of PeSCs absorption spectrum",
+            "all_materials": [
+                "PeSCs"
+            ],
+            "other_materials": [
+                "PeSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this paper, the fabricated device was a MAPBI3-based high-efficient perovskite solar cell, and PS1 was applied within the layered structure as an optimizer layer",
+            "all_materials": [
+                "PS1"
+            ],
+            "other_materials": [
+                "PS1"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "High efficient perovskite solar cell was achieved by a tiny increment in methylammonium iodide  molar proportion  for perovskite fabrication in nitrogen-filled glove box [37,38]",
+            "all_materials": [
+                "methylammonium iodide"
+            ],
+            "other_materials": [
+                "methylammonium iodide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "MAPBI3, compared to FAPBI3, has a better LUMO alignment with PS1",
+            "all_materials": [
+                "MAPBI3",
+                "FAPBI3",
+                "LUMO",
+                "PS1"
+            ],
+            "other_materials": [
+                "MAPBI3",
+                "FAPBI3",
+                "LUMO",
+                "PS1"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "1b, MAPBI3&#x27;s Lowest Unoccupied Molecular Orbital  and PS1&#x27;s LUMO are in apt adaptability, so they result in fantastic electron transfer, which the electrons were generated by PS1Based on Fig",
+            "all_materials": [
+                "LUMO"
+            ],
+            "other_materials": [
+                "LUMO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As a result, open circuit voltage improvement by using MAPBI3 as a perovskite active layer illustrates a further increase in comparison with FAPBI3",
+            "all_materials": [
+                "MAPBI3",
+                "FAPBI3"
+            ],
+            "other_materials": [
+                "MAPBI3",
+                "FAPBI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "After using PS1 in the PeSC with a structure of FTO/ETL/Perovskite Film/PS1/HTL/Ag, performance enhancement was observed",
+            "all_materials": [
+                "PS1",
+                "PeSC",
+                "FTO/ETL/Perovskite Film/PS1/HTL/Ag"
+            ],
+            "other_materials": [
+                "PeSC",
+                "FTO/ETL/Perovskite Film/PS1/HTL/Ag"
+            ],
+            "precursors": [
+                {
+                    "text": "PS1",
+                    "start": 12,
+                    "end": 15,
+                    "token_ids": [
+                        2
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Absorption and EQE of the device have shown advantageously recuperates, and PCE of PeSC was increased from 17.84% to 18.63%",
+            "all_materials": [
+                "PeSC"
+            ],
+            "other_materials": [
+                "PeSC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In comparison with conventional analogous systems, this increase can be considered as a fantastic improvement.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "First of all, to isolate PS1 proteins, the leaves of the spinach must be shredded; then, the prepared leaves and buffer A containing Tricine and Sucrose were mixed together",
+            "all_materials": [
+                "PS1",
+                "Tricine",
+                "Sucrose"
+            ],
+            "other_materials": [
+                "PS1"
+            ],
+            "precursors": [
+                {
+                    "text": "Tricine",
+                    "start": 133,
+                    "end": 140,
+                    "token_ids": [
+                        27
+                    ]
+                },
+                {
+                    "text": "Sucrose",
+                    "start": 145,
+                    "end": 152,
+                    "token_ids": [
+                        29
+                    ]
+                }
+            ],
+            "operation": [
+                31,
+                "Mixing"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Then, the solution got filtered and centrifuged with 25,000\u00a0g; for penetrating into the chloroplast membrane by friction in the homogenizer, buffer B containing EDTA and Tricine was applied.",
+            "all_materials": [
+                "chloroplast",
+                "EDTA",
+                "Tricine"
+            ],
+            "other_materials": [
+                "chloroplast",
+                "EDTA",
+                "Tricine"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this step, the chloroplast membrane was separated by 27000\u00a0g centrifuging",
+            "all_materials": [
+                "chloroplast"
+            ],
+            "other_materials": [
+                "chloroplast"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "After that, a Tritonx-100 was applied to penetrate into",
+            "all_materials": [
+                "Tritonx-100"
+            ],
+            "other_materials": [
+                "Tritonx-100"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The energy band diagram and device structure of the FTO/bl TiO2/Meso TiO2/perovskite/PS1/spiro/Au SC have been shown in Fig",
+            "all_materials": [
+                "FTO/bl TiO2/Meso TiO2/perovskite/PS1/spiro/Au SC"
+            ],
+            "other_materials": [
+                "FTO/bl TiO2/Meso TiO2/perovskite/PS1/spiro/Au SC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "1a and b, respectively",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The process of transferring electric charge can be seen in Fig",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "1b.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The generated electrons are extracted from the FTO, and the holes are extracted from the Au electrode",
+            "all_materials": [
+                "FTO",
+                "Au"
+            ],
+            "other_materials": [
+                "FTO",
+                "Au"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The electrons generated in the PS protein are transferred to the LUMO of MABbI3 and TiO2 and then to ITO",
+            "all_materials": [
+                "LUMO",
+                "MABbI3",
+                "TiO2",
+                "ITO"
+            ],
+            "other_materials": [
+                "LUMO",
+                "MABbI3",
+                "TiO2",
+                "ITO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Also, to transfer the hole, according to Fig",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "1b, it is transferred from",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In conclusion, a perovskite solar cell performance enhancement was obtained by utilizing photosystem I protein",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The PS1 absorption spectrum characteristics resulted in an improvement of perovskite active layer absorption spectrum, and EQE of the device have shown advantageously recuperates and led to solar cells efficiency improvement from 17.84% to 18.63%",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this research, by using MAPBI3 instead of FAPBI3, the improved charge transfers from photosystem I to the perovskite active layer were",
+            "all_materials": [
+                "MAPBI3",
+                "FAPBI3"
+            ],
+            "other_materials": [
+                "MAPBI3",
+                "FAPBI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Kun He: Project administration, Conceptualization, Language review",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Chengbo Zheng: Validation, Language review, Formal analysis",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Shahriar Mohammadi: Methodology, Formal analysis, Methodology, Writing \u2013 original draft, writter.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We study the interaction between two quantum emitters connected through vanadium dioxide  which exhibits a first-order metal\u2013insulator transition",
+            "all_materials": [
+                "vanadium dioxide"
+            ],
+            "other_materials": [
+                "vanadium dioxide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The experimental data describing the dielectric function of VO2 in this study are collected from previously published works",
+            "all_materials": [
+                "VO2"
+            ],
+            "other_materials": [
+                "VO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The radiative states denoted as decay factor of two quantum emitters in the reflection and transmission configurations are investigated in detail",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We find that the interconversion of the superradiant and subradiant states can easily be achieved in both configurations by controlling the temperature of VO2",
+            "all_materials": [
+                "VO2"
+            ],
+            "other_materials": [
+                "VO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The transition of decay factors from insulator to metal  and metal to insulator  follows different paths",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "These factors exhibit hysteresis phenomenon and form a hysteresis loop",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We also find that the decay factor in either the heating or cooling process increases sharply and reaches a maximum value at the phase transition temperature",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                12,
+                "QuenchingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The temperature-modulated superradiance obtained in this work offers a new efficient method to control the interaction between quantum emitters.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The incorporation of trivalent  and pentavalent  ions into nano-sized TiO2 structure critically improved the visible light absorption and the photodegradation characteristics toward mordant black 17 and Congo red  dyes as model organic pollutants",
+            "all_materials": [
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The X-ray diffraction  proved that pure TiO2 and Ti0\u00b797In0\u00b703O2 powders have a single tetragonal anatase phase structure while Ti0\u00b797Sb0\u00b703O2 and Ti0\u00b794In0\u00b703Sb0\u00b703O2 compositions possess mixed phases of anatase and brookite",
+            "all_materials": [
+                "TiO2",
+                "Ti0\u00b797In0\u00b703O2",
+                "Ti0\u00b797Sb0\u00b703O2",
+                "Ti0\u00b794In0\u00b703Sb0\u00b703O2",
+                "brookite"
+            ],
+            "other_materials": [
+                "TiO2",
+                "Ti0\u00b797In0\u00b703O2",
+                "Ti0\u00b797Sb0\u00b703O2",
+                "Ti0\u00b794In0\u00b703Sb0\u00b703O2",
+                "brookite"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The sacnning electron microscope  images displays that Ti0\u00b794In0\u00b703Sb0\u00b703O2 powder has fine and homogenous particles",
+            "all_materials": [
+                "Ti0\u00b794In0\u00b703Sb0\u00b703O2"
+            ],
+            "other_materials": [
+                "Ti0\u00b794In0\u00b703Sb0\u00b703O2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The transmission electron microscope  images confirmed that Ti0.94In0\u00b703Sb0\u00b703O2 powder hasthe lowest mean particles size of 20\u00a0nm",
+            "all_materials": [
+                "Ti0.94In0\u00b703Sb0\u00b703O2"
+            ],
+            "other_materials": [
+                "Ti0.94In0\u00b703Sb0\u00b703O2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The visible light response of TiO2 is significantly enhanced owing to addition of Sb5+ and In3/Sb5+ions",
+            "all_materials": [
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The calculated band gap energies of TiO2, Ti0\u00b797In0\u00b703O2, Ti0\u00b797Sb0\u00b703O2 and Ti0\u00b794In0\u00b703Sb0\u00b703O2 samples are 3.35, 3.21, 2.97 and 2.91\u00a0eV, respectively",
+            "all_materials": [
+                "TiO2",
+                "Ti0\u00b797In0\u00b703O2",
+                "Ti0\u00b797Sb0\u00b703O2",
+                "Ti0\u00b794In0\u00b703Sb0\u00b703O2"
+            ],
+            "other_materials": [
+                "TiO2",
+                "Ti0\u00b797In0\u00b703O2",
+                "Ti0\u00b797Sb0\u00b703O2",
+                "Ti0\u00b794In0\u00b703Sb0\u00b703O2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The engineering of the optical characteristics powerfully boosted the photocatalytic charcteristics of Ti0\u00b797Sb0\u00b703O2 and Ti0\u00b794In0\u00b703Sb0\u00b703O2 catalysts under natural sunlight irradiation",
+            "all_materials": [
+                "Ti0\u00b797Sb0\u00b703O2",
+                "Ti0\u00b794In0\u00b703Sb0\u00b703O2"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "Ti0\u00b797Sb0\u00b703O2"
+        },
+        {
+            "sentence": "Both samples exhibit photocatalytic efficiencies of 89 and 97% toward 30\u00a0ppm mordant black 17 solution under sunlight irradation in 60\u00a0min, respectively",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As well, Ti0\u00b797Sb0\u00b703O2 and Ti0\u00b794In0\u00b703Sb0\u00b703O2 catalysts show high photo-degradation efficiencies of 81 and 86% toward 15\u00a0ppm CR after sunlight irradation for 80\u00a0min",
+            "all_materials": [
+                "Ti0\u00b797Sb0\u00b703O2",
+                "Ti0\u00b794In0\u00b703Sb0\u00b703O2"
+            ],
+            "other_materials": [
+                "Ti0\u00b797Sb0\u00b703O2",
+                "Ti0\u00b794In0\u00b703Sb0\u00b703O2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The enhanced degradation properties of the nanocrystalline Ti0\u00b794In0\u00b703Sb0\u00b703O2 catalyst may be related to high separation of charge carriers, oxygen vacancies generation and good visible light response",
+            "all_materials": [
+                "Ti0\u00b794In0\u00b703Sb0\u00b703O2"
+            ],
+            "other_materials": [
+                "Ti0\u00b794In0\u00b703Sb0\u00b703O2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For three cycles, Ti0\u00b794In0\u00b703Sb0\u00b703O2 catalyst reveals high photodegradation activity within 89\u201397% for 30\u00a0ppm mordant black 17 dye under the same circumstances, demonstrating good photostability.",
+            "all_materials": [
+                "Ti0\u00b794In0\u00b703Sb0\u00b703O2",
+                "17"
+            ],
+            "other_materials": [
+                "Ti0\u00b794In0\u00b703Sb0\u00b703O2",
+                "17"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this study, TiO2\u2013Bi2WO6  heterojunctions were synthesized by solvothermal method, nano-Ag was reduced by \u03b3-ray irradiation, and a series of Ag\u2013TiO2\u2013Bi2WO6  composite photocatalysts with different nano-Ag usage were constructed by chemical deposition and freeze-dried",
+            "all_materials": [
+                "TiO2\u2013Bi2WO6",
+                "nano-Ag",
+                "Ag\u2013TiO2\u2013Bi2WO6",
+                "nano-Ag"
+            ],
+            "other_materials": [
+                "nano-Ag",
+                "nano-Ag"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                [
+                    7,
+                    "StartingSynthesis"
+                ],
+                [
+                    38,
+                    "DryingOperation"
+                ]
+            ],
+            "targets": "TiO2\u2013Bi2WO6"
+        },
+        {
+            "sentence": "The microstructure, crystalline phase composition, chemical composition, and light absorption properties of ATB were characterized, and its photocatalytic bacterial inhibition performance was analyzed against Escherichia coli",
+            "all_materials": [
+                "ATB",
+                "coli"
+            ],
+            "other_materials": [
+                "ATB",
+                "coli"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The results showed that the proportion of nano-Ag significantly improved the photocatalytic inhibition performance of ATB against E",
+            "all_materials": [
+                "nano-Ag",
+                "ATB"
+            ],
+            "other_materials": [
+                "nano-Ag",
+                "ATB"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "coli, and the highest inhibition rate of ATB against E",
+            "all_materials": [
+                "ATB",
+                "E"
+            ],
+            "other_materials": [
+                "ATB",
+                "E"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "coli  was achieved when the Ag proportion was 15%, which was 2.5 times higher than that of TB",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The improved photocatalytic inhibition performance of ATB was attributed to the combination of the interlaced heterostructure, SPR effect, and Schottky barriers, which narrowed the forbidden bandwidth, promoted the separation of electron-hole pairs, and generated a large number of reactive radicals such as h+, \u2022O2-, and \u2022OH under visible light",
+            "all_materials": [
+                "ATB",
+                "\u2022O2-",
+                "\u2022OH"
+            ],
+            "other_materials": [
+                "ATB",
+                "\u2022O2-",
+                "\u2022OH"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Influenced by this, the microbial cell structure was broken and inducted into the E",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                9,
+                "Mixing"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The results provided a novel photocatalyst in photocatalytic antibacterial research.coli apoptosis",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Tail state Urbach energy caused by the molecular disorder and stacking plays a crucial role for obtaining efficient organic solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, we proposed a theoretical and experimental method to adjust the Urbach energy  of organic photoactive materials",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Simulation results show that the EU of 32\u00a0meV for PM6:Y6-based single junction  OSCs can enhance Jsc and FF significantly, and thus achieving a high photovoltaic conversion efficiency  of 18.03%",
+            "all_materials": [
+                "PM6:Y6"
+            ],
+            "other_materials": [
+                "PM6:Y6"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Interestingly, further decreasing EU within a certain range cannot increase device efficiency obviously, and EU cannot be close to 0\u00a0meV in consideration of the molecule disorder of organic material",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Under the guidance of theoretical design, the ternary component IEICO-4F was introduced to optimize EU Experimental results show that the optimized EU is obtained upon introducing of IEICO-4F, and a championed PCE of 16.61% is achieved when EU is about 25.80\u00a0meV for SJ-OSCs",
+            "all_materials": [
+                "IEICO-4F",
+                "EU",
+                "EU",
+                "IEICO-4F",
+                "SJ-OSCs"
+            ],
+            "other_materials": [
+                "IEICO-4F",
+                "EU",
+                "EU",
+                "IEICO-4F",
+                "SJ-OSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Tandem solar cells  reach an experimental PCE of 18.57% when EU is about 27.46\u00a0meV, which facilitates current matching between the front and rear sub-cells.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The phases formed and crystallinity of the x1-x0.33 mixed perovskite films with or without n-Octylammonium iodide  were investigated using X-ray diffraction technique",
+            "all_materials": [
+                "n-Octylammonium iodide"
+            ],
+            "other_materials": [
+                "n-Octylammonium iodide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The effects of passivation and MAPbBr3 on the linear optical parameters and emitted colors of the formed films were explored using UV-spectrophotometer and photoluminescence techniques",
+            "all_materials": [
+                "MAPbBr3"
+            ],
+            "other_materials": [
+                "MAPbBr3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Films without MAPbBr3  have optical band gap value of 1.55 and 1.54\u00a0eV, respectively",
+            "all_materials": [
+                "MAPbBr3"
+            ],
+            "other_materials": [
+                "MAPbBr3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This value was increased to 1.58 and 1.56\u00a0eV as the amount of MAPbBr3 increased to 5% in the case of films without or with OAI, respectively",
+            "all_materials": [
+                "MAPbBr3",
+                "OAI"
+            ],
+            "other_materials": [
+                "MAPbBr3",
+                "OAI"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Film  with 5% MAPbBr3 and films  with 3 and 5% MAPbBr3 have the highest nonlinear optical parameters in the visible range",
+            "all_materials": [
+                "MAPbBr3",
+                "MAPbBr3"
+            ],
+            "other_materials": [
+                "MAPbBr3",
+                "MAPbBr3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The power conversion efficiency  value increased to its maximum  as the film has an OAI layer and is Br ion free.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this research work, the optimized Fibonacci, Thue-Mors, and Gaussian-based aperiodic arrays of plasmonic nanoparticles were studied to improve the performance of thin perovskite solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here, the effect of different types of deterministic aperiodic plasmonic arrays on the optical properties of perovskite absorbers is analyzed",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "At first, different polytypes of perovskite material consistent 2PbI4, CH3NH3FeI2Br, CH3NH3FeI3, CH3NH3PbBr3, CH3NH3PbCl3, and CH3NH3PbI3 as the active layer of a solar cell were analyzed",
+            "all_materials": [
+                "2PbI4",
+                "CH3NH3FeI2Br",
+                "CH3NH3FeI3",
+                "CH3NH3PbBr3",
+                "CH3NH3PbCl3",
+                "CH3NH3PbI3"
+            ],
+            "other_materials": [
+                "2PbI4",
+                "CH3NH3FeI2Br",
+                "CH3NH3FeI3",
+                "CH3NH3PbBr3",
+                "CH3NH3PbCl3",
+                "CH3NH3PbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The results show that CH3NH3PbI3 has higher absorption spectra than other cases",
+            "all_materials": [
+                "CH3NH3PbI3"
+            ],
+            "other_materials": [
+                "CH3NH3PbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Then, different types of metals  as the form of periodic arrays are simulated and Ag was selected to form our arrays according to the Fibonacci, Thue-Mors, Gaussian, and periodic array arrangement",
+            "all_materials": [
+                "Ag"
+            ],
+            "other_materials": [
+                "Ag"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To form such arrays, 36 nanoparticles per cell were used and the effect of network constant  was evaluated",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Our results confirm that all cases of the Fibonacci, Thue-Mors, and Gaussian arrangement improve the photocurrent, while the photocurrent of the Thue-Mors arrangement is higher than in other cases",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "These findings reveal that it is possible to improve the performance of perovskite solar cells using a realistic plasmonic array.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

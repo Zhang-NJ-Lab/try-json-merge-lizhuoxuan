@@ -1,0 +1,1409 @@
+{
+    "rest": [
+        {
+            "sentence": "Silicon  solar cell efficiently convert solar energy into electricity under the sun illumination, but its inherent intermittent power generation due to diurnal and seasonal cycle has usually allowed for the requirement for alternative power sources",
+            "all_materials": [
+                "Silicon"
+            ],
+            "other_materials": [
+                "Silicon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Owing to the abundance, diversity and availability, rain drop energy is one of the most promising green energy sources",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Hence, hybrid energy harvesting could be a promising strategy of achieving preferential hybrid performances without sacrificing the advantages in individual devices",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, we proposed a hybrid solar and rain energy harvesting device featuring the integration of triboelectric nanogenerator  top-cell and a crystalline Si solar cell bottom-cell by laminating perovskite quantum dots-embedded polydimethylsiloxane composite film  onto the Si solar cell, which endows enhanced electrical output performances under rainy days",
+            "all_materials": [
+                "Si",
+                "polydimethylsiloxane",
+                "Si"
+            ],
+            "other_materials": [
+                "Si",
+                "polydimethylsiloxane",
+                "Si"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To overcome the limitation of low external quantum efficiency  in the ultraviolet region of the Si solar cell, the PCE of the hybrid solar cell is significantly enhanced from 18.47% of bare Si solar cell to 20.16% owing to the anti-reflection effect of PQDP film and the down-conversion property of CsPbBr3 QDs doped with Ce3+ ions",
+            "all_materials": [
+                "Si",
+                "PQDP",
+                "CsPbBr3"
+            ],
+            "other_materials": [
+                "Si",
+                "PQDP",
+                "CsPbBr3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Meanwhile, this hybrid solar cell presents excellent durability after continuous measurement over 7 days",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This tandem hybrid solar cell provides a promising strategy to simultaneously scavenging the solar and rain energy and boosting the power conversion efficiency by introducing the perovskite QDs without affecting the efficiency of bare Si solar cell.",
+            "all_materials": [
+                "Si"
+            ],
+            "other_materials": [
+                "Si"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Download : Download high-res image Download : Download full-size image",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "With the massive growth of population and the advancement of science and technology, traditional fossil energies can no longer meet the energy needs of today&#x27;s society",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "If effective measures are not taken in time, it will eventually bring indelible damage to earth",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As the largest developing country today, China closely follows the pace of the world and proposes to achieve the goal of \u201ccarbon neutrality\u201d by 2060 , which calls for new techniques to facilitate the transition from carbon-intensive fossil fuel-based energy to green, low-carbon and renewable energy",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Solar energy is the cleanest and most abundant renewable energy source available on the earth, which can be harnessed by solar cells based on photovoltaic effect with relatively high conversion efficiency ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, its inherent intermittent power generation of traditional silicon  solar cell due to diurnal and seasonal cycle has usually called for the requirement for alternative generation sources",
+            "all_materials": [
+                "silicon"
+            ],
+            "other_materials": [
+                "silicon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Water energy in the form of raindrops is another green energy sources owing to its abundance, diversity and availability, particularly the large amount remains underutilized",
+            "all_materials": [
+                "Water"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "Water",
+                    "start": 0,
+                    "end": 5,
+                    "token_ids": [
+                        0
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Triboelectric nanogenerator , since its discovery in 2012, has been widely developed to harvest untapped raindrop energy based on the coupling between triboelectric and electrostatic induction effects , which enables the hybrid energy harvesting is expected to break through the limitation that Si solar cell cannot almost generate electricity under rainy days.",
+            "all_materials": [
+                "Si"
+            ],
+            "other_materials": [
+                "Si"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In spite of extensive efforts have been made in recent years , the attainment of efficient electricity generation and power conversion efficiency for individual hybrid device is still difficult",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Generally, the fabrication of such hybrid devices require consideration of three critical factors",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Firstly, the TENG that harvests raindrop energy must possess high transparency and maintain the power conversion efficiency without sacrificing the light absorption of solar cell; Secondly, the triboelectrification layer of TENG requires dielectrics with high electronegativity to generate abundant surface charges once the raindrops slip off; Thirdly, endowing the triboelectrification layer with anti-reflection function could undoubtedly enhance the power generation efficiency of Si solar cell, which in turn improves the hybrid energy conversion efficiency",
+            "all_materials": [
+                "TENG",
+                "Si"
+            ],
+            "other_materials": [
+                "TENG",
+                "Si"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Guided by the abovementioned criteria, great endeavors have been made towards easy droplet detachment by tailoring surface wettability",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For example, the hybrid tandem TENG/Si solar cell decorated with patterned microbowl-array structure  and nanowrinkled polydimethylsiloxane   surfaces as well as Moth\u2019s eye mimicking quartz glass , which all demonstrates excellent droplet repellency and improved water energy harvesting performances",
+            "all_materials": [
+                "polydimethylsiloxane",
+                "quartz",
+                "water"
+            ],
+            "other_materials": [
+                "polydimethylsiloxane",
+                "quartz",
+                "water"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the patterned surfaces that simply superimposed on the Si solar cell would significantly affect the transmittance and resulted in a reduced power conversion efficiency of solar cell",
+            "all_materials": [
+                "Si"
+            ],
+            "other_materials": [
+                "Si"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "On the other hand, most of the reported works adopting single-electrode mode for scavenging the raindrop energy, leading to a relatively low energy conversion efficiency of TENG and difficulty in energy compensation for the Si solar cell under rainy days.",
+            "all_materials": [
+                "TENG",
+                "Si"
+            ],
+            "other_materials": [
+                "TENG",
+                "Si"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, a tandem TENG/Si hybrid solar cell is developed by overlaying a top perovskite quantum dots-embedded polydimethylsiloxane  film based TENG on the bottom monocrystalline Si solar cell towards scavenging raindrop energy and solar energy simultaneously",
+            "all_materials": [
+                "TENG/Si",
+                "polydimethylsiloxane",
+                "TENG",
+                "Si"
+            ],
+            "other_materials": [
+                "polydimethylsiloxane",
+                "TENG",
+                "Si"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "TENG/Si"
+        },
+        {
+            "sentence": "The transparent PQDP composite film is introduced as a dual-functional layer, working as the triboelectrification charge density enhancement layer for raindrop energy harvesting as well as a down-conversion functional layer by converting the ultraviolet light that cannot be absorbed by Si cells",
+            "all_materials": [
+                "PQDP",
+                "Si"
+            ],
+            "other_materials": [
+                "PQDP",
+                "Si"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, the luminescence intensity of QDs and the down-conversion performance can be significantly increased through further doping perovskite QDs with Ce3+ ions",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "At an optimal perovskite QDs loading, the champion device delivered a peak open-circuit voltage and a short-circuit current of 80.5\u00a0V and 21.5\u03bcA per raindrop, respectively",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, the power conversion efficiency of crystalline Si solar cell has also been improved reaching 20.16% under air mass global  simulated sunlight irradiation in comparison to 18.47% for the bared cell",
+            "all_materials": [
+                "Si",
+                "air"
+            ],
+            "other_materials": [
+                "Si",
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work can not only improve the conversion efficiency of Si solar cells, but also adopt rainwater energy harvesting compensation measures to make up for the defect of low power generation efficiency of cells in rainy days",
+            "all_materials": [
+                "Si"
+            ],
+            "other_materials": [
+                "Si"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work provides a promising strategy to simultaneously scavenging the solar and rain energy and boosting the power conversion efficiency by overcoming the limitation of low external quantum efficiency in the UV region of the Si solar cell through introducing the perovskite QDs based dual-functional layer.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To fabricate the PQDP composite film, the perovskite QDs are synthesized firstly through a thermal injection methodology according to previously reported approach  as demonstrated on Fig",
+            "all_materials": [
+                "PQDP"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                11,
+                "StartingSynthesis"
+            ],
+            "targets": "PQDP"
+        },
+        {
+            "sentence": "1a, high-performance perovskite QDs are extracted by layer-by-layer purification and washing process",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The transmission electron microscope  images of CsPbBr3 QDs are demonstrated in Fig",
+            "all_materials": [
+                "CsPbBr3"
+            ],
+            "other_materials": [
+                "CsPbBr3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "1b, which indicates that the cubic QDs nanoparticles were successfully",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In summary, a PQDP-TENG/Si tandem hybrid solar cell is developed by integrating the crystalline Si solar cell and PQDP based TENG, successfully realizing the hybrid energy harvesting of rain and solar energy as well as boosting the power conversion efficiency",
+            "all_materials": [
+                "PQDP-TENG/Si",
+                "Si",
+                "TENG"
+            ],
+            "other_materials": [
+                "Si",
+                "TENG"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PQDP-TENG/Si"
+        },
+        {
+            "sentence": "By embedding the CsPbBr3 QDs into the PDMS film, the overall dripping performance including VOC, ISC and peak power density of the PQDP based TENG can reach 80.5\u2009V, 20.3 \u03bcA and 1.27\u2009W\u2009m\u22122, respectively, which improves 23.8% compared to",
+            "all_materials": [
+                "CsPbBr3",
+                "PDMS"
+            ],
+            "other_materials": [
+                "CsPbBr3",
+                "PDMS"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Cesium carbonate , lead iodide  and cerium bromide  were obtained from Aladdin",
+            "all_materials": [
+                "Cesium carbonate",
+                "lead iodide",
+                "cerium bromide"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "Cesium carbonate",
+                    "start": 0,
+                    "end": 16,
+                    "token_ids": [
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "text": "lead iodide",
+                    "start": 19,
+                    "end": 30,
+                    "token_ids": [
+                        3,
+                        4
+                    ]
+                },
+                {
+                    "text": "cerium bromide",
+                    "start": 36,
+                    "end": 50,
+                    "token_ids": [
+                        6,
+                        7
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Oleic acid , oleylamine , lead bromide  n-hexane  and methylacetate  were purchased from Macklin",
+            "all_materials": [
+                "Oleic acid",
+                "oleylamine",
+                "lead bromide  n-hexane",
+                "methylacetate"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "Oleic acid",
+                    "start": 0,
+                    "end": 10,
+                    "token_ids": [
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "text": "oleylamine",
+                    "start": 13,
+                    "end": 23,
+                    "token_ids": [
+                        3
+                    ]
+                },
+                {
+                    "text": "lead bromide  n-hexane",
+                    "start": 26,
+                    "end": 48,
+                    "token_ids": [
+                        5,
+                        6,
+                        7
+                    ]
+                },
+                {
+                    "text": "methylacetate",
+                    "start": 54,
+                    "end": 67,
+                    "token_ids": [
+                        9
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Polydimethylsiloxane  and octadecene  were purchased from Dow Corning and J&amp;K Scientific, respectively",
+            "all_materials": [
+                "Polydimethylsiloxane",
+                "octadecene"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "Polydimethylsiloxane",
+                    "start": 0,
+                    "end": 20,
+                    "token_ids": [
+                        0
+                    ]
+                },
+                {
+                    "text": "octadecene",
+                    "start": 26,
+                    "end": 36,
+                    "token_ids": [
+                        2
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Unless stated otherwise, all materials and",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Yuan: Investigation, Visualization, Data curation, Writing \u2013 original draftJ",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Yang: Conceptualization, Supervision, Writing \u2013 review &amp; editingX",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Zheng: Investigation, Data curationD",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Guo: MethodologyJ",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Lin: Visualization, ValidationW",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Liao: Visualization, Data curationJ",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Wang: Data curation, InvestigationY",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Roca: Funding acquisitionL",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Duan: Writing \u2013 review &amp; editingJ",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Tang: Funding acquisition, Resources, Project administration.Q",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work was supported by the National Key Research and Development Program of China , the National Natural Science Foundation of China , the Natural Science Foundation of Guangdong Province , Guangzhou Basic and Applied Basic Research Project , the Fundamental Research Funds for the Central Universities .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Jingbo Yuan received his B.S",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "degree in New Energy Science and Engineering from Jiangsu Ocean University in 2020",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "He is currently pursuing his master degree in Jinan University",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "His research interests are mainly focused on structure design and hybrid energy harvesting based on triboelectric nanogenerator and solar cell.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Wearable electronics with conductive yet stretchable bio-interfaces, multimodal health regulating capabilities, and strong weather resistance are especially expected by athletes and outdoor workers, yet conventional rigid, impermeable, and monofunctional wearables can hardly meet these requirements simultaneously",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here, a hierarchical and ultrastretchable all-in-one health-regulating electronic textile  with robust superhydrophobic and antibacterial surfaces is developed through electrospin-assisted layer-by-layer assembly and liquid metal  printing",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Skin-like and bio-compatible styrene-ethylene-butylene-styrene  nonwoven textile is employed as a breathable matrix for the layered E-textile, in which an electrophysiological recording circuit, a strain-sensing circuit, and a Joule heating circuit are successively patterned using EGaIn",
+            "all_materials": [
+                "styrene-ethylene-butylene-styrene"
+            ],
+            "other_materials": [
+                "styrene-ethylene-butylene-styrene"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To ensure human skin health and weather resistance of the device, antibacterial and waterproof surfaces are respectively installed on both sides of the electronic textile via anchoring functionalized nanoparticles",
+            "all_materials": [
+                "waterproof"
+            ],
+            "other_materials": [
+                "waterproof"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Thus, this ultrastretchable  AIO E-textile shows favorable moisture permeability , exceptional water repellency, remarkable antibacterial efficacy  against E-coli, and low-watt Joule heating ability, which even exhibits accurate under-water motion detection capability, and high-definition acquiring of bioelectrical signals  and surface electromyography ) when used as flexible epidermal bioelectrode",
+            "all_materials": [
+                "water"
+            ],
+            "other_materials": [
+                "water"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work opens up a new avenue for daily applicable and multifunctional on-skin electronics.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Recent advances in the use of organic-inorganic hybrid perovskites have been investigated in a variety of applications, such as solar cells, photodetectors, light-emitting devices, and lasers, because of their outstanding semiconductor properties",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, the perovskite structure can host extrinsic elements, making it a promising candidate for battery applications",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Previous studies have shown that organic-inorganic hybrid perovskites can be suitable anode materials for both lithium- and sodium-ion batteries",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, multivalent rechargeable batteries with perovskite materials have not yet been realized",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, we studied the electrochemical performance of three-dimensional  and long-chain alkylammonium 23Pb4I13 23Pb4I13) thin films as electrode materials for rechargeable Al-ion batteries",
+            "all_materials": [
+                "alkylammonium 23Pb4I13 23Pb4I13"
+            ],
+            "other_materials": [
+                "alkylammonium 23Pb4I13 23Pb4I13"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Our results showed that 23Pb4I13 presented a specific capacity of 257 mAh g\u20131 at a current density of 0.1\u00a0A\u00a0g\u22121 and delivered 108 mAh g\u20131 after 250 cycles at a current density of 0.3\u00a0A\u00a0g\u22121 with a retention of as high as 91 %, demonstrating a crucial role of isobutyl amine  due to the unique hydrogen-bonding interaction of isobutyl amine that hinders the shuttle effect of polyiodide",
+            "all_materials": [
+                "23Pb4I13",
+                "isobutyl amine",
+                "isobutyl amine"
+            ],
+            "other_materials": [
+                "23Pb4I13",
+                "isobutyl amine",
+                "isobutyl amine"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The results open a new direction for the use of organic\u2013inorganic hybrid perovskites for new secondary aluminum ion batteries.",
+            "all_materials": [
+                "aluminum"
+            ],
+            "other_materials": [
+                "aluminum"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In the face of sustainable energy development, electricity generation using liquid infiltration in small-sized channels has become one of the effective strategies to optimize energy utilization",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As p-type semiconductors, CuO nanomaterials exhibit great potential in energy storage and conversion, which can be used as suitable active materials for constructing nanogenerators",
+            "all_materials": [
+                "CuO"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CuO"
+        },
+        {
+            "sentence": "In this study, we proposed CuO water infiltration\u2013induced electrical devices based on starfish-like particles and nanowires  interwoven architecture",
+            "all_materials": [
+                "CuO"
+            ],
+            "other_materials": [
+                "CuO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Attributed to the ionovoltaic effect, the electrical signal value is reflected by the difference in carrier concentration between wet and dry regions",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Notably, we innovatively used the oxidation\u2013reduction\u2013reoxidation method to control the crystal structure of CuO",
+            "all_materials": [
+                "CuO"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CuO"
+        },
+        {
+            "sentence": "In addition, we examined the relationship between CuO microstructure and performance and further explored the effect of different reaction conditions on the device output performance",
+            "all_materials": [
+                "CuO"
+            ],
+            "other_materials": [
+                "CuO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It was demonstrated that a single device  can generate an open-circuit voltage  of 0.67\u00a0V and a short-circuit current  of 2.49\u00a0\u03bcA at room temperature when 30\u00a0\u03bcL of 0.1\u00a0mol\u00a0L\u22121 NaCl solution permeates from one end of the film",
+            "all_materials": [
+                "NaCl"
+            ],
+            "other_materials": [
+                "NaCl"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Under a 0.5\u00a0mol\u00a0L\u22121 NaCl condition , the device can generate a Voc of 0.82\u00a0V and an Isc of 2.70\u00a0\u03bcA, which is expected to be utilized in the field of sensors for identifying the different concentrations of ions.",
+            "all_materials": [
+                "NaCl"
+            ],
+            "other_materials": [
+                "NaCl"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Flexible tactile sensors are under high pursuit for wearable healthcare devices",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, challenges still exist in achieving both wearing comfortability through air permeability and hydrophobicity to resist water splash or even to be used in the special underwater circumstance",
+            "all_materials": [
+                "air",
+                "water"
+            ],
+            "other_materials": [
+                "air",
+                "water"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Inspired by the smart bio-structure of lotus leaf, we develop a flexible, breathable, waterproof and self-cleaning tactile sensor by sandwiching one ionogel electrolyte between two polydopamine /MXene/stearic acid  fabric electrodes",
+            "all_materials": [
+                "waterproof",
+                "polydopamine",
+                "MXene",
+                "stearic acid"
+            ],
+            "other_materials": [
+                "waterproof",
+                "polydopamine",
+                "MXene",
+                "stearic acid"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The micro-channels in the fabric and the through-holes in the gel endow the sensor with a high air breathability of 723.5\u00a0mm\u00a0s\u22121 and the STA micro-sheets decorated on the outside surface of the sensor provide hydrophobicity with a large water droplet contact angle of 140.7\u00b0 for the unique properties of self-cleaning and washability",
+            "all_materials": [
+                "air",
+                "water"
+            ],
+            "other_materials": [
+                "air",
+                "water"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "By taking advantage of the supercapacitive sensing mechanism, the microstructures of MXene nanosheets on microfibers and the using of an interlayer with an internal aperture to initially separate electrodes and electrolyte, an extremely high sensitivity of up to 1677.79 kPa\u22121 is achieved",
+            "all_materials": [
+                "MXene"
+            ],
+            "other_materials": [
+                "MXene"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Practical sensing applications of the developed flexible sensors worn on different parts of human body for physiological signal monitoring, motion detection and silent information communication through Morse code in the special underwater circumstance are demonstrated.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Conventional methods of protecting against airborne pathogens, such as face masks, are typically associated with significant pressure loss and uncomfortable long-term wear",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Alternative methods, such as antimicrobial textiles, can utilize nanomaterial-modified functional fabrics for effective microbial prevention, but suffer from limited treatment throughput, high cost, and potential toxicity from nanomaterial release",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, we develop a novel microbial-blocking textile using fabrics with opposite triboelectric properties of the outer and inner layers, which induces triboelectric charges by harvesting kinetic energy from human motion",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The induced triboelectric negative charges at the outer textile layer achieve efficient airborne pathogen blocking based on electrostatic repulsion between the fabric and microbes",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This self-powered, triboelectrification-induced microbial blocking system with optimized material  and structure  achieves highly efficient microbial blocking  at a very high airflow rate of 2.0\u00a0m/s",
+            "all_materials": [
+                "airflow"
+            ],
+            "other_materials": [
+                "airflow"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, the pressure drop for microbial blocking by this novel method is extremely low",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Our results demonstrate a promising method for rapid, self-powered blocking of airborne pathogens by incorporating triboelectric charges from human motion to meet vital public health needs.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The occurrence of extreme events  is unprecedented in the observed record and will increase with increasing global warming, leading to severe human health issues",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Wearing suitable garments in different weather is one of the solutions for people to ease their physical discomfort in an energy-saving way",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, only one piece of traditional clothes hardly satisfies the demand of the changing weather",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, a multi-weather full-body triboelectric garment with a one-way moisture transport structure is presented to keep people feeling cool in the scorching weather while capturing droplet energy in rainy situations",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A trilayer progressive wetting structure was designed to effectively transport sweat from the inner layer near the skin to the outer layer to keep the skin dry and comfortable in the muggy air, with a unidirectional transmission index of 1025%",
+            "all_materials": [
+                "air"
+            ],
+            "other_materials": [
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "When it starts to rain, the rain droplets quickly roll down the textile surface and generate triboelectric energy with the hydrophobic surface and conductive MXene layer inside",
+            "all_materials": [
+                "MXene"
+            ],
+            "other_materials": [
+                "MXene"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "More than that, the scalable fabrication process makes it possible to obtain the textile with enough areas for making a whole garment, which is much more practical in real application scenarios.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Jingbo Yuan received his B.S",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "degree in New Energy Science and Engineering from Jiangsu Ocean University in 2020",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "He is currently pursuing his master degree in Jinan University",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "His research interests are mainly focused on structure design and hybrid energy harvesting based on triboelectric nanogenerator and solar cell.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Xiya Yang is an Associate Professor in the Institute of New Energy Technology at Jinan University Dr",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "She received her Ph.D",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "in the School of Energy and Environment from City University of Hong Kong in 2017",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Her current research is mainly focused on the areas of hybrid energy harvesting, self-powered sensing and power management based on triboelectric nanogenerators.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Duo Zheng received his B.S",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "degree in Communication Engineering from the School of Information Science and Technology of Wenhua University in 2019",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "He is currently studying for a master&#x27;s degree at Jinan University in Guangzhou, China",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "His research interests include structure design and energy management circuit design based on triboelectric nanogenerators and solar cells.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Jiangtao Guo received his B.S",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "degree in Applied Physics from Shandong University of Science and Technology  in 2018",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "He is currently pursuing his PhD degree at Yunnan Normal University",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "His research interests mainly focus on hybrid energy harvesting using triboelectric nanogenerators.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Weize Lin received his B.S",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "degree in South China Agricultural University in 2021",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "He is currently pursuing his master degree in Jinan University",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "His research interests are mainly focused on hybrid energy harvesting.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Jiawei Liao received his B.S",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "degree in Electronic and Communications engineering from Hunan University of Technology and Business in 2021",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "He is currently pursuing his master degree in Jinan University",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "His research interests mainly focus on hybrid energy harvesting using triboelectric nanogenerators.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Yudi Wang is an Associate Professor in the School of Chemical Engineering at Dalian University of Technology Dr",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "She received her M.S",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "degree in Chemical Engineering and Technology from Dalian University of Technology in 2013 and received her Ph.D",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "degree in Inorganic Chemistry from Jilin University in 2018",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Her research interests mainly focus on new optoelectronic materials and devices, and their applications in highly efficient photovoltaic modules and multi-energy integrated acquisition.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "LProf",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Vaillant-Roca completed her PhD in Physics Faculty at University of Havana  in 2008",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "She is currently an Auxiliary Researcher in the Institute of Materials Science and Technology at University of Havana since 2015",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Her current research interests include growth and characterizations of semiconductor thin films, physical mechanism involved in the performance of solar cells and nanostructured materials for the third-generation solar cells.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Jialong Duan is currently a full Professor in the Institute of Carbon Neutrality, College of Chemical and Biological Engineering at Shandong University of Science and Technology from 2022 after receiving his Ph.DProf",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "from Ocean University of China",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "His research interests cover all-inorganic perovskite solar cells, dye-sensitized solar cells and multi-energy integrated photovoltaics.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Qunwei Tang is a senior Professor in the College of Chemical and Biological Engineering at Shandong University of Science and TechnologyProf",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "He is the dean of Institute of Carbon Neutrality and youth editor for eScience journal",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "His research interests cover perovskite solar cells and triboelectric nanogenerators",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Up to date, he has published more than 350 papers in international journals such as Angewandte Chemie International Edition, Advanced Materials and two professional books",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "He has been listed in Chinese Most Cited Researchers, Career Scientific Impact , World&#x27;s Top 2% Scientists",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "He also won the Second Prize of Scientific Research Outstanding Achievement Award  of Institutions of Higher Learning , the second prize of Guangdong Province Science and Technology Award , the first prize of Yunnan Province Science and Technology .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

@@ -1,0 +1,531 @@
+{
+    "rest": [
+        {
+            "sentence": "1D-structure perovskite materials have gradually attracted people&#x27;s attention due to the flexibility of their crystal structures and their strong stability to environments such as water and humidity",
+            "all_materials": [
+                "water"
+            ],
+            "other_materials": [
+                "water"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, 1D/3D mixed-dimensional perovskite materials were achieved by adding large cation tBA+",
+            "all_materials": [
+                "tBA+"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "tBA+",
+                    "start": 96,
+                    "end": 100,
+                    "token_ids": [
+                        18
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The Cs+ doped high quality perovskite films  were prepared by a two-step solution method, and the photoelectrical properties and stability of perovskite solar cells  were systematically analyzed",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                8,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The photoelectric conversion efficiency  of the champion Cs+ doped 1D/3D PSCs reached 17.08%, and the stability was significantly improved compared with the control group",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The PCE of unencapsulated PSCs could retain 80% of the initial value after 197 days of storage in Ar glove box, and 69.3% of the initial value after 20 days of storage at 30\u00a0\u00b0C with a relative humidity of 50\u201360%",
+            "all_materials": [
+                "PSCs",
+                "Ar"
+            ],
+            "other_materials": [
+                "PSCs",
+                "Ar"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The improved efficiency and stability of Cs+ doped 1D/3D PSCs are attributed to the filling of the grain boundaries by the 1D phase.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Download : Download high-res image Download : Download full-size image",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The photoelectric conversion efficiency  of Perovskite solar cells  have increased from 3.5% in 2009  to today&#x27;s certified value of 25.7% after the rapid development of more than ten years, including not only high performance, but also low manufacturing costs for devices",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It proves the great potential of PSCs as a photovoltaic technology in the future",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The high performance of PSCs is attributed to the high absorption coefficient , long carrier diffusion length  and high carrier mobility  of perovskite materials, but the lack of long-term stability limits their commercialized application.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Low-dimensional  perovskite materials have attracted extensive attention due to their beneficial to the improvement of stability",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Compared with three-dimensional  perovskite materials, low-dimensional perovskite exhibits excellent moisture stability due to the existence of large cations",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Two-dimensional  stacking layers, such as n-butylammonium  , phenylethylammonium  , and octylammonium   are grown on 3D perovskites to improve the stability of PSCs",
+            "all_materials": [
+                "n-butylammonium",
+                "phenylethylammonium",
+                "octylammonium",
+                "PSCs"
+            ],
+            "other_materials": [
+                "n-butylammonium",
+                "phenylethylammonium",
+                "octylammonium",
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the introduced large cations may hinder the charge injection from the perovskite layer to the electron transport layer  or hole transport layer  so that reduce PCE",
+            "all_materials": [
+                "PCE"
+            ],
+            "other_materials": [
+                "PCE"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, kong&#x27;s group  show 1D perovskite based on 2-diethylaminoethylchloride cations can art as a templates to induce perovskite structures [email&#160;protected] resulting in smoother surface texture, longer charge carrier lifetime, smaller residual tensile strain, and reduced surface defect density in perovskite films",
+            "all_materials": [
+                "2-diethylaminoethylchloride"
+            ],
+            "other_materials": [
+                "2-diethylaminoethylchloride"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Mai&#x27;s group  reported a 1D/3D mixed structure PSC, due to the extended photoluminescence decay life and the inhibition of charge carrier recombination, the PSC showed excellent thermodynamic performance",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Yang  demonstrated that PSCs based on cross-linked 1D/3D perovskite heterostructures maintained 93% of its original efficiency after 3055\u00a0h of work under light",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Yu  prepared a 1D/3D mixed-dimensional perovskite, use 1D perovskite to compensate dangling bonds on grain boundaries , which retains 95.3% the original efficiency under 3072\u00a0h of continuous illumination",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                1,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Chen  prepared a 1D layer on a 3D perovskite, the initial efficiency of 80% was maintained after more than 800\u00a0h of storage at 50% relative humidity.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                1,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Cesium  and formamidinium  doping affect the performance of low-dimensional perovskite cells",
+            "all_materials": [
+                "formamidinium"
+            ],
+            "other_materials": [
+                "formamidinium"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Some studies show that doping 5% cesium ions in BA2MA3Pb4I13 not only improves the efficiency, but also make the devices better stability under high humidity",
+            "all_materials": [
+                "BA2MA3Pb4I13"
+            ],
+            "other_materials": [
+                "BA2MA3Pb4I13"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "And doping FA+ can efficiently reduce non-radiative recombination to improve the quality of perovskite film .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, we introduce a suitable cation tert-butylamine ion , compared with inorganic materials and small molecular materials, tBA+ has a suitable ionic radius to enter the perovskite lattice to form 1D structure [, ]",
+            "all_materials": [
+                "tert-butylamine"
+            ],
+            "other_materials": [
+                "tert-butylamine"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The 1D perovskite compensates for dangling bonds and passivation at the grain boundaries defects, which improved the stability of PSCs",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Then, a kind of novelty 1D/3D perovskite cell doped with Cs+ was designed, and the unsealed device still showed stability and retained 80% of the initial efficiency after 187 days of storage in an Ar glove box and 69.3% kept in the RH of 50\u201360%",
+            "all_materials": [
+                "Ar"
+            ],
+            "other_materials": [
+                "Ar"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, this strategy of doping hybrid dimension can not sacrifice the photoelectric conversion efficiency, and even the champion efficiency is improved to 17.08%.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Tert-Butylammonium iodide  was synthesized by string a mixture of HI  and tert-Butylamine  at room temperature for 12\u00a0h",
+            "all_materials": [
+                "Tert-Butylammonium iodide",
+                "HI",
+                "tert-Butylamine"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "HI",
+                    "start": 66,
+                    "end": 68,
+                    "token_ids": [
+                        9
+                    ]
+                },
+                {
+                    "text": "tert-Butylamine",
+                    "start": 74,
+                    "end": 89,
+                    "token_ids": [
+                        11
+                    ]
+                }
+            ],
+            "operation": [
+                3,
+                "StartingSynthesis"
+            ],
+            "targets": "Tert-Butylammonium iodide"
+        },
+        {
+            "sentence": "The solvent was rotate evaporated and the remaining solid was poured into 50\u00a0ml Chloroform and filtrated",
+            "all_materials": [
+                "Chloroform"
+            ],
+            "other_materials": [
+                "Chloroform"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                4,
+                "DryingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Dissolve with ethanol and wash with ether for three times, then dried under vacuum to get a white crystalline tBAI product",
+            "all_materials": [
+                "ethanol",
+                "tBAI"
+            ],
+            "other_materials": [
+                "ethanol"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                12,
+                "DryingOperation"
+            ],
+            "targets": "tBAI"
+        },
+        {
+            "sentence": "Compared with the synthesis method of polymer nanoparticles , method of rotary",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Organic salt tBAI was simply synthesized through rotary steam purification, and the structure was confirmed by nuclear magnetic resonance hydrogen  spectrum as shown in Fig",
+            "all_materials": [
+                "tBAI"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                5,
+                "StartingSynthesis"
+            ],
+            "targets": "tBAI"
+        },
+        {
+            "sentence": "S1, Supporting Information",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "With the different tBAI content, the characteristic peaks of 1D perovskite may not be obvious on the XRD pattern",
+            "all_materials": [
+                "tBAI"
+            ],
+            "other_materials": [
+                "tBAI"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The prepared perovskite films according to the stoichiometric ratios   showed X-ray diffraction  patterns agreeing well with the characteristic",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The performance and stability of 1D/3D perovskite solar cells were analyzed by adding tBAI to MA-based perovskite, and found that it can greatly improve the stability without sacrificing conversion efficiency",
+            "all_materials": [
+                "tBAI"
+            ],
+            "other_materials": [
+                "tBAI"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The reason why 1D/3D perovskite can improve the stability is adding tBAI into pristine perovskite",
+            "all_materials": [
+                "tBAI"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "tBAI",
+                    "start": 68,
+                    "end": 72,
+                    "token_ids": [
+                        13
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The tBA+ can enter the perovskite lattice passivation interface, because 1D tBAPbI3 is formed at the grain boundary and filling the grain boundary",
+            "all_materials": [
+                "tBAPbI3"
+            ],
+            "other_materials": [
+                "tBAPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In order to solve the pinhole problem",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Weiguang Yang: Supervision, Funding acquisition, Resources",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Xinlin Xiong: Conceptualization, Methodology, Investigation, Writing \u2013 original draft",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Zhanpeng Li: Formal analysis, Data curation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Xiyu Liu: Validation, Data curation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Xinsheng Wei: Investigation, Validation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Zibo Sun: Investigation, Validation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Lu Huang: Funding acquisition, Conceptualization, Methodology, Writing \u2013 review &amp; editing",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Linjun Wang: Project administration.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors gratefully acknowledge the financial support of the project funded by National Natural Science Foundation of China  and Natural Science Foundation of Shanghai .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

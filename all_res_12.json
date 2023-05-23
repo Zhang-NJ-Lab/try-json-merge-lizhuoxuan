@@ -1,0 +1,1476 @@
+{
+    "rest": [
+        {
+            "sentence": "All-inorganic perovskites have attracted intense interest as light-absorbing materials, due to their large absorption coefficient, long charge carrier and diffusion length",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, it is a challenge to obtain the large-area synthesis of high-quality uniform perovskites layers",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here we demonstrate the applicability of the electrodeposition technique for the large-area fabricating of all-inorganic perovskite layers",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "PbO2 films were firstly electrodeposited on c-TiO2/m-TiO2/FTO substrate, which is then converted to PbI2 and CsPbI2\u2212xBr1+x sequentially",
+            "all_materials": [
+                "PbO2",
+                "c-TiO2/m-TiO2/FTO",
+                "PbI2",
+                "CsPbI2\u2212xBr1+x"
+            ],
+            "other_materials": [
+                "PbO2",
+                "c-TiO2/m-TiO2/FTO",
+                "PbI2",
+                "CsPbI2\u2212xBr1+x"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "By optimizing the preparation process, we have obtained a large area and high-quality CsPbI2\u2212xBr1+x perovskite thin film, which exhibited strong UV\u2013visible light absorption",
+            "all_materials": [
+                "CsPbI2\u2212xBr1+x"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CsPbI2\u2212xBr1+x"
+        },
+        {
+            "sentence": "Moreover, adding an appropriate amount of DMF solution to the CsBr-methanol solution can promote the reaction between CsBr and PbI2, could increase the grain size of the perovskite grain and could improve the density of the perovskite film",
+            "all_materials": [
+                "DMF",
+                "CsBr-methanol",
+                "CsBr",
+                "PbI2"
+            ],
+            "other_materials": [
+                "CsBr",
+                "PbI2"
+            ],
+            "precursors": [
+                {
+                    "text": "DMF",
+                    "start": 42,
+                    "end": 45,
+                    "token_ids": [
+                        7
+                    ]
+                },
+                {
+                    "text": "CsBr-methanol",
+                    "start": 62,
+                    "end": 75,
+                    "token_ids": [
+                        11
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A power conversion efficiency of 6.87% is obtained for small cells  and 2.84% for large size cells  using the c-TiO2/m-TiO2/CsPbI2\u2212xBr1+x/Carbon structure.",
+            "all_materials": [
+                "c-TiO2/m-TiO2/CsPbI2\u2212xBr1+x/Carbon"
+            ],
+            "other_materials": [
+                "c-TiO2/m-TiO2/CsPbI2\u2212xBr1+x/Carbon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The hybrid halide perovskite solar cells , CH2+, X \u00a0=\u00a0I\u2212, Br\u2212, Cl\u2212) were rapidly developed in the past decade since the first attempt to apply lead-halide perovskite materials in solar cells by Miyasaka",
+            "all_materials": [
+                "halide",
+                "lead-halide"
+            ],
+            "other_materials": [
+                "lead-halide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "halide"
+        },
+        {
+            "sentence": "In 2019, the power conversion efficiency  of perovskite solar cells  was certified to be 25.2%",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the organic parts  of the hybrid halide perovskite might be decomposed at higher temperatures , which causes the relatively low thermal stability of the solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                12,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The introduction of Cs as a substitute for the organic parts  can efficiently solve this problem",
+            "all_materials": [
+                "Cs"
+            ],
+            "other_materials": [
+                "Cs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The inorganic CsPbX3  halides are featured with remarkable thermal and operational stability against heat and humidity, compared with the \u201ctraditional\u201d hybrid halide perovskite materials .",
+            "all_materials": [
+                "CsPbX3"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CsPbX3"
+        },
+        {
+            "sentence": "The spin-coating and thermal evaporation are the most adopted methods to prepare APbX3 perovskite layers",
+            "all_materials": [
+                "APbX3"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                6,
+                "DryingOperation"
+            ],
+            "targets": "APbX3"
+        },
+        {
+            "sentence": "However, it is challenging to prepare a large and uniform perovskite layer using the spin-coating method",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "On the other hand, the spin-coating method can cause serious waste problems with the corresponding environmental pollution of the lead compounds",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The thermal evaporation is a scalable technique to prepare APbX3 perovskite layer, but harsh experimental conditions are necessary, such as high vacuum and high temperature",
+            "all_materials": [
+                "APbX3"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                2,
+                "DryingOperation"
+            ],
+            "targets": "APbX3"
+        },
+        {
+            "sentence": "At 2015, Chen et al",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "described a scalable perovskite synthesis pathway based on the technique of electrodeposition",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Electrodeposition technique is an environmentally friendly, reproducible and relatively low-cost industrial method",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The layer obtained by electrodeposition can be precisely controlled by the deposition parameters",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this preparation process, the PbO2 film was firstly electrodeposited in aqueous solution using Pb2+ as starting material which avoids the wastes of lead compounds",
+            "all_materials": [
+                "PbO2"
+            ],
+            "other_materials": [
+                "PbO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Then, the PbI2 films were prepared by the immersion of the PbO2 films in HI ethanol solution at room temperature",
+            "all_materials": [
+                "PbI2",
+                "PbO2",
+                "HI ethanol"
+            ],
+            "other_materials": [
+                "PbO2",
+                "HI ethanol"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                6,
+                "StartingSynthesis"
+            ],
+            "targets": "PbI2"
+        },
+        {
+            "sentence": "Finally, the PbI2 films were reacted with CH3NH3I to prepare the CH3NH3PbI3 layer",
+            "all_materials": [
+                "PbI2",
+                "CH3NH3I",
+                "CH3NH3PbI3"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "PbI2",
+                    "start": 13,
+                    "end": 17,
+                    "token_ids": [
+                        3
+                    ]
+                },
+                {
+                    "text": "CH3NH3I",
+                    "start": 42,
+                    "end": 49,
+                    "token_ids": [
+                        8
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "CH3NH3PbI3"
+        },
+        {
+            "sentence": "Using electrodeposition, a 4\u00a0cm2 sample hybrid halide perovskite solar cell was prepared with a power conversion efficiency of 4.47%, which was much higher than the solar cells prepared using the spin-coating method",
+            "all_materials": [
+                "halide"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                [
+                    13,
+                    "StartingSynthesis"
+                ],
+                [
+                    31,
+                    "StartingSynthesis"
+                ]
+            ],
+            "targets": "halide"
+        },
+        {
+            "sentence": "Popov transformed the electrodeposited PbO2 film into a PbI2 film by HI gas treatment",
+            "all_materials": [
+                "PbO2",
+                "PbI2",
+                "HI"
+            ],
+            "other_materials": [
+                "PbO2",
+                "HI"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PbI2"
+        },
+        {
+            "sentence": "Koza electrodeposited textured or epitaxial PbO2 film on single-crystal Au substrates and obtained epitaxial MAPbI3 perovskite layers",
+            "all_materials": [
+                "PbO2",
+                "MAPbI3"
+            ],
+            "other_materials": [
+                "PbO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "MAPbI3"
+        },
+        {
+            "sentence": "electrodeposited PbO layer in an aqueous solution containing Pb2, DMSO and H2O2Song et al",
+            "all_materials": [
+                "PbO",
+                "Pb2",
+                "DMSO",
+                "H2O2Song"
+            ],
+            "other_materials": [
+                "PbO",
+                "Pb2"
+            ],
+            "precursors": [
+                {
+                    "text": "DMSO",
+                    "start": 66,
+                    "end": 70,
+                    "token_ids": [
+                        10
+                    ]
+                },
+                {
+                    "text": "H2O2Song",
+                    "start": 75,
+                    "end": 83,
+                    "token_ids": [
+                        12
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The obtained PbO films were then in situ transformed to CH3NH3PbI3, and the as-obtained solar cells gave a best power conversion efficiency of 14.59%",
+            "all_materials": [
+                "PbO",
+                "CH3NH3PbI3"
+            ],
+            "other_materials": [
+                "PbO",
+                "CH3NH3PbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Macor found that the CH3NH3PbI3 perovskite films prepared on NiO substrate using the electrodeposited PbO2 as Pb source showed charge carrier diffusion lengths as long as 2.4\u00a0\u03bcm",
+            "all_materials": [
+                "CH3NH3PbI3",
+                "NiO",
+                "PbO2"
+            ],
+            "other_materials": [
+                "NiO",
+                "PbO2"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                7,
+                "StartingSynthesis"
+            ],
+            "targets": "CH3NH3PbI3"
+        },
+        {
+            "sentence": "Kosta directly electrodeposited PbI2 films from ionic liquid and described a novel dimethylformamide -free perovskite solar cell fabrication process .",
+            "all_materials": [
+                "PbI2"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PbI2"
+        },
+        {
+            "sentence": "Taking into account of the aspects mentioned above, in the present paper, an all-inorganic perovskite solar cell fabrication procedure, based on the electrodeposited PbO2 is described, where CsPbI2\u2212xBr1+x was chosen as the light-absorbing layer",
+            "all_materials": [
+                "PbO2",
+                "CsPbI2\u2212xBr1+x"
+            ],
+            "other_materials": [
+                "PbO2",
+                "CsPbI2\u2212xBr1+x"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Up to now, this is the first work to prepare all-inorganic perovskite solar cell based on the electrodeposited PbO2",
+            "all_materials": [
+                "PbO2"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PbO2"
+        },
+        {
+            "sentence": "In this preparation process of CsPbI2\u2212xBr1+x layer, the DMF solvent was almost avoided, which is on the \u201cCandidate List of substances of very high concern for Authorization\u201d of the European Chemical Agency",
+            "all_materials": [
+                "CsPbI2\u2212xBr1+x",
+                "DMF"
+            ],
+            "other_materials": [
+                "DMF"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CsPbI2\u2212xBr1+x"
+        },
+        {
+            "sentence": "Solar cells based on the as-obtained perovskite films exhibited a power conversion efficiency of 6.87% under standard AM 1.5 conditions",
+            "all_materials": [
+                "AM"
+            ],
+            "other_materials": [
+                "AM"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, the cell area of the electrodeposited all-inorganic PSCs could be easily scaled up.",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "All precursors, including Pb2 , NaNO3, CsBr , HI solution , TiO2 paste , conductive carbon paste  were used without further purification.",
+            "all_materials": [
+                "Pb2",
+                "NaNO3",
+                "CsBr",
+                "HI",
+                "TiO2",
+                "carbon"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "Pb2",
+                    "start": 26,
+                    "end": 29,
+                    "token_ids": [
+                        4
+                    ]
+                },
+                {
+                    "text": "NaNO3",
+                    "start": 32,
+                    "end": 37,
+                    "token_ids": [
+                        6
+                    ]
+                },
+                {
+                    "text": "CsBr",
+                    "start": 39,
+                    "end": 43,
+                    "token_ids": [
+                        8
+                    ]
+                },
+                {
+                    "text": "HI",
+                    "start": 46,
+                    "end": 48,
+                    "token_ids": [
+                        10
+                    ]
+                },
+                {
+                    "text": "TiO2",
+                    "start": 60,
+                    "end": 64,
+                    "token_ids": [
+                        13
+                    ]
+                },
+                {
+                    "text": "carbon",
+                    "start": 84,
+                    "end": 90,
+                    "token_ids": [
+                        17
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this study, all-inorganic perovskite solar cells with a structure of c-TiO2/m-TiO2/CsPbI2\u2212xBr1+x/carbon were prepared",
+            "all_materials": [
+                "c-TiO2/m-TiO2/",
+                "CsPbI2\u2212xBr1+x/carbon"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                24,
+                "StartingSynthesis"
+            ],
+            "targets": "c-TiO2/m-TiO2/"
+        },
+        {
+            "sentence": "The preparation process is presented in Fig",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Inorganic perovskite thin film  1",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "2 shows the SEM images of the electrodeposited PbO2 films before and after immersion in 0.05\u00a0M HI ethanol solutionFig",
+            "all_materials": [
+                "PbO2",
+                "HI",
+                "ethanol"
+            ],
+            "other_materials": [
+                "PbO2",
+                "HI",
+                "ethanol"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "PbO2 layers could be prepared under constant current and voltage conditions",
+            "all_materials": [
+                "PbO2"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                4,
+                "StartingSynthesis"
+            ],
+            "targets": "PbO2"
+        },
+        {
+            "sentence": "In this experiment, PbO2 films were electrodeposited at 0.01 A  for 15\u00a0s",
+            "all_materials": [
+                "PbO2"
+            ],
+            "other_materials": [
+                "PbO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "2  shows the morphology of PbO2 film after drying at room temperatureFig",
+            "all_materials": [
+                "PbO2"
+            ],
+            "other_materials": [
+                "PbO2"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                8,
+                "DryingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The PbO2 thin film shows uniform particles and excellent coverage of the substrate",
+            "all_materials": [
+                "PbO2"
+            ],
+            "other_materials": [
+                "PbO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The particle size of PbO2 was in the range",
+            "all_materials": [
+                "PbO2"
+            ],
+            "other_materials": [
+                "PbO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "All-inorganic perovskite solar cells were prepared using the electrodeposited PbO2 film as the Pb source",
+            "all_materials": [
+                "PbO2"
+            ],
+            "other_materials": [
+                "PbO2"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                7,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Regular PbI2 flakes were prepared by dipping PbO2 film in HI ethanol solution and CsPbI2\u2212xBr1+x layer were obtained through spin-coating of CsBr with methanol solution",
+            "all_materials": [
+                "PbI2",
+                "PbO2",
+                "HI ethanol",
+                "CsPbI2\u2212xBr1+x",
+                "CsBr",
+                "methanol"
+            ],
+            "other_materials": [
+                "PbO2",
+                "HI ethanol",
+                "CsBr",
+                "methanol"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                4,
+                "StartingSynthesis"
+            ],
+            "targets": "PbI2"
+        },
+        {
+            "sentence": "It was found that a trace amount of DMF additives in CsBr methanol solution would facilitate the formation of dense and well crystalized CsPbI2\u2212xBr1+x layer",
+            "all_materials": [
+                "DMF",
+                "CsBr methanol",
+                "CsPbI2\u2212xBr1+x"
+            ],
+            "other_materials": [
+                "CsBr methanol"
+            ],
+            "precursors": [
+                {
+                    "text": "DMF",
+                    "start": 36,
+                    "end": 39,
+                    "token_ids": [
+                        8
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "CsPbI2\u2212xBr1+x"
+        },
+        {
+            "sentence": "A significant enhancement in PCE of all-inorganic perovskite solar",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work was supported by the Natural Science Foundation of China , Program for Science and Technology Innovation Talents in Universities of Henan Province  and the Key Science and Technology Project of Henan Province .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "There is increasing interest in the development of stable, wide bandgap lead halide perovskites for application as photoelectrodes, light emitting diodes and photosensors",
+            "all_materials": [
+                "lead halide"
+            ],
+            "other_materials": [
+                "lead halide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, lead dioxide was electrodeposited from an aqueous electrochemical bath and transformed by a two-step chemical conversion process to CsPbI3, CsPbBr3 and CsPbCl3",
+            "all_materials": [
+                "lead dioxide",
+                "CsPbI3",
+                "CsPbBr3",
+                "CsPbCl3"
+            ],
+            "other_materials": [
+                "lead dioxide",
+                "CsPbI3",
+                "CsPbBr3",
+                "CsPbCl3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "X-ray diffraction and scanning electron microscopy measurements confirmed the two-step chemical conversion of PbO2 to PbBr2 or PbCl2 followed by their conversion to the all-inorganic lead halide perovskites CsPbBr3 or CsPbCl3",
+            "all_materials": [
+                "PbO2",
+                "PbBr2",
+                "PbCl2",
+                "lead halide",
+                "CsPbBr3",
+                "CsPbCl3"
+            ],
+            "other_materials": [
+                "PbBr2",
+                "PbCl2"
+            ],
+            "precursors": [
+                {
+                    "text": "PbO2",
+                    "start": 110,
+                    "end": 114,
+                    "token_ids": [
+                        15
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "lead halide"
+        },
+        {
+            "sentence": "It was found that chemical conversion of PbO2 to PbI2 and then CsPbI3 led to the non-perovskite \u03b4-CsPbI3",
+            "all_materials": [
+                "PbO2",
+                "PbI2",
+                "CsPbI3",
+                "\u03b4-CsPbI3"
+            ],
+            "other_materials": [
+                "PbI2",
+                "CsPbI3"
+            ],
+            "precursors": [
+                {
+                    "text": "PbO2",
+                    "start": 41,
+                    "end": 45,
+                    "token_ids": [
+                        7
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "\u03b4-CsPbI3"
+        },
+        {
+            "sentence": "This work presents the first example of the chemical transformation of electrodeposited PbO2 to PbBr2 and PbCl2 to form wide bandgap CsPbBr3 and CsPbCl3 perovskites",
+            "all_materials": [
+                "PbO2",
+                "PbBr2",
+                "PbCl2",
+                "CsPbBr3",
+                "CsPbCl3"
+            ],
+            "other_materials": [
+                "PbO2",
+                "PbBr2",
+                "PbCl2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CsPbBr3"
+        },
+        {
+            "sentence": "Absorbance spectroscopy measurements confirmed the optical gap of the wide bandgap CsPbBr3 and CsPbCl3 materials while linear sweep voltammetry measurements demonstrated that CsPbCl3 has a larger electrochemical stability window than CsPbBr3.",
+            "all_materials": [
+                "CsPbBr3",
+                "CsPbCl3",
+                "CsPbCl3",
+                "CsPbBr3"
+            ],
+            "other_materials": [
+                "CsPbBr3",
+                "CsPbCl3",
+                "CsPbCl3",
+                "CsPbBr3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The field of lead halide perovskites film deposition has made a great stride in the last decade",
+            "all_materials": [
+                "lead halide"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "lead halide"
+        },
+        {
+            "sentence": "On the bases that fully inorganic perovskite-like materials are more stable to air and UV light respect to the traditional organic-inorganic hybrid perovskites, the efforts to achieve homogeneous, stoichiometrically and structurally homogeneous thin films of these materials have greatly increased",
+            "all_materials": [
+                "air"
+            ],
+            "other_materials": [
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Since the huge practical interest for the realization of large scale, cheap and flexible photovoltaic devices, this field of research has observed a very rapid growth.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this review, we summarize the intensive research efforts spent in the synthesis and deposition of thin film of fully inorganic metal halide perovskites, including liquid, solid and gas phase deposition methodologies highlighting the main pros and drawbacks.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Formamidinum based lead halide  perovskite solar cells have refreshed the highest power conversion efficiency several times in the best Research-Cell Efficiency Chart due to its suitable bandgap",
+            "all_materials": [
+                "lead halide"
+            ],
+            "other_materials": [
+                "lead halide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the non-perovskite yellow phase \u03b4-FAPbI3 is easily formed in the process of synthesizing the black phase \u03b1-FAPbI3",
+            "all_materials": [
+                "\u03b4-FAPbI3",
+                "\u03b1-FAPbI3"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                14,
+                "StartingSynthesis"
+            ],
+            "targets": "\u03b4-FAPbI3"
+        },
+        {
+            "sentence": "To solve this problem, we provide a new method to grow pure perovskite \u03b1-FAPbI3 film through electrodeposited lead dioxide",
+            "all_materials": [
+                "\u03b1-FAPbI3",
+                "lead"
+            ],
+            "other_materials": [
+                "lead"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "\u03b1-FAPbI3"
+        },
+        {
+            "sentence": "The as-prepared \u03b1-FAPbI3 shows an obvious absorption edge despite some pinholes formation during the reaction of PbO2 and FAI",
+            "all_materials": [
+                "\u03b1-FAPbI3",
+                "PbO2",
+                "FAI"
+            ],
+            "other_materials": [
+                "\u03b1-FAPbI3"
+            ],
+            "precursors": [
+                {
+                    "text": "PbO2",
+                    "start": 113,
+                    "end": 117,
+                    "token_ids": [
+                        16
+                    ]
+                },
+                {
+                    "text": "FAI",
+                    "start": 122,
+                    "end": 125,
+                    "token_ids": [
+                        18
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "By adding extra MABr during the synthesis of \u03b1-FAPbI3, the size and number of pinholes can be effectively suppressed",
+            "all_materials": [
+                "MABr",
+                "\u03b1-FAPbI3"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "MABr",
+                    "start": 16,
+                    "end": 20,
+                    "token_ids": [
+                        3
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "\u03b1-FAPbI3"
+        },
+        {
+            "sentence": "Thus, the optimal electron-transport-layer -free perovskite FAPbI3 solar cells show a drastically elevated power conversion efficiency  of 10.73%, which is nearly 20 times higher than that of PbI2 based perovskite solar cells with the same device structure",
+            "all_materials": [
+                "FAPbI3",
+                "PbI2"
+            ],
+            "other_materials": [
+                "FAPbI3",
+                "PbI2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "These results demonstrate that the growth of PbO2 film by the electrodeposition method provides a new way for the preparation of high-efficiency perovskite solar cells",
+            "all_materials": [
+                "PbO2"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PbO2"
+        },
+        {
+            "sentence": "On this basis, combined with the introduction of the ETL  and the optimization of device fabrication processes, the PCE of the perovskite solar cells obtained by this method may be further improved in the future.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The influence of bismuth ions on kinetics of lead dioxide electrodeposition from methanesulfonate electrolytes and physico-chemical properties of obtained coatings were studied",
+            "all_materials": [
+                "lead dioxide",
+                "methanesulfonate"
+            ],
+            "other_materials": [
+                "lead dioxide",
+                "methanesulfonate"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Experimental results are consistent with a mechanism previously proposed in the literature for lead dioxide electrodeposition",
+            "all_materials": [
+                "lead dioxide"
+            ],
+            "other_materials": [
+                "lead dioxide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The presence of bismuth ions in the electrodeposition solution causes a decrease of rate constants of lead dioxide formation due to co-adsorption phenomena",
+            "all_materials": [
+                "lead dioxide"
+            ],
+            "other_materials": [
+                "lead dioxide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Deposits from solutions containing bismuth ions appear shiny dark grey, and show good adhesion to metal support",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "SEM images reveal a compact structure with spindle-shaped submicron and nanosized crystals and X-ray diffractograms demonstrated that incorporation of bismuth diminishes the size of crystal particles",
+            "all_materials": [
+                "bismuth"
+            ],
+            "other_materials": [
+                "bismuth"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Oxygen evolution was investigated to test electrocatalytic activity",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It is shown, that oxygen overpotential on modified electrodes is significantly higher than on non-modified PbO2-electrode, which depends on bismuth content in deposit and segregation of bismuth that induces surface heterogeneity due to sites with different electroactivity for water oxidation.",
+            "all_materials": [
+                "PbO2",
+                "bismuth",
+                "bismuth",
+                "water"
+            ],
+            "other_materials": [
+                "PbO2",
+                "bismuth",
+                "bismuth",
+                "water"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "An investigation is reported on lead dioxide electrodeposition from methanesulfonate electrolytes, that additionally containing \u0421e3+ ions",
+            "all_materials": [
+                "lead dioxide",
+                "methanesulfonate"
+            ],
+            "other_materials": [
+                "lead dioxide",
+                "methanesulfonate"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It is shown, that ion additive influences on kinetics of PbO2 formation without changing of process mechanism",
+            "all_materials": [
+                "PbO2"
+            ],
+            "other_materials": [
+                "PbO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "During the deposition are formed lead dioxide electrodes micromodified by cerium that have different physico-chemical properties vs",
+            "all_materials": [
+                "lead dioxide",
+                "cerium"
+            ],
+            "other_materials": [
+                "lead dioxide",
+                "cerium"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "traditional PbO2-anodes",
+            "all_materials": [
+                "PbO2"
+            ],
+            "other_materials": [
+                "PbO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Electrocatalytical reactivity of electrodes involved in respect to oxygen evolution was investigated.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A novel DMF-free perovskite solar cell fabrication protocol, based on electrodeposited PbI2 films from ionic liquid and subsequent conversion into perovskite is presented",
+            "all_materials": [
+                "PbI2"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "PbI2",
+                    "start": 87,
+                    "end": 91,
+                    "token_ids": [
+                        14
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Hexane is proposed to be used as an efficient co-solvent in the conversion solution, to affect the film morphology in a controlled way",
+            "all_materials": [
+                "Hexane"
+            ],
+            "other_materials": [
+                "Hexane"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The effect of the hexane in the [CH3NH3-PbI2]solvent complex formation and the impact of the complexes in the PbI2 to CH3NH3PbI3 conversion is discussed",
+            "all_materials": [
+                "hexane",
+                "[CH3NH3-PbI2]solvent",
+                "PbI2",
+                "CH3NH3PbI3"
+            ],
+            "other_materials": [
+                "hexane",
+                "[CH3NH3-PbI2]solvent",
+                "PbI2",
+                "CH3NH3PbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Close-packing density nanocrystalline perovskite films from open-packed PbI2 films platelets are successfully obtained after dipping during 10\u00a0minutes in isopropanol:hexane 90:10\u00a0v:v conversion solutions",
+            "all_materials": [
+                "PbI2",
+                "isopropanol",
+                "hexane"
+            ],
+            "other_materials": [
+                "PbI2",
+                "isopropanol",
+                "hexane"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Solar cells based on the obtained perovskite films exhibit a power conversion efficiency of 9%",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This finding points out the viability of the reported process in the DMF-free fabrication of perovskite solar cells.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "All-inorganic cesium lead halide perovskites  have attracted great attention for developing high-performance photovoltaics due to their superb thermal stability",
+            "all_materials": [
+                "cesium lead halide"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "cesium lead halide"
+        },
+        {
+            "sentence": "However, the short electron-hole diffusion lengths  in CsPbI2Br perovskite are the primary limiting factor for further improvement of the power conversion efficiencies  of the CsPbI2Br solar cells",
+            "all_materials": [
+                "CsPbI2Br",
+                "CsPbI2Br"
+            ],
+            "other_materials": [
+                "CsPbI2Br",
+                "CsPbI2Br"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, a simple yet effective method is reported to prolong the LDs in CsPbI2Br via codoping of Zn2+ and acetate  ions 2 as dopant)",
+            "all_materials": [
+                "CsPbI2Br"
+            ],
+            "other_materials": [
+                "CsPbI2Br"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It is demonstrated that Zn2+ partially replaces Pb2+ to form a more stable black phase, and Ac\u2212 coordinates with Pb2+ to passivate the defects at the perovskite grain boundaries which reduces electron-hole recombination within the perovskite",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As a result, the LDs of Zn2 doped CsPbI2Br are greater than 1\u00a0\u03bcm, which is the first report on all-inorganic perovskites",
+            "all_materials": [
+                "CsPbI2Br"
+            ],
+            "other_materials": [
+                "CsPbI2Br"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The champion PCE of the CsPbI2Br solar cells is drastically increased from 12.31% to 14.93% upon doping with Zn2, stemming mainly from the increased open-circuit voltage and fill factor",
+            "all_materials": [
+                "CsPbI2Br",
+                "Zn2"
+            ],
+            "other_materials": [
+                "CsPbI2Br",
+                "Zn2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, the non-encapsulated devices with Zn2 doped CsPbI2Br show less than 10% efficiency loss after storage in dry air for 30 days.",
+            "all_materials": [
+                "CsPbI2Br",
+                "air"
+            ],
+            "other_materials": [
+                "CsPbI2Br",
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, PbI2 is coated on the TiO2 films via the cost-effective electrochemical deposition method and a MAPbI3 layer is formed by exposing the deposited PbI2 to CH3NH3I subsequently",
+            "all_materials": [
+                "PbI2",
+                "TiO2",
+                "MAPbI3",
+                "PbI2",
+                "CH3NH3I"
+            ],
+            "other_materials": [
+                "PbI2",
+                "TiO2",
+                "MAPbI3",
+                "PbI2",
+                "CH3NH3I"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The structure, composition and morphology of the deposits are characterized in detail by the measurements of X-ray diffraction, scanning electron microscopy, and energy dispersion spectroscopy, respectively",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The results suggest that a high coverage and uniform perovskite layer has been fabricated by virtue of the electrochemical deposition method",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                13,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The influence of the deposition time in the morphology of the obtained perovskite is investigated and the optical properties of the prepared PbI2 and CH3NH3PbI3 are studied as well",
+            "all_materials": [
+                "PbI2",
+                "CH3NH3PbI3"
+            ],
+            "other_materials": [
+                "PbI2",
+                "CH3NH3PbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As a result, the assembled perovskite solar cells exhibited a maximum PCE of 6.62% with the corresponding photocurrent of 12.5\u202fmA\u202fcm\u22122 and open-circuit voltage of 0.957\u202fV at AM 1.5 solar light of 100\u202fmW\u202fcm\u22122, thus demonstrating the feasible application of electrochemical deposition in perovskite solar cells.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A multi-step dimethylformamide\u00a0-free green synthesizing method based on  initial electrodeposition of lead precursor, i.e",
+            "all_materials": [
+                "dimethylformamide"
+            ],
+            "other_materials": [
+                "dimethylformamide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "lead sulfide  on mesoporous TiO2/fluorine-doped tin oxide  conductive glasses substrates,  subsequent conversion of PbS to PbI2 and  synthesis of methylammonium lead triiodide  perovskite film and their microstructural, optical and solar cell performance are described",
+            "all_materials": [
+                "lead sulfide",
+                "TiO2",
+                "tin oxide",
+                "PbS",
+                "PbI2",
+                "methylammonium lead triiodide"
+            ],
+            "other_materials": [
+                "lead sulfide",
+                "TiO2",
+                "tin oxide",
+                "PbI2"
+            ],
+            "precursors": [
+                {
+                    "text": "PbS",
+                    "start": 116,
+                    "end": 119,
+                    "token_ids": [
+                        18
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "methylammonium lead triiodide"
+        },
+        {
+            "sentence": "Different electrodeposition techniques including direct current and cyclic voltammetry deposition were investigated to produce PbS films",
+            "all_materials": [
+                "PbS"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PbS"
+        },
+        {
+            "sentence": "We find that the perovskite films produced based on PbS deposited by cyclic voltammetry exhibit compact layer consisting of cuboid grains with an average size of approximately 800\u00a0nm and a bandgap of 1.58\u00a0eV whose properties are comparable to those of perovskite films generally prepared by conventional methods like spin coating",
+            "all_materials": [
+                "PbS"
+            ],
+            "other_materials": [
+                "PbS"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                45,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It was observed that uniform perovskite layers deposited under different conditions as the absorber layer generate a power conversion efficiency  of up to 7.72% under the standard AM 1.5 condition in the first attempt by this fabrication approach",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "PCEs obtained under different electrodeposition conditions were improved by eliminating of pores between the cuboid perovskite crystallites",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This approach neglects employing hazardous solvents from the routine perovskite solar cell fabrication method and has potential to enhance its PCE similar to the common strategies by spin-coating methods improved over last decade by further modification of the electrodeposition process of the metal precursors and other steps towards highly efficient green perovskite solar cells.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

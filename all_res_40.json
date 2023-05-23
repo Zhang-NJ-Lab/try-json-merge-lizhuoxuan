@@ -1,0 +1,939 @@
+{
+    "rest": [
+        {
+            "sentence": "Interface engineering based on amine-containing polyelectrolytes has been proven to be useful for high-performance organic and perovskite solar cells by improving charge collection at the interfaces",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here, we demonstrate efficient organic and perovskite solar cells by introducing non-conjugated polyelectrolyte, linear polyethyleneimine , as a cathode interfacial layer",
+            "all_materials": [
+                "polyethyleneimine"
+            ],
+            "other_materials": [
+                "polyethyleneimine"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Notably, such a polyelectrolyte contains secondary amine groups in its molecular structure, which could provide chemical stability with most of the state-of-the-art non-fullerene acceptors , and concurrently form dipole layer to endow underlying materials with work function tunability",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As a result of favorable interfacial contact, organic solar cells with LPEI CIL exhibited a high power conversion efficiency  of 14.8%",
+            "all_materials": [
+                "LPEI"
+            ],
+            "other_materials": [
+                "LPEI"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, it was found that the LPEI is compatible with conventional metal oxides such as zinc oxide  and tin oxide  as a bilayer configuration, leading to an increase of PCE from 14.7% to 16% for organic solar cells and from 17.5% to 20% for perovskite solar cells, respectively.",
+            "all_materials": [
+                "LPEI",
+                "zinc oxide",
+                "tin oxide",
+                "PCE"
+            ],
+            "other_materials": [
+                "LPEI",
+                "zinc oxide",
+                "tin oxide",
+                "PCE"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Download : Download high-res image Download : Download full-size imageThe secondary amine-containing polyelectrolyte, LPEI, provides useful work function reduction with suppressed chemical reactivity, improving device performance from 14.7% to 16% and from 17.5% to 20% for OSCs and PVSCs, respectively.",
+            "all_materials": [
+                "LPEI",
+                "PVSCs"
+            ],
+            "other_materials": [
+                "LPEI",
+                "PVSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As an emerging technology for harvesting solar energy, the field of printable photovoltaics based on organic solar cells  and perovskite solar cells  have garnered considerable research attention for the realization of carbon-neutral society due to their distinctive properties, such as high cost-effectiveness, high power per weight value and excellent compatibility with various applications ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Encouragingly, the power conversion efficiencies  of both devices have continuously increased, approaching values near 19% and 26% for OSCs and PVSCs, respectively, which, along with suitable lifetime, makes these technologies highly viable for future applications ,",
+            "all_materials": [
+                "PVSCs"
+            ],
+            "other_materials": [
+                "PVSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This rapid improvement is mostly driven by the decent molecular design of photoactive materials; the development of non-fullerene acceptors  significantly improves photovoltaic processes with higher synthetic flexibility, which is crucial to overcome the limitations that prevail in fullerene-based OSCs ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The organic-inorganic halide perovskites exhibit outstanding intrinsic properties for optoelectronic applications, for example, non-excitonic behavior and high charge mobilities that are related to the efficient charge generation and transport processes ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In perovskite material, the atomic substitution concomitant with electronic structure modification is widely used to control the optoelectronic properties.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition to the development of photoactive materials, interfacial engineering is of vital importance for efficient OSCs and PVSCs as the energetic alignment at the photoactive layer/electrode interface is not ideal; the presence of an energy barrier and/or absence of junction selectivity causes interfacial recombination losses ,",
+            "all_materials": [
+                "PVSCs"
+            ],
+            "other_materials": [
+                "PVSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Given the significant impact of interfaces in the OSC and PVSC devices, it is necessary to introduce interfacial layers to facilitate the transport of photogenerated charges and suppress their recombination between the active layer and the electrode",
+            "all_materials": [
+                "PVSC"
+            ],
+            "other_materials": [
+                "PVSC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Considering these requirements, the interfacial layer should satisfy several requirements, such as high charge carrier mobility for efficient transport, the appropriate energy level for Ohmic contact along with charge selective behavior, high transparency, and compatibility with active layers",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the development of interfacial materials that possess optimal characteristics could impose considerable challenges",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To this end, stacking the interfacial layer in a complementary way offers an alternative strategy to synergistically improve the interfacial properties",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In particular, for electron selective contact, an organic-inorganic bilayer that combines n-type metal oxides, such as zinc oxide  ,  and tin oxide  , and functional organic materials has been used, in which metal oxides provide electron selectivity while organics perform as a surface modifier for facilitating electron collection.",
+            "all_materials": [
+                "zinc oxide",
+                "tin oxide"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "zinc oxide",
+                    "start": 119,
+                    "end": 129,
+                    "token_ids": [
+                        23,
+                        24
+                    ]
+                },
+                {
+                    "text": "tin oxide",
+                    "start": 138,
+                    "end": 147,
+                    "token_ids": [
+                        27,
+                        28
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As a low work function inducer, amine-containing polymer polyethyleneimine , which enables underlying electronic materials to be functional as an efficient electron selective contact based on the development of molecular dipoles with functional amine groups, has been dominant for a decade in OSCs ,",
+            "all_materials": [
+                "polyethyleneimine"
+            ],
+            "other_materials": [
+                "polyethyleneimine"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Nevertheless, recently Zhou and coworkers found that the PEI could degrade non-fullerene acceptors due to the possible chemical interaction with the reactive amine groups, which could be mitigated by pre-protonation and metal chelation strategies to reduce the reactivity ,",
+            "all_materials": [
+                "PEI"
+            ],
+            "other_materials": [
+                "PEI"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A more recent study revealed that the reactivity of PEI largely depends on the structure of the amine group, in which primary amines are major contributors to degradation reaction, reflecting the significance of chemical modification on the amine-containing polymer electrolytes for achieving efficient and stable solar cell devices with organic molecules .",
+            "all_materials": [
+                "PEI"
+            ],
+            "other_materials": [
+                "PEI"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, we report the use of amine-containing simple non-conjugated polymer electrolytes, linear polyethyleneimine , as a cathode interfacial layer  for OSCs and PVSCs",
+            "all_materials": [
+                "linear polyethyleneimine",
+                "PVSCs"
+            ],
+            "other_materials": [
+                "linear polyethyleneimine",
+                "PVSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Different from the representative PEI, the chemical structure of the amine group in LPEI is a mostly secondary amine, which produces an efficient and stable electron-collecting interface without significant chemical reaction, demonstrating the NFA OSCs with a PCE of 14.8% using LPEI as a CIL",
+            "all_materials": [
+                "PEI",
+                "LPEI",
+                "NFA",
+                "LPEI"
+            ],
+            "other_materials": [
+                "PEI",
+                "LPEI",
+                "NFA",
+                "LPEI"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Further, LPEI is compatible with conventional n-type inorganic metal oxides such as ZnO and SnO2 as a bilayer configuration, leading to the enhancement of PCE from 14.7% to 16% in OSCs and from 17.5% to 20% in PVSCs, respectively.",
+            "all_materials": [
+                "LPEI",
+                "ZnO",
+                "SnO2",
+                "PCE",
+                "PVSCs"
+            ],
+            "other_materials": [
+                "LPEI",
+                "PCE",
+                "PVSCs"
+            ],
+            "precursors": [
+                {
+                    "text": "ZnO",
+                    "start": 84,
+                    "end": 87,
+                    "token_ids": [
+                        15
+                    ]
+                },
+                {
+                    "text": "SnO2",
+                    "start": 92,
+                    "end": 96,
+                    "token_ids": [
+                        17
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "LPEI and PEI  were diluted to 0.05\u00a0wt% in methanol  and isopropyl alcohol , respectively",
+            "all_materials": [
+                "LPEI",
+                "PEI",
+                "methanol",
+                "isopropyl alcohol"
+            ],
+            "other_materials": [
+                "methanol",
+                "isopropyl alcohol"
+            ],
+            "precursors": [
+                {
+                    "text": "LPEI",
+                    "start": 0,
+                    "end": 4,
+                    "token_ids": [
+                        0
+                    ]
+                },
+                {
+                    "text": "PEI",
+                    "start": 9,
+                    "end": 12,
+                    "token_ids": [
+                        2
+                    ]
+                }
+            ],
+            "operation": [
+                4,
+                "SolutionMixing"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The ZnO solution was prepared by dissolving 330\u00a0mg of zinc acetate dihydrate  in 90\u00a0\u00b5L of ethanolamine  and 3\u00a0mL of 2-methoxyethanol",
+            "all_materials": [
+                "ZnO",
+                "zinc acetate dihydrate",
+                "ethanolamine",
+                "2-methoxyethanol"
+            ],
+            "other_materials": [
+                "ZnO",
+                "ethanolamine",
+                "2-methoxyethanol"
+            ],
+            "precursors": [
+                {
+                    "text": "zinc acetate dihydrate",
+                    "start": 54,
+                    "end": 76,
+                    "token_ids": [
+                        10,
+                        11,
+                        12
+                    ]
+                }
+            ],
+            "operation": [
+                4,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The SnO2 solution was prepared by dissolving 66\u00a0mg of tin chloride dihydrate  in 3\u00a0mL of IPA",
+            "all_materials": [
+                "SnO2",
+                "tin chloride dihydrate",
+                "IPA"
+            ],
+            "other_materials": [
+                "SnO2",
+                "IPA"
+            ],
+            "precursors": [
+                {
+                    "text": "tin chloride dihydrate",
+                    "start": 54,
+                    "end": 76,
+                    "token_ids": [
+                        10,
+                        11,
+                        12
+                    ]
+                }
+            ],
+            "operation": [
+                4,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The metal oxide sol-gel precursor solutions were stirred",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                9,
+                "LiquidGrinding"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "1 shows the chemical structure of LPEI, the device structure of OSC with LPEI, and the corresponding energy level diagramFig",
+            "all_materials": [
+                "LPEI",
+                "OSC",
+                "LPEI"
+            ],
+            "other_materials": [
+                "LPEI",
+                "OSC",
+                "LPEI"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The LPEI is a kind of amine-containing polyelectrolyte that has been used as an efficient CIL due to its high capability to reduce the surface work function of underlying materials, which facilitates electron transport processes",
+            "all_materials": [
+                "LPEI"
+            ],
+            "other_materials": [
+                "LPEI"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We first investigate the effect of LPEI on the work function change of indium tin oxide  and ZnO to validate the suitability of",
+            "all_materials": [
+                "LPEI",
+                "indium tin oxide",
+                "ZnO"
+            ],
+            "other_materials": [
+                "LPEI",
+                "indium tin oxide",
+                "ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In conclusion, we have demonstrated a feasible cathode interfacial modification method using LPEI as a CIL to achieve efficient OSCs and PVSCs",
+            "all_materials": [
+                "LPEI",
+                "PVSCs"
+            ],
+            "other_materials": [
+                "LPEI"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PVSCs"
+        },
+        {
+            "sentence": "LPEI with secondary amine groups not only induces surface work function reduction but also passivates chemical reactions with increased protonation",
+            "all_materials": [
+                "LPEI"
+            ],
+            "other_materials": [
+                "LPEI"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Such a CIL is also beneficial when combined with conventional metal oxide systems, such as ZnO and SnO2",
+            "all_materials": [
+                "ZnO",
+                "SnO2"
+            ],
+            "other_materials": [
+                "ZnO",
+                "SnO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Comprehensive analysis proves favorable energetic alignment by LPEI is useful for improving",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Jinho Lee: Supervision, Conceptualization, Writing, Reviewing, Reviewing, Experiment and characterization, Formal analysis",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Soonil Hong: Experiment and characterization, Methodology, Validation.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors declare the following financial interests/personal relationships which may be considered as potential competing interests: Jinho Lee reports financial support was provided by National Research Foundation of Korea.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work was supported by the National Research Foundation of Korea  grant funded by the Korea government   and Nano Material Technology Development Program through the National Research Foundation of Korea  funded by the Ministry of Science, ICT and Future Planning .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A new method to prepare a compact TiO2 layer for perovskite solar cells is introduced",
+            "all_materials": [
+                "TiO2"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "TiO2"
+        },
+        {
+            "sentence": "The method features a UV-assisted chemical bath in an aqueous TiBr4 solution",
+            "all_materials": [
+                "TiBr4"
+            ],
+            "other_materials": [
+                "TiBr4"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The process does not require sophisticated systems to implement making scaling-up easy and the precursor ensures a uniform TiO2 layer with densely-packed planar grains",
+            "all_materials": [
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "UV light provides an alternative to the temperature-assisted CBD process and eliminates the necessity to stir the solution during a deposition that opens new horizons for further scaling up PSCs",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The new compact layer was compared to the spin-coated TiO2 layer and it was found that the novel method allows obtaining a more uniform layer with conformal coverage of the substrate",
+            "all_materials": [
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The new TiO2 layer was tested for perovskite solar cells and showed an improvement in open-circuit voltage  which can be explained by improved morphology and surface coverage of the TiO2 layer.",
+            "all_materials": [
+                "TiO2",
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2",
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Perovskite solar cells  have been recognized as devices with a constant increase in power conversion efficiency, confirming this promising technology\u2019s upward trend",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This paper deals with the mathematical modeling of current voltage and inverse voltage-current relationships of PSCs, in which standard equivalent circuits, as well as approximate equivalent circuits where series or parallel resistance is neglected, are investigated",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Analytical solutions for voltage-current and current\u2013voltage dependencies are derived for all investigated circuits",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, analytical solutions for short-circuit current and open-circuit voltage are derived",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "All nonlinear formulations of these dependencies are solved by applying special trans function theory",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This paper proposes an enhanced algorithm called the Chaotic African Vultures Optimization Algorithm  for PSC\u2019s parameter estimation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The proposed algorithm is compared with other algorithms in terms of the convergence speed to the global solution and other statistical test measures to validate the algorithm\u2019s efficiency.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Although lead halide perovskite solar cells  have achieved an efficiency of 25.7\u00a0%, the highly toxic composition, element lead, will hinder the use of PSCs in indoor photovoltaics, building-integrated photovoltaics and wearable devices",
+            "all_materials": [
+                "lead halide",
+                "lead"
+            ],
+            "other_materials": [
+                "lead halide",
+                "lead"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, it is imperative to search and study the low-toxicity lead-free perovskites as back-up materials",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Recently, encouraging progress is made on lead-free PSCs in terms of Sn perovskites and double perovskites",
+            "all_materials": [
+                "PSCs",
+                "Sn"
+            ],
+            "other_materials": [
+                "PSCs",
+                "Sn"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this comment, we will summarize the present status and give future perspectives on lead-free perovskite photovoltaics.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The partial modification of perovskite cations has already been done to stabilize perovskite solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this study, Cs/FA/MA triple-cation  perovskite and PTA2PbI4 /3D perovskite were used as light-absorbing materials in PSCs",
+            "all_materials": [
+                "Cs/FA/MA",
+                "PTA2PbI4 /3D"
+            ],
+            "other_materials": [
+                "Cs/FA/MA",
+                "PTA2PbI4 /3D"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Phenyl trimethylammonium iodide  was also used as a passivator",
+            "all_materials": [
+                "Phenyl trimethylammonium iodide"
+            ],
+            "other_materials": [
+                "Phenyl trimethylammonium iodide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It was found that PTAI can serve as an original PTA two-dimensional  cation and as a basis for the formation of 2D/3D heterostructure films",
+            "all_materials": [
+                "PTAI",
+                "PTA"
+            ],
+            "other_materials": [
+                "PTAI",
+                "PTA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Since an improper post-annealing temperature leads to the uncontrollable degradation of 3D perovskites, this study examines post-annealing at various temperatures to make a 2D perovskite film on a 3D perovskite layer",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The proper post-annealing temperature to make a 2D/3D structure was 150\u00a0\u00b0C exerted for five minutes",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Through PTAI post-treatment in these optimum conditions, the morphology of the perovskite layer was improved, which confirms the facilitation of the charge transfer",
+            "all_materials": [
+                "PTAI"
+            ],
+            "other_materials": [
+                "PTAI"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Indeed, a 2D/3D heterostructure originating from a PTAI solution serves as a film to protect perovskite layer from destruction and improves charge transfer",
+            "all_materials": [
+                "PTAI"
+            ],
+            "other_materials": [
+                "PTAI"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, the treatment of perovskite layers, as practiced in this study, can enhances the stability and the efficiency of hole-transport-free PSCs and predispose their industrial production",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The efficiency of the optimized device was enhanced for 35 % in comparison to the control samples",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The device could also maintain 90 % of its PCE for 177 days.",
+            "all_materials": [
+                "PCE"
+            ],
+            "other_materials": [
+                "PCE"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The interface is crucial for perovskite solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, voids at interfaces induced by the trapped hygroscopic dimethyl sulfoxide  can reduce charge extraction and accelerate the film degradation, seriously damaging the efficiency and stability",
+            "all_materials": [
+                "dimethyl sulfoxide"
+            ],
+            "other_materials": [
+                "dimethyl sulfoxide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, 4,4&#x27;-dinonyl-2,2&#x27;-dipyridine , a Lewis base with long alkyl chains is introduced to solve this problem",
+            "all_materials": [
+                "-dinonyl-2,2"
+            ],
+            "other_materials": [
+                "-dinonyl-2,2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Theoretical calculated and experimental results confirm that the dipyridyl group on DN-DP can more strongly coordinate with Pb2+ than that of the S=O group on DMSO",
+            "all_materials": [
+                "DN-DP",
+                "DMSO"
+            ],
+            "other_materials": [
+                "DN-DP",
+                "DMSO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The strong coordination effect plays a crucial role in removing the DMSO-based adduct and reducing the formation of voids",
+            "all_materials": [
+                "DMSO"
+            ],
+            "other_materials": [
+                "DMSO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Due to the electron-donating properties of pyridine, the existence of DN-DP in the perovskite film can passivate the defects and optimize the energy level alignment of the perovskite configuration",
+            "all_materials": [
+                "pyridine",
+                "DN-DP"
+            ],
+            "other_materials": [
+                "pyridine",
+                "DN-DP"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The open-circuit voltage  of the DN-DP-based PSC is improved from 1.107 V  to 1.153 V, giving rise to a power conversion efficiency  of 24.02%",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, benefiting from the moisture resistance stemming from the hydrophobic nonyl group, the PCE retains 90.4% of the initial performance after 1000 hours of storage in the ambient condition.",
+            "all_materials": [
+                "PCE"
+            ],
+            "other_materials": [
+                "PCE"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this comment, we analyze the challenges we are facing for the further development of perovskite solar cells for their commercialization and offer our recommendations",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It includes the following aspects: upscaling of lab-sized devices to different sized modules, further improving their efficiencies and stability, establishing proper characterization tools to help understand the underlying mechanisms of defect formation and develop needed methods to reduce them, riding on the rapid development of several perovskite-based tandem cells to facilitate the commercialization of perovskite PV, establishing suitable accelerated testing protocols and standards to evaluate perovskite-based modules and panels.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

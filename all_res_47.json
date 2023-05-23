@@ -1,0 +1,1116 @@
+{
+    "rest": [
+        {
+            "sentence": "Perovskite solar cells , with demonstrated high efficiencies in a lab scale, are regarded as potential energy-harvesting materials if the challenges like large-area manufacturing and long-term stability are achieved",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In an effort to fabricate PSCs on large-area substrates, the study herein reports the use of an economic and scalable bar coating method for the fabrication of PSCs",
+            "all_materials": [
+                "PSCs",
+                "PSCs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "Bar coating is used initially to coat electron transport layers\u00a0on large-area  FTO glass substrates",
+            "all_materials": [
+                "FTO"
+            ],
+            "other_materials": [
+                "FTO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A methyl ammonium lead iodide  perovskite absorber has been bar coated on the electron transport layers coated FTO glass substrates using a single-crystal-derived perovskite precursor",
+            "all_materials": [
+                "methyl ammonium lead iodide",
+                "FTO"
+            ],
+            "other_materials": [
+                "methyl ammonium lead iodide",
+                "FTO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The single crystal-derived precursor has resulted in large-area uniform perovskite absorbers and, thus, characterized appositely to establish the uniform coverage of desired quality MAPbI3",
+            "all_materials": [
+                "MAPbI3"
+            ],
+            "other_materials": [
+                "MAPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The spatial distribution of photoluminescence and absorption spectra of the perovskite absorber, collected systematically, confirms the device quality MAPbI3, with identical characteristics ascertaining the homogeneity of perovskite coating",
+            "all_materials": [
+                "MAPbI3"
+            ],
+            "other_materials": [
+                "MAPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Solar cells fabricated using bar-coated large-area perovskite absorbers have exhibited a champion power conversion efficiency\u00a0of 15.6%, with the average power conversion efficiency being 14.5%, unveiling an excellent performance homogeneity",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                2,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Further, the champion devices of bar-coated PSCs are compared with control devices fabricated by spin coating of a powder-derived precursor",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                15,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Bar-coated PSCs have not only exhibited significantly higher performance but also showed comparable reproducibility and much lower hysteresis values than the control PSCs, demonstrating the efficacy of the bar coating method towards fabricating large-area PSCs.",
+            "all_materials": [
+                "PSCs",
+                "PSCs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                35,
+                "StartingSynthesis"
+            ],
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "Ever since the utilization of methyl ammonium lead iodide  perovskite as a solid-state sensitizer, the evolution of perovskite based solar cells has been quite rapid with an accelerated increase in efficiencies [, ]",
+            "all_materials": [
+                "methyl ammonium lead iodide"
+            ],
+            "other_materials": [
+                "methyl ammonium lead iodide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Currently, perovskite solar cells  hold a record efficiency of 25.6% in a laboratory scale",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Tunable bandgap, large absorption coefficient, long carrier diffusion length, and ease of processing are the major advantages of perovskite absorbers suitable for application in photovoltaics",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Extensive efforts and reports pertaining to the fabrication of PSCs over the last decade indicate that these are a potential class of materials to be utilized for effective solar energy harvesting in the near future [, ]",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the two most challenging things that hinder their prospects are the large-area fabrication and long-term stability issues [, ]",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It is well-known that the ability of perovskites is easily realized since they can be processed with simple solution-based techniques and at low temperatures",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Among all the methods, the most explored one resulting in high efficiency PSCs is spin coating, which is capable of producing uniform and conformally covered films devoid of any pinholes",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, spin coating uses an excess precursor volume to cover substrates, and effective material utilization is also very low since a lot of precursor solution is wasted during the coating process",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Particularly, large-scale manufacturing by spin coating is limited due to its incomplete spread of the precursor solution",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Several processes like spray coating, blade coating, inkjet printing, slot-die coating, etc",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "are being explored for the fabrication of large-area PSCs [, ]",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, considering the best optimized conditions\u00a0spin coating possesses, often lower efficiencies are reported with the processes compatible with large-area coating",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Apart from the deposition method, the perovskite precursor also plays a crucial role in large-scale processing",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For perovskite absorber coating, choosing appropriate solvents for the dissolution of salts and their evaporation during film formation is the key factors that determine the quality of the perovskite",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                15,
+                "DryingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In case of spin coating, the precursor formulation, the coating process, and the conversion of perovskite are well studied and established",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For scalable processes, these factors are still under optimization, which limit the efficiencies",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In spin coating, a well-established anti-solvent engineering followed by annealing takes care of the rapid extraction/evaporation of the solvent, which also plays a major role in crystallization, thereby influencing the formation of perovskite absorber",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                12,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For scalable processes, though such a straightforward approach is not available, the methods are evolving for choosing a suitable precursor to coat the perovskite absorber layer.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Among various scalable approaches, bar coating is a simple and economic method capable of obtaining uniform films on a large area with low material wastage [20,21]",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Bar coating has been previously explored for the fabrication of optoelectronic devices such as organic field effect transistors, wherein the method produces a uniform coating with desirable properties [22,23]",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "have explored thebar coating for planar PSCs fabrication, wherein isopropanol is used as an anti-solvent, which plays a critical role in grain formation with an improved aspect ratio Liu et\u00a0al",
+            "all_materials": [
+                "isopropanol"
+            ],
+            "other_materials": [
+                "isopropanol"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The PSCs fabricated in a controlled atmosphere have showed an efficiency of 13%, while the one in processed ambient air exhibited 11%",
+            "all_materials": [
+                "air"
+            ],
+            "other_materials": [
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                2,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "On a similar note, Ju et\u00a0al",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "have explored bar coating with N-Cyclohexyl-2-pyrrolidone\u00a0as an additive/mediator, which has aided in improving crystallization, and the resulting PSCs have showed an efficiency of 14.95%",
+            "all_materials": [
+                "N-Cyclohexyl-2-pyrrolidone"
+            ],
+            "other_materials": [
+                "N-Cyclohexyl-2-pyrrolidone"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Further, in another novel attempt, Jeong et\u00a0al",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "have utilized a single crystal gas-mediated-derived perovskite precursor for bar coating followed by a heat treatment at 150\u00a0\u00b0C for 5\u00a0min and reported efficiencies exceeding 17%",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It may therefore be noted that, if a suitable precursor is used, bar coating can play a major role towards large-area PSC module fabrication, a step towards commercialization",
+            "all_materials": [
+                "PSC"
+            ],
+            "other_materials": [
+                "PSC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, very few reports explored bar coating of an electron transport layer  and a perovskite absorber layer for solar cell applications [, ].",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this report, bar coating method for an ETL and perovskite absorbers for the fabrication of large-scale PSCs are proposed",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Initially, compact and mesoporous TiO2 ETLs are bar coated with suitable solvents on 50\u00a0mm\u00a0\u00d7\u00a050\u00a0mm substrates",
+            "all_materials": [
+                "TiO2 ETLs"
+            ],
+            "other_materials": [
+                "TiO2 ETLs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "MAPbI3 perovskite absorbers are prepared by bar coating the single crystal-derived precursor solution, followed by blowing with hot air",
+            "all_materials": [
+                "MAPbI3",
+                "air"
+            ],
+            "other_materials": [
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                4,
+                "StartingSynthesis"
+            ],
+            "targets": "MAPbI3"
+        },
+        {
+            "sentence": "A comprehensive characterization of large-area bar-coated perovskite absorbers show device quality MAPbI3 films with excellent spatial homogeneity of properties, indicating the uniformity of the perovskite",
+            "all_materials": [
+                "MAPbI3"
+            ],
+            "other_materials": [
+                "MAPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The devices exhibit a power conversion efficiency\u00a0 in the range of 13\u201316%, with good spatial homogeneity of I\u2013V parameters as witnessed from the relevant statistical analysis",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The bar-coated approach will find important implications going\u00a0forward for the fabrication of perovskite modules in an industry viable high throughput the manufacturing environment.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The detailed list of materials used in the present study with their make, purity, precursors utilized, and the process adopted for the bar coating of TiO2 ETLs is provided in the supplementary information",
+            "all_materials": [
+                "TiO2 ETLs"
+            ],
+            "other_materials": [
+                "TiO2 ETLs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The preparation of control devices fabricated by spin coating of TiO2 ETL and MAPbI3 absorber layer can be found in our previous works [27,28].",
+            "all_materials": [
+                "TiO2 ETL",
+                "MAPbI3"
+            ],
+            "other_materials": [
+                "TiO2 ETL",
+                "MAPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                5,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Figure\u00a0S3 shows the typical bar coating schematic employed for the coating of the TiO2 ETL and MAPbI3 perovskite absorber on a 50\u00a0mm\u00a0\u00d7\u00a050\u00a0mm FTO/glass substrate",
+            "all_materials": [
+                "TiO2 ETL",
+                "MAPbI3",
+                "FTO/"
+            ],
+            "other_materials": [
+                "TiO2 ETL",
+                "MAPbI3",
+                "FTO/"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It is important to note that, in the reports with bar-coated perovskite, the ETL, either TiO2 or SnO2, is deposited by a spin coating technique prior to the bar coating of the perovskite absorber",
+            "all_materials": [
+                "ETL",
+                "TiO2",
+                "SnO2"
+            ],
+            "other_materials": [
+                "ETL",
+                "TiO2",
+                "SnO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, in this study, the homogeneous and conformally covered ETL  is deposited using bar coating by the",
+            "all_materials": [
+                "ETL"
+            ],
+            "other_materials": [
+                "ETL"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Considering the challenges in processing large-scale PSCs, the present study has successfully demonstrated the fabrication of uniform and high-quality perovskite absorbers from a simple, easily scalable, and eco-friendly bar coating technique",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The underlying ETLs are also obtained using a bar coating method so as to realize all-bar-coated PSCs in the near future",
+            "all_materials": [
+                "ETLs",
+                "PSCs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "ETLs"
+        },
+        {
+            "sentence": "The perovskite precursor adopted for bar coating is suitably derived from MAPbI3 single crystals and is adjusted to desired",
+            "all_materials": [
+                "MAPbI3"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "MAPbI3",
+                    "start": 74,
+                    "end": 80,
+                    "token_ids": [
+                        11
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors are grateful to the Technical Research Centre project  and the Clean Energy Research Initiative project ), Department of Science &amp; Technology, Government of India, for funding this work.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Electronic components urgently need high thermal conductivity materials with good mechanical and insulation properties",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Monolayer fluorographene nanosheets  were obtained by a mild exfoliation method using the low-cost and small sheets fluorographene",
+            "all_materials": [
+                "fluorographene"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "fluorographene"
+        },
+        {
+            "sentence": "FGN/polyvinyl alcohol  composite films prepared by FGN  had higher in-plain thermal conductive ) and tensile strength  than these with small sheet and/or ungraded FGN",
+            "all_materials": [
+                "FGN/polyvinyl alcohol",
+                "FGN"
+            ],
+            "other_materials": [
+                "FGN"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "FGN/polyvinyl alcohol"
+        },
+        {
+            "sentence": "The ductility of FGN with large sheets made it a horizontally directional arrangement during filtration, and then the thin and uniform sheets were packed tightly and orderly along the vertical direction of the films structure",
+            "all_materials": [
+                "FGN"
+            ],
+            "other_materials": [
+                "FGN"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "PVA connected adjacent FGN in the horizontal direction of the composite films by a hydrogen bond, and penetrates into the middle of the lamella, effectively reducing the high heat resistance from air gap and providing a continuous transmission of phonons in a horizontal direction",
+            "all_materials": [
+                "PVA",
+                "FGN",
+                "air"
+            ],
+            "other_materials": [
+                "PVA",
+                "FGN",
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "At the same time, the thermal conductivity and electrical insulation of the FGN/PVA composite films were increased due to the hydrogen bond and PVA penetrates",
+            "all_materials": [
+                "FGN/PVA",
+                "PVA"
+            ],
+            "other_materials": [
+                "FGN/PVA",
+                "PVA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It provides an effective way to obtain low-cost films with high thermal conductivity, excellent flexibility, and good electrical insulation.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this paper, a novel fluorescent probe with high sensitivity and selectivity to hypochlorite  was prepared by an acylation reaction and Suzuki coupling reaction",
+            "all_materials": [
+                "hypochlorite"
+            ],
+            "other_materials": [
+                "hypochlorite"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                16,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The probe takes chitosan and 4-bromo-1, 8-naphthalene as raw materials and, a fluorescent test paper for ClO\u2212 detection in water was prepared using this new probe",
+            "all_materials": [
+                "chitosan",
+                "4-bromo-1",
+                "8-naphthalene",
+                "ClO\u2212",
+                "water"
+            ],
+            "other_materials": [
+                "ClO\u2212",
+                "water"
+            ],
+            "precursors": [
+                {
+                    "text": "chitosan",
+                    "start": 16,
+                    "end": 24,
+                    "token_ids": [
+                        3
+                    ]
+                },
+                {
+                    "text": "4-bromo-1",
+                    "start": 29,
+                    "end": 38,
+                    "token_ids": [
+                        5
+                    ]
+                },
+                {
+                    "text": "8-naphthalene",
+                    "start": 40,
+                    "end": 53,
+                    "token_ids": [
+                        7
+                    ]
+                }
+            ],
+            "operation": [
+                23,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The structure of this new fluorescent chitosan\u00a0was analyzed by Fourier Transform infrared spectroscopy, nuclear magnetic resonance, an energy dispersive X-ray spectrometer, a scanning electron microscope, and an X-ray diffractometer",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The properties of this probe were characterized by a thermogravimetric analyzer, ultraviolet\u2013vis spectrophotometer, and fluorescence spectrophotometer",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The results show that the expected probe is successfully synthesized and the probe has good thermal stability",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                9,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, the fluorescence probe can detect ClO\u2212 quickly and has a good selectivity and anti-interference",
+            "all_materials": [
+                "ClO\u2212"
+            ],
+            "other_materials": [
+                "ClO\u2212"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "When ClO\u2212 was added within 8\u00a0min, the test paper showed a noticeable change from yellow to blue.",
+            "all_materials": [
+                "ClO\u2212"
+            ],
+            "other_materials": [
+                "ClO\u2212"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                3,
+                "Mixing"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "An antireflection  film on the surface of the photovoltaic glass can significantly improve the photoelectric conversion efficiency of solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, AR films prepared by a facile and low-cost sol-gel method usually exhibit poor mechanical properties, which limits their applications",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                4,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, hexamethoxy methyl melamine resin  was employed as a pore-forming agent in the sol and sacrificial template to prepare porous SiO2 film on glass by a facile sol-gel method and subsequent heat treatment",
+            "all_materials": [
+                "hexamethoxy methyl melamine resin",
+                "SiO2"
+            ],
+            "other_materials": [
+                "hexamethoxy methyl melamine resin"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "SiO2"
+        },
+        {
+            "sentence": "The obtained SiO2 film showed a high solar transmittance increase of 3.24% in the wavelength range of 380\u20131100\u00a0nm and a good hardness of H when the dosage of CYMEL 303LF is 10\u00a0wt%, the short circuit current density and photoelectric conversion efficiency of the solar cell are increased respectively by 1.44\u00a0mA/cm2 and 1.08%, compared with the substrate, which is better than most SiO2 films in the previous works",
+            "all_materials": [
+                "SiO2",
+                "CYMEL 303LF",
+                "SiO2"
+            ],
+            "other_materials": [
+                "SiO2",
+                "CYMEL 303LF",
+                "SiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "With increasing the dosage of CYMEL 303LF from 0% to 12%, the solar transmittance gain was increased at first and then decreased, while the film hardness was decreased straightly",
+            "all_materials": [
+                "CYMEL 303LF"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "CYMEL 303LF",
+                    "start": 30,
+                    "end": 41,
+                    "token_ids": [
+                        5,
+                        6
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This was probably because that the introduction of CYMEL 303LF can facilitate the formation of more pores in the SiO2 film, leading to a decrease in the refractive index and film adhesion",
+            "all_materials": [
+                "CYMEL 303LF",
+                "SiO2"
+            ],
+            "other_materials": [
+                "CYMEL 303LF",
+                "SiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, this work can provide a facile method to prepare high-performance SiO2 as AR film for solar cells.",
+            "all_materials": [
+                "SiO2"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "SiO2"
+        },
+        {
+            "sentence": "The exceptional photovoltaic properties of Sn-based perovskite solar cells  have caught the interest of researchers as a potential candidate for the development of non-toxic PSCs",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Nevertheless, the Sn\u2013PSCs still face some critical drawbacks, such as the easier oxidation of Sn2+ to Sn4+ and the moisture permeation, which reduce their stability and power conversion efficiency",
+            "all_materials": [
+                "Sn\u2013PSCs"
+            ],
+            "other_materials": [
+                "Sn\u2013PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, to tackle these limitations, we added a Lewis base additive formamidinesulfinic acid  to the perovskite precursor solution",
+            "all_materials": [
+                "formamidinesulfinic acid"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "formamidinesulfinic acid",
+                    "start": 74,
+                    "end": 98,
+                    "token_ids": [
+                        15,
+                        16
+                    ]
+                }
+            ],
+            "operation": [
+                10,
+                "SolutionMixing"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The FASO2H Lewis base additive could successfully reduce the oxidation of Sn2+/Sn4+ by 32%, improved the crystallinity and decreased the lattice strain by 66% in the respective films",
+            "all_materials": [
+                "FASO2H"
+            ],
+            "other_materials": [
+                "FASO2H"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As a result, the charge carrier recombination minimized and the FASnI3-FASO2H  based PSCs produced a PCE of 7.44%",
+            "all_materials": [
+                "FASnI3-FASO2H"
+            ],
+            "other_materials": [
+                "FASnI3-FASO2H"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The FASO2H additive also offers superior moisture protection for Sn\u2013PSCs thanks to its hydrophobic sulfinic acid group",
+            "all_materials": [
+                "FASO2H",
+                "Sn\u2013PSCs",
+                "sulfinic acid"
+            ],
+            "other_materials": [
+                "FASO2H",
+                "Sn\u2013PSCs",
+                "sulfinic acid"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Notably, the Sn\u2013PSCs exhibit a high light soaking stability by maintaining 90% of the initial PCE up to 450\u00a0h when tested under maximum power point tracking conditions.",
+            "all_materials": [
+                "Sn"
+            ],
+            "other_materials": [
+                "Sn"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The common transparent electrode materials used in perovskite solar cells , for example, the tin-doped indium oxide , usually have low carrier mobility and low transmittance in the near-infrared region which limits the short circuit current density",
+            "all_materials": [
+                "indium oxide"
+            ],
+            "other_materials": [
+                "indium oxide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Accordingly, it is urgent to seek a novel transparent conductive material with high mobility and high transmittance",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, the tungsten doped indium oxide  film, composed of 0.5\u00a0wt% WO3 and 99.5\u00a0wt% In2O3, is employed in PSCs to act as the transparent electrode",
+            "all_materials": [
+                "indium oxide",
+                "WO3",
+                "In2O3"
+            ],
+            "other_materials": [
+                "indium oxide",
+                "WO3",
+                "In2O3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The IWO-based PSCs exhibit superior performance as compared with the ITO-based counterparts mainly due to the excellent opto-electrical properties of IWO, such as high carrier mobility and infrared transmittance, fine surface morphology, etc",
+            "all_materials": [
+                "IWO"
+            ],
+            "other_materials": [
+                "IWO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The performance of devices is further optimized by air-annealing treatment of the absorber layer",
+            "all_materials": [
+                "air"
+            ],
+            "other_materials": [
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Air-annealing improves the crystallinity, decreases the defect states, and as a result, inhibits the non-radiative recombination",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                2,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In summary, we fabricated the champion device based on IWO with the JSC of 26.2\u00a0mA/cm2 and its power conversion efficiency achieves 23.64%, the maximum record of IWO-based PSCs.",
+            "all_materials": [
+                "IWO"
+            ],
+            "other_materials": [
+                "IWO"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                4,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Tin-lead  mixed perovskite solar cells  with the advantage of low bandgap to photovoltaic application, have been developed well in recent years, but the poor stability and rapid crystallization of Sn\u2013Pb perovskite cause the large open-circuit voltage  loss and defects",
+            "all_materials": [
+                "Sn\u2013Pb"
+            ],
+            "other_materials": [
+                "Sn\u2013Pb"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here, we report a coordination effect to passivate Sn defects by adding 4-pyridine-methylamine iodine  in perovskite precursor solution to optimize morphology and enhance the performance of Sn\u2013Pb mixed PSCs",
+            "all_materials": [
+                "4-pyridine-methylamine iodine",
+                "Sn\u2013Pb",
+                "PSCs"
+            ],
+            "other_materials": [
+                "Sn\u2013Pb",
+                "PSCs"
+            ],
+            "precursors": [
+                {
+                    "text": "4-pyridine-methylamine iodine",
+                    "start": 72,
+                    "end": 101,
+                    "token_ids": [
+                        13,
+                        14
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It&#x27;s found that multiple coordination bonds are formed in Sn\u2013Pb mixed perovskite under the reaction of PyAI in an acid environment, which lead to modulate Sn\u2013Pb mixed perovskite film formation process, improve film crystallinity, reduce electronic disorder, and optimize the overall film quality",
+            "all_materials": [
+                "PyAI",
+                "Sn",
+                "Pb"
+            ],
+            "other_materials": [
+                "PyAI",
+                "Sn",
+                "Pb"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As a result, 1.5%PyAI-treated Sn\u2013Pb mixed PSCs exhibit the power conversion efficiency  improvement from 14.87% to 17.04% compared with the control Sn\u2013Pb mixed PSCs",
+            "all_materials": [
+                "PyAI",
+                "Sn\u2013Pb",
+                "PSCs",
+                "Sn\u2013Pb",
+                "PSCs"
+            ],
+            "other_materials": [
+                "PyAI",
+                "Sn\u2013Pb",
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "Sn\u2013Pb"
+        },
+        {
+            "sentence": "Moreover, the unencapsulated 1.5%PyAI-treated device maintains 80% of its initial performance after being stored in an N2-filled glove box for 15 days, also inhibitory effect of the oxidation process is obvious under the air environment condition.",
+            "all_materials": [
+                "PyAI",
+                "N2",
+                "air"
+            ],
+            "other_materials": [
+                "PyAI",
+                "N2",
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

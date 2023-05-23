@@ -1,0 +1,1223 @@
+{
+    "rest": [
+        {
+            "sentence": "High-performance wide bandgap perovskite single-junction solar cells  are the key elements for the fabrication of high-efficiency tandem solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the development of wide bandgap PSCs is currently limited by pernicious interface contact and uncontrolled crystal evolution",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, the potassium iodide  additive and solvent annealing method simultaneously are employed to control crystallization kinetics evolution of triple-cation hybrid halide wide bandgap perovskites",
+            "all_materials": [
+                "potassium iodide",
+                "halide"
+            ],
+            "other_materials": [
+                "potassium iodide"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                10,
+                "HeatingOperation"
+            ],
+            "targets": "halide"
+        },
+        {
+            "sentence": "The interface is modified with phenethylammonium iodide  to form 2D PEAI2PbI4 layer to further enhance the electron collection efficiency and reduce non-radiative recombination caused by the defects trap between the perovskite and electron transport layer",
+            "all_materials": [
+                "phenethylammonium iodide",
+                "PEAI2PbI4"
+            ],
+            "other_materials": [
+                "phenethylammonium iodide",
+                "PEAI2PbI4"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As a result, the photovoltaic performance parameters of the PSCs devices for open-circuit voltage, short-circuit current, and fill factor could be increased from 1.14\u00a0V, 14.98\u00a0mA cm\u22122, and 53% to 1.22\u00a0V, 17.65\u00a0mA cm\u22122, and 73%, respectively, obtaining the impressive solar cell device with 15.7% power conversion efficiency",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The improvement in photovoltaic performance should be attributed to the optimization of crystal evolution and management of interface contact",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, this study provides a promising strategy for fabricating the high-performance wide bandgap PSCs.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                9,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Triple-cation hybrid perovskite solar cells  have gradually attracted considerable attention from researchers due to their potential for the next-generation photovoltaic technology",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this respect, the power conversion efficiency  of solar cells has been made great progress, which have recently increased above 25% ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The efficiency of single-junction multi-crystalline is gradually approaching to the Shockley-Queisser  limit ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, the method of forming a monolithic tandem solar cell by connecting the single solar cells in series is currently attracting significant interest as potential candidates [11,12]",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Tandem solar cells consist of sub-cell materials with different bandgaps, which allow absorption of light within a wide wavelength range, thereby drastically increasing light energy utilization of solar cells [13,14]",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Among various tandem solar cells, hybrid lead perovskite is ideal as top cell of tandem solar panel due to its superb photoelectric performance and the adjustable bandgap from 1.2 to 3\u00a0eV through changing ions ratio [15,16]",
+            "all_materials": [
+                "lead"
+            ],
+            "other_materials": [
+                "lead"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For silicon/perovskite tandem solar cells, the most suitable perovskite bandgap approximately 1.7\u00a0eV as given the fixed narrow bandgap of silicon  [17,18]",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Although the technology of silicon solar cells has been very mature in photovoltaic market, the cost, rigidity, weight and throughput of the Si sub-cell is limit Si/perovskite tandem evolution yet [19,20].",
+            "all_materials": [
+                "silicon"
+            ],
+            "other_materials": [
+                "silicon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Comparing with Si solar cells, high-quality III-V semiconductors or organic polymers solar cells possess the higher efficiency or flexibility as sub-cell, respectively",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the gallium arsenide  and organic polymers  with wider bandgap than silicon, entailing high temperatures or slow rates of growth for expensive manufacturing cost, requiring wider perovskite bandgap and sacrificing some light availability",
+            "all_materials": [
+                "gallium arsenide",
+                "silicon"
+            ],
+            "other_materials": [
+                "gallium arsenide",
+                "silicon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "At the same time, the value of Voc in the wide bandgap perovskite solar cells begins to decrease as the bandgap increases",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "All-perovskite tandem solar cells introduce Sn-based  and wide bandgap  perovskite, fully leveraging the advantages of this material system, including high performance, low cost and high solar availability",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Nonetheless, single-junction wide bandgap perovskite solar cells suffer from pernicious interfaces contact and uncontrolled crystal evolution, leading to the device encounter high loss in Voc and Jsc ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, the most studies have focused on optimization of perovskite crystallization and surface properties of bromine-rich wide bandgap perovskite to eliminate high defect states issue [27,28].",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "employed solvent annealing process effectively increase the grain size of mixed-cation lead mixed-halide perovskite thin film, achieving a stabilized PCE of 17.18% with a wide bandgap of 1.75\u00a0eV Yu et\u00a0al",
+            "all_materials": [
+                "lead mixed-halide",
+                "PCE"
+            ],
+            "other_materials": [
+                "lead mixed-halide",
+                "PCE"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "found that solvent-annealing could concurrently increase the grain size and carrier diffusion lengths of tri-halide perovskite materialsHuang et\u00a0al",
+            "all_materials": [
+                "tri-halide"
+            ],
+            "other_materials": [
+                "tri-halide"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                4,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The highest efficiency reaching 15.6% based on MAPbI3 PSCs system when the MAPbI3 thickness attaining 1\u00a0um",
+            "all_materials": [
+                "MAPbI3",
+                "MAPbI3"
+            ],
+            "other_materials": [
+                "MAPbI3",
+                "MAPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "demonstrated that potassium effectively suppress photoinduced phase segregation and enhance the crystallinity of the WBG mixed-halide perovskite Liang et\u00a0al",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Many researches and theoretical studies proved that K+ prevent the formation of Frenkel defect as K+ energetically prefers the interstitial site, lower formation energy of K interstitial remarkably eliminate hysteresis at mixed perovskite system by KI doping methodology [31,32]",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "According to their results, the ions doping of perovskite precursor solutions and solvent annealing strategy may control cooperatively crystal evolution for high quality wide bandgap perovskite film",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Excepting bulk defect within perovskite film, the interface defects in PSCs mainly limiting the transport and extraction of photogenerated carriers",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Generally, embedding an interface layer between the perovskite layer and the electron /hole transport layer  can effectively reduce non-radiative recombination and increase the photovoltaic performance of the PSCs [34,35]",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "embedded a phenethylammonium iodide  film between the perovskite layer and the [6,6]-Phenyl C61 butyric acid methyl ester  layer to compensate the internal tensile strain with PCBM and to stabilize the 2D/3D heterostructure Zhang et\u00a0al",
+            "all_materials": [
+                "phenethylammonium iodide",
+                "[6,6]-Phenyl C61 butyric acid methyl ester",
+                "PCBM"
+            ],
+            "other_materials": [
+                "phenethylammonium iodide",
+                "[6,6]-Phenyl C61 butyric acid methyl ester",
+                "PCBM"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "applied a large alkylammonium interlayer  to reduce the energy loss that occurred between the transport and perovskite layers Wu et\u00a0al",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "developed the CsPbI3 PSCs with a bandgap of about 1.7\u00a0eV through guanidine hydrobromide  post-treatment on the surface of CsPbI3 films, obtaining a supreme PCE of 18.02% .Yan et\u00a0al",
+            "all_materials": [
+                "CsPbI3",
+                "guanidine hydrobromide",
+                "CsPbI3"
+            ],
+            "other_materials": [
+                "CsPbI3",
+                "guanidine hydrobromide",
+                "CsPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, we reported a strategy that solvent annealing  and ion doping to simultaneously control crystallization kinetics to improve the crystal quality and surface coverage of a triple-cation hybrid halide perovskite with a bandgap of about 1.85\u00a0eV",
+            "all_materials": [
+                "halide"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "halide"
+        },
+        {
+            "sentence": "At the same time, PEAI is employed for the interface modification of the wide bandgap perovskite to enhance the electron collection and extraction of electron in the PSCs",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "According to the results, the formation of a two-dimensional thin film on the surface of the wide bandgap perovskite improve the carrier lifetime and reduce the defect state density of the perovskite",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, optimized devices have a considerable increase in photovoltaic performance relative to those of the untreated perovskite, obtaining PCE of 15.7% comparing initial 9%.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The triple-hybrid cation wide bandgap perovskite precursor solution was composed of formamidine, methylammonium and a small amount of Cs cations for stability improvement",
+            "all_materials": [
+                "formamidine",
+                "methylammonium",
+                "Cs"
+            ],
+            "other_materials": [
+                "Cs"
+            ],
+            "precursors": [
+                {
+                    "text": "formamidine",
+                    "start": 84,
+                    "end": 95,
+                    "token_ids": [
+                        13
+                    ]
+                },
+                {
+                    "text": "methylammonium",
+                    "start": 97,
+                    "end": 111,
+                    "token_ids": [
+                        15
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A large amount of bromine dopant was employed to achieve a wide bandgap of 1.85\u00a0eV",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, with the increase of bromine content, crystal quality of perovskite films and Voc of PSCs decreases gradually [1,39]",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As for the physical mechanism, many different approaches improved the quality of perovskite crystals were introduced",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In summary, SA method and KI doping were employed to control crystal evolution of perovskite films and improve the crystallization quality and surface coverage in the wide bandgap  PSCs",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As result, growth control remove the perniciously precipitation of PbI2, effectively improve crystalline quality of perovskite films, thereby reducing the film roughness",
+            "all_materials": [
+                "PbI2"
+            ],
+            "other_materials": [
+                "PbI2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, the contact interface between the perovskite and the ETL was modified by adding a PEAI layer, which further increased",
+            "all_materials": [
+                "ETL",
+                "PEAI"
+            ],
+            "other_materials": [
+                "ETL",
+                "PEAI"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The FA0.8Cs0.16MA0.04Pb3 perovskite precursor solution was prepared by mixing 0.8\u00a0M formamidinium iodide , 0.16\u00a0M cesium iodide , 0.04\u00a0M methylamine iodide , 0.25\u00a0M lead iodide , 0.75\u00a0M lead bromide  and suitable potassium iodide  in 1\u00a0mL of a mixed solvent containing 250\u00a0uL of dimethyl sulfoxide  and 750\u00a0uL of N,N-dimethylformamide",
+            "all_materials": [
+                "FA0.8Cs0.16MA0.04Pb3",
+                "formamidinium iodide",
+                "cesium iodide",
+                "methylamine iodide",
+                "lead iodide",
+                "lead bromide",
+                "potassium iodide",
+                "dimethyl sulfoxide",
+                "N,N-dimethylformamide"
+            ],
+            "other_materials": [
+                "lead iodide",
+                "dimethyl sulfoxide",
+                "N,N-dimethylformamide"
+            ],
+            "precursors": [
+                {
+                    "text": "formamidinium iodide",
+                    "start": 84,
+                    "end": 104,
+                    "token_ids": [
+                        11,
+                        12
+                    ]
+                },
+                {
+                    "text": "cesium iodide",
+                    "start": 114,
+                    "end": 127,
+                    "token_ids": [
+                        16,
+                        17
+                    ]
+                },
+                {
+                    "text": "methylamine iodide",
+                    "start": 137,
+                    "end": 155,
+                    "token_ids": [
+                        21,
+                        22
+                    ]
+                },
+                {
+                    "text": "lead bromide",
+                    "start": 186,
+                    "end": 198,
+                    "token_ids": [
+                        31,
+                        32
+                    ]
+                },
+                {
+                    "text": "potassium iodide",
+                    "start": 213,
+                    "end": 229,
+                    "token_ids": [
+                        35,
+                        36
+                    ]
+                }
+            ],
+            "operation": [
+                [
+                    6,
+                    "StartingSynthesis"
+                ],
+                [
+                    8,
+                    "Mixing"
+                ]
+            ],
+            "targets": "FA0.8Cs0.16MA0.04Pb3"
+        },
+        {
+            "sentence": "The potassium-passivated WBG",
+            "all_materials": [
+                "WBG"
+            ],
+            "other_materials": [
+                "WBG"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The supporting Information material includes: Supporting Figs",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "S1 to S9.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Supporting Tables S1 to S5.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Yunxuan Cao: Conceptualization, Methodology, Formal analysis, Investigation, Resources, Writing \u2013 original draft, Writing \u2013 review &amp; editing",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Hongliang Liu: Software, Validation, Formal analysis, Data curation, Visualization",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Fangliang Gao: Supervision, Project administration, Funding acquisition",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Dongyang Li: Formal analysis",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Ling Xiang: Methodology",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Jinwei Gao: Resources",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Peng Gao: Funding acquisition",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Yong Zhang: Supervision, Funding acquisition",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Shuti Li: Conceptualization, Supervision,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "There are no conflicts to declare.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work was supported by the Key-Area Research and Development Program of Guangdong Province , the National Natural Science Foundation of China , and the Scientific and Technological Plan of Guangdong Province, China .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A new synthetic protocol to produce the carbon fiber precursor polyacrylonitrile  and its block copolymers with polyethylene glycol  is proposed here",
+            "all_materials": [
+                "polyacrylonitrile",
+                "polyethylene glycol"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "polyacrylonitrile"
+        },
+        {
+            "sentence": "The constant flux of radical species produced at low concentrations during the oscillating Belousov-Zhabotinsky  reaction was properly exploited to initiate the radical polymerization reaction",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Compared with conventional methods, this oscillating initiation decreases the probability of chain termination, thus favouring the production of high molecular weight polymers, and it does not require an inert atmosphere and elevated temperatures to be produced",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The solubility of the polymeric chains during the polymerization reaction was improved by adding the anionic micelle-forming surfactant sodium dodecyl sulphate",
+            "all_materials": [
+                "sodium dodecyl sulphate"
+            ],
+            "other_materials": [
+                "sodium dodecyl sulphate"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Following the initiation step, short oligomer chains are able to overcome the micellar interface, thereby reaching a favourable environment for the increase of the polymeric chains, thus strongly contributing to the increase of the molecular weight of the fibers\u2019 precursors",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The synthesis was conducted by adding the monomer acrylonitrile  to the unperturbed and PEG-perturbed BZ system after the onset of the oscillations, in the absence and presence of increasing amounts of the SDS surfactant",
+            "all_materials": [
+                "acrylonitrile",
+                "PEG",
+                "BZ",
+                "SDS"
+            ],
+            "other_materials": [
+                "PEG",
+                "BZ"
+            ],
+            "precursors": [
+                {
+                    "text": "acrylonitrile",
+                    "start": 50,
+                    "end": 63,
+                    "token_ids": [
+                        8
+                    ]
+                },
+                {
+                    "text": "SDS",
+                    "start": 206,
+                    "end": 209,
+                    "token_ids": [
+                        35
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The potentiometric technique was utilized to detect the dynamics of the oscillatory reaction",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Preliminarily, the response of the BZ system to the monomer addition was investigated",
+            "all_materials": [
+                "BZ"
+            ],
+            "other_materials": [
+                "BZ"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Additional information was provided from the study of the effect of the SDS and PEG concentration on the dynamics of the BZ reaction during AN polymerization, thus obtaining a deepening in the understanding of the BZ mechanism",
+            "all_materials": [
+                "PEG",
+                "AN",
+                "BZ"
+            ],
+            "other_materials": [
+                "PEG",
+                "AN",
+                "BZ"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The characterization of the obtained polymers and copolymers, by melting point measurements, molecular weight determinations, Fourier Transform Infrared , X-ray diffraction  analyses, and thermal treatments, indicated that the proposed synthetic method produces carbon fiber precursors with high molecular weight and good thermal stability",
+            "all_materials": [
+                "carbon"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "carbon"
+        },
+        {
+            "sentence": "The addition of the surfactant was revealed as a good method to improve and/or finely tune the precursor molecular weight",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The proposed synthetic protocol represents a valuable alternative to conventional methods to produce high-performant precursors of carbon fibers.",
+            "all_materials": [
+                "carbon"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "carbon"
+        },
+        {
+            "sentence": "Understanding the interaction mechanism between nucleotide bases  and carbon substrate nanomaterials is a major scientific issue in the field of bioactive molecule identification, which is of great significance for digital diagnosis, gene sequencing, drug development and human health",
+            "all_materials": [
+                "carbon"
+            ],
+            "other_materials": [
+                "carbon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, the adsorption behavior of five typical NBs molecules A, T, C, G and U on the surface of the widely used carbon-based nanomaterials such as fullerene, carbon nanotubes and graphene, was investigated comprehensively from first-principle views",
+            "all_materials": [
+                "NBs",
+                "fullerene",
+                "carbon",
+                "graphene"
+            ],
+            "other_materials": [
+                "NBs",
+                "fullerene",
+                "carbon",
+                "graphene"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The adsorption of NBs molecules over the surface of these nano-carbon materials was described rationally and intuitively from both quantitative and qualitative perspectives",
+            "all_materials": [
+                "NBs"
+            ],
+            "other_materials": [
+                "NBs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The adsorption ability and binding intensity of NBs over the three carbon-based substrates showed obvious population differences",
+            "all_materials": [
+                "NBs"
+            ],
+            "other_materials": [
+                "NBs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This was mainly because the three carbon materials had different periodic dimensions and thus the electron motion and surface electron properties were affected by the low-dimensional quantum confined effect",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The above results indicated the dimension-dominant effect of the interaction between NBs and nano-carbon materials",
+            "all_materials": [
+                "NBs"
+            ],
+            "other_materials": [
+                "NBs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Through energy decomposition analysis, it was further quantitatively explained that the interaction was dominated by dispersion force",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "By means of reduced density gradient, Van der Waals surface penetration and charge differential density analysis, the regions, types and intensities of the adsorption for NBs over carbon substrates were intuitively described",
+            "all_materials": [
+                "NBs",
+                "carbon"
+            ],
+            "other_materials": [
+                "NBs",
+                "carbon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work was important to understand the dimension-dominant effect of the interaction between NBs and carbon nanomaterials.",
+            "all_materials": [
+                "NBs",
+                "carbon"
+            ],
+            "other_materials": [
+                "NBs",
+                "carbon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The paper report a diamond films with dendrite-like or nanofeathers structure",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Such structures was synthesized both in CH4/H2  and CH4/H2/N2  working gas mixture",
+            "all_materials": [
+                "CH4",
+                "H2",
+                "CH4/",
+                "H2/N2"
+            ],
+            "other_materials": [
+                "CH4",
+                "H2",
+                "CH4/",
+                "H2/N2"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                3,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The resulting diamond dendrites are composed of diamond crystallites of various sizes, as well as non-diamond carbon, with a height comparable to the film thickness and a lateral size does not exceed 200\u00a0nm",
+            "all_materials": [
+                "diamond",
+                "carbon"
+            ],
+            "other_materials": [
+                "diamond",
+                "carbon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Such diamond structure seems cannot be classified to either conventionally nano- or ultrananocrystalline films",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It is shown that nitrogen-rich diamond films have a larger size of both individual diamond crystallites and dendrites, as well as a higher level of residual stresses and roughness, compared to nitrogen-free diamond films",
+            "all_materials": [
+                "diamond",
+                "diamond",
+                "diamond"
+            ],
+            "other_materials": [
+                "diamond",
+                "diamond",
+                "diamond"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "At the same time, nitrogen-free films have higher values of hardness and Young&#x27;s modulus.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The crystal quality of silicon-carbide  films plays a very important role in experimental and device production, but there is little research on the deposition and annealing process at the atomic scale",
+            "all_materials": [
+                "silicon-carbide"
+            ],
+            "other_materials": [
+                "silicon-carbide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Using molecular dynamics, we simulated the deposition of crystalline Si, C clusters on a rough-surfaced Si substrate followed by annealing and investigated the effect of incidence rate on film surface morphology, crystallization rate, surface roughness, incident atom distribution, density, and vacancies",
+            "all_materials": [
+                "Si, C",
+                "Si"
+            ],
+            "other_materials": [
+                "Si, C",
+                "Si"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                23,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The results showed that the surfaces became smoother with increasing incidence rate both before and after deposition, but the difference in surface roughness between film groups with different incidence rates decreased after annealing",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                33,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "After annealing, the film density increased with increasing cluster incidence rate, while the volume fraction of the vacancies and cavities simultaneously increased",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The higher the cluster incidence rate during deposition, the deeper the distribution of incident atoms, and the more the mixing with substrate atoms",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "An interesting phenomenon was observed during the high-temperature relaxation phase of the annealing, when the crystallization rate increased, stabilized, and then decreased as the relaxation proceeded",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                14,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This study is of great significance to better understanding the nanoscale annealing of thin film deposits and guiding SiC thin film generation experiments.",
+            "all_materials": [
+                "SiC"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                11,
+                "HeatingOperation"
+            ],
+            "targets": "SiC"
+        },
+        {
+            "sentence": "Ni80Fe20  films were deposited on periodically rippled Al2O3 substrates by two different template oblique angle deposition  processes at various oblique deposition angles \u03b1",
+            "all_materials": [
+                "Ni80Fe20",
+                "Al2O3"
+            ],
+            "other_materials": [
+                "Ni80Fe20",
+                "Al2O3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The disparate in-plane uniaxial magnetic anisotropy  caused by the two template deposition processes of films was revealed by magneto-optical Kerr effect  loops and ferromagnetic resonance  measurements",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The analysis of Transmission electron microscopy images indicated that this was related to the different micromorphology of the films due to the two template deposition processes",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The angle between substrates\u2019 ripple direction and the material flow incident direction would strongly influence the micromorphology and the induced in-plane UMA field of films",
+            "all_materials": [
+                "UMA"
+            ],
+            "other_materials": [
+                "UMA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The values of the UMA field of these films can be much larger than those of the films oblique deposited on the plane Al2O3 substrates at the same \u03b1 by choosing the template deposition direction",
+            "all_materials": [
+                "Al2O3"
+            ],
+            "other_materials": [
+                "Al2O3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The results would help further modulate the UMA of magnetic films deposited on rippled substrates, which would be beneficial for the applications of these films in spintronic, magnetic memory and magnetic microwave devices.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Cu\u2212diamond composites  have greatly promising applications in thermal management for high-power electronics because of their outstanding thermophysical properties",
+            "all_materials": [
+                "Cu\u2212diamond"
+            ],
+            "other_materials": [
+                "Cu\u2212diamond"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Nonetheless, many fundamental mechanisms of interfacial thermal transport for CDCs remain poorly understood at present",
+            "all_materials": [
+                "CDCs"
+            ],
+            "other_materials": [
+                "CDCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here we focus on investigating the size- and temperature-dependent thermal transport across a Cu\u2212diamond interface using non-equilibrium molecular dynamics simulations",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Results show that interfacial thermal conductance  is proportional to both the system size and ambient temperature",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Especially, our predicted room-temperature ITC of 41.12 MW\u22c5m\u22122\u22c5K\u22121 at an infinitely long system is close to that of the experiments after an interface optimization",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Additionally, the ITC at the system with a length of 323.2\u00a0\u00c5 is increased by over 2.5 times in the temperature range of 100\u2212500\u00a0K, up to 36.39 MW\u22c5 m\u22122\u22c5 K\u22121",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Detailed analyses of interfacial disorder and its concomitant effects, related to system size and temperature, are implemented for helping understand the significant improvement of ITC",
+            "all_materials": [
+                "ITC"
+            ],
+            "other_materials": [
+                "ITC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The underlying mechanism is further uncovered by the phonon density of states as well as the spectral overlap factor at interfacial Cu and diamond",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This study provides an important insight into the understanding of interfacial thermal transport in CDCs and a guideline for optimizing the design of CDCs in experiments.",
+            "all_materials": [
+                "CDCs",
+                "CDCs"
+            ],
+            "other_materials": [
+                "CDCs",
+                "CDCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

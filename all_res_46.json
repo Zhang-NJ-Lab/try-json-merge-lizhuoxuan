@@ -1,0 +1,100 @@
+{
+    "rest": [
+        {
+            "sentence": "A new method to prepare a compact TiO2 layer for perovskite solar cells is introduced",
+            "all_materials": [
+                "TiO2"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "TiO2"
+        },
+        {
+            "sentence": "The method features a UV-assisted chemical bath in an aqueous TiBr4 solution",
+            "all_materials": [
+                "TiBr4"
+            ],
+            "other_materials": [
+                "TiBr4"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The process does not require sophisticated systems to implement making scaling-up easy and the precursor ensures a uniform TiO2 layer with densely-packed planar grains",
+            "all_materials": [
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "UV light provides an alternative to the temperature-assisted CBD process and eliminates the necessity to stir the solution during a deposition that opens new horizons for further scaling up PSCs",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The new compact layer was compared to the spin-coated TiO2 layer and it was found that the novel method allows obtaining a more uniform layer with conformal coverage of the substrate",
+            "all_materials": [
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The new TiO2 layer was tested for perovskite solar cells and showed an improvement in open-circuit voltage  which can be explained by improved morphology and surface coverage of the TiO2 layer.",
+            "all_materials": [
+                "TiO2",
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2",
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Download : Download high-res image Download : Download full-size image",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Data will be made available on request.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

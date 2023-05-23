@@ -1,0 +1,999 @@
+{
+    "rest": [
+        {
+            "sentence": "The wide photon absorption range of tandem solar cells  allows them to deliver higher efficiencies than single-junction solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The top cell with a wide bandgap absorbs the higher energy photons, while the bottom cell with a relatively low bandgap absorbs the filtered lower energy photons",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, for cheap, efficient, and long-lasting solar cells, the design must incorporate the top and bottom cell absorber layers with an appropriate band gap",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this context, this article proposes all-perovskite tandem solar cells with suitable perovskite partners as active materials in both the upper  and the lower  sub-cell",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This research has retrieved the calibrated top cell from a previous publication, and the bottom cell has been designed, calibrated, and optimised",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The filtered spectrum of the upper cell is evaluated at different perovskite thicknesses and fed to the lower cell to set up a tandem configuration",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Subsequently, the current- matching technique has been used to study the tandem short-circuit current density  at different thicknesses of both sub-cells, followed by current density-voltage  curve",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A total of ten tandem J-V curves are constructed and corresponding PV parameters are obtained to obtain the optimized efficiency of 33.8% with an open circuit voltage  of 2.15\u00a0V, a fill factor  of 78.87% and a JSC of 20\u00a0mA.cm\u22122",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The reported results will open the door for future development of highly efficient and low-cost monolithic two-terminal tandem devices.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Solar energy is a promising contender compared to fossil fuels because it is used to meet human needs due to its clean, sustainable, earth-abundance source ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Photovoltaic  cells significantly and favourably impact the environment while converting solar energy into electrical energy ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "All organic-inorganic lead halide-based perovskite solar cells  have recently attracted great attention worldwide",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "PSCs are part of third-generation PV technology fabricated as single-junction and tandem device configurations",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                9,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, single-junction PV devices have recently generated tremendous interest in the PV field owing to a rapid increase in power conversion efficiency  from 3.8% to certified 25.8%, limited by Shockley-Queisser  limit ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The top cells  of wide-bandgap  are connected to the bottom cell  of low-bandgap , resulting in tandem solar cells  exceeding the SQ limit of single-junction devices",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Initially, TSCs were proposed in 1955 to enhance the PCE by fully utilising the solar spectrum ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The research community continues to work in this domain to increase PCE using different absorber materials",
+            "all_materials": [
+                "PCE"
+            ],
+            "other_materials": [
+                "PCE"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Perovskites are at the forefront of emergent PV materials",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "They are continuously used to enhance the PCE owing to ease of preparation, large absorption coefficient, excellent defect tolerance, long diffusion length, and tuneable band gap ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Nevertheless, researchers faced many challenges by introducing charge recombination layers  between sub cells with low ohmic losses in perovskite tandem devices ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Due to bandgap tunning, perovskites can be used together in all-perovskites TSCs in both top and bottom cells to overcome this issue",
+            "all_materials": [
+                "TSCs"
+            ],
+            "other_materials": [
+                "TSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, developing perovskite-perovskite tandem devices is highly recommended for further efficiency enhancement as it has several merits, including low cost, solution processability, and large-scale manufacturing ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Metal halide perovskites with ABX3 structure were firstly reported in 1978 by Weber",
+            "all_materials": [
+                "Metal halide",
+                "ABX3"
+            ],
+            "other_materials": [
+                "ABX3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "Metal halide"
+        },
+        {
+            "sentence": "In ABX3, A+\u00a0represents \u201cmonovalent cation , B is bivalent metal ion and X is a halogen\u201d ,",
+            "all_materials": [
+                "ABX3"
+            ],
+            "other_materials": [
+                "ABX3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "All-perovskite can be built using 4-terminal  or  in series order",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Researchers prefer using the 2-T arrangement of PV devices over 4-T due to its low parasitic absorption, economically superior and high efficiency",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Current matching also plays an important role in the performance of 2-T tandem devices ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Presently, the research community explores all-perovskite tandem devices to enhance efficiency",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "From this perspective, an all-perovskite tandem device was reported to be 7% efficient",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A research group used the solution processing method to design a 2-T all-perovskite tandem device and achieved an efficiency of 10.4%",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Another researcher achieved 18.5% conversion efficiency by developing a 2-T monolithic tandem device",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A 20.3% efficient all-perovskite TSC was developed in 2016",
+            "all_materials": [
+                "TSC"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "TSC"
+        },
+        {
+            "sentence": "The efficiency achieved by another all-perovskite tandem device with a VOC of 1.07\u00a0V was 26.72% .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The use of perovskite in both cells allows a wider range of wavelengths of light to be absorbed, leading to even higher overall efficiency",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Additionally, the use of two perovskite layers allows for better control of the bandgap, which is crucial in maximizing the efficiency of the solar cell",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Simulation of perovskite/perovskite tandem solar cells can be used to understand the behavior of the materials under different conditions by optimizing the performance of these cells , .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The efficiency of the CsSn0.5Ge0.5I3-on-Si tandem device was 28.53%; it was enhanced to 32.29% efficiency with the MAPbI3-on-Si device",
+            "all_materials": [
+                "CsSn0.5Ge0.5I3-on-Si",
+                "MAPbI3-on-Si"
+            ],
+            "other_materials": [
+                "CsSn0.5Ge0.5I3-on-Si",
+                "MAPbI3-on-Si"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Nevertheless, despite numerous efforts, the efficiency of TSC still lacks than the single-junction perovskite devices",
+            "all_materials": [
+                "TSC"
+            ],
+            "other_materials": [
+                "TSC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, the primary focus of the researchers was on simulating the perovskite tandem devices to improve their efficiency by using different absorber layers.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work improves upon the existing knowledge and understanding of all-perovskite tandem solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "While previous studies have investigated the use of these materials in tandem solar cells, our study builds upon this work by utilizing a filtered spectrum and current matching techniques to optimize the performance of the cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We were able to gain new insights and understanding into the behavior of these cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, the use of all-perovskite tandem solar cells is becoming increasingly important due to their potential for high efficiency and low-cost production",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Our research aimed to contribute to the development of these cells by finding the best thickness for the bottom and top cells at which the limiting cell drew the most current, this will lead to improve the overall performance of the cells and increase their efficiency",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The main objective of this research is to design and simulate a highly efficient all-perovskite TSC by using a TC with Eg of 1.67\u00a0eV and BC of 1.16\u00a0eV",
+            "all_materials": [
+                "TSC"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "TSC"
+        },
+        {
+            "sentence": "Detailed investigations are done in terms of bottom subcell calibration, thickness, bulk defect, and interface defect optimization followed by filtered spectrum and current matching technique to finalize the tandem device with optimum performance",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The order of manuscript is categorized into four parts:",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Section 1 introduces the theme of this study.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Section 2 presents the device structure and methodology.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Section 3 tables all the results obtained in this study.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Section 4 presents the conclusion.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The top cell  of the proposed all-perovskite tandem solar cell under consideration was made up of IZO , SnO2 , C60 , perovskite with a bandgap of 1.68\u00a0eV , and Me4PACz  as depicted in Fig",
+            "all_materials": [
+                "IZO",
+                "SnO2",
+                "C60",
+                "Me4PACz"
+            ],
+            "other_materials": [
+                "IZO",
+                "SnO2",
+                "C60",
+                "Me4PACz"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This TC is identical to Al-Ashouri&#x27;s experimental report, demonstrating a PEROVSKITE-Si tandem solar cell with 29.15% 1",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The calibration of the top cell has already been reported in our previous work",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "While the bottom cell  consists of SnO2",
+            "all_materials": [
+                "SnO2"
+            ],
+            "other_materials": [
+                "SnO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The results obtained during this work are presented in this section",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Section 3.1 discusses the calibration and optimization of BC designed with perovskite with Eg=\u20091.16\u2009eV",
+            "all_materials": [
+                "BC"
+            ],
+            "other_materials": [
+                "BC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Through extensive numerical analysis, the influence of perovskite thickness, interface defect , and perovskite bulk defect has been reported",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Section 3.2 methodically describes the results obtained for the tandem solar cell.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The SCAPS-1D software designs and examines a pure perovskite monolithic 2-T TSC with a PCE of 33.85%",
+            "all_materials": [
+                "TSC"
+            ],
+            "other_materials": [
+                "TSC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Perovskite/perovskite tandem solar cell simulations can aid in understanding material behavior and optimizing cell design and performance by analyzing their performance under varying conditions",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The bottom cell used a filtered spectrum by the top cell, while the AM 1.5\u2009G spectrum was used to illuminate the top cell, followed by the analysis of the top  and bottom  perovskites",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors are very thankful to the VLSI Centre of Excellence, Chitkara University, Punjab, India for all the support in this research work.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "All authors declare having no conflict of interest.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Electron transport materials\u00a0 are crucial for efficient transport of photocarriers from the perovskites to the cathode in perovskite solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Although titanium dioxide  is frequently employed as an ETM, PSC performance and applicability are hindered by its high-temperature manufacturing and limited electron mobility",
+            "all_materials": [
+                "titanium dioxide",
+                "PSC"
+            ],
+            "other_materials": [
+                "titanium dioxide",
+                "PSC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, a low-temperature solution-processable indium sulfide  was incorporated into triple-cation perovskite solar cells to be an efficient ETM for the first time",
+            "all_materials": [
+                "indium sulfide"
+            ],
+            "other_materials": [
+                "indium sulfide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "After solvent-thermal synthesis of In2S3, followed by spin-coating\u00a0preparation of In2S3 ETM, a\u00a0PSC is constructed",
+            "all_materials": [
+                "In2S3",
+                "In2S3 ETM",
+                "PSC"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "In2S3"
+        },
+        {
+            "sentence": "The photoelectrical measurements show that the In2S3-based PSC has lower density of charge traps, higher conductivity, better electron transportation at the In2S3/perovskite interfaces, and a lower transfer resistance and carrier recombination",
+            "all_materials": [
+                "PSC",
+                "In2S3"
+            ],
+            "other_materials": [
+                "PSC",
+                "In2S3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The PSC-based In2S3 yields a champion efficiency of 18.182%, and the PSC-based TiO2 gets an efficiency of 15.288%",
+            "all_materials": [
+                "In2S3",
+                "TiO2"
+            ],
+            "other_materials": [
+                "In2S3",
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Without encapsulation, the In2S3-based devices demonstrate increased stability in ambient environments",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Our ETM layer and perovskite were made at low temperatures, which may open up new possibilities for solution-processed flexible electronics.",
+            "all_materials": [
+                "ETM"
+            ],
+            "other_materials": [
+                "ETM"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For meeting the higher demands of color image ownership protection in the fifth-generation  communication network, a blind watermarking algorithm based on specific component quantization of discrete Hartley transform  is proposed",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "At first, the color cover image is partitioned into the non-overlapping blocks of sized 4\u00a0\u00d7\u00a04, and the DHT component of the selected block at specific location is calculated; then the inherent correlation in RGB channels and quantization index modulation  technique are used to obtain the component difference; finally, without global DHT of forward and inverse, the color watermark logo is inserted into the cover image by the derived modification method",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, RSA public-key encryption algorithm is applied to scramble the parameters of Affine transform, which guarantees the double-layer security of watermark itself and algorithm secret keys",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "When extracting watermark, an image correction strategy based on geometric features is realized to resist geometric distortion",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Experiment results show that the proposed algorithm has low computational complexity, strong robustness and high security at the foundation of good invisibility and large payload, which overcomes the shortcoming of slow execution speed of transform-domain watermarking and has high feasibility of fast copyright protection in 5\u00a0G environment.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The efficiency and reliability of radio over free space optical communication may be significantly degraded by different weather conditions, thus leading to decrease and increase of signal to noise ratio  and bit error rate  of the recovered signal respectively",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, real time optical performance estimation is of utmost importance to enable the awareness of channel conditions and for achieving high quality of service",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, a terrestrial radio over free space optics  system has been investigated by employing 32-QAM and 64-QAM OFDM modulation schemes under rain, haze and clear weather conditions",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Performance of the system is further estimated by employing artificial neural networks , k-nearest neighbours  and decision tree  machine learning  techniques with root mean square error  and coefficient of determination  as performance metrices",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Atmospheric attenuation and different internal system parameters act as input features with BER and SNR of the received signal as the modelling targets",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The best performing model has been found to be by applying an ANN approach with lower RMSE values for SNR and BER as 1.87 and 1.26 respectively",
+            "all_materials": [
+                "SNR",
+                "BER"
+            ],
+            "other_materials": [
+                "SNR",
+                "BER"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The value of R2 predicted by the model are 0.97139 and 0.97802 for SNR and BER data sets respectively.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, we explored the use of magnesium fluoride  based textured surfaces in perovskite solar cells  to enhance light trapping and increase conversion efficiency",
+            "all_materials": [
+                "magnesium fluoride"
+            ],
+            "other_materials": [
+                "magnesium fluoride"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We studied the impact of different positions of random pyramid arrays  on reflectance, EQE, JV curve, and PV parameters",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Our results showed that this approach led to a conversion efficiency of 24.8% with JSC of 26.12\u00a0mA/cm2.",
+            "all_materials": [
+                "JSC"
+            ],
+            "other_materials": [
+                "JSC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A thin film of  \u2212\u00a02- amino) \u2212\u00a02-oxo-N\u2032- acetohydrazonoyl cyanide, CDATA, was prepared as a new class of organic thin films for photosensor applications",
+            "all_materials": [
+                "\u2212\u00a02- amino) \u2212\u00a02-oxo-N\u2032- acetohydrazonoyl cyanide",
+                "CDATA"
+            ],
+            "other_materials": [
+                "\u2212\u00a02- amino) \u2212\u00a02-oxo-N\u2032- acetohydrazonoyl cyanide"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                16,
+                "StartingSynthesis"
+            ],
+            "targets": "CDATA"
+        },
+        {
+            "sentence": "Thermal evaporation under high vacuum was used to produce premium quality CDATA films, which were extensively characterized using various analyzer techniques like x-ray diffraction , scanning electron microscopy, and Fourier-transform infrared spectroscopy",
+            "all_materials": [
+                "CDATA"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CDATA"
+        },
+        {
+            "sentence": "For the first time, the Miller indices for preferred orientations of CDATA were calculated using a specific program",
+            "all_materials": [
+                "CDATA"
+            ],
+            "other_materials": [
+                "CDATA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Using the Williamson\u2013Hall plots, the average crystal size and lattice strain were determined to be 20.5\u00a0nm and 4\u00a0\u00d7\u00a010\u22123, respectively",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Both a direct bandgap of 2.65\u00a0eV and an indirect bandgap of 1.95\u00a0eV are present in thin films of CDATA",
+            "all_materials": [
+                "CDATA"
+            ],
+            "other_materials": [
+                "CDATA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The absorption tail was examined, and the Urbach energy was found to be 320\u00a0meV",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The dispersion, oscillator energies, and high-frequency dielectric constants were found to be 12.07\u00a0eV, 3.76\u00a0eV, and 4.35\u00a0eV, respectively, in the non-absorbing region",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In the dark and under various illuminations ranging from 30\u00a0mW/cm2 to 80\u00a0mW/cm2, the heterojunctions of Au/CDATA/p- Si/In show a suitable rectifying feature",
+            "all_materials": [
+                "Au/CDATA/p- Si/In"
+            ],
+            "other_materials": [
+                "Au/CDATA/p- Si/In"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The presence of a continuous trapping center distribution is indicated by the studied heterojunction",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "According to the determined characteristic parameters, the Au/CDATA/p-Si/In heterojunction could be useful in optoelectronic device applications.",
+            "all_materials": [
+                "Au/CDATA/p-Si/In"
+            ],
+            "other_materials": [
+                "Au/CDATA/p-Si/In"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Researchers worldwide have been interested in perovskite solar cells  due to their exceptional photovoltaic  performance",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The PSCs are the next generation of the PV market as they can produce power with performance that is on par with the best silicon solar cells while costing less than silicon solar cells",
+            "all_materials": [
+                "silicon",
+                "silicon"
+            ],
+            "other_materials": [
+                "silicon",
+                "silicon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The efficiency of PSCs has increased from 3.81% to 25.7% within a decade, demonstrating their immense potential",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this review, the advantages of PSCs and the evolution of efficiency with various configuration are summarized and discussed",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The manufacture of PSCs on a large scale and the fabrication of perovskite films are described as well",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "Despite their advantages, PSCs have encountered numerous problems, including toxicity and degradation in the presence of moisture, oxygen, and UV light",
+            "all_materials": [
+                "PSCs",
+                "oxygen"
+            ],
+            "other_materials": [
+                "PSCs",
+                "oxygen"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Thus, we emphasize this line added to the difficulties preventing the commercialization of PSCs, as well as the road map towards commercialization are thoroughly examined.",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                6,
+                "Mixing"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

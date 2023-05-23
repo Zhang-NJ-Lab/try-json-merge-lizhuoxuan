@@ -1,0 +1,1059 @@
+{
+    "rest": [
+        {
+            "sentence": "A tandem solar device is the most promising approach for overcoming the single-junction Shockley-Queisser limit, as it can also be manufactured on flexible substrates and is cost-effective and lightweight for a wider range of applications",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As is well known, developing high-performance flexible CIGS solar cells is a crucial prerequisite for realizing high-quality tandem devices",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To increase the performance of flexible CIGS solar cells, a unique Ga growth profile was created and built in this study, which co-evaporated with Cu and Se in the second step of the well-known \u201cthree-step co-evaporation technique.\u201d The best flexible CIGS solar cell with a thickness of around 1.6\u00a0\u03bcm achieves an impressive efficiency of 18.93\u00a0%, not only because a decent double GGI grading can be made, but also the overall grain can be enlarged, which is always difficult to combine well in the past",
+            "all_materials": [
+                "Ga",
+                "GGI"
+            ],
+            "other_materials": [
+                "Ga",
+                "GGI"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Finally, an all-flexible 4-terminal  perovskite/CIGS tandem device was fabricated and demonstrated over 21.5\u00a0% efficiency, the highest efficiency of all-flexible perovskite/CIGS tandem solar cells reported in the literature to the best of our knowledge",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                13,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This study could pave the way for the fabrication of high-quality CIGS thin films and solar devices on flexible polymer substrates.",
+            "all_materials": [
+                "CIGS"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CIGS"
+        },
+        {
+            "sentence": "Download : Download high-res image Download : Download full-size image",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The development of low-cost and high-efficiency solar cells for sustainable renewable energy has become an international consensus to solve the traditional fossil fuels crisis ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Regardless of material selection, preparation process optimization, or device structure design, there has been tremendous progress in various types of solar cells over the past decade, particularly for perovskite solar cells ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Although the highest efficiency of single-junction perovskite solar cells has been improved to 25.7\u00a0% , it is still lower than the Shockley-Queisser  limit of 33.7\u00a0% for a single-junction solar cell",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Building tandem solar cells may offer an opportunity to break the efficiency limit",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Recently, the efficiency record of a monolithic two-terminal perovskite/silicon tandem device was reported to be 31.3\u00a0% , which is higher than the current record for a single junction crystalline silicon solar cell and has been generating a considerable interest.",
+            "all_materials": [
+                "silicon",
+                "silicon"
+            ],
+            "other_materials": [
+                "silicon",
+                "silicon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Thin film solar cells based on copper indium gallium selenide [CuSe2 or CIGS] have been recognized as one of the most attractive technologies and have received widespread attention, with efficiency and stability comparable to Si solar cells ,",
+            "all_materials": [
+                "copper indium gallium selenide",
+                "CuSe2",
+                "CIGS",
+                "Si"
+            ],
+            "other_materials": [
+                "copper indium gallium selenide",
+                "CuSe2",
+                "CIGS",
+                "Si"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In comparison to Si solar cells, CIGS solar cells can be manufactured as flexible devices using roll-to-roll or sheet-to-sheet deposition methods, potentially increasing throughput and expanding applications in mobile energy fields such as portable electronics, building integrating photovoltaics , and aerospace ,",
+            "all_materials": [
+                "Si"
+            ],
+            "other_materials": [
+                "Si"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, by increasing [Ga]/ GGI from 0 to 1, the bandgap  can be adjusted from around 1.0\u00a0eV for pure CuInSe2  to approximately 1.7\u00a0eV for pure CuGaSe2 , providing a potential promise for tandem solar cells",
+            "all_materials": [
+                "CuInSe2",
+                "CuGaSe2"
+            ],
+            "other_materials": [
+                "CuInSe2",
+                "CuGaSe2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Up till now, the research on perovskite/CIGS tandem devices is mostly concentrated on a rigid substrate, for which the simple manufacturing process is one of the dominant reasons",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As a result, perovskite/CIGS thin film solar cells, especially for all-flexible tandem devices, are less investigated and the highest PCE is 21.06\u00a0%",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Recently, Solliance Solar Research successfully produced a semi-flexible perovskite/CIGS thin film solar cell with a power conversion efficiency of over 26\u00a0% by combining a top rigid semi-transparent perovskite solar cell with a bottom flexible CIGS cell",
+            "all_materials": [
+                "CIGS"
+            ],
+            "other_materials": [
+                "CIGS"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the architecture is not a complete all-flexible tandem device",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this regard, researching how to build high-efficiency all-flexible perovskite/CIGS thin film solar cells remains a critical subject in this field.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, we limit the scope of our research to the fabrication of high-performance bottom CIGS solar cells on a flexible polyimide  substrate and their application in 4\u00a0T perovskite/CIGS tandem solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It is well known that a state-of-the-art CIGS thin film solar cell always possesses two features, one is a double-graded GGI profile along with the absorber and the other one is the large grain size, both of which play a significant role in boosting the photovoltaic performance ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It requires the researchers not only just to design a reasonable growth profile, but also to grow the CIGS thin films at a high temperature",
+            "all_materials": [
+                "CIGS"
+            ],
+            "other_materials": [
+                "CIGS"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For rigid glass substrates, the highest efficiency CIGS cells can be fabricated at the maximum temperature close to 550\u00a0\u00b0C, which the glass substrate can withstand without softening too much",
+            "all_materials": [
+                "CIGS"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                12,
+                "StartingSynthesis"
+            ],
+            "targets": "CIGS"
+        },
+        {
+            "sentence": "However, PI film, which is one of the most frequently-used flexible substrates, can only withstand lower deposition temperatures below 450\u00a0\u00b0C, normally leading to inferior cell performance with the small grain size of CIGS absorber layers",
+            "all_materials": [
+                "PI",
+                "CIGS"
+            ],
+            "other_materials": [
+                "PI",
+                "CIGS"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "According to the literature survey, to improve the efficiency of flexible CIGS solar cells, the most effective approach is to develop independent active control of Ga and In deposition rates to achieve the Ga double grading during CIGS growth",
+            "all_materials": [
+                "CIGS",
+                "Ga",
+                "Ga"
+            ],
+            "other_materials": [
+                "CIGS",
+                "Ga",
+                "Ga"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, it is usually at the expense of small grain size ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "There is a proverb that says you can\u2019t have your cake and eat it too",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Really?",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To do this, in the present work, using a brand-new design, we were able to produce high-quality films and related tandem solar devices",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Firstly, three types of deposition profiles  by manipulating the Ga growth profile for 1.6\u00a0\u03bcm-thick flexible CIGS absorber layers grown on PI substrate using the famous \u201cthree-step co-evaporation technique\u201d are designed and executed",
+            "all_materials": [
+                "Ga",
+                "CIGS",
+                "PI"
+            ],
+            "other_materials": [
+                "Ga",
+                "CIGS",
+                "PI"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It was found that when a certain amount of Ga co-evaporated with Cu and Se together in the second step, the corresponding sample had the most excellent quality of absorber layer and device performance",
+            "all_materials": [
+                "Ga",
+                "Cu",
+                "Se"
+            ],
+            "other_materials": [
+                "Ga",
+                "Cu",
+                "Se"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The analysis results show that a decent double GGI grading and larger grains toward the back contact of the Mo layer are realized at the same time",
+            "all_materials": [
+                "GGI",
+                "Mo"
+            ],
+            "other_materials": [
+                "GGI",
+                "Mo"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Subsequently, to boost photoelectric performance further and further, a 10\u00a0nm Ag precursor layer was deposited on Mo substrates before the formation of the abovementioned CIGS absorber layers, demonstrating that a tiny amount of Ag can also improve grain size even more",
+            "all_materials": [
+                "Ag",
+                "Mo",
+                "CIGS",
+                "Ag"
+            ],
+            "other_materials": [
+                "Ag",
+                "Mo",
+                "CIGS",
+                "Ag"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As a result, the champion CIGS device with a 100\u00a0nm MgF2 antireflection coating demonstrated an efficiency of 18.93\u00a0%, a VOC of 0.693\u00a0V, a JSC of 35.77\u00a0mA\u00a0cm\u22122, and an FF of 76.31\u00a0%",
+            "all_materials": [
+                "CIGS",
+                "MgF2"
+            ],
+            "other_materials": [
+                "CIGS",
+                "MgF2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Following that, an all-flexible 4\u00a0T perovskite/CIGS tandem system was constructed by stacking a flexible semitransparent n-i-p perovskite solar cell over the aforementioned flexible CIGS solar cell",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Impressively, an efficiency of 21.56\u00a0% was obtained, which represents the highest efficiency of all-flexible perovskite/CIGS tandem solar cells in the reported literature to the best of our knowledge.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In order to improve the performance of the CIGS solar cell grown on PI, a directly controlled growth profile was developed to form a Ga double grading and make it steep enough",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this study, three different growth profiles with time-dependent Ga and In deposition rates for the fabrication of CIGS absorber are designed and shown in Fig",
+            "all_materials": [
+                "CIGS"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CIGS"
+        },
+        {
+            "sentence": "To study the effects of the different Ga growth profiles on the CIGS absorber, as shown in Fig1a\u2013c",
+            "all_materials": [
+                "CIGS"
+            ],
+            "other_materials": [
+                "CIGS"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "1d\u2013i, cross-sectional SEM images and SIMS profiles are",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In summary, we have successfully designed new growth profiles for high-quality CIGS thin films and based solar devices on flexible polyimide substrates with a temperature below 450\u2103",
+            "all_materials": [
+                "CIGS"
+            ],
+            "other_materials": [
+                "CIGS"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To be more specific, by actively controlling the deposition of Ga at different steps during the fabrication of CIGS thin films with the three-step co-evaporation method, a decent GGI double grading with a large grain size can be realized at the same time",
+            "all_materials": [
+                "Ga",
+                "CIGS",
+                "GGI"
+            ],
+            "other_materials": [
+                "Ga"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CIGS"
+        },
+        {
+            "sentence": "Moreover, a tiny amount of Ag-doped in the CIGS absorber",
+            "all_materials": [
+                "CIGS"
+            ],
+            "other_materials": [
+                "CIGS"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The CIGS thin films  were fabricated by the three-step co-evaporation process on Mo-coated polyimide  substrates as described in our previous work",
+            "all_materials": [
+                "CIGS"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                5,
+                "StartingSynthesis"
+            ],
+            "targets": "CIGS"
+        },
+        {
+            "sentence": "Mo-coated PI substrates were purchased from Shinetech Co., ltd in Jiaxing, China",
+            "all_materials": [
+                "PI"
+            ],
+            "other_materials": [
+                "PI"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Specifically, in the first step, the three elements of In, Ga, and Se were co-evaporated onto the Mo layer at a relatively low substrate temperature of about 380\u00a0\u00b0C; In the second step, Cu and Se were evaporated at a high substrate temperature of",
+            "all_materials": [
+                "In",
+                "Ga",
+                "Se",
+                "Mo",
+                "Cu",
+                "Se"
+            ],
+            "other_materials": [
+                "In",
+                "Ga",
+                "Se",
+                "Mo",
+                "Cu",
+                "Se"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                44,
+                "DryingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Jun Luo and MissMr",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Liting Tang contributed equally to this work",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work was supported by Wuhan university, the Fundamental Research Funds for the Central University , Fujian Provincial Engineering Technology Research Center of Solar Energy Conversion and Energy Storage , and the Special Fund for the \u201cDual Carbon\u201d Science and Technology Innovation of Jiangsu province",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Titanium dioxide  layers usually have been applied in perovskite solar cells  as traditional electron transport layers",
+            "all_materials": [
+                "Titanium dioxide"
+            ],
+            "other_materials": [
+                "Titanium dioxide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, it has some flaws such as charge recombination and low electron transport rate",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, we synthesize amorphous antimony sulfide nanoparticles  with uniform distribution of elements and the particle size is about 20\u00a0nm by hot injection method, and the nanoparticles are ligand-exchanged with mercaptopropionic acid",
+            "all_materials": [
+                "antimony sulfide",
+                "mercaptopropionic acid"
+            ],
+            "other_materials": [
+                "mercaptopropionic acid"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                3,
+                "StartingSynthesis"
+            ],
+            "targets": "antimony sulfide"
+        },
+        {
+            "sentence": "After detailed concentration adjustment, the surface of TiO2 ETL is modified and a multi-contact ETL is prepared",
+            "all_materials": [
+                "TiO2 ETL",
+                "ETL"
+            ],
+            "other_materials": [
+                "TiO2 ETL"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                17,
+                "StartingSynthesis"
+            ],
+            "targets": "ETL"
+        },
+        {
+            "sentence": "Compared to the conventional TiO2 ETL, the multi-contact ETL exhibits better conductivity, which gives suppressed charge recombination and more effective charge transport at the ETL/perovskite interface",
+            "all_materials": [
+                "TiO2 ETL",
+                "ETL"
+            ],
+            "other_materials": [
+                "TiO2 ETL",
+                "ETL"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, the multi-contact ETL can assist to form high quality of CsPbI2Br films",
+            "all_materials": [
+                "CsPbI2Br"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CsPbI2Br"
+        },
+        {
+            "sentence": "At the same time, the best efficiency of the prepared carbon-based CsPbI2Br PSC achieves as high as 14.59\u00a0%, and it still can maintain the initial efficiency of about 96.4\u00a0% after continuously heating at 85\u00a0\u00b0C for 28\u00a0days under nitrogen condition.",
+            "all_materials": [
+                "CsPbI2Br PSC",
+                "nitrogen"
+            ],
+            "other_materials": [
+                "CsPbI2Br PSC",
+                "nitrogen"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                37,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Sn-Pb mixed perovskite solar cells  have attracted research attention due to their application in tandem solar cells, but suffered from pin-hole morphology and device instability",
+            "all_materials": [
+                "Sn-Pb"
+            ],
+            "other_materials": [
+                "Sn-Pb"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, dicyandiamide  is used as an antioxidative additive to regulate the crystallization and passivation of all-inorganic CsPb1-xSnxI2Br film",
+            "all_materials": [
+                "dicyandiamide",
+                "CsPb1-xSnxI2Br"
+            ],
+            "other_materials": [
+                "dicyandiamide",
+                "CsPb1-xSnxI2Br"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The strong coordination bonding between DCD and Pb/Sn not only effectively eliminates the pin-holes but also inhibits the oxidation of Sn2+ at low temperature",
+            "all_materials": [
+                "DCD",
+                "Pb/Sn"
+            ],
+            "other_materials": [
+                "DCD",
+                "Pb/Sn"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The power conversion efficiency  of inverted PSC  is improved from 10.53% to 14.17% , which is also one of the highest efficiencies of all-inorganic Sn-Pb mixed PSC",
+            "all_materials": [
+                "PSC",
+                "Sn-Pb",
+                "PSC"
+            ],
+            "other_materials": [
+                "PSC",
+                "Sn-Pb",
+                "PSC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Meanwhile, compare with the control devices, the target device exhibits better stability after a series of tests",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, combining semitransparent 1.92-eV-bandgap top PSC  with CsPb0.6Sn0.4I2Br:DCD  bottom PSC, an efficiency of 19.61% is demonstrated in all-inorganic 4-terminal  tandem PSC",
+            "all_materials": [
+                "PSC",
+                "CsPb0.6Sn0.4I2Br:DCD",
+                "PSC",
+                "PSC"
+            ],
+            "other_materials": [
+                "PSC",
+                "CsPb0.6Sn0.4I2Br:DCD",
+                "PSC",
+                "PSC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work paves the way towards efficient all-inorganic perovskite tandem solar cells.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, to improve the performance of three-stage co-evaporated CuSe2  solar cells, a small amount of Ag was incorporated during the third stage, and the materials/device characteristics were investigated",
+            "all_materials": [
+                "CuSe2",
+                "Ag"
+            ],
+            "other_materials": [
+                "CuSe2",
+                "Ag"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Although the amount of added Ag was limited to less than 1\u00a0at%, both the film microstructure and the resulting device performance were affected",
+            "all_materials": [
+                "Ag"
+            ],
+            "other_materials": [
+                "Ag"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The Ag-alloyed CIGS thin films exhibited enhanced recrystallization and homogenous Ag distribution throughout the CIGS film bulk, even though the Ag incorporation was performed near the end of the three-stage co-evaporation process",
+            "all_materials": [
+                "CIGS",
+                "Ag",
+                "CIGS",
+                "Ag"
+            ],
+            "other_materials": [
+                "CIGS",
+                "Ag",
+                "CIGS",
+                "Ag"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Well-controlled Ag alloying into CIGS solar cells  led to increased fill factors, accompanied by increased charge carrier densities as well as reduced detrimental state densities",
+            "all_materials": [
+                "Ag"
+            ],
+            "other_materials": [
+                "Ag"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The approach performed in the present work suggests that the device quality of CIGS solar cells can be tuned by small Ag additions in a similar manner to extrinsic alkali incorporation.",
+            "all_materials": [
+                "Ag"
+            ],
+            "other_materials": [
+                "Ag"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For achieving efficient and stable perovskite solar cells , the interface between the perovskite absorber and charge transport material should be modulated to provide proper energy alignment, fast charge delivery, and suppressed charge recombination",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this study, a multifunctional interface modifier for PSCs was developed by the quaternization of trimethylamine with 1-bromo-2-ethane",
+            "all_materials": [
+                "trimethylamine",
+                "1-bromo-2-ethane"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "trimethylamine",
+                    "start": 100,
+                    "end": 114,
+                    "token_ids": [
+                        16
+                    ]
+                },
+                {
+                    "text": "1-bromo-2-ethane",
+                    "start": 120,
+                    "end": 136,
+                    "token_ids": [
+                        18
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This ethylene glycol-containing ammonium salt  effectively passivates interfacial traps and induces dipoles on the surface of the perovskite, facilitating charge transfer/extraction at the perovskite/hole transport material  interface",
+            "all_materials": [
+                "ethylene glycol",
+                "ammonium"
+            ],
+            "other_materials": [
+                "ethylene glycol",
+                "ammonium"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Accordingly, after the interface modification with EG, the PSCs showed a high efficiency of over 24% with a representative doped SpiroOMeTAD HTM",
+            "all_materials": [
+                "EG",
+                "SpiroOMeTAD"
+            ],
+            "other_materials": [
+                "EG",
+                "SpiroOMeTAD"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, the EG modification was revealed to be highly compatibility with dopant-free HTMs, resulting in an improved efficiency of up to 22.01% in its corresponding photovoltaics compared to those of the control and conventional alkyl-based salt treatments .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The research paper presented here brings the peroration of research completed on a perovskite-CIGS-based tandem device using SCAPS as a simulating software",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The wide bandgap Perovskite, i.e., Cs2AgBi0.75Sb0.25Br6 and narrow bandgap CIGS, i.e., CuIn0.75Ga0.25Se2 as an upper and lower cell of multijunction structure consecutively",
+            "all_materials": [
+                "Cs2AgBi0.75Sb0.25Br6",
+                "CIGS",
+                "CuIn0.75Ga0.25Se2"
+            ],
+            "other_materials": [
+                "Cs2AgBi0.75Sb0.25Br6",
+                "CIGS",
+                "CuIn0.75Ga0.25Se2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The specialization of this work also includes the use of lead-free material Perovskite which is very pestilent in nature",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The viability of the proposed structure has been carried forward in two phases, initially, the upper cell of perovskite material and CIGS based lower cell is simulated in stand-alone configuration to have and power conversion efficiency of 15.37% and 13.6% percent",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Then both the device was appraised for tandem configuration, at the varying thickness of absorbing layer, the current matching condition has been achieved, the optimized thickness for perovskite kind-based cell is 350\u202fnm where for CIGS based cell it is 510\u202fnm",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "After embedding the upper and lower cell with filter structure conversion efficiency for the upper and lower cell was 15.37% and 12.23% respectively",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "multi junction structure as a whole has a conversion efficiency of 27.5% virtue of an augmentation of open-circuit voltage with Voc of 1.7213\u202fV.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "CuSe2  solar cell is a kind of high efficiency thin film photovoltaic device",
+            "all_materials": [
+                "CuSe2"
+            ],
+            "other_materials": [
+                "CuSe2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "These CIGS solar cells with high efficiency tend to be Cu-poor",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Actually, the Cu-rich CIGS solar cells which have the superior electrical characteristics should have higher efficiency compared with the Cu-poor ones",
+            "all_materials": [
+                "CIGS"
+            ],
+            "other_materials": [
+                "CIGS"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the performance  of Cu-rich devices is limited by the serious interfacial recombination",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To suppress the interfacial recombination and improve the efficiency of Cu-rich devices, we co-evaporate CsF, In and Se at the surface of the Cu-rich absorber",
+            "all_materials": [
+                "CsF"
+            ],
+            "other_materials": [
+                "CsF"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "By this way, the compound of Cs-In-Se is formed at the absorber surface, which leads to the valence band energy, work function and the grain boundary recombination at the surface of the Cu-rich absorber decrease",
+            "all_materials": [
+                "Cs-In-Se"
+            ],
+            "other_materials": [
+                "Cs-In-Se"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This contributes to inhibiting the interfacial recombination",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Especially, the tunneling assistant interfacial recombination can be suppressed significantly",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Besides, the Cs-In-Se-PDT mainly changes the Cu content of the absorber surface, the advantage of Cu-rich in the interior of the absorber can still be maintained",
+            "all_materials": [
+                "Cs-In-Se-PDT"
+            ],
+            "other_materials": [
+                "Cs-In-Se-PDT"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "After Cs-In-Se-PDT, the VOC of the Cu-rich device  increases by about 90\u00a0mV, and the device efficiency also boosts from 12.7\u00a0% to 16.04\u00a0%.",
+            "all_materials": [
+                "Cs-In-Se-PDT"
+            ],
+            "other_materials": [
+                "Cs-In-Se-PDT"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

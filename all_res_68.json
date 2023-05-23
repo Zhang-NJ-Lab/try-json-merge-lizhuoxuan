@@ -1,0 +1,1209 @@
+{
+    "rest": [
+        {
+            "sentence": "Inkjet printing is a sterling technique in the fabrication of large-scale perovskite solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Whereas, to obtain high quality perovskite films remains challenging because of the control of the drying of droplets",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, FAI is totally dissolved in n-Butanol and isopropanol  to react with PbI2/CsBr films",
+            "all_materials": [
+                "FAI",
+                "n-Butanol",
+                "isopropanol",
+                "PbI2",
+                "CsBr"
+            ],
+            "other_materials": [
+                "n-Butanol"
+            ],
+            "precursors": [
+                {
+                    "text": "FAI",
+                    "start": 14,
+                    "end": 17,
+                    "token_ids": [
+                        4
+                    ]
+                },
+                {
+                    "text": "isopropanol",
+                    "start": 56,
+                    "end": 67,
+                    "token_ids": [
+                        11
+                    ]
+                },
+                {
+                    "text": "PbI2",
+                    "start": 83,
+                    "end": 87,
+                    "token_ids": [
+                        15
+                    ]
+                },
+                {
+                    "text": "CsBr",
+                    "start": 88,
+                    "end": 92,
+                    "token_ids": [
+                        17
+                    ]
+                }
+            ],
+            "operation": [
+                7,
+                "SolutionMixing"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The addition of n-Butanol prolongs the drying time and inhibits the contact line pinning",
+            "all_materials": [
+                "n-Butanol"
+            ],
+            "other_materials": [
+                "n-Butanol"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Accordingly, the inkjet-printed CsxFA1-xPb3 perovskite films show great uniformity with large grain size",
+            "all_materials": [
+                "CsxFA1-xPb3"
+            ],
+            "other_materials": [
+                "CsxFA1-xPb3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We ultimately achieve a champion device with a power conversion efficiency  of 18.26\u00a0% .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The process of our new strategy combining thermal evaporation and inkjet printing to fabricate high efficiency PSCs.",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "Download : Download high-res image Download : Download full-size image",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Perovskite solar cells  have demonstrated enormous potentials over past years ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Power conversion efficiency  of PSCs has rocketed from 3.8\u00a0% to 25.7\u00a0% since 2009",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Particularly, the metal-halide perovskites have been regarded as sensational materials for light harvesting due to its especial properties including high absorption coefficient, perfect charge carrier mobility, controllable energy band gap, and relatively low-cost preparation , .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Deposition methods are necessary for the fabrication of PSCs to get high efficiency and favorable stability",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "Multifarious technologies could be applied to manufacture large-scale and homogeneous films instead of spin-coating, such as vacuum deposition, doctor-blade coating, slot-die coating, spray coating and inkjet printing ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Among these techniques, inkjet printing supports that active materials precursor ink could be deposited at concrete temperature on specific areas of the substrate ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, inkjet printing provides infinite print resolution owing to the adjustable drop spacing which ranges from 5\u00a0\u03bcm to 80\u00a0\u03bcm",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The drop-by-drop printing is able to achieve the custom shapes",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Since inkjet printing was first used in the fabrication of PSCs, PCE of inkjet-printed devices has risen from 11.6\u00a0% to 21.6\u00a0% ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Nevertheless, only few researches have been reported to fabricate MA-free PSCs via using inkjet printing while MA-free PSCs emerge perfect photovoltaic performance .",
+            "all_materials": [
+                "PSCs",
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "Perovskite films of high quality are required for high-efficiency PSCs",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Regulating the deposition morphology of droplet has an important influence in printing and other solution-based devices fabrication, but drying of droplets is a complex and non-equilibrium process ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                21,
+                "DryingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Further studies indicate that inner flows, including capillary flow and Marangoni flow, dynamics of three-phase contact line, and particle\u2013particle/particle-interface interaction will influence ultimate particle distribution in the inhomogeneous redistribution",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The addition of solvent with high boiling point and low surface tension will result in the better film quality , .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "How to obtain homogeneous liquid films before annealing is a pivotal factor for inkjet-printed high-performance PSCs",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                7,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In preceding studies, to adjust ink composition has been identified as the most convenient strategy to affect the film quality",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "achieved the high-quality large area perovskite films by inkjet printing Liang etal",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A mixed DMSO/GBL was used as the printing precursor solvent",
+            "all_materials": [
+                "DMSO/GBL"
+            ],
+            "other_materials": [
+                "DMSO/GBL"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "High performance PSCs based on one-step inkjet printing with a PCE of 17.04\u00a0% for 0.04\u00a0cm2 were demonstrated",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "systematically studied the properties of DMF and DMSO mixed solvents through the perovskite grains growth Li etal",
+            "all_materials": [
+                "DMF",
+                "DMSO"
+            ],
+            "other_materials": [
+                "DMF",
+                "DMSO"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                8,
+                "Mixing"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Because of the difference in viscosity and boiling point, the high proportion of DMSO solvents spread slowly which led to smaller printing dots",
+            "all_materials": [
+                "DMSO"
+            ],
+            "other_materials": [
+                "DMSO"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                16,
+                "Mixing"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It permitted PSCs with PCEs of 18.64\u00a0% for a small area  and 17.74\u00a0% for a large area",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "established a new mixed ink system that could effectively delay the crystallization rate of perovskite grains Li etal",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The introduction of N-methyl-2-pyrrolidone  could prolong the maintaining time of liquid films owing to its properties to reduce the gas partial pressure and increase the boiling point of the solvent, leading to an uniform Cs0.05MA0.14FA0.81PbI2.55Br0.45 perovskite film",
+            "all_materials": [
+                "N-methyl-2-pyrrolidone",
+                "Cs0.05MA0.14FA0.81PbI2.55Br0.45"
+            ],
+            "other_materials": [
+                "N-methyl-2-pyrrolidone"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "Cs0.05MA0.14FA0.81PbI2.55Br0.45"
+        },
+        {
+            "sentence": "The inkjet-printed PSCs with NMP attained high PCEs of 19.6\u00a0%  and 17.9\u00a0% .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In our work, a mixed ink composition is created and applied in the fabrication of inkjet-printed MA-free PSCs",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Thermal evaporation and inkjet printing are combined to prepare high quality perovskite films",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The precursor ink consisting of FAI/IPA and n-Butanol is deposited to PbI2/CsBr solid films via inkjet printing",
+            "all_materials": [
+                "FAI/IPA",
+                "n-Butanol",
+                "PbI2/CsBr"
+            ],
+            "other_materials": [
+                "PbI2/CsBr"
+            ],
+            "precursors": [
+                {
+                    "text": "FAI/IPA",
+                    "start": 32,
+                    "end": 39,
+                    "token_ids": [
+                        5,
+                        6,
+                        7
+                    ]
+                },
+                {
+                    "text": "n-Butanol",
+                    "start": 44,
+                    "end": 53,
+                    "token_ids": [
+                        9
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Owing to the higher boiling point and lower gas partial pressure of n-Butanol additive, FAI particles don\u2019t tend to accumulate at the droplet edges during drying",
+            "all_materials": [
+                "n-Butanol",
+                "FAI"
+            ],
+            "other_materials": [
+                "n-Butanol",
+                "FAI"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                27,
+                "DryingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The reaction between FAI and PbI2/CsBr is more adequate due to the prolonged-drying-time of liquid film, which leads to an eventual uniform perovskite film",
+            "all_materials": [
+                "FAI",
+                "PbI2/CsBr"
+            ],
+            "other_materials": [
+                "PbI2/CsBr"
+            ],
+            "precursors": [
+                {
+                    "text": "FAI",
+                    "start": 21,
+                    "end": 24,
+                    "token_ids": [
+                        3
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The PCE of our champion device reaches 18.26\u00a0% , and keeps the primary PCE in 90\u00a0% exposed to air after 20\u00a0days",
+            "all_materials": [
+                "PCE",
+                "air"
+            ],
+            "other_materials": [
+                "PCE",
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Our mixed solvents system could be regarded as a feasible solution to enhance the film quality, and this technique including inkjet printing provides an effective strategy to achieve PSCs with good performance for future application.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "FTO substrates  were purchased from Wuhan Ge\u2019ao Science and Education Instrument Co., ltd",
+            "all_materials": [
+                "FTO"
+            ],
+            "other_materials": [
+                "FTO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "SnCl2 \u2022 2H2O, urea and all alcohols were bought from Aladdin",
+            "all_materials": [
+                "SnCl2 \u2022 2H2O",
+                "urea",
+                "alcohols"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "SnCl2 \u2022 2H2O",
+                    "start": 0,
+                    "end": 12,
+                    "token_ids": [
+                        0,
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "text": "urea",
+                    "start": 14,
+                    "end": 18,
+                    "token_ids": [
+                        4
+                    ]
+                },
+                {
+                    "text": "alcohols",
+                    "start": 27,
+                    "end": 35,
+                    "token_ids": [
+                        7
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Cesium bromide , Lead iodide  and formamidinium iodide  were all bought from Xi\u2019an Polymer Light Technology Corp",
+            "all_materials": [
+                "Cesium bromide",
+                "Lead iodide",
+                "formamidinium iodide"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "Cesium bromide",
+                    "start": 0,
+                    "end": 14,
+                    "token_ids": [
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "text": "Lead iodide",
+                    "start": 17,
+                    "end": 28,
+                    "token_ids": [
+                        3,
+                        4
+                    ]
+                },
+                {
+                    "text": "formamidinium iodide",
+                    "start": 34,
+                    "end": 54,
+                    "token_ids": [
+                        6,
+                        7
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Spiro-OMeTAD was purchased from Shenzhen Feiming Science and Technology Co., ltd",
+            "all_materials": [
+                "Spiro-OMeTAD"
+            ],
+            "other_materials": [
+                "Spiro-OMeTAD"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Other all chemicals were purchased from",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "1a shows the thermal evaporation/inkjet printing strategy to prepare CsxFA1-xPb3 perovskite filmsFig",
+            "all_materials": [
+                "CsxFA1-xPb3"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CsxFA1-xPb3"
+        },
+        {
+            "sentence": "In order to form perovskite, the metal halides  were deposited to SnO2-covered FTO substrates via thermal evaporation in the glove-box, then FAI solutions were deposited to the as-prepared PbI2/CsBr films in air conditions",
+            "all_materials": [
+                "SnO2",
+                "FTO",
+                "FAI",
+                "PbI2/CsBr",
+                "air"
+            ],
+            "other_materials": [
+                "SnO2",
+                "FTO",
+                "FAI",
+                "PbI2/CsBr",
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "FAI could be totally dissolved in some alcohols",
+            "all_materials": [
+                "FAI",
+                "alcohols"
+            ],
+            "other_materials": [
+                "alcohols"
+            ],
+            "precursors": [
+                {
+                    "text": "FAI",
+                    "start": 0,
+                    "end": 3,
+                    "token_ids": [
+                        0
+                    ]
+                }
+            ],
+            "operation": [
+                4,
+                "SolutionMixing"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "These solvents possess",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In summary, in order to eliminate the negative effect of the strong volatilization of IPA, we established a simple mixed-solvents strategy to promote the quality of perovskite films",
+            "all_materials": [
+                "IPA"
+            ],
+            "other_materials": [
+                "IPA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "During the fabrication of perovskite films, n-Butanol was added in the FAI/IPA solution",
+            "all_materials": [
+                "n-Butanol",
+                "FAI/IPA"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "n-Butanol",
+                    "start": 44,
+                    "end": 53,
+                    "token_ids": [
+                        7
+                    ]
+                },
+                {
+                    "text": "FAI/IPA",
+                    "start": 71,
+                    "end": 78,
+                    "token_ids": [
+                        12,
+                        13,
+                        14
+                    ]
+                }
+            ],
+            "operation": [
+                9,
+                "Mixing"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The advantages of mixed solvents provided great spreading of the solution",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Besides, the adequate reaction between FAI and PbI2/CsBr confirmed the total conversion of PbI2",
+            "all_materials": [
+                "FAI",
+                "PbI2/CsBr",
+                "PbI2"
+            ],
+            "other_materials": [
+                "PbI2"
+            ],
+            "precursors": [
+                {
+                    "text": "FAI",
+                    "start": 39,
+                    "end": 42,
+                    "token_ids": [
+                        6
+                    ]
+                },
+                {
+                    "text": "PbI2/CsBr",
+                    "start": 47,
+                    "end": 56,
+                    "token_ids": [
+                        8,
+                        9,
+                        10
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Hence, our perovskite films exhibited better",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Han Yang: Investigation, Writing \u2013 review &amp; editing, Visualization, Data curation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Jize Wang: Investigation, Data curation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Xinxin Yu: Investigation, Data curation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Yishuai Feng: Conceptualization",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Xiao Chen: Conceptualization",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Fei Long: Investigation, Validation, Supervision, Project administration, Funding acquisition",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Zhiliang Ku: Investigation, Validation, Supervision, Project administration, Funding acquisition",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Fuzhi Huang: Investigation, Validation, Supervision, Project administration,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work was supported by the National Key Research and Development Program of China , the National Natural Science Foundation of China  and the Technological Innovation Key Project of Guangdong Province .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "One of the most important processes for photosensitisers is the intersystem crossing to the triplet state",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We considered theoretically this process for the complex of fullerene C60 with the amino acid tryptophan  in comparison with pure fullerene C60 and C60 modified with trimalonic acid by use of density functional theory",
+            "all_materials": [
+                "C60",
+                "amino acid tryptophan",
+                "C60",
+                "C60",
+                "trimalonic acid"
+            ],
+            "other_materials": [
+                "C60",
+                "amino acid tryptophan",
+                "C60",
+                "C60",
+                "trimalonic acid"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Our comparative findings suggest that C60-Trp possesses high intersystem crossing rate to saturate T1 state",
+            "all_materials": [
+                "C60-Trp",
+                "T1"
+            ],
+            "other_materials": [
+                "C60-Trp",
+                "T1"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We suppose that C60-Trp could bind to DNA aptamer by CO-NH bonds creating novel conjugates with carriers for specific purposes on the cell surface without affecting the photosystem, which may allow it to efficiently generate reactive oxygen species.",
+            "all_materials": [
+                "C60-Trp",
+                "DNA"
+            ],
+            "other_materials": [
+                "C60-Trp",
+                "DNA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work,\u00a0tetraiodide and tetratosylate of 5,10,15,20-tetrakischlorin, as well as tetraiodide 5,10,15,20-tetrakisporphyrin, the effect of the nature of counterions and the macroring on the ability of photosensitizers to generate singlet oxygen and superoxide radical anion under oxygen-enriched and depleted condition were studied",
+            "all_materials": [
+                "tetraiodide",
+                "tetratosylate",
+                "5,10,15,20-tetrakischlorin",
+                "tetraiodide 5,10,15,20-tetrakisporphyrin",
+                "oxygen"
+            ],
+            "other_materials": [
+                "tetraiodide",
+                "tetratosylate",
+                "5,10,15,20-tetrakischlorin",
+                "tetraiodide 5,10,15,20-tetrakisporphyrin",
+                "oxygen"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Under oxygen-depleted condition, the efficiency of photosensitizers decreases; therefore, we evaluated the possibility of triggering the photodynamic action of photosensors by a radical mechanism  and its potentiation with potassium iodide in these conditions.",
+            "all_materials": [
+                "potassium iodide"
+            ],
+            "other_materials": [
+                "potassium iodide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Potentiation of BSA photooxidation processes with potassium iodide showed that the use of chlorins as sensitizers is more effective than porphyrins.",
+            "all_materials": [
+                "BSA",
+                "potassium iodide",
+                "chlorins"
+            ],
+            "other_materials": [
+                "BSA",
+                "potassium iodide",
+                "chlorins"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The dark states of DNA stabilized silver clusters are extensively used for upconversion fluorescence enhancement",
+            "all_materials": [
+                "DNA",
+                "silver"
+            ],
+            "other_materials": [
+                "DNA",
+                "silver"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work probed the triplet state saturation of the violet-, green- and red-emitting AgN-DNA complexes through intersystem crossing rate constant DFT calculations",
+            "all_materials": [
+                "AgN-DNA"
+            ],
+            "other_materials": [
+                "AgN-DNA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Our computations showed that DNA significantly affects the electronic structure of Ag3+1 and Ag4+2 clusters",
+            "all_materials": [
+                "DNA",
+                "Ag3+1",
+                "Ag4+2"
+            ],
+            "other_materials": [
+                "DNA",
+                "Ag3+1",
+                "Ag4+2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It dramatically increases the ISC constants from value ca",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "\u223c104 s\u22121 for free clusters up to ca",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "\u223c108 s\u22121 for clusters bound to nucleobases",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The results indicate that silver clusters in complex with DNA can actively transition to the triplet state upon excitation, ISC process can compete with fluorescence.",
+            "all_materials": [
+                "DNA"
+            ],
+            "other_materials": [
+                "DNA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The photocatalytic reduction of nitrogen to ammonia is regarded as a green way of using solar light",
+            "all_materials": [
+                "nitrogen",
+                "ammonia"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "nitrogen",
+                    "start": 32,
+                    "end": 40,
+                    "token_ids": [
+                        4
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "ammonia"
+        },
+        {
+            "sentence": "However, the poor utilization of visible light and the inert nonpolar nitrogen-nitrogen triple-bond have limited its further application",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                15,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, plate-like and agaric-like SnS2 composed of nanosheets are successfully synthesized and are firstly probed their performances of nitrogen photofixation",
+            "all_materials": [
+                "SnS2",
+                "nitrogen"
+            ],
+            "other_materials": [
+                "nitrogen"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "SnS2"
+        },
+        {
+            "sentence": "Their structure, utilization of solar light and the ability of separating photogenerated electrons are characterized and analyzed",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The results demonstrated plate-like and agaric-like both can reduce nitrogen to NH4+ and the efficiency of agaric-like SnS2 is 2.72 times as high as that of SnS2 tablet.",
+            "all_materials": [
+                "SnS2",
+                "SnS2"
+            ],
+            "other_materials": [
+                "SnS2",
+                "SnS2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Modified 2- benzothiazole probe BTFMB response to hydrogen peroxide to generate BTFM-OH",
+            "all_materials": [
+                "2- benzothiazole",
+                "BTFMB",
+                "hydrogen peroxide",
+                "BTFM-OH"
+            ],
+            "other_materials": [
+                "2- benzothiazole",
+                "BTFMB",
+                "hydrogen peroxide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "BTFM-OH"
+        },
+        {
+            "sentence": "We focus on the theoretical exploration of photophysical and photochemical processes of excited state proton transfer",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "By bond parameters, infrared vibration spectra, independent gradient models isosurface and scatter plots, excited-hydrogen bond enhancement mechanism is certified",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Calculated NMR and electronic spectra keep lines on the experimental values, indicating the reliability of the calculation method",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Plotted potential energy curves and intrinsic reaction coordinates reveal the proton transfer path",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Finally, values of polarizability, first-hyperpolarizability and dipole moment are computed to prove BTFM-OH having well nonlinear optical effect.",
+            "all_materials": [
+                "BTFM-OH"
+            ],
+            "other_materials": [
+                "BTFM-OH"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                10,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "430 stainless steel -Sr2Fe1.5Mo0.5O6-\u03b4  composite interconnect materials have been successfully synthesized by a facile powder metallurgy method",
+            "all_materials": [
+                "stainless",
+                "steel -Sr2Fe1.5Mo0.5O6-\u03b4"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                [
+                    2,
+                    "StartingSynthesis"
+                ],
+                [
+                    16,
+                    "HeatingOperation"
+                ]
+            ],
+            "targets": "stainless"
+        },
+        {
+            "sentence": "SFM powder synthesized by sol\u2013gel method was coated on SUS430 stainless steel matrix and sintered to obtain SUS430-SFM material",
+            "all_materials": [
+                "SFM",
+                "SUS430",
+                "steel",
+                "SUS430-SFM"
+            ],
+            "other_materials": [
+                "SFM",
+                "SUS430",
+                "steel"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "SUS430-SFM"
+        },
+        {
+            "sentence": "After circulating oxidation at 800\u00a0\u00b0C for 140\u00a0h in air, the oxidation rate constant K and current density of the interconnect materials were 3.66\u00a0\u00d7\u00a010-14 mg2\u00b7cm\u22124\u00b7s\u22121 and 1.296\u00a0\u00d7\u00a010-7 A\u00b7cm\u22122, lower than those of SUS430 stainless steel",
+            "all_materials": [
+                "air",
+                "SUS430"
+            ],
+            "other_materials": [
+                "air",
+                "SUS430"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Its conductivity was about 5.8\u00a0\u00d7\u00a0103 S\u00b7cm\u22121, about twice of that of SUS430 sample",
+            "all_materials": [
+                "SUS430"
+            ],
+            "other_materials": [
+                "SUS430"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This excellent performance is due to the good matching of thermal expansion between the coating and the substrate and the excellent oxidation resistance of the coating.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

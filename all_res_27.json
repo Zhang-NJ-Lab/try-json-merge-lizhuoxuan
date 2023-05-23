@@ -1,0 +1,1150 @@
+{
+    "rest": [
+        {
+            "sentence": "To achieve industrially viable fabrication process for perovskite-based solar cells, every process step must be optimized for maximum throughput",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We present a study of substituting laboratory-type UV-Ozone surface treatment with a high-throughput Corona treatment in a scalable perovskite solar cell fabrication process",
+            "all_materials": [
+                "UV-Ozone"
+            ],
+            "other_materials": [
+                "UV-Ozone"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It is observed that water contact angle measurements provide insufficient information to determine the necessary dose of Corona or UV-Ozone treatment, but the surface carbon signal measured by x-ray photoelectron spectroscopy accurately identifies when surface contamination has been completely removed",
+            "all_materials": [
+                "water",
+                "Corona"
+            ],
+            "other_materials": [
+                "water",
+                "Corona"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, we observe highly accelerated de-contamination of ZnO surfaces by UV-Ozone treatment",
+            "all_materials": [
+                "ZnO"
+            ],
+            "other_materials": [
+                "ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The effect can be explained by photocatalytic O2\u2212 ion generation indicating that UV-Ozone treatment is also applicable in high-throughput processing.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Download : Download high-res image Download : Download full-size image",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Perovskite solar cell power conversion efficiency has advanced at an unprecedented rate  and is now competitive with many commercialized technologies such as CIGS  and CdTe",
+            "all_materials": [
+                "CIGS",
+                "CdTe"
+            ],
+            "other_materials": [
+                "CIGS",
+                "CdTe"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Solution processing is promising to lead to ultra-low-cost manufacturing, but commonly employed laboratory methods  cannot be scaled to meet industrial production requirements",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As a result, many laboratories are beginning to work with scalable fabrication methods such as slot-die coating  and ultrasonic spray coating  to ensure that advances in performance can be rapidly transferred to industrial production",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Transitioning from spin-coating to scalable fabrication, researchers often discover that many aspects that could be considered negligible in small scale fabrication become important for scalable fabrication technologies.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Substrate surface preparation is a key aspect of fabrication that achieves high production yields",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Contamination that is not eliminated during substrate preparation may affect every layer of the device",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, uniform surface condition over a large area is a prerequisite for uniform solution coating",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Rapid processing is also a requirement because long process time impacts fabrication cost.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this article we discuss an implementation of Corona treatment as a scalable substitute for UV-Ozone treatment",
+            "all_materials": [
+                "Corona",
+                "UV-Ozone"
+            ],
+            "other_materials": [
+                "Corona",
+                "UV-Ozone"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "UV-Ozone treatment is frequently employed in research laboratories to remove surface contamination and increase surface energy of substrates  e.g., see Refs",
+            "all_materials": [
+                "UV-Ozone"
+            ],
+            "other_materials": [
+                "UV-Ozone"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It is a reliable technique, however, typical exposure times of 5\u201315\u00a0min make it poorly compatible with rapid processing,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Corona treatment is a rapid technique  that is widely applied in industry  and is compatible with roll-to-roll processing",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We present a study of substituting UV-Ozone treatment with Corona treatment in a slot-die coating process for perovskite solar cells and discuss some considerations that need to be taken into account when designing a surface treatment process.",
+            "all_materials": [
+                "UV-Ozone",
+                "Corona"
+            ],
+            "other_materials": [
+                "UV-Ozone",
+                "Corona"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Device fabrication was accomplished as follows",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Flexible PET film with pre-patterned ITO coating was cleaned by high pressure air flow to remove surface particles, treated by adhesive roller  to remove microscopic particles, and decontaminated with UV-Ozone  or Corona  treatment",
+            "all_materials": [
+                "PET",
+                "ITO",
+                "air",
+                "UV-Ozone"
+            ],
+            "other_materials": [
+                "PET",
+                "ITO",
+                "air",
+                "UV-Ozone"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                19,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Electron selective layer was deposited by slot-die coating of ZnO nanoparticle suspension , particle size 10\u201315\u00a0nm), with",
+            "all_materials": [
+                "ZnO"
+            ],
+            "other_materials": [
+                "ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To advance scalable fabrication technology for solution processed perovskite solar cells, a table-top slot-die coating system was used to develop a roll-to-roll compatible coating process",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Slot-die coating is commonly employed in industry for high-throughput coating, and in recent years laboratory-sized machines have become available",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Small scale slot-die coating tools allow development of coating processes with only a small investment, and permit a rapid transfer of technology from laboratory",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Key result of this study is that while water contact angle is a good guide to a degree of de-contamination achieved by different methods, trace contamination unresolvable through water contact angle measurements may strongly affect uniformity of solution coated perovskite precursors",
+            "all_materials": [
+                "water",
+                "water"
+            ],
+            "other_materials": [
+                "water",
+                "water"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "XPS carbon atomic density measurement provides a quantitative tool with the right sensitivity to identify full de-contamination of the surface",
+            "all_materials": [
+                "carbon"
+            ],
+            "other_materials": [
+                "carbon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Water contact angle measurement followed by XPS measurement close to",
+            "all_materials": [
+                "Water"
+            ],
+            "other_materials": [
+                "Water"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work was supported by funding from the Energy Materials and Surface Sciences Unit of the Okinawa Institute of Science and Technology Graduate University, the OIST R&amp;D Cluster Research Program, and the OIST Proof of Concept  Program.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The transition to a climate-neutral society, foreseen by the Paris agreement, requires a transformation of the global energy sector from fossil-based to zero carbon by the second half of this century",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this context, renewable energy generation must be priorized to replace conventional fossil fuels, and in particular, solar energy is one of the most promising sustainable sources of energy",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Several types of photovoltaic  devices have been developed so far, and each type has its own unique advantages and disadvantages",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "They typically differ for manufacturing processes, appearance, performance, costs, and installations conditions",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In particular, flexible PV panels, which benefit of high power to weight ratios, can find application as building-integrated PV by replacing the construction materials in new buildings  and, more interestingly, as building-applied PV for retrofitting existing buildings and improving their energy efficiency",
+            "all_materials": [
+                "PV",
+                "PV"
+            ],
+            "other_materials": [
+                "PV",
+                "PV"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, flexible printed PV can be used for avionics and space applications as well as for agrivoltaics, including PV installations, where land is covered by PV panels at such a height it can still be farmed or used for livestock, and also PV greenhouses and PV fences",
+            "all_materials": [
+                "PV",
+                "PV"
+            ],
+            "other_materials": [
+                "PV",
+                "PV"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Recently, thanks to the development of organic and hybrid organic solar cells [dye-sensitized solar cell , organic photovoltaic , and perovskite solar cells ], an additional advantage can be exploited: they can be printed into any shape and are low cost, thanks to the solution processability at low temperature",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this chapter, we mainly focus on the advances of new generation flexible printed PV",
+            "all_materials": [
+                "PV"
+            ],
+            "other_materials": [
+                "PV"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Some basics about cell configuration and working principle for DSC, OPV, and PSC are briefly described",
+            "all_materials": [
+                "DSC",
+                "OPV",
+                "PSC"
+            ],
+            "other_materials": [
+                "DSC",
+                "OPV",
+                "PSC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Flexible substrates and printing techniques are reviewed, reporting the latest results about large area flexible printed modules.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "With the development of human society, the problems of environmental deterioration and energy shortage have become increasingly prominent",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In order to solve these problems, metal halide perovskite solar cells  stand out because of their excellent properties  and have been widely studied",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "PSCs with low cost, high power conversion efficiency and high stability are the future development trend",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The quality of perovskite film is essential for fabricating PSCs with high performance",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                8,
+                "StartingSynthesis"
+            ],
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "To provide a full picture of realizing high performance PSCs, this review focuses on the strategies for preparing high quality perovskite films , and therefore to fabricate high performance PSCs and to accelerate the commercialization.",
+            "all_materials": [
+                "PSCs",
+                "PSCs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                18,
+                "StartingSynthesis"
+            ],
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "Perovskite solar cells  have emerged as a \u2018rising star\u2019 in recent years due to their high-power conversion efficiency , extremely low cost and facile fabrication techniques",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To date, PSCs have achieved a certified PCE of 25.2% on rigid conductive substrates, and 19.5% on flexible substrates",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The significant advancement of PSCs has been realized through various routes, including perovskite composition engineering, interface modification, surface passivation, fabrication process optimization, and exploitation of new charge transport materials",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, compared with rigid counterparts, the efficiency record of flexible perovskite solar cells  is advancing slowly, and therefore it is of great significance to scrutinize recent work and expedite the innovation in this field",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this article, we comprehensively review the recent progress of FPSCs",
+            "all_materials": [
+                "FPSCs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "FPSCs"
+        },
+        {
+            "sentence": "After a brief introduction, the major features of FPSCs are compared with other types of flexible solar cells in a broad context including silicon, CdTe, dye-sensitized, organic, quantum dot and hybrid solar cells",
+            "all_materials": [
+                "FPSCs",
+                "silicon",
+                "CdTe"
+            ],
+            "other_materials": [
+                "FPSCs",
+                "silicon",
+                "CdTe"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In particular, we highlight the major breakthroughs of FPSCs made in 2019/2020 for both laboratory and large-scale devices",
+            "all_materials": [
+                "FPSCs"
+            ],
+            "other_materials": [
+                "FPSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The constituents of making a FPSC including flexible substrates, perovskite absorbers, charge transport materials, as well as device fabrication and encapsulation methods have been critically assessed",
+            "all_materials": [
+                "FPSC"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "FPSC"
+        },
+        {
+            "sentence": "The existing challenges of making high performance and long-term stable FPSCs are discussed",
+            "all_materials": [
+                "FPSCs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "FPSCs"
+        },
+        {
+            "sentence": "Finally, we offer our perspectives on the future opportunities of FPSCs in the field of photovoltaics.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To make perovskite solar cells an industrially relevant technology large area deposition techniques are needed and one of the most promising is slot-die coating",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This review article details the progress reported in the literature where slot-die coating has been used for the deposition of both the perovskite layer and other layers in the perovskite solar cell device stack",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "An overview of the methods used to adapt the coating process, materials and drying conditions in order to create high quality layers and devices is given and an outlook on future research directions in this field is made.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                14,
+                "DryingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Inorganic lead halide perovskite materials have attracted great attention recently due to their potential for greater thermal stability compared with hybrid organic perovskites",
+            "all_materials": [
+                "lead halide"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "lead halide"
+        },
+        {
+            "sentence": "However, the high processing temperature to convert from the non-perovskite phase to the cubic perovskite phase in many of these systems has limited their application in flexible optoelectronic devices",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here, we report a room temperature processed inorganic perovskite solar cell  based on CsPbI2Br as the light harvesting layer",
+            "all_materials": [
+                "CsPbI2Br"
+            ],
+            "other_materials": [
+                "CsPbI2Br"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "By combining this composition with key precursor solvents, we show that inorganic perovskite films can be prepared by the vacuum-assist method under room temperature conditions in air",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                17,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Unencapsulated devices achieved power conversion efficiency up to 8.67% when measured under 1-sun irradiation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Exploiting this room temperature process, flexible inorganic PSCs based on an inorganic metal halide perovskite material are demonstrated.",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "High-efficiency perovskite solar cells  have experienced rapid development and attracted significant attention in recent years",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The PSCs based on doctor bladed or slot-die coated perovskite films usually have lower power conversion efficiency  than that based on spin-coated perovskite films",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, we have developed an effective method, called glass rod-sliding and low pressure assisted solution processing composition engineering , to manufacture high quality perovskite film in air",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "GRS-LPASP composition engineering effectively increases the grain size and thickness of perovskite films and reduces the defect density by increasing the contact area between the perovskite layer and the hole transport layer, thus leading an increased current density  of perovskite solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The device with GRS-LPASP composition engineering achieves a maximum PCE of 19.78%",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The experimental results demonstrates that GRS-LPASP composition engineering is a feasible method to prepare high-efficiency PSCs",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, GRS-LPASP composition engineering also provides a potential approach for the commercial production of PSCs.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Perovskite solar cells  have achieved compelling power conversion efficiencies , but at the expense of employing costly processes and treatments, which alongside the inadequate stability and lifetime, hinder the scale-up of this technology",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This paper studies the possibility of fabricating annealing-free, anti-solvent-free PSCs, to pave the way for the commercialization of the technology through reducing the fabrication steps and costs",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                [
+                    6,
+                    "StartingSynthesis"
+                ],
+                [
+                    7,
+                    "HeatingOperation"
+                ]
+            ],
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "To this end, the as-spun wet perovskite films are subjected to ultrasonic vibration for the optimum duration time of 3\u202fmin, where the vibration controls the crystal growth and serves as an in-situ annealing step, eliminating the need for an additional post treatment step",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The annealing-free PSCs with anti-solvent treatment show a PCE of 14.09%, whereas the annealing-free, anti-solvent-free devices show a PCE of 10.43%, demonstrating the merit of the novel approach used in this work for low-cost fabrication of PSCs",
+            "all_materials": [
+                "PSCs",
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                [
+                    1,
+                    "HeatingOperation"
+                ],
+                [
+                    17,
+                    "HeatingOperation"
+                ]
+            ],
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "The ultrasonic vibration treatment is compatible with other perovskite formulations that yield higher PCEs, as well as scalable deposition techniques, such as spray, blade, and slot-die coating.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                26,
+                "Mixing"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For attaining the commercialization, the large-area roll-to-roll  slot-die-coated inverted polymer solar cells  would be promising",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The electron transport layer  plays an important role in scale-up development from small PSCs",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, the active layer comprising poly  and [6,6]-phenyl-C61-butyric acid methyl ester  and sol\u2013gel zinc oxide  ETL were slot-die coated on flexible PET/ITO substrate as reference based on the R2R process",
+            "all_materials": [
+                "poly  and [6,6]-phenyl-C61-butyric acid methyl ester",
+                "zinc oxide  ETL",
+                "PET",
+                "ITO"
+            ],
+            "other_materials": [
+                "poly  and [6,6]-phenyl-C61-butyric acid methyl ester",
+                "zinc oxide  ETL",
+                "PET",
+                "ITO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Aluminum-doped ZnO  instead of ZnO was also adopted",
+            "all_materials": [
+                "ZnO",
+                "ZnO"
+            ],
+            "other_materials": [
+                "ZnO",
+                "ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For further improving the performance of large-area PSC, we used polyethylenimine ethoxylated  material to tailor the nanostructure of ZnO and AZO ETLs for reducing the surface traps on ETLs using two approaches:  ZnO/PEIE bilayer formed by sequential deposition and  ZnO:PEIE hybrid composite as ETLs",
+            "all_materials": [
+                "polyethylenimine ethoxylated",
+                "ZnO",
+                "AZO",
+                "ZnO/PEIE",
+                "ZnO:PEIE"
+            ],
+            "other_materials": [
+                "polyethylenimine ethoxylated",
+                "ZnO",
+                "AZO",
+                "ZnO/PEIE",
+                "ZnO:PEIE"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The present work would demonstrate the optimum material  parameters and how the performance of the R2R large-area slot-die coated PSC can be improved by modifying the ZnO- and AZO-based ETL structures",
+            "all_materials": [
+                "PSC",
+                "ZnO-",
+                "AZO-based",
+                "ETL"
+            ],
+            "other_materials": [
+                "PSC",
+                "ZnO-",
+                "AZO-based",
+                "ETL"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We also perform the various measurements and structural characterization to understand the relationship among R2R slot-die coating process, charge transport properties, film structure and photovoltaic performance as increasing the device areas from 1\u00d70.3\u00a0cm2  to 1\u00d71\u00a0cm2.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The rapid improvement in power conversion efficiencies  to record high levels have highlighted perovskite solar cells\u2019 great potential to be commercialized in the near future",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Continuous roll-to-roll  processing on flexible substrates enables ultra low-cost and high throughput manufacturing, which is essential for perovskite solar cells to make a breakthrough in cost per Watt compared to commercially established solar cells technologies",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here we demonstrate a facile spin-coating-free and R2R compatible blowing-assisted drop-casting  method to prepare CH3NH3PbI3 films for perovskite solar cells",
+            "all_materials": [
+                "CH3NH3PbI3"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CH3NH3PbI3"
+        },
+        {
+            "sentence": "The crystallinity and morphology of CH3NH3PbI3 films and device performance are significantly improved by optimization of the formulation with an NH4Cl additive",
+            "all_materials": [
+                "CH3NH3PbI3",
+                "NH4Cl"
+            ],
+            "other_materials": [
+                "CH3NH3PbI3",
+                "NH4Cl"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The perovskite solar cell prepared in air with a maximum PCE of 19.48% is obtained using modified poly:polystyrene sulfonate  as the hole transport layer",
+            "all_materials": [
+                "air",
+                "poly:polystyrene sulfonate"
+            ],
+            "other_materials": [
+                "air",
+                "poly:polystyrene sulfonate"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                4,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The cells based on the structure of ITO/m-PEDOT:PSS/CH3NH3PbI3/PCBM/Ca/Al exhibit negligible current hysteresis",
+            "all_materials": [
+                "ITO/m-PEDOT",
+                "PSS/CH3NH3PbI3/PCBM/Ca/Al"
+            ],
+            "other_materials": [
+                "ITO/m-PEDOT",
+                "PSS/CH3NH3PbI3/PCBM/Ca/Al"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The optimized formulation is then successfully applied to slot-die coating on glass and subsequently to R2R on a flexible substrate, giving record PCEs of 15.57% and 11.16%, respectively.",
+            "all_materials": [
+                "R2R"
+            ],
+            "other_materials": [
+                "R2R"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Perovskite solar cell is a thin-film cell made from solution process including coating, sintering, crystallization, and then encapsulated to become a solar cell that can generate electricity at low cost",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                16,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "At present, the power conversion efficiency of laboratory-produced small cell  is higher than 25%",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Perovskite solar cell is recognized as the next-generation solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, manufacture technique of large-area Perovskite solar cells is disclosed very few",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We developed an innovative low-cost Perovskite solar cell manufacturing machine , using once-through process which can continuously carry out thin-film coating and fast heat treatment for four thin layers",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We present the design of slot-die coater and fast thermal processor",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The manufacturing process is fully automatic and can make small-quantity sample production with good uniformity and high yield rate",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The largest area which can be produced is 80cmx80cm",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The maximum production rate is about 6 cells per hour",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For a typical p-i-n type Perovskite cell, the trial run on this machine achieves 14.3% power conversion efficiency which is about 77% of small cell produced by spin coating and hot plate annealing",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                35,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This machine is able to manufacture various kinds of Perovskite cells with different chemical composition having similar fluid properties of Newtonian fluid",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Some key technologies in large-area Perovskite cell production are found and also presented.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A deposition strategy is demonstrated for fabricating perovskite solar cells  under ambient laboratory conditions",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                6,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A nitrogen-flow treatment followed by a short , low-temperature  anneal enables control of the nucleation and crystal growth of slot-die coated perovskite layers without the need for an anti-solvent for devices",
+            "all_materials": [
+                "nitrogen-flow"
+            ],
+            "other_materials": [
+                "nitrogen-flow"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                11,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "PSCs using either glass or poly  substrates were prepared with an n-i-p device architecture and comprised a perovskite layer containing formamidinium and cesium cations, with or without the additive of 2--ethylammonium iodide",
+            "all_materials": [
+                "PSCs",
+                "formamidinium",
+                "cesium cations",
+                "2--ethylammonium iodide"
+            ],
+            "other_materials": [
+                "formamidinium",
+                "cesium cations",
+                "2--ethylammonium iodide"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                8,
+                "StartingSynthesis"
+            ],
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "The perovskite layer in glass-based devices was slot-die coated onto a stationary substrate with a moving coating head, whereas the deposition of the perovskite layer in PET-based devices was achieved by slot-die coating onto a moving  web using a stationary coating head",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The processing conditions enabled the fabrication of PSCs displaying excellent temperature and humidity tolerance",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "Devices fabricated on the glass substrates had power-conversion efficiencies  of more than 18%, with PCEs of more than 15% measured for cells on the PET film substrates",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                1,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The use of the FEAI additive improved the environmental stability of encapsulated glass-based PSC devices, which retained up to 70% of their initial PCE after 1000\u00a0h at maximum power point under 1-sun illumination in air",
+            "all_materials": [
+                "PCE",
+                "air"
+            ],
+            "other_materials": [
+                "PCE",
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The scalability of the fabrication techniques used in this work, along with the low annealing temperature and ability to process in an ambient laboratory environment, makes this a promising approach for translation to industrial-scale R2R production processes.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

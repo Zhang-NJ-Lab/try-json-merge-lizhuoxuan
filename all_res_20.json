@@ -1,0 +1,1588 @@
+{
+    "rest": [
+        {
+            "sentence": "The electron transport layer  as an important part for high performing perovskite solar cells , can transport photogenerated electrons while block holes",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "TiO2, as the usual ETL in the PSCs, may cause charge recombination in the device due to its poor electron conductivity",
+            "all_materials": [
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In order to improve the conductivity, we doped the Ce ions into TiO2 and used the e-beam method to fabricate the ETL layer",
+            "all_materials": [
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The doping of Ce could facilitate the charge transport and reduce the charge recombination, resulting in the increased power conversion efficiency  from 17.98% to 19.34%",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "And more, we also enhanced the stability of PSCs through the introduction of CsPbBr3 quantum dots  and Al2O3",
+            "all_materials": [
+                "CsPbBr3",
+                "Al2O3"
+            ],
+            "other_materials": [
+                "CsPbBr3",
+                "Al2O3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As the ultraviolet  to visible conversion layer, CsPbBr3 QDs were coated on the incident light side of the device to enhance the light stability of PSCs, while, as an encapsulation layer, the Al2O3 was put on the back side of the device to enhance the long-term stability of PSCs",
+            "all_materials": [
+                "CsPbBr3",
+                "Al2O3"
+            ],
+            "other_materials": [
+                "CsPbBr3",
+                "Al2O3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As a result, the modified device can maintain 90% of initial efficiency after aging 4000\u00a0h in the ambient air.",
+            "all_materials": [
+                "air"
+            ],
+            "other_materials": [
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Download : Download high-res image Download : Download full-size image",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The perovskite solar cells  have been recognized as the next generation photovoltaic device because of the excellent properties including suitable band gap, high absorption coefficient, high carrier mobility, long carrier lifetime, and easy for preparation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Based on these properties, the PSCs have achieved a certified power conversion efficiency  of as high as 23.2% at present .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The typical configuration of PSCs consist of five parts, which contains two electrodes, an electron transport layer , a perovskite absorb layer, and a hole transport layer",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Among them, the ETL acts as a critical role in transporting photogenerated electrons while blocking holes",
+            "all_materials": [
+                "ETL"
+            ],
+            "other_materials": [
+                "ETL"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Several materials are chosen as the ETL in the PSCs, such as TiO2, SnO2, and Nb2O5",
+            "all_materials": [
+                "TiO2",
+                "SnO2",
+                "Nb2O5"
+            ],
+            "other_materials": [
+                "TiO2",
+                "SnO2",
+                "Nb2O5"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Among these electron transport materials, TiO2 has been wildly applied in the PSCs owing to its high transparency, excellent carrier separation ability, and environmental stability",
+            "all_materials": [
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, its electron conductivity is poor, which may cause the charge recombination in the device",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Ion doping is an effective method to improve the conductivity of the TiO2, for instance, aluminum doping has a striking impact upon the density of sub-gap states and enhancing the conductivity, thus leading to improvement of the device efficiency",
+            "all_materials": [
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Niobium doping can also increase the photogenerated electron injection and extraction from the perovskite layer to the ETL",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Besides the above mentioned dopants, the rare earth ions, which provide unique optical and electronic properties because of their unfilled 4f shell, have also proven to be a candidate dopants for modifying the performance of TiO2",
+            "all_materials": [
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Cerium ion, which has a partially occupied 4f and 5d  orbital, has been successfully doped in the TiO2 in the DSSCs to increase PCE due to reduced charge recombination in the devices",
+            "all_materials": [
+                "TiO2",
+                "PCE"
+            ],
+            "other_materials": [
+                "TiO2",
+                "PCE"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, the preparation of TiO2 ETL is mainly concentrated on the spin-coating method, which required to be annealed at a high temperature",
+            "all_materials": [
+                "TiO2 ETL"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                21,
+                "HeatingOperation"
+            ],
+            "targets": "TiO2 ETL"
+        },
+        {
+            "sentence": "This method increases the appearances of pinholes in the TiO2 film, which are detrimental to the devices",
+            "all_materials": [
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "E-beam evaporation technology has many advantages over spin-coating method, such as low temperature process, uniform film structure, high technique",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A PCE of 19.35% is obtained by optimizing film thickness and Ce doping concentration, which is 8% enhancement than that of the device based on undoped TiO2",
+            "all_materials": [
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The improved efficiency is mainly attributed to the increased charge transport and reduced charge recombination by Ce doping in the TiO2.",
+            "all_materials": [
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition to modifying the ETL of PSCs, we also spin-coated the CsPbBr3 quantum dots  on the incident light side of the device as the ultraviolet  to visible conversion layer",
+            "all_materials": [
+                "CsPbBr3"
+            ],
+            "other_materials": [
+                "CsPbBr3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The application of the UV convert layer was proven to be an effective approach to enhance the photocurrent of the PSCs, while improve the UV light stability",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "CsPbBr3 QDs as a new kind of QDs, have attracted much attention due to their superior quality in high photoluminescence quantum yields , excellent photostability, and high sensitivity to UV radiation",
+            "all_materials": [
+                "CsPbBr3"
+            ],
+            "other_materials": [
+                "CsPbBr3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It can absorb the UV light and transform it to the visible light which can be absorbed by the perovskite material",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It is benefit to the utilization of the UV region of sunlight, thus leading to the PCE improvement from 19.34% to 20.02% while reducing the damage of UV light to perovskite layer",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "At the same time, we used the e-beam evaporation method to fabricate the Al2O3 as the encapsulation layer of the device to enhance the long-term stability of PSCs",
+            "all_materials": [
+                "Al2O3",
+                "PSCs"
+            ],
+            "other_materials": [
+                "Al2O3",
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Although encapsulation would decrease the PCE of device to 17.60%, but it can reveal excellent long time stability",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As a result, our modified device can maintain 90% of initial efficiency after aging 4000\u00a0h in the ambient air.",
+            "all_materials": [
+                "air"
+            ],
+            "other_materials": [
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The preparation of the Ce doped TiO2 powders through the sol-gel method",
+            "all_materials": [
+                "TiO2"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "TiO2"
+        },
+        {
+            "sentence": "According to the stoichiometric ratio, the isopropyl titanate and Ce3 were dissolved in a solution of 1\u00a0ml hydrochloric acid, 1\u00a0ml acetic acid and 10\u00a0ml ethanol",
+            "all_materials": [
+                "isopropyl titanate",
+                "Ce3",
+                "hydrochloric acid",
+                "acetic acid",
+                "ethanol"
+            ],
+            "other_materials": [
+                "ethanol"
+            ],
+            "precursors": [
+                {
+                    "text": "isopropyl titanate",
+                    "start": 43,
+                    "end": 61,
+                    "token_ids": [
+                        7,
+                        8
+                    ]
+                },
+                {
+                    "text": "Ce3",
+                    "start": 66,
+                    "end": 69,
+                    "token_ids": [
+                        10
+                    ]
+                },
+                {
+                    "text": "hydrochloric acid",
+                    "start": 107,
+                    "end": 124,
+                    "token_ids": [
+                        19,
+                        20
+                    ]
+                },
+                {
+                    "text": "acetic acid",
+                    "start": 131,
+                    "end": 142,
+                    "token_ids": [
+                        24,
+                        25
+                    ]
+                }
+            ],
+            "operation": [
+                12,
+                "SolutionMixing"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Then the above mixing solution was dried under 160\u00a0\u00b0C for 6\u00a0h to obtain the Ce doped TiO2 powders.",
+            "all_materials": [
+                "TiO2"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                6,
+                "DryingOperation"
+            ],
+            "targets": "TiO2"
+        },
+        {
+            "sentence": "The mixing solution  which contain 0.8\u00a0g Cs2CO3, 2\u00a0ml oleic acid, and 20\u00a0ml 1-octadecene were added in the 3-neck round-bottom flask, and the",
+            "all_materials": [
+                "Cs2CO3",
+                "oleic acid",
+                "1-octadecene"
+            ],
+            "other_materials": [
+                "1-octadecene"
+            ],
+            "precursors": [
+                {
+                    "text": "Cs2CO3",
+                    "start": 41,
+                    "end": 47,
+                    "token_ids": [
+                        7
+                    ]
+                },
+                {
+                    "text": "oleic acid",
+                    "start": 54,
+                    "end": 64,
+                    "token_ids": [
+                        11,
+                        12
+                    ]
+                }
+            ],
+            "operation": [
+                19,
+                "SolutionMixing"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In order to improve the performance and stability of the PSCs, a modified device configuration can be designed as CsPbBr3/FTO/Ce-TiO2/perovskite/Spiro-OMeTAD/Au/Al2O3, as shown in Fig",
+            "all_materials": [
+                "CsPbBr3/FTO/Ce-TiO2",
+                "Spiro-OMeTAD/Au/Al2O3"
+            ],
+            "other_materials": [
+                "CsPbBr3/FTO/Ce-TiO2",
+                "Spiro-OMeTAD/Au/Al2O3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here, the CsPbBr3 QDs layer was first spin-coated on the incident light side of the FTO to enhance the performance of the PSC while reduce the damage of UV light to perovskite layer1a",
+            "all_materials": [
+                "CsPbBr3",
+                "FTO"
+            ],
+            "other_materials": [
+                "CsPbBr3",
+                "FTO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Then, Ce doped TiO2 ETLs with uniform structure were prepared e-beam evaporated method",
+            "all_materials": [
+                "TiO2 ETLs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                12,
+                "DryingOperation"
+            ],
+            "targets": "TiO2 ETLs"
+        },
+        {
+            "sentence": "After that, perovskite absorb layer",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, several modifications were performed in contrast to the traditional PSCs device in order to improve the PCE and the stability",
+            "all_materials": [
+                "PSCs",
+                "PCE"
+            ],
+            "other_materials": [
+                "PSCs",
+                "PCE"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "First of all, we prepared the TiO2 ETL layer by the beam evaporation doped the Ce ions into TiO2 to improve the electron conductivity of TiO2, which is beneficial to increase the charge transport and reduce the charge recombination",
+            "all_materials": [
+                "TiO2",
+                "TiO2",
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2",
+                "TiO2",
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                5,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The doping of Ce ions into TiO2 leads to an increased PCE from 17.98% to 19.34%",
+            "all_materials": [
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Second, we also coated the photoluminescent",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors declare no competing financial interest.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work was supported by the National Key Research and Development Program , the National Natural Science Foundation of China , the Special Project of the Province-University Co-constructing Program of Jilin Province , the Jilin Province Natural Science Foundation of China , and the Jilin Province Science Fund for Excellent Young Scholars (No",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Recently, perovskite solar cells  have been attracting attention as the most promising alternative to conventional photovoltaics, mainly due to their high power conversion efficiency  of 25.7%",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, prior to commercialization, problems with their long-term stability caused by moisture should be solved",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Accordingly, encapsulation is a crucial strategy for enhancing the long-term stability of PSCs, meaning a well-established strategy that includes an excellent barrier that protects them from the external environment while minimizing any damage during encapsulation is required",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this study, a room temperature thin-film encapsulation  strategy is applied by transferring a defect-free thermally grown silicon dioxide nanomembrane , which is a well-known superior water molecule barrier, onto the PSCs",
+            "all_materials": [
+                "silicon dioxide",
+                "water"
+            ],
+            "other_materials": [
+                "silicon dioxide",
+                "water"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The average PCE of the devices decreased by only 0.012% with a standard deviation of 0.4249 during the entire encapsulation process, which was achieved by minimizing any thermal degradation of the photovoltaic components, including the perovskite and hole transport layers",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This t-SiO2 NM successfully protected the PSC from external water molecules in an underwater condition for 31 days at room temperature, which is the longest reported survival time of encapsulated PSCs",
+            "all_materials": [
+                "t-SiO2",
+                "PSC",
+                "water",
+                "PSCs"
+            ],
+            "other_materials": [
+                "t-SiO2",
+                "PSC",
+                "water",
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As a result, the RT-TFE PSC maintained more than 98% of the initial efficiency.",
+            "all_materials": [
+                "RT-TFE PSC"
+            ],
+            "other_materials": [
+                "RT-TFE PSC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Despite having exceptional optical and photoelectric properties, the application of organometal halide perovskites  is restricted due to the limited penetration depth of the UV excitation light and poor stability",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Attempts have been made to make composite materials by mixing other materials such as upconversion nanoparticles  with OHP",
+            "all_materials": [
+                "OHP"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "OHP",
+                    "start": 119,
+                    "end": 122,
+                    "token_ids": [
+                        17
+                    ]
+                }
+            ],
+            "operation": [
+                9,
+                "Mixing"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In contrast to linear absorption and emission of OHP, the nonlinear upconversion of UCNP offers numerous advantages such as deep penetration depth of the near-infrared  excitation light, minimal photodamage to biological tissues, and negligible background interference, which offer great potential in various applications such as multiplexed optical encoding, three-dimensional displays, super-resolution bioimaging, and effective solar spectrum conversion",
+            "all_materials": [
+                "UCNP"
+            ],
+            "other_materials": [
+                "UCNP"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, it is challenging to synthesize hybrid OHP-UCNP nanocrystals due to the inherent difference in crystal structures of hexagonal phase UCNP and cubic phase OHP",
+            "all_materials": [
+                "OHP-UCNP",
+                "UCNP",
+                "OHP"
+            ],
+            "other_materials": [
+                "UCNP",
+                "OHP"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "OHP-UCNP"
+        },
+        {
+            "sentence": "In this work, we report OHP-UCNP heterostructured nanocrystals synthesized via growing cubic phase NaGdF4 UCNP over cubic phase CsPbBr3 OHP in a seed-mediated process based on a very small lattice mismatch and then converting cubic phase UCNP to hexagonal phase through heating",
+            "all_materials": [
+                "OHP-UCNP",
+                "NaGdF4 UCNP",
+                "CsPbBr3 OHP",
+                "UCNP"
+            ],
+            "other_materials": [
+                "UCNP"
+            ],
+            "precursors": [
+                {
+                    "text": "NaGdF4 UCNP",
+                    "start": 99,
+                    "end": 110,
+                    "token_ids": [
+                        16,
+                        17
+                    ]
+                },
+                {
+                    "text": "CsPbBr3 OHP",
+                    "start": 128,
+                    "end": 139,
+                    "token_ids": [
+                        21,
+                        22
+                    ]
+                }
+            ],
+            "operation": [
+                [
+                    11,
+                    "StartingSynthesis"
+                ],
+                [
+                    46,
+                    "HeatingOperation"
+                ]
+            ],
+            "targets": "OHP-UCNP"
+        },
+        {
+            "sentence": "The juxtaposition of UCNP over OHP in a single nanocrystal facilitates efficient energy transfer from UCNP to OHP under NIR excitation and acts as a protective layer improving the stability",
+            "all_materials": [
+                "UCNP",
+                "OHP",
+                "UCNP",
+                "OHP"
+            ],
+            "other_materials": [
+                "UCNP",
+                "OHP",
+                "UCNP",
+                "OHP"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The stability is further enhanced by coating an inert UCNP shell on the OHP-UCNP nano-heterostructures with the same UCNP material earlier used in the heterostructures",
+            "all_materials": [
+                "UCNP",
+                "OHP-UCNP",
+                "UCNP"
+            ],
+            "other_materials": [
+                "UCNP",
+                "OHP-UCNP",
+                "UCNP"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The coating demonstrated greater stability under continuous UV exposure and in harsh environments such as high temperatures and polar solvents",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "These NIR excitable perovskite-UCNP nano-heterostructures with improved stability have great potential for use in new optoelectronic and biological applications.",
+            "all_materials": [
+                "perovskite-UCNP"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "perovskite-UCNP"
+        },
+        {
+            "sentence": "The interface defects and energy barrier between perovskite and electron transport layer  severely hinder the further improvement of the efficiency and stability of the perovskite solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, there is an urgent desire to develop multifunctional interface modulators to manage the interface between perovskite and ETL",
+            "all_materials": [
+                "ETL"
+            ],
+            "other_materials": [
+                "ETL"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here, a multifunctional bottom-up double-layer interface modulation strategy is developed, that is, 2,2\u2032-[[12,13-Bis\u2212\u00a012,13-dihydro-3,9-dinonylbisthieno[2&#x27;&#x27;,3&#x27;&#x27;:4\u2032,5\u2032]thieno[2\u2032,3\u2032:4,5]pyrrolo[3,2-e:2\u2032,3\u2032-g][2,1,3]benzothiadiazole-2,10-diyl]bis[methylidyne-diylidene)]]bis[propanedinitrile]  is combined in the SnO2/perovskite interface to achieve high efficiency and outstanding stability of PSCs",
+            "all_materials": [
+                "2,2\u2032-[[12,13-Bis\u2212\u00a012,13-dihydro-3,9-dinonylbisthieno[2",
+                "SnO2",
+                "PSCs"
+            ],
+            "other_materials": [
+                "2,2\u2032-[[12,13-Bis\u2212\u00a012,13-dihydro-3,9-dinonylbisthieno[2",
+                "SnO2",
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The BTP-eC9 can effectively prevent the detrimental contact between the FTO and perovskite and construct two electron transport paths by formatting the cascade energy level structure, which can eliminate the probability of carrier recombination and improve the interfacial carrier transfer",
+            "all_materials": [
+                "BTP-eC9",
+                "FTO"
+            ],
+            "other_materials": [
+                "BTP-eC9",
+                "FTO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Chemically, BTP-eC9 can not only passivate the uncoordinated Sn ions, showing high conductivity and large photo-generated carrier transmission efficiency, but also can effectively passivate the underlying perovskite defects through a spontaneous bottom-up passivation process and improve the nucleation and crystallization kinetics of perovskite films",
+            "all_materials": [
+                "BTP-eC9"
+            ],
+            "other_materials": [
+                "BTP-eC9"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Based on the above efficient synergy, the power conversion efficiency  of up to 23.10% was obtained and it retains 90% of its original PCE after 8000\u00a0h in the ambient atmosphere without any encapsulation by the two-step method",
+            "all_materials": [
+                "PCE"
+            ],
+            "other_materials": [
+                "PCE"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, the champion PCE of 23.75% with ultrahigh open-circuit voltage  of 1.25\u00a0V was achieved by the one-step method and this VOC is the highest value of a perovskite film with a band gap of approximately 1.60\u00a0eV, demonstrating the effectiveness and universality of this strategy",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This research guides design methods of the ETL to raise the PCE of PSCs by interfacial engineering.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Perovskite solar cells  have developed rapidly in the past decade and its certified power conversion efficiency  has skyrocketed to 25.7%",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Though high PCE has been obtained, the relatively poor long-term device stability still significantly retards the industrial commercialization of this photovoltaic technology",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "On this account, it is imperative to address the problems of stability issues and achieve high efficiency and high durability simultaneously",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this review, firstly we demonstrate some instability issues and related degradation mechanisms for PSCs, corresponding solutions are summarized as well",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Despite the intrinsic instability, encapsulation technique is supposed to be an effective method to improve the long-term stability of PSCs under ambient conditions",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Thus, detailed requirements for encapsulation process and encapsulant materials are offered to meet with the environment-sensitive PSCs, especially to temperature, oxygen, moisture and UV light",
+            "all_materials": [
+                "oxygen"
+            ],
+            "other_materials": [
+                "oxygen"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "And a standard protocol for stability tests of perovskite devices is urgently needed to verify the effectiveness of encapsulation and then further accurately select encapsulant materials through comparisons",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, we specially presented three currently available encapsulation strategies for perovskite devices, mainly focusing on encapsulation configurations and materials for each type and their roles in preventing the penetration of water vapor and oxygen",
+            "all_materials": [
+                "water",
+                "oxygen"
+            ],
+            "other_materials": [
+                "water",
+                "oxygen"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, a thorough discussion on the strengths and limitations of different strategies is covered, which helps in the choice of technical route for encapsulation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Finally, a cost-efficient and effective encapsulation method companying with environment-friendly materials is expected to achieve the commercialization of PSCs.",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "Cost-effective and flexible electrochemical biosensors emerged as a powerful platform for In-situ detecting of hydrogen peroxide  in living cells",
+            "all_materials": [
+                "hydrogen peroxide"
+            ],
+            "other_materials": [
+                "hydrogen peroxide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "How to design the high-performance biosensor for accurately monitoring the trace H2O2 releasing from the living cells is critical",
+            "all_materials": [
+                "H2O2"
+            ],
+            "other_materials": [
+                "H2O2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, a series of three-dimensional CuO inverse opals coated with NiO nanoflakes  and Au nanoparticles  are developed for non-enzymatic tracking of H2O2 in the living cells",
+            "all_materials": [
+                "CuO",
+                "NiO",
+                "Au",
+                "H2O2"
+            ],
+            "other_materials": [
+                "NiO",
+                "Au",
+                "H2O2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CuO"
+        },
+        {
+            "sentence": "Well-ordered macroporous 3DIO CuO skeleton provides the scaffold for NiO coating and fast passway for target analytes diffusing",
+            "all_materials": [
+                "3DIO CuO",
+                "NiO"
+            ],
+            "other_materials": [
+                "3DIO CuO",
+                "NiO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "NiO nanoflakes with larger surface-to-volume ratio and Au NPs catalyst are further assembled to improve the sensing performance",
+            "all_materials": [
+                "NiO",
+                "Au"
+            ],
+            "other_materials": [
+                "NiO",
+                "Au"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The optimal Au modified 3DIO [email&#160;protected] electrode exhibites sensitivities of 650.2\u202f\u03bcA\u202fmM\u22121\u202fcm-2  and 432.7\u202f\u03bcA\u202fmM\u22121\u202fcm-2  with the detection limit as low as 3.7\u202fnM in physiological environment",
+            "all_materials": [
+                "3DIO"
+            ],
+            "other_materials": [
+                "3DIO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The electrode also exhibits excellent anti-interference and reproducibility",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Owing to the superior performance in detecting H2O2, the electrode is successfully applied in In-situ and low cytotoxicity determining H2O2 secretion released from living cells",
+            "all_materials": [
+                "H2O2",
+                "H2O2"
+            ],
+            "other_materials": [
+                "H2O2",
+                "H2O2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "All these results indicated that the as-designed electrode is promising in real-time monitoring H2O2 for evaluation oxidative stress of living cells.",
+            "all_materials": [
+                "H2O2"
+            ],
+            "other_materials": [
+                "H2O2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Electron transport layer  of perovskite solar cells  plays an important role on transferring electrons from perovskite layer to transparent conductive oxide layer, strongly affecting PSC performance",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In the present study, effects of adding graphene quantum dots  as a dopant to the mesoscopic TiO2  ETL on performance of a PSC were investigated",
+            "all_materials": [
+                "graphene",
+                "TiO2  ETL"
+            ],
+            "other_materials": [
+                "graphene",
+                "TiO2  ETL"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Different amounts  of GQDs were directly added to the TiO2 precursor solution which was subsequently applied as the doped ETL by spin coating",
+            "all_materials": [
+                "GQDs",
+                "TiO2",
+                "ETL"
+            ],
+            "other_materials": [
+                "ETL"
+            ],
+            "precursors": [
+                {
+                    "text": "GQDs",
+                    "start": 22,
+                    "end": 26,
+                    "token_ids": [
+                        3
+                    ]
+                },
+                {
+                    "text": "TiO2",
+                    "start": 54,
+                    "end": 58,
+                    "token_ids": [
+                        9
+                    ]
+                }
+            ],
+            "operation": [
+                6,
+                "Mixing"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The results showed that Jsc, Voc and FF of the 2.5\u00a0vol% GQDs-doped cell were 21.92\u00a0mA/cm2, 0.97\u00a0V and 0.63, respectively, corresponding to a PCE of 14.36% , approximately 50% improvement compared to the un-doped cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The perovskite film in the GQDs-doped cell was dense with fewer pinholes which facilitated electron extraction, and accelerated charge mobility in TiO2 layer, consequently promoting Jsc and Voc",
+            "all_materials": [
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Based on EIS results, GQDs doping into the TiO2 ETL significantly suppressed the recombination processes, resulting in a higher FF",
+            "all_materials": [
+                "TiO2 ETL"
+            ],
+            "other_materials": [
+                "TiO2 ETL"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Interestingly, the PSC based on 2.5\u00a0vol% GQDs-doped TiO2 ETL maintained ~88% of its initial PCE , after 500\u00a0h under ambient conditions; whereas, the conventional PSC based on pure TiO2 ETL maintained only 61% of its initial PCE under the same conditions, suggesting a dramatic improvement in the device stability",
+            "all_materials": [
+                "TiO2 ETL",
+                "PCE",
+                "TiO2 ETL",
+                "PCE"
+            ],
+            "other_materials": [
+                "TiO2 ETL",
+                "PCE",
+                "TiO2 ETL",
+                "PCE"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The findings clearly showed that GQDs doping to TiO2 ETL could be a potential and confident approach for improving performance and stability of the mesoscopic PSCs.",
+            "all_materials": [
+                "TiO2 ETL"
+            ],
+            "other_materials": [
+                "TiO2 ETL"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Perovskite and perovskite/silicon tandem solar cells hold great promise for commercialization for their high efficiency and low cost",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "One of the major challenges for semi-transparent perovskite and tandem devices is the availability of suitable transparent electrodes",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here, we report an alternative high-performance cerium-doped indium oxide  transparent electrode with high mobility, low carrier concentration and high transmittance by Radio frequency  magnetron sputtering at room temperature  for thus applications",
+            "all_materials": [
+                "indium oxide"
+            ],
+            "other_materials": [
+                "indium oxide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A high mobility of 51.6\u00a0cm2/Vs, a low resistivity of 5.74\u00a0\u00d7\u00a010\u22124\u00a0\u03a9\u00a0cm as well as a high average transmittance of 83.5% ranging from 400\u00a0nm to 1800\u00a0nm were obtain at RT",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The spectral response of a planar semi-transparent perovskite solar cell  proportion accelerated in 450\u2013700\u00a0nm range and resulted in an absolute 1.1\u00a0mA/cm2  and 1.47\u00a0mA/cm2  short-circuit current improvement by replacing commercial ITO electrodes with ICO at different illuminate sides",
+            "all_materials": [
+                "ITO",
+                "ICO"
+            ],
+            "other_materials": [
+                "ITO",
+                "ICO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Finally, the preliminary perovskite/silicon-heterojunction  two-terminal tandem solar cell achieves a relative 8.06% improvement in power conversion efficiency   in the use of ICO transparent electrode, illustrating a promising alternative transparent electrode to further improve high-efficiency semi-transparent perovskite and its tandem solar cells.",
+            "all_materials": [
+                "ICO"
+            ],
+            "other_materials": [
+                "ICO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "TiO2 compact layers are wildly used for electron selective contact in perovskite solar cells",
+            "all_materials": [
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The function of TiO2 selective contact can be modified by doping metal ions in the TiO2 compact layers",
+            "all_materials": [
+                "TiO2",
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2",
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As lanthanide elements usually exhibit unique properties for their incompletely occupied 5d or 4f orbitals, we prepared lanthanum doped TiO2 compact layers by spray pyrolysis method as the electron selective contact of perovskite solar cells",
+            "all_materials": [
+                "TiO2"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                17,
+                "StartingSynthesis"
+            ],
+            "targets": "TiO2"
+        },
+        {
+            "sentence": "SEM images indicate lanthanum dopants improve the smoothness of TiO2 layers",
+            "all_materials": [
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In the optimized concentration, the average PCE of devices is promoted from 12.4% to 14.4% with the highest PCE of 17.2%, which comes from the improvement on charge transfer and recombination",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, the Lanthanum dopants also lead to the improvement in photo-stability of perovskite solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For the device with optimized La concentration, 80% of its original PCE is preserved after 200\u00a0h aging under continuous one sun illumination.",
+            "all_materials": [
+                "PCE"
+            ],
+            "other_materials": [
+                "PCE"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Decreasing the thickness of perovskite absorption layer is significant for obtaining semi-transparent, tandem and flexible photovoltaic devices with high performance",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the light harvesting would be influenced due to the limited absorption",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Introducing plasmonic metal nanoparticles into perovskite solar cells  is regarded as a promising approach on the development of ultra-thin PSCs",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, gold nanostars  with strong local electromagnetic field and SnO2 surface modification layer were successfully incorporated into ultra-thin PSCs",
+            "all_materials": [
+                "gold",
+                "SnO2"
+            ],
+            "other_materials": [
+                "SnO2"
+            ],
+            "precursors": [
+                {
+                    "text": "gold",
+                    "start": 14,
+                    "end": 18,
+                    "token_ids": [
+                        4
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This design increased light harvesting and carrier transporting",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, we systematically investigated the plasmon effect of Au NSs on the power conversion efficiency  of the PSCs with different thicknesses of the perovskite layer and observed that the deceased thickness of perovskite layer led to more intense PCE improvement as the same Au NSs were introduced",
+            "all_materials": [
+                "Au",
+                "PCE",
+                "Au"
+            ],
+            "other_materials": [
+                "Au",
+                "PCE",
+                "Au"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The ultra-thin PSCs with 250-nm perovskite layer show a PCE improvement from 15.34 to 18.50% after Au NSs/SnO2 modification, accounting for a maximum enhancement factor of 20.60%",
+            "all_materials": [
+                "Au NSs/SnO2"
+            ],
+            "other_materials": [
+                "Au NSs/SnO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Simultaneously, the modified PSCs with 400-nm perovskite layer exhibit a best reported PCE of 20.06% for the plasmonic PSCs, with an enhanced factor of 13.70% and enhanced light stability",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "More importantly, flexible, large area and semi-transparent PSCs were also achieved",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "The flexible devices show more than 90% of their initial PCE values after 100 bending cycles",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Our result promises a facile way for developing efficient, flexible and semi-transparent PSCs with ultra-thin absorption layer.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this research, the sol-gel technique has been used for the preparation of titanium dioxide , 1% cerium doped titanium dioxide , 1% Ce\u2013TiO2/TiO2, and TiO2/1% Ce\u2013TiO2 films",
+            "all_materials": [
+                "titanium dioxide",
+                "titanium dioxide",
+                "Ce\u2013TiO2/TiO2",
+                "TiO2/1% Ce\u2013TiO2"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "titanium dioxide"
+        },
+        {
+            "sentence": "XRD pattern verified that all the films consist of TiO2 anatase phases",
+            "all_materials": [
+                "TiO2 anatase"
+            ],
+            "other_materials": [
+                "TiO2 anatase"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The crystallite size of bilayer film is larger than that of a single deposited film",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "According to UV\u2013Visible spectroscopy, the film Ce\u2013TiO2/TiO2 has low band gap energy  value of 3.28\u00a0eV",
+            "all_materials": [
+                "Ce\u2013TiO2/TiO2"
+            ],
+            "other_materials": [
+                "Ce\u2013TiO2/TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The DSSCs of these films are fabricated with N719 dye and iodide/tri-iodide electrolyte",
+            "all_materials": [
+                "N719"
+            ],
+            "other_materials": [
+                "N719"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                6,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Various parameters including short circuit current density, open circuit voltage, fill factor, and efficiency of the cells are determined through J-V curves",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The results exhibited that 1% Ce\u2013TiO2/TiO2 film has achieved a maximum efficiency of about 3.08%.",
+            "all_materials": [
+                "Ce\u2013TiO2/TiO2"
+            ],
+            "other_materials": [
+                "Ce\u2013TiO2/TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

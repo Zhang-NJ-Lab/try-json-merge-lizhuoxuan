@@ -1,0 +1,1291 @@
+{
+    "rest": [
+        {
+            "sentence": "Organic-inorganic hybrid perovskite solar cells  have recently been considered as emerging candidates for the new generation of photovoltaic devices due to their outstanding properties",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the challenge in carrier transport such as the unfavorable nonradiative recombination in the active layer and the finite stability at device interfaces limit their further commercialization",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "One of the major obstacles is that the metastable state at donor/acceptor  interfaces limits the device stability",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Thus, how to improve the stability of the interface is one of the main concern",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, a new strategy is proposed to building stable D/A interface by introducing the three-dimensional  structure in PSCs, where a novel wolf tooth stick-like TiO2  is prepared as electron transport material",
+            "all_materials": [
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                34,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The as-prepared devices exhibit excellent performance with accelerated charge transport, reduced nonradiative recombination, expanded D/A interface, and shortened internal photoexcitons diffusion distance",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As a result, a top PCE of 19.6% was obtained",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, the wts-TiO2 based solar cells showed excellent long-term stability, which maintained over 81.5% of the initial efficiency after 30 days",
+            "all_materials": [
+                "wts-TiO2"
+            ],
+            "other_materials": [
+                "wts-TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Our work provided new insights in fabrication of high-performance perovskite solar cells.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Download : Download high-res image Download : Download full-size image",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Recently, organic-inorganic hybrid perovskite solar cells  has been widely studied due to their unique properties such as the broad absorption in the visible region, excellent energy transmission properties, tunable energy band-gap and so on ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Lots of efforts have been devoted to ameliorate the device performance with a variety of strategies, including the development of special hole transport materials  , preparation of novel electron transport materials  ,  and application of new device structures ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Based on that, the power conversion efficiency  of the PSCs has been significantly improved",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "According to the latest reports, the PCE of the PSCs has been up to 26% , demonstrating a new generation of photovoltaic cells with high PCE has come.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Organic-inorganic lead iodide hybrid perovskite  possesses long carrier diffusion length , much longer than other photovoltaic materials with similar structure, which allows the free carriers to diffuse smoothly to the interface between MAPbI3 and ETM",
+            "all_materials": [
+                "lead iodide",
+                "MAPbI3",
+                "ETM"
+            ],
+            "other_materials": [
+                "lead iodide",
+                "MAPbI3",
+                "ETM"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In fact, a majority of converted light energy is wasted in PSCs, resulting in low energy conversion efficiency",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The main reason is that the invalid donor/acceptor  interface limits the separation of photoexcitons ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The majority of excitons are enriched at the limited interface and cannot be effectively dissociated which is dissipated in the form of nonradiative recombination",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To overcome that, a variety of efforts have been devoted to facilitate the carriers extractions in PSCs, including the application of fullerence , oxide nanorods  and graphene quantum dots",
+            "all_materials": [
+                "graphene"
+            ],
+            "other_materials": [
+                "graphene"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Although, the device performance was enhanced, the key issue has not been solved",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The role of most of the applied materials played in the PSCs is just providing fast electron tunnels",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Thus, how to achieve effective PSCs interface to accomplish efficiently carrier dissociation and transports is still in challenge.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Generally speaking, the separation and transport of carriers are not only related to the properties of material, but also relevant to the interface state",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Accordingly, the structure as well as morphology of the ETM does great affect on the D/A interface in PSCs",
+            "all_materials": [
+                "ETM"
+            ],
+            "other_materials": [
+                "ETM"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Mesoporous titanium dioxide  thin film is applied as typical ETM, but the D/A interface in such structure is just limited in one plane, which requires that the thickness of the active layer should not be too thick, otherwise the long distance would cause great energy loss",
+            "all_materials": [
+                "titanium dioxide"
+            ],
+            "other_materials": [
+                "titanium dioxide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Besides, the metastable D/A interface in planar structure should also be responsible for the low performance in PSCs",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Scientists gradually realize that the interface metastability state should be optimized, where numerous efforts have been devoted into the interface engineering, including the surface modification, element doping and others",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the stable state of the D/A interface is still not satisfactory",
+            "all_materials": [
+                "D/A"
+            ],
+            "other_materials": [
+                "D/A"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The main reason is that most of the interface engineering are just based on the two-dimensional  planar structure, and the interface structure has not changed fundamentally",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The related report on 3-D D/A interface is very few.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In our previous work, we have proved that the TiO2 nanoarrays replacing the m-TiO2 as ETM can greatly improve the interface stability due to the stable 3-D interface in PSCs",
+            "all_materials": [
+                "TiO2",
+                "m-TiO2",
+                "ETM",
+                "PSCs"
+            ],
+            "other_materials": [
+                "TiO2",
+                "m-TiO2",
+                "ETM",
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To better understand the influence on 3-D interfaces in PSCs, herein, for the first time, we prepared a novel wolf tooth stick-like TiO2 material  by solvothermal method and applied it as ETM in CH3NH3PbI3 based PSCs to improve the carrier transport",
+            "all_materials": [
+                "TiO2",
+                "ETM",
+                "CH3NH3PbI3"
+            ],
+            "other_materials": [
+                "ETM",
+                "CH3NH3PbI3"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                19,
+                "StartingSynthesis"
+            ],
+            "targets": "TiO2"
+        },
+        {
+            "sentence": "As is expected, PSCs based on wts-TiO2 possess improved D/A interface and excellent device performance, where the charge transport was accelerated; nonradiative recombination was reduced; D/A interface was expanded; and internal photoexcitons diffusion distance was shortened.",
+            "all_materials": [
+                "wts-TiO2"
+            ],
+            "other_materials": [
+                "wts-TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "All the materials are bought from commercial source for use",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "UV/Vis measurements are recorded to test the absorption properties of the samples",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The X-ray diffraction were recorded to test the crystal of samples",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The morphology were characterized by transmission electron microscopy  measurements  and scanning electron microscopy  measurements (HITACHI S-4800",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The nanoscale morphology of the wts-TiO2 was studied by SEM",
+            "all_materials": [
+                "wts-TiO2"
+            ],
+            "other_materials": [
+                "wts-TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The wts-TiO2 mainly consisted of numbers of nanorods with uniform length  and diameter  , which can be observed clearly in the TEM image",
+            "all_materials": [
+                "wts-TiO2"
+            ],
+            "other_materials": [
+                "wts-TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It should be noted that no other shapes of TiO2 was observed from the SEM images, indicating that the wts-TiO2 growth process was controllable",
+            "all_materials": [
+                "TiO2",
+                "wts-TiO2"
+            ],
+            "other_materials": [
+                "TiO2",
+                "wts-TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "1c and FigFig",
+            "all_materials": [
+                "FigFig"
+            ],
+            "other_materials": [
+                "FigFig"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "1d were the HRTM and SEDP images",
+            "all_materials": [
+                "HRTM",
+                "SEDP"
+            ],
+            "other_materials": [
+                "HRTM",
+                "SEDP"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The crystal plane spacing of 0.335\u00a0nm indicated the",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In summary, a novel kind of wts-TiO2 material is prepared for fabrication of perovskite solar cells with 3-D D/A interface",
+            "all_materials": [
+                "wts-TiO2"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                12,
+                "StartingSynthesis"
+            ],
+            "targets": "wts-TiO2"
+        },
+        {
+            "sentence": "The synthesis mechanism of wts-TiO2 material is proposed to better understand the preparation process",
+            "all_materials": [
+                "wts-TiO2"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "wts-TiO2"
+        },
+        {
+            "sentence": "Perovskite solar cells based on wts-TiO2 result in improved performance and a top PCE of 19.6% is obtained with wts-TiO2 concentration of 30\u2009mg/mL",
+            "all_materials": [
+                "wts-TiO2",
+                "wts-TiO2"
+            ],
+            "other_materials": [
+                "wts-TiO2",
+                "wts-TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The PL and TR-PL results demonstrate that the electron injection at the interface between perovskite layer and wts-TiO2 is",
+            "all_materials": [
+                "wts-TiO2"
+            ],
+            "other_materials": [
+                "wts-TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Weihua Hong: Carry out the experiments",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Feng Gao: Experimental design, Data analysis, manuscript writing",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Chao Zhang: Picture design and processing",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Xi Zhou: Data calculation and collection",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Xiaoting Deng: Data calculation and collection",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Shu Jiang: Original draft check",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Shaofeng Yin: Text check.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors declare no conflict of interest.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work was supported by Innovation Platform Fund of Hunan Education Department  and Natural Science Foundation of Hunan Province .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Protein\u2013surfactant interactions have relevance in the fields of pharmaceuticals, detergency formulation, pharmacology, personal hygiene products, etc",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Accordingly, we have analyzed the biomolecular interaction between a recently synthesized C16-E2O2-C16 gemini surfactant with the transport protein, bovine serum albumin , utilizing surface tension, fluorescence ), circular dichroism , UV\u2013visible, Fourier transform infrared  and computational methods",
+            "all_materials": [
+                "C16-E2O2-C16",
+                "albumin"
+            ],
+            "other_materials": [
+                "C16-E2O2-C16",
+                "albumin"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The critical micelle concentration  and surface parameters of the gemini surfactant get modified in the presence of BSA",
+            "all_materials": [
+                "BSA"
+            ],
+            "other_materials": [
+                "BSA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The interaction of the concerned surfactant with BSA occurred via a static quenching mechanism forming a less stable complex at the higher temperature",
+            "all_materials": [
+                "BSA"
+            ],
+            "other_materials": [
+                "BSA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Based on calculated thermodynamic parameters, the interaction process was found to be spontaneous  and that hydrogen bond  and van der Waals  forces were predominant forces in stabilizing the complex",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "FT-IR and CD measurements demonstrated that the secondary structure conformation of BSA was perturbed because of the BSA-C16-E2O2-C16 complexation",
+            "all_materials": [
+                "BSA",
+                "BSA-C16-E2O2-C16"
+            ],
+            "other_materials": [
+                "BSA",
+                "BSA-C16-E2O2-C16"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The 3-D and RRS fluorescence studies demonstrated that the BSA size enlarged in presence of the gemini and ensued in the increment of scattering effect and suggested some conformational and micro-environmental alterations of Trp/Tyr residues of BSA",
+            "all_materials": [
+                "BSA",
+                "Trp/Tyr",
+                "BSA"
+            ],
+            "other_materials": [
+                "BSA",
+                "Trp/Tyr",
+                "BSA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Molecular docking and site marker displacement investigations recognized that the surfactant C16-E2O2-C16 predominantly binds within BSA\u2019s site I .",
+            "all_materials": [
+                "C16-E2O2-C16",
+                "BSA"
+            ],
+            "other_materials": [
+                "C16-E2O2-C16",
+                "BSA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The discharges from urban industries and domestic sewages have caused severe environmental pollution problems",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Specifically, dyes are among the pollution sources that are relatively difficult to treat",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this study, Au/CB6-BOFs  were successfully synthesized using a simple method",
+            "all_materials": [
+                "Au/CB6-BOFs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                11,
+                "StartingSynthesis"
+            ],
+            "targets": "Au/CB6-BOFs"
+        },
+        {
+            "sentence": "The sample was used as adsorbent and degradation agents on Congo red  and methyl orange",
+            "all_materials": [
+                "methyl"
+            ],
+            "other_materials": [
+                "methyl"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The adsorption effect of Au/CB6-BOFs on CR is excellent with the adsorption capacity reaching as high as 2178.36\u00a0mg\u00a0g\u22121",
+            "all_materials": [
+                "Au/CB6-BOFs",
+                "CR"
+            ],
+            "other_materials": [
+                "Au/CB6-BOFs",
+                "CR"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Experiments, including adsorption kinetics, isothermal adsorption, and adsorption thermodynamics, were conducted on Au/CB6-BOFs to verify its performance, which confirmed that the adsorption type is monolayer chemical adsorption and that the reaction proceeds spontaneously",
+            "all_materials": [
+                "Au/CB6-BOFs"
+            ],
+            "other_materials": [
+                "Au/CB6-BOFs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Au/CB6-BOFs can lead to catalytic degradation of dye molecules in aqueous solution with the addition of sodium borohydride",
+            "all_materials": [
+                "Au/CB6-BOFs",
+                "sodium borohydride"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "Au/CB6-BOFs",
+                    "start": 0,
+                    "end": 11,
+                    "token_ids": [
+                        0,
+                        1,
+                        2,
+                        3,
+                        4
+                    ]
+                },
+                {
+                    "text": "sodium borohydride",
+                    "start": 104,
+                    "end": 122,
+                    "token_ids": [
+                        20,
+                        21
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The adsorption/degradation ability of Au/CB6-BOFs can be maintained for at least five times without significant attenuating",
+            "all_materials": [
+                "Au/CB6-BOFs"
+            ],
+            "other_materials": [
+                "Au/CB6-BOFs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "FT-IR spectroscope and XRD were used to investigate Au/CB6-BOFs changes before and after experiments, there has been no obvious change observed in the FT-IR and XRD results",
+            "all_materials": [
+                "Au/CB6-BOFs"
+            ],
+            "other_materials": [
+                "Au/CB6-BOFs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The catalytic mechanism was also proposed based on the degradation performance",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In previous reports, it is might impossible to see similar nanomaterials that combine dye adsorption and dye degradation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "If our material does either of them alone, it has a good effect",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Considering that Au/CB6-BOFs have two functions at the same time, the initial concentrations of dyes that we set are relatively high, which is beyond the relevant literature reports",
+            "all_materials": [
+                "Au/CB6-BOFs"
+            ],
+            "other_materials": [
+                "Au/CB6-BOFs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, it has certain reference value and impelling function to shorten the subsequent industrial treatment process of dye wastewater",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This study provides a simple method to design and synthesis adsorption/degradation agents, which may open a new path for dye wastewater treatment.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The adaptation of polymeric matrices to tailor their drug release characteristics requires the complete understanding of the mechanism involved",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We thus explored how chemical and structural modifications of film forming polymethyl methacrylate , a polymer often used for its biocompatibility, impact on its release features",
+            "all_materials": [
+                "polymethyl methacrylate"
+            ],
+            "other_materials": [
+                "polymethyl methacrylate"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Comparing Diclofenac Sodium  salt release from pure PMMA, mPEG\u2013b\u2013n, and mPEG\u2013b\u2013n polymeric films , we evidenced the impact of successive polymer modifications on the release rate and equilibrium",
+            "all_materials": [
+                "Diclofenac Sodium",
+                "PMMA",
+                "mPEG\u2013b\u2013n",
+                "mPEG\u2013b"
+            ],
+            "other_materials": [
+                "Diclofenac Sodium",
+                "PMMA",
+                "mPEG\u2013b\u2013n",
+                "mPEG\u2013b"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Thus, PEGylation increased both the release rate and the amount of NaD desorbed  introducing, however, a \u201cburst phase\u201d not present with pure PMMA; the latter released only 3% of NaD",
+            "all_materials": [
+                "NaD",
+                "PMMA",
+                "NaD"
+            ],
+            "other_materials": [
+                "NaD",
+                "PMMA",
+                "NaD"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The presence of DMAEMA in mPEG\u2013b\u2013n, instead, decreased the release rates and led to the complete NaD desorption at physiological conditions",
+            "all_materials": [
+                "DMAEMA",
+                "mPEG",
+                "NaD"
+            ],
+            "other_materials": [
+                "DMAEMA",
+                "mPEG",
+                "NaD"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We rationalized our observations with electronic structure calculations and lattice stochastic simulations",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The former suggested a tendency for NaD to accumulate in the hydrophilic mPEG portion via the coordination of the sodium cation in low polarity casting solvents",
+            "all_materials": [
+                "NaD",
+                "mPEG"
+            ],
+            "other_materials": [
+                "NaD",
+                "mPEG"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Stochastic simulations, instead, suggested that mPEG ought to form small domains on the film surface favouring fast NaD desorption in the release medium",
+            "all_materials": [
+                "mPEG",
+                "NaD"
+            ],
+            "other_materials": [
+                "mPEG",
+                "NaD"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Importantly, DMAEMA reduced the NaD tendency to accumulate in the mPEG portion due to the coordination on MMA\u2013DMAEMA motifs",
+            "all_materials": [
+                "DMAEMA",
+                "NaD",
+                "mPEG",
+                "MMA",
+                "DMAEMA"
+            ],
+            "other_materials": [
+                "DMAEMA",
+                "NaD",
+                "mPEG",
+                "MMA",
+                "DMAEMA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In physiological conditions , the basic monomer also dampens the burst phase and reduces the release rate compared to the other matrices thanks to salt bridges between the drug and amino group.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "High activity and stable hydrogen evolution reaction  catalysts have an indispensable influence on hydrogen production",
+            "all_materials": [
+                "hydrogen",
+                "hydrogen"
+            ],
+            "other_materials": [
+                "hydrogen"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "hydrogen"
+        },
+        {
+            "sentence": "Pyrite cobalt selenide  is considered an excellent non-noble metal compound HER catalyst due to its low price and excellent electrical conductivity",
+            "all_materials": [
+                "Pyrite cobalt selenide"
+            ],
+            "other_materials": [
+                "Pyrite cobalt selenide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the HER catalytic activity of CoSe2 is still not ideal because of the weak adsorption of hydrogen on its active Co site",
+            "all_materials": [
+                "CoSe2"
+            ],
+            "other_materials": [
+                "CoSe2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The anion introduction can improve the electronic structure of the catalyst and thereby enhance the performance of HER",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here, we report that B-doped CoSe2 nanomaterials on carbon cloth  were successfully synthesized",
+            "all_materials": [
+                "CoSe2",
+                "carbon"
+            ],
+            "other_materials": [
+                "carbon"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                15,
+                "StartingSynthesis"
+            ],
+            "targets": "CoSe2"
+        },
+        {
+            "sentence": "Compared with CoSe2, B-CoSe2 exhibits better HER performance in 1\u00a0M KOH",
+            "all_materials": [
+                "CoSe2",
+                "B-CoSe2",
+                "KOH"
+            ],
+            "other_materials": [
+                "CoSe2",
+                "B-CoSe2",
+                "KOH"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The overpotential of B-CoSe2 catalyst is only 153\u00a0mV at 10\u00a0mA\u00a0cm\u22122",
+            "all_materials": [
+                "B-CoSe2"
+            ],
+            "other_materials": [
+                "B-CoSe2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Tafel slope of B-CoSe2/CC sample is only 85\u00a0mV dec\u22121",
+            "all_materials": [
+                "B-CoSe2/CC"
+            ],
+            "other_materials": [
+                "B-CoSe2/CC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, B-CoSe2/CC exhibits perfect long-term durability and cycle stability",
+            "all_materials": [
+                "B-CoSe2/CC"
+            ],
+            "other_materials": [
+                "B-CoSe2/CC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Density functional theory  calculations illustrate that the doping of B improves the intrinsic conductivity of CoSe2 and optimizes the hydrogen adsorption free energy  of Se and Co sites",
+            "all_materials": [
+                "CoSe2",
+                "Se",
+                "Co"
+            ],
+            "other_materials": [
+                "CoSe2",
+                "Se",
+                "Co"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work not only proposes a new anion doping strategy to improve the electronic structure of cobalt-based selenides for improved HER performance, but also provides a reference for the screening and design of other transition metal compound HER electrocatalysts.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The flotation separation of cerussite and calcite remains a challenge because their surface properties are altered by the adsorption of dissolved species derived from cerussite and calcite in the pulp environment",
+            "all_materials": [
+                "cerussite",
+                "calcite",
+                "cerussite"
+            ],
+            "other_materials": [
+                "cerussite",
+                "calcite",
+                "cerussite"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                20,
+                "SolutionMixing"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this study, we investigated the adsorption behavior of dissolved species derived from cerussite and calcite using a series of surface analysis methods, including inductively coupled plasma mass spectrometry , time-of-flight secondary ion mass spectrometry , X-ray photoelectron spectroscopy , Fourier transform infrared , ultraviolet-visible , and zeta potential measurements",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The change in the floatability of cerussite and calcite in the presence of the supernatant-containing dissolved species was verified via flotation experiments",
+            "all_materials": [
+                "cerussite",
+                "calcite"
+            ],
+            "other_materials": [
+                "cerussite",
+                "calcite"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A surface analysis suggested that calcium species in the calcite supernatant could adsorb on cerussite surfaces, thus decreasing the adsorption of Na2S and xanthate on the mineral surface",
+            "all_materials": [
+                "calcite",
+                "Na2S",
+                "xanthate"
+            ],
+            "other_materials": [
+                "calcite",
+                "Na2S",
+                "xanthate"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Similarly, the adsorption of lead species in the cerussite supernatant onto calcite surfaces provided an active site for the interaction of Na2S, thus increasing the adsorption of xanthate",
+            "all_materials": [
+                "calcite",
+                "Na2S",
+                "xanthate"
+            ],
+            "other_materials": [
+                "calcite",
+                "Na2S",
+                "xanthate"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, the dissolved species of cerussite and calcite would affect their floatability, i.e., the floatability of cerussite decreases and that of calcite increases, which greatly increases the difficulty of flotation separation of cerussite from calcite.",
+            "all_materials": [
+                "cerussite",
+                "calcite",
+                "cerussite",
+                "cerussite",
+                "calcite"
+            ],
+            "other_materials": [
+                "cerussite",
+                "calcite",
+                "cerussite",
+                "cerussite",
+                "calcite"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                3,
+                "SolutionMixing"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To apply  proteins such as sugar beet leaf proteins  as emulsifier their emulsion properties need to be tested over a wide range of conditions, which is impractical",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Recently, a model was proposed to predict the efficiency of proteins to form and stabilize an emulsion -based on the protein molecular properties  and system parameters-",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this model, the critical protein concentration , to prevent coalescence during emulsion formation and flocculation induced by changes in system conditions, is the key descriptor",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This study investigates whether the model, developed for single protein systems, can be applied to more complex systems containing multiple proteins, i.e",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "LSPC and soy protein isolate",
+            "all_materials": [
+                "LSPC"
+            ],
+            "other_materials": [
+                "LSPC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Despite the complexity of LSPC and SPI, Ccr for emulsion formation and salt-induced flocculation  were in close agreement with the predictions",
+            "all_materials": [
+                "LSPC",
+                "SPI",
+                "Ccr"
+            ],
+            "other_materials": [
+                "LSPC",
+                "SPI",
+                "Ccr"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "At \u03b6\u00a0&lt;\u00a0\u03b6cr , the critical energy barrier of 5 kBT and surface coverage were found to be the most important parameters to predict emulsion stability",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As experimental values for Ccr were close to the theoretical Ccr calculated using the model, it was concluded that protein mixtures behave similar as single protein systems",
+            "all_materials": [
+                "Ccr",
+                "Ccr"
+            ],
+            "other_materials": [
+                "Ccr",
+                "Ccr"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This shows that the model developed to predict the emulsion properties of single protein systems can also be applied, at least to get decent estimations, to more complex  protein systems containing multiple proteins.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

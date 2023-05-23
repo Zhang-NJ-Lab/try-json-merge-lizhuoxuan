@@ -1,0 +1,1343 @@
+{
+    "rest": [
+        {
+            "sentence": "Organic-inorganic halide perovskite solar cells  have experienced rapid growth in power conversion efficiencies , however, their commercialization is limited by their inherent poor long-term stability",
+            "all_materials": [
+                "halide"
+            ],
+            "other_materials": [
+                "halide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Mixed halide and chalcogenide is a good pathway to fabricate highly efficient and stable solar cells",
+            "all_materials": [
+                "halide",
+                "chalcogenide"
+            ],
+            "other_materials": [
+                "halide",
+                "chalcogenide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here, we constructed halide-chalcogenide hetero-structure in PSCs by incorporating Bi2S3 quantum dots  into 2,2\u2032,7,7\u2032-tetrakis--9,9\u2032-spirobifluorene",
+            "all_materials": [
+                "Bi2S3",
+                "2,2\u2032,7,7\u2032-tetrakis--9,9\u2032-spirobifluorene"
+            ],
+            "other_materials": [
+                "2,2\u2032,7,7\u2032-tetrakis--9,9\u2032-spirobifluorene"
+            ],
+            "precursors": [
+                {
+                    "text": "Bi2S3",
+                    "start": 83,
+                    "end": 88,
+                    "token_ids": [
+                        14
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The construction of halide-chalcogenide hetero-structure optimizes the energy level matching between spiro-OMeTAD and perovskite, inhibits the decomposition of \u03b1-phase FAPbI3 and the formation of \u03b4-phase FAPbI3, increases the hole mobility of spiro-OMeTAD, reduces the defect density, and passivates the defect states",
+            "all_materials": [
+                "spiro-OMeTAD",
+                "FAPbI3",
+                "FAPbI3",
+                "spiro-OMeTAD"
+            ],
+            "other_materials": [
+                "spiro-OMeTAD",
+                "FAPbI3",
+                "FAPbI3",
+                "spiro-OMeTAD"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The solar cells with halide-chalcogenide hetero-structure prepared by 0.5\u00a0mg/mL Bi2S3 QDs exhibited the highest PCE of 23.31% at standard air mass 1.5 global with enhanced humidity stability",
+            "all_materials": [
+                "halide-chalcogenide",
+                "Bi2S3",
+                "air"
+            ],
+            "other_materials": [
+                "Bi2S3",
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                10,
+                "StartingSynthesis"
+            ],
+            "targets": "halide-chalcogenide"
+        },
+        {
+            "sentence": "This work provides a perspective on the introduction of halide-chalcogenide hetero-structure to enhance the stability of PSCs.",
+            "all_materials": [
+                "halide-chalcogenide",
+                "PSCs"
+            ],
+            "other_materials": [
+                "halide-chalcogenide",
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Download : Download high-res image Download : Download full-size image",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Organic-inorganic halide perovskite solar cells  have attracted much attention due to their rapidly increasing power conversion efficiency  , which can be attributed to their high absorption coefficient, tunable bandgap, long carrier diffusion length, high carrier mobility, and low exciton binding energy ,",
+            "all_materials": [
+                "halide"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "halide"
+        },
+        {
+            "sentence": "Although PSCs show great potential as new photovoltaic materials, their commercialization progress was impeded by the inherent poor long-term stability limits ,",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "New materials, device structures, interfacial modification engineering, and passivation/additive engineering have been developed to enhance the efficiency and stability of PSCs ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Comprehensive stability has been significantly improved through much effort of researchers, however, the efficiency and stability of PSCs are still affected by hole transport materials , especially HTMs doped with Li+ salts , .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To improve the efficiency and stability of PSCs from the aspect of HTM, Seok et al",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "developed an inorganic HTM, CuSCN",
+            "all_materials": [
+                "CuSCN"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CuSCN"
+        },
+        {
+            "sentence": "PSCs with CuSCN as HTM retained 60% of the initial value after storage at 125 \u2103 in the air at an average relative humidity of 40% for 2\u00a0h, which was higher than the PSCs with 2,2\u2032,7,7\u2032-tetrakis--9,9\u2032-spirobifluorene",
+            "all_materials": [
+                "PSCs",
+                "CuSCN",
+                "air",
+                "2,2\u2032,7,7\u2032-tetrakis--9,9\u2032-spirobifluorene"
+            ],
+            "other_materials": [
+                "PSCs",
+                "CuSCN",
+                "air",
+                "2,2\u2032,7,7\u2032-tetrakis--9,9\u2032-spirobifluorene"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "used more water-resistant Li-PFSI instead of lithium bisimide , which not only improved the PCE of PSCs , but also enhanced the environmental and thermal stability of PSCs Wu et al",
+            "all_materials": [
+                "water",
+                "Li-PFSI",
+                "lithium bisimide"
+            ],
+            "other_materials": [
+                "water",
+                "Li-PFSI",
+                "lithium bisimide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "introduced an amorphous TiO2 coating on spiro-OMeTAD to prevent ion migration in PSCsSeo et al",
+            "all_materials": [
+                "TiO2",
+                "spiro-OMeTAD"
+            ],
+            "other_materials": [
+                "TiO2",
+                "spiro-OMeTAD"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This coating prevents ion migration of lithium additives and diffusion of metal electrodes into the perovskite layer",
+            "all_materials": [
+                "lithium"
+            ],
+            "other_materials": [
+                "lithium"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This layer increases the device efficiency and improves the operational stability of the PSC",
+            "all_materials": [
+                "PSC"
+            ],
+            "other_materials": [
+                "PSC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "added the +-encapsulated indium-based anionic metal\u2013organic framework  to HTMZhang et al",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                0,
+                "Mixing"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The organic cation vacancies are passivated by FJU-17, and the positively charged oxidized HTM is stabilized by the anionic framework of FJU-17",
+            "all_materials": [
+                "FJU-17",
+                "HTM",
+                "FJU-17"
+            ],
+            "other_materials": [
+                "FJU-17",
+                "HTM",
+                "FJU-17"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "With this incorporation, the PCE of PSCs increased from 18.32% to 20.34%, and the cells with FJU-17 maintained 90% of the original PCE after 100\u00a0h of storage at ambient conditions",
+            "all_materials": [
+                "FJU-17",
+                "PCE"
+            ],
+            "other_materials": [
+                "FJU-17",
+                "PCE"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "introduced silicon dioxide particles at the perovskite/hole transport layer interfacePei et al",
+            "all_materials": [
+                "silicon dioxide"
+            ],
+            "other_materials": [
+                "silicon dioxide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The higher thermal conductivity of silicon dioxide particles enhances the thermal stability of the perovskite material and passivates the perovskite through the coordination between the insufficiently coordinated lead centers and the silicon dioxide",
+            "all_materials": [
+                "silicon dioxide",
+                "silicon dioxide"
+            ],
+            "other_materials": [
+                "silicon dioxide",
+                "silicon dioxide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The cells with silicon dioxide particles achieved a PCE of 22.29% and improved long-term stability",
+            "all_materials": [
+                "silicon dioxide"
+            ],
+            "other_materials": [
+                "silicon dioxide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "They retained 91% of their initial efficiency after thermal aging at 85\u00a0\u00b0C for 1126\u00a0h",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Although much research work has been done, it is still important to improve HTM to enhance the efficiency and stability of PSCs.",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Metal chalcogenides have been applied in solar cells as light harvester due to their high absorption coefficients, tunable bandgaps, multiple excitation capabilities, and solution processability ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Metal chalcogenide solar cells exhibit excellent stability, and metal halide  solar cells have high PCEs",
+            "all_materials": [
+                "Metal chalcogenide",
+                "metal halide"
+            ],
+            "other_materials": [
+                "Metal chalcogenide",
+                "metal halide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, it is a wise choice to obtain efficient and stable solar cells by mixing chalcogenides and halides",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                15,
+                "Mixing"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In our previous works, we demonstrated antimony sulfoiodide , antimony selenoiodide , alloyed Sb0.67Bi0.33SI, Pb2SbS2I3, and tin-antimony sulfoiodide  solar cells by combining chalcogenides and halides, acceptable PCE and excellent stability were obtained in these cells ,",
+            "all_materials": [
+                "antimony sulfoiodide",
+                "antimony selenoiodide",
+                "Sb0.67Bi0.33SI",
+                "Pb2SbS2I3",
+                "tin-antimony sulfoiodide",
+                "PCE"
+            ],
+            "other_materials": [
+                "PCE"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "antimony sulfoiodide"
+        },
+        {
+            "sentence": "However, it is not easy to dissolve and process these materials, because these processes usually require high temperature or/and high pressure",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "If these materials are reduced in size to nanocrystals /quantum dots , their solubility and processing methods can be easily tuned",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Quantum dot-sensitized solar cells  are a popular research area due to their high theoretical conversion efficiency, good long-term stability, and low cost ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "By incorporating QDs into HTMs, high efficiency and stability can be expected because QDs have good stability and good energy level matching.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here, halide-chalcogenide hetero-structure  in PSCs was constructed by incorporating Bi2S3 quantum dots  into 2,2\u2032,7,7\u2032-tetrakis--9,9\u2032-spirobifluorene",
+            "all_materials": [
+                "Bi2S3",
+                "2,2\u2032,7,7\u2032-tetrakis--9,9\u2032-spirobifluorene"
+            ],
+            "other_materials": [
+                "2,2\u2032,7,7\u2032-tetrakis--9,9\u2032-spirobifluorene"
+            ],
+            "precursors": [
+                {
+                    "text": "Bi2S3",
+                    "start": 85,
+                    "end": 90,
+                    "token_ids": [
+                        14
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Bi2S3 QDs were synthesized by using the hot-injection method",
+            "all_materials": [
+                "Bi2S3"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                3,
+                "StartingSynthesis"
+            ],
+            "targets": "Bi2S3"
+        },
+        {
+            "sentence": "The effect of HCHS on device performance was investigated",
+            "all_materials": [
+                "HCHS"
+            ],
+            "other_materials": [
+                "HCHS"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "X-ray powder diffractometer , ultraviolet\u2013visible  absorption spectroscopy, field emission scanning electron microscopy , time-resolved photoluminescence spectroscopy , electrochemical impedance spectroscopy , and grazing incidence wide-angle X-ray scattering  instrument were used to investigate properties of samples",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Defect states are analyzed by using temperature-dependent current\u2013voltage characteristic measurements",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "PSCs with HCHS prepared by 0.5\u00a0mg/mL Bi2S3 QDs exhibited the highest PCE of 23.31% in reverse scan mode",
+            "all_materials": [
+                "HCHS",
+                "Bi2S3"
+            ],
+            "other_materials": [
+                "Bi2S3"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                3,
+                "StartingSynthesis"
+            ],
+            "targets": "HCHS"
+        },
+        {
+            "sentence": "The introduction of HCHS also enhanced the humidity stability of PSCs.",
+            "all_materials": [
+                "HCHS",
+                "PSCs"
+            ],
+            "other_materials": [
+                "HCHS",
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Preparation of FTO/TiO2-BL/mp-TiO2: a 100-nm-thick TiO2 blocking layer  was deposited by performing spray pyrolysis of a 20\u00a0mM titanium diisopropoxide bis  solution on FTO glass substrates at 450\u00a0\u00b0C",
+            "all_materials": [
+                "FTO/TiO2-BL/mp-TiO2",
+                "TiO2",
+                "titanium diisopropoxide bis",
+                "FTO"
+            ],
+            "other_materials": [
+                "TiO2",
+                "titanium diisopropoxide bis",
+                "FTO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "FTO/TiO2-BL/mp-TiO2"
+        },
+        {
+            "sentence": "Subsequently, a TiO2 paste comprising TiO2 nanoparticles  was spin-coated onto the substrates to form a 150-nm-thick mp-TiO2 layer",
+            "all_materials": [
+                "TiO2",
+                "TiO2",
+                "mp-TiO2"
+            ],
+            "other_materials": [
+                "TiO2",
+                "TiO2",
+                "mp-TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The samples were subsequently annealed at 500\u00a0\u00b0C for 1\u00a0h in the air to crystallize TiO2.",
+            "all_materials": [
+                "air",
+                "TiO2"
+            ],
+            "other_materials": [
+                "air",
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                4,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Preparation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As shown in Scheme 1, Bi2S3 QDs were synthesized according to a modified hot-injection method ,",
+            "all_materials": [
+                "Bi2S3"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                9,
+                "StartingSynthesis"
+            ],
+            "targets": "Bi2S3"
+        },
+        {
+            "sentence": "S1a shows the XRD pattern of Bi2S3 QDsFig",
+            "all_materials": [
+                "S1a",
+                "Bi2S3 QDsFig"
+            ],
+            "other_materials": [
+                "S1a",
+                "Bi2S3 QDsFig"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The characterizations  of the Bi2S3 QDs were shown in the supporting information of the references ,",
+            "all_materials": [
+                "Bi2S3"
+            ],
+            "other_materials": [
+                "Bi2S3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Bi2S3 QDs were incorporated into spiro-OMeTAD in the sample of glass/perovskite/spiro-OMeTAD to",
+            "all_materials": [
+                "Bi2S3",
+                "spiro-OMeTAD",
+                "spiro-OMeTAD"
+            ],
+            "other_materials": [
+                "Bi2S3",
+                "spiro-OMeTAD",
+                "spiro-OMeTAD"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In conclusion, halide-chalcogenide hetero-structure in perovskite solar cells was constructed by introducing Bi2S3 quantum dots  into the hole transporting layer",
+            "all_materials": [
+                "halide-chalcogenide",
+                "Bi2S3"
+            ],
+            "other_materials": [
+                "Bi2S3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "halide-chalcogenide"
+        },
+        {
+            "sentence": "The formation of halide-chalcogenide hetero-structure optimized the energy level matching of spiro-OMeTAD and perovskite",
+            "all_materials": [
+                "spiro-OMeTAD"
+            ],
+            "other_materials": [
+                "spiro-OMeTAD"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The amount of \u03b4-phase FAPbI3 and PbI2 is reduced, thereby reducing defect density, passivating traps, and reducing the charge recombination",
+            "all_materials": [
+                "FAPbI3",
+                "PbI2"
+            ],
+            "other_materials": [
+                "FAPbI3",
+                "PbI2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Halide-chalcogenide hetero-structure did not significantly alter the",
+            "all_materials": [
+                "Halide-chalcogenide"
+            ],
+            "other_materials": [
+                "Halide-chalcogenide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Riming Nie: Conceptualization, Funding acquisition, Project administration, Writing \u2013 original draft, Writing \u2013 review &amp; editing",
+            "all_materials": [
+                "Nie"
+            ],
+            "other_materials": [
+                "Nie"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Zeliang Wei: Investigation, Writing \u2013 review &amp; editing",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Aarti Mehta: Investigation, Writing \u2013 review &amp; editing",
+            "all_materials": [
+                "Aarti"
+            ],
+            "other_materials": [
+                "Aarti"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Lingfeng Chao: Investigation, Writing \u2013review &amp; editing",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Jiaxing Gao: Investigation, Writing \u2013 review &amp; editing",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Weicun Chu: Investigation, Writing \u2013 review &amp; editing",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Zhongping Li: Investigation, Writing \u2013 review &amp; editing",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Han Miao: Investigation, Writing",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work was supported by National Natural Science Foundation of China , Fundamental Research Funds for the Central Universities , National Key Research and Development Program of China , Natural Science Foundation of Jiangsu Province , the Research Fund of State Key Laboratory of Mechanics and Control of Mechanical Structures , the Fundamental Research Funds for the Central Universities , A Project",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Asthma is a complex, heterogeneous chronic airway inflammatory disorder, which can be simply categorized into eosinophilic and neutrophilic asthma",
+            "all_materials": [
+                "Asthma"
+            ],
+            "other_materials": [
+                "Asthma"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Although most patients with eosinophilic asthma can be well managed by glucocorticoid therapy, the patients with neutrophilic asthma have poor responses to corticosteroids, and there are no effective clinical treatments for neutrophilic asthma",
+            "all_materials": [
+                "asthma"
+            ],
+            "other_materials": [
+                "asthma"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Studies have shown that M1 macrophages are associated with the pathophysiology of neutrophilic asthma",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We previously developed a novel cargo-free anti-inflammatory nanoparticle , which can promote macrophage polarization from M1 to the M2 phenotype",
+            "all_materials": [
+                "M1",
+                "M2"
+            ],
+            "other_materials": [
+                "M1",
+                "M2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, we aim to explore the therapeutic activities of P12 in eosinophilic asthma and neutrophilic asthma and the mechanisms of action behind",
+            "all_materials": [
+                "P12"
+            ],
+            "other_materials": [
+                "P12"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Using the mouse models of eosinophilic and neutrophilic asthma, we found that the intratracheally administered P12 reduced the airway resistance in both models",
+            "all_materials": [
+                "P12",
+                "airway"
+            ],
+            "other_materials": [
+                "P12",
+                "airway"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, P12 had higher therapeutic effects in neutrophilic asthma than in eosinophilic asthma, particularly on the pathological score, the serum IgE level, the BAL differential cell count and the proinflammatory cytokine IL-17A and IL-6 levels",
+            "all_materials": [
+                "P12",
+                "IgE",
+                "cytokine IL-17A",
+                "IL-6"
+            ],
+            "other_materials": [
+                "P12",
+                "IgE",
+                "cytokine IL-17A",
+                "IL-6"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Mechanistically, P12 facilitated M2 macrophage polarization by inhibiting transcription factors NF-\u03baB and STAT1 activation and up-regulating STAT3 signaling in vitro; in the asthma models, P12 promoted M2 polarization of both alveolar and interstitial macrophages, and reduced the downstream Th17/Treg ratio in mice with neutrophilic asthma",
+            "all_materials": [
+                "M2",
+                "NF-\u03baB",
+                "STAT1",
+                "STAT3",
+                "M2",
+                "asthma"
+            ],
+            "other_materials": [
+                "M2",
+                "NF-\u03baB",
+                "STAT1",
+                "STAT3",
+                "M2",
+                "asthma"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Finally, P12 showed a good biosafety profile in healthy mice, facilitating the clinical translation of P12",
+            "all_materials": [
+                "P12",
+                "P12"
+            ],
+            "other_materials": [
+                "P12",
+                "P12"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This study provides a new strategy and lung macrophage targeted nanotherapeutics for the treatment of neutrophilic asthma.",
+            "all_materials": [
+                "asthma"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "asthma"
+        },
+        {
+            "sentence": "Perovskite solar cells  with dopant\u2010free hole transporting layers  deserved extensive research by merits of their outstanding hydrophobicity and stability",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the low carrier mobility and poor interfacial hole extraction lead to the inferior power conversion efficiency  than that of conventional Li+ doped Spiro-OMeTAD",
+            "all_materials": [
+                "Spiro-OMeTAD"
+            ],
+            "other_materials": [
+                "Spiro-OMeTAD"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here, a design of triphenylamine groups grafted triphenylene derivative  as dopant-free HTLs has been presented",
+            "all_materials": [
+                "triphenylene",
+                "HTLs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "triphenylene"
+        },
+        {
+            "sentence": "The larger \u03c0-conjugation in T-6TPA give rise to high hole mobility of 2.06\u00a0\u00d7\u00a010\u22123 cm2V\u22121s\u22121",
+            "all_materials": [
+                "T-6TPA"
+            ],
+            "other_materials": [
+                "T-6TPA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, the interfacial hole extraction of T-6TPA was significantly promoted when the molecules were infiltrated into perovskite before HTL deposition",
+            "all_materials": [
+                "T-6TPA"
+            ],
+            "other_materials": [
+                "T-6TPA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The infiltration method of anti-solvent dripping  strategy increased PCE from 18.5% up to 20.3%, which is superior to another additive doping strategy",
+            "all_materials": [
+                "PCE"
+            ],
+            "other_materials": [
+                "PCE"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The effectiveness of An-strategy can be attributed to the construction of a coherent and homogeneous hole transport channel",
+            "all_materials": [
+                "An"
+            ],
+            "other_materials": [
+                "An"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The hydrophobicity and high glass transition temperature of T-6TPA also granted excellent moisture and thermal stabilities that the initial PCE could remain 80% for 60\u00a0days in air or 600\u00a0h at 60\u00a0\u00b0C",
+            "all_materials": [
+                "T-6TPA",
+                "PCE",
+                "air"
+            ],
+            "other_materials": [
+                "T-6TPA",
+                "PCE",
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work highlights the synergistical optimization by design of highly hole-mobile materials as well as the interfacial network construction for charge transport.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Defect-free perovskite materials are necessary for developing efficient solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "On FTO-glass substrates , cadmium-doped methylammonium lead bromide  films have been deposited",
+            "all_materials": [
+                "FTO",
+                "methylammonium lead bromide"
+            ],
+            "other_materials": [
+                "FTO",
+                "methylammonium lead bromide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Doping does not affect the cubic crystal structure of MAPbBr3; however, it has increased the grain size, according to XRD",
+            "all_materials": [
+                "MAPbBr3"
+            ],
+            "other_materials": [
+                "MAPbBr3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The band gap is decreased at 3% of Cd doping, due to which the deep-level traps are decreased",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Every cell shows good performance, but the cell formed with 3% Cd doping has a high fill factor , open circuit voltage , considerable short-circuit current density , and efficiency",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The high open circuit voltages and current density refer to the accumulation of charges at the holes and electrons transport layers being reduced due to Cd doping.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "An n-type MoO3 thin film was prepared for the first time with solution processable Mo-peroxo  strategy",
+            "all_materials": [
+                "MoO3",
+                "Mo-peroxo"
+            ],
+            "other_materials": [
+                "Mo-peroxo"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                8,
+                "StartingSynthesis"
+            ],
+            "targets": "MoO3"
+        },
+        {
+            "sentence": "An aprotic solvent is chosen as an alternative to conventional protic alcoholic diluents for the Mo-peroxo precursor",
+            "all_materials": [
+                "Mo-peroxo"
+            ],
+            "other_materials": [
+                "Mo-peroxo"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The proton-donating nature of protic solvents induces gap states to form hole-selective HxMoO3 films, while the absence of proton donors in aprotic solvents facilitates n-type MoO3 thin films by a solution process",
+            "all_materials": [
+                "HxMoO3",
+                "MoO3"
+            ],
+            "other_materials": [
+                "HxMoO3",
+                "MoO3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The aprotic diluent-based thin film is identified as a peroxy structure at low temperatures and is successfully converted to n-type MoO3 through the removal of peroxide ligands during thermal annealing",
+            "all_materials": [
+                "MoO3"
+            ],
+            "other_materials": [
+                "MoO3"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                33,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Finally, we implement the n-type MoO3 thin film as an inorganic electron transport bilayer paired with SnO2 for 0.950.05 perovskite solar cells",
+            "all_materials": [
+                "MoO3",
+                "SnO2"
+            ],
+            "other_materials": [
+                "MoO3",
+                "SnO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The n-type MoO3 interlayer increases the conductivity of the combined n-type MoO3/SnO2 electron transport bilayer, which improves the charge carrier extraction and transport properties",
+            "all_materials": [
+                "MoO3",
+                "MoO3/",
+                "SnO2"
+            ],
+            "other_materials": [
+                "MoO3",
+                "MoO3/",
+                "SnO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The\u00a0prepared perovskite solar cell exhibits enhanced power conversion efficiency  reaching 23.82 % along with a remarkable open-circuit voltage  of 1.16\u00a0V.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Ultraviolet  illumination can induce the generation of defects at the interface of perovskite and commonly used electron transport materials  in perovskite solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This further increase the interfacial charge recombination and accelerate the decomposition of perovskite film, resulting in the attenuation of device efficiency and stability",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here, a cerium oxide  nanoparticle with an average size of 18.66\u00a0nm is proposed as a novel mesoporous material to modify the interface of ETM and perovskite",
+            "all_materials": [
+                "cerium oxide",
+                "ETM"
+            ],
+            "other_materials": [
+                "cerium oxide",
+                "ETM"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The CeOx mesoporous layer with higher electron mobility and more suitable band energy level facilitates charge transfer from perovskite layer",
+            "all_materials": [
+                "CeOx"
+            ],
+            "other_materials": [
+                "CeOx"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As expected, the mesoporous CeOx based PSCs exhibits an improved power conversion efficiency up to 23.15%",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "More importantly, the mesoporous CeOx layer  can realize the effective absorption of UV light, to efficiently improve the UV light stability of PSCs and the overall stability of the devices",
+            "all_materials": [
+                "CeOx"
+            ],
+            "other_materials": [
+                "CeOx"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The unencapsulated devices with mesoporous CeOx maintained almost 90% of initial efficiency after 850\u00a0h under UV illumination",
+            "all_materials": [
+                "CeOx"
+            ],
+            "other_materials": [
+                "CeOx"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work provides a new approach to fabricate the efficient and UV stable PSCs by introducing the mesoporous CeOx layer.",
+            "all_materials": [
+                "PSCs",
+                "CeOx"
+            ],
+            "other_materials": [
+                "CeOx"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "Perovskite solar cells  have been shining in the photovoltaic industry, but their fragile stability impedes their commercialization seriously",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here we adopt an ultra-thin film of a functional hydrophobic polymer, polychloro-p-dimethyl benzene , which can largely improve the operational lifetime of PSCs as a surface finish",
+            "all_materials": [
+                "polychloro-p-dimethyl benzene",
+                "PSCs"
+            ],
+            "other_materials": [
+                "polychloro-p-dimethyl benzene",
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Chemical vapor deposition  under vacuum is adopted to modify the ultra-thin parylene film, which is thin adequately to afford tunnel contact but is also sufficiently shielding to protect the perovskite layer",
+            "all_materials": [
+                "parylene"
+            ],
+            "other_materials": [
+                "parylene"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Besides, it is demonstrated that the Parylene C film can reduce the perovskite surface defects by interacting with the uncoordinated Pb center and act as an effective hole-hindering barrier in the middle of perovskite and PCBM for decreasing charge recombination",
+            "all_materials": [
+                "Parylene C",
+                "PCBM"
+            ],
+            "other_materials": [
+                "Parylene C",
+                "PCBM"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As a result, PSC using a \u223c4\u00a0nm Parylene C layer exhibits a remarkably increased open-circuit and fill factor and a substantially enhanced efficiency of 21.7\u00a0% from pristine 19.4\u00a0%",
+            "all_materials": [
+                "PSC",
+                "Parylene C"
+            ],
+            "other_materials": [
+                "PSC",
+                "Parylene C"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, the Parylene C-based PSCs have attained long-term thermal and operational stabilities with good reproducibility",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Without encapsulation, the degradation was limited to 11\u00a0% after 500\u00a0h of aging under ambient atmosphere/dark, 85\u00a0\u00b0C/N2, or constant illumination/ N2 conditions",
+            "all_materials": [
+                "N2",
+                "N2"
+            ],
+            "other_materials": [
+                "N2",
+                "N2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work lays a solid foundation for further stability by CVD interface modification.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

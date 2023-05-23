@@ -1,0 +1,1094 @@
+{
+    "rest": [
+        {
+            "sentence": "Although there have been significant developments due to the advantages of perovskite solar cells , several challenges still stand in the way of their commercialization",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition to the issue of stability that needs to be overcome, another huge impediment is the absence of a high-throughput production capability",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Currently, slot-die coating is the most promising technology for upscaling of PSCs due to its high compatibility with roll-to-roll production",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The PSCs are moving forward toward commercialization at an unprecedented speed",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In view of this, this review highlights the research progresses in the area of slot-die-based PSCs and examines the challenges that this technology will encounter in its future development.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Perovskite solar cells are gaining popularity as a type of environmental-friendly, high-efficiency, and low-cost third-generation new solar cells in the context of anthropogenic climate change",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The power conversion efficiency  of single-junction PSCs has been increased dramatically from 3.8% to 25.7%  since the first PSC was reported in 2009 , indicating the potential to compete with conventional crystalline silicon, gallium arsenide, and thin film solar cells",
+            "all_materials": [
+                "silicon",
+                "gallium arsenide"
+            ],
+            "other_materials": [
+                "silicon",
+                "gallium arsenide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Recently, several exemplary devices through structural optimization and trap manipulation at the charge transport layer/perovskite  interface have been reported, further demonstrating the great potential of PSCs to advance to a new level of high efficiency and stability , .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The perovskite active layer, which is the most critical feature of PSCs, bestowed with its outstanding optoelectronic properties, such as long carrier diffusion length , high absorption coefficient , narrow and tunable band gap , and a low exciton binding energy , all of which have attracted substantial research interest",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Perovskite here refers to an organometallic trihalide semiconductor material with a general formula ABX3  ,",
+            "all_materials": [
+                "ABX3"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "ABX3"
+        },
+        {
+            "sentence": "The most prevalent perovskite is methylammonium lead iodide",
+            "all_materials": [
+                "methylammonium lead iodide"
+            ],
+            "other_materials": [
+                "methylammonium lead iodide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Its crystal structure can be described as PbI6 octahedra connected in space with corner-sharing vertices to form a three-dimensional framework, and MA cations inserted to fill the pores to provide an electrically neutral environment",
+            "all_materials": [
+                "PbI6"
+            ],
+            "other_materials": [
+                "PbI6"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Unfortunately, due to its limited absorption range, MAPbI3 is unable to produce a high photoelectric conversion",
+            "all_materials": [
+                "MAPbI3"
+            ],
+            "other_materials": [
+                "MAPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As a result, other alternative atoms are constantly being developed and used to create multicomponent mixed cation-anion perovskite solar cells ,  in order to increase the light absorption capacity or further improve the stability of perovskites in various environments",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As this novel photovoltaic technology has been thoroughly investigated, people have gradually moved away from laboratory-scale small-unit devices to the preparation of high-performance large-area perovskite solar cell modules  , and promoted them to become potential product support for indoor small-scale power supply equipment or outdoor large-scale fixed-point, mobile power production ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, future advancements in the field of portable wearable electronics are anticipated, with a focus on low-temperature produced flexible PSCs based on flexible polymers as a promising extension type of rigid batteries , .",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "However, the majority of PSCMs are still only used in tiny amounts in the laboratory for research purposes due to the lack of a low-cost and dependable standardized technique that can convert PSCMs to industrial production",
+            "all_materials": [
+                "PSCMs",
+                "PSCMs"
+            ],
+            "other_materials": [
+                "PSCMs"
+            ],
+            "precursors": [
+                {
+                    "text": "PSCMs",
+                    "start": 25,
+                    "end": 30,
+                    "token_ids": [
+                        5
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Large-scale PSCs are typically processed using either sheet-to-sheet  processing or roll-to-roll processing",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "Among them, R2R, a transmission system appropriate for mass manufacturing printed electronics, is thought to be a more effective way to encourage the production of solution-processable solar cells because it can achieve high production throughput with only a simple configuration , .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A variety of scalable coating methods that are compatible with R2R have been developed so far, such as slot-die coating, blade coating , spray coating , gravure printing , and screen printing ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In comparison to spin coating, these large-area compatible methods exhibit acceptable material consumption and throughput",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Spray-coating may easily deposit ultra-large areas of film in terms of deposition width, but it is challenging to manage morphology ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Blade-coating is a straightforward and affordable large-area coating technique , though in regards to the complexity of instrument layout and use, it is on par with spin-coating",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Additionally, this technique has poor automation and reproducibility , slow film formation , and hasn&#x27;t been able to naturally connect with R2R processing for the presentation of PSCs",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The only approach other than slot-die coating that has been successfully shown in device preparation with R2R is gravure printing , which integrates throughput with pattern rendering",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Nevertheless, due to the need for precise ink surface tension adjustment  and the necessity for roller replacement due to minor pattern changes , this approach ineluctably costs more in the early debugging stage",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In contrast to other scalable techniques, screen-printing is more competent at applying mesoscopic scaffolds to fully printed PSCs ,",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "1.Fig",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In recent years, a growing number of reports on slot-die-based PSCs have been published",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "All kinds of research have been conducted to demonstrate how slot-die coating and PSCs are compatible",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, it is crucial to point out here that, among all up-scalable processes, slot-die coating is the most prominent at the level of binding to R2R",
+            "all_materials": [
+                "R2R"
+            ],
+            "other_materials": [
+                "R2R"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To our knowledge, most scale-up procedures have only been attempted on rigid glass substrates suitable for S2S, in contrast, slot-die coating has not only been proficiently demonstrated for R2R production in organic photovoltaics  , but also, based on previous experience, has been successfully transferred to the field of PSCs",
+            "all_materials": [
+                "S2S"
+            ],
+            "other_materials": [
+                "S2S"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This technology was gradually reaching maturity after several papers in 2017 ,  convincingly demonstrated the fabrication of flexible PSCs via R2R, and the best efficiency recorded as of late has been above 19% .",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "At present, slot-die coating is the most promising technology for upscaling of PSCs",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The PSCs are moving forward toward commercialization at an unprecedented speed",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It is very necessary to present a review and outlook in the area",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this review, the theoretical foundations and characteristics of slot-die coating are briefly introduced first, followed by descriptions of the material and process choices and improvement strategies for each functional layer in slot-die-based PSCs",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In particular, the investigation of perovskite ink formulations has made it possible to take account of the impact on the environment in addition to maintaining film quality and achieving better stability on larger substrates",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Finally, we analyzed the setbacks encountered during industrialization as well as possible future research and development  models and directions.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The roll-to-roll manufacture is a crucial substrate-based manufacturing method that enables the continuous construction of structures through addition and subtraction techniques",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It consists of many combination technologies that enable efficient and cost-effective continuous manufacturing of rolled finished materials with the advantage of high productivity on a large scale",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Due to the numerous processes required, roll-to-roll manufacturing is distinguished from traditional manufacturing, which",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In 2014, Vak et al",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "made the first attempt to incorporate slot-die coating into the preparation of PSCs, and more than 6% of PCE strongly proved the feasibility of slot-die-based PSCs, ushering in a new era of PSCs scaling",
+            "all_materials": [
+                "PSCs",
+                "PCE",
+                "PSCs"
+            ],
+            "other_materials": [
+                "PCE",
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "Up to now, a lot of works have been carried out to assess the PSCs based on slot-die coating",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Table 1 shows some representative results",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Most of the studies have one thing in common: the quality of the perovskite active layer is thought to be the most critical factor",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Figuring out how to maximize the inherent cost advantages of PSCs and promote the &quot;lab-to-fab&quot; transformation of their preparation methods is a challenge that all researchers are facing",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Although experimental studies of small-area cell or large-area module have been successfully conducted, there haven&#x27;t been enough discussions to support their feasibility at an industrial scale",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Nevertheless, there are still various attempts to obtain more possibilities and to provide fresh ideas for the",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this review, brief introduce of the R2R basic principle and characteristics of slot-die coating has been firstly investigated",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We pointed out that an understanding of the operating limits is the cornerstone of successful coating",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Then, the application of slot-die technology in the preparation of PSCs is described",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "Beginning with the perovskite active layer, the primary deposition methods, including the two-step and one-step, are covered, and their features and improvements in slot-die",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Yibo Tu: Writing \u2013 original draft, Data curation; Jingchuan Ye: Writing \u2013 original draft, Visualization; Gaoyuan Yang: Conceptualization; Lijian Zhang: Validation;Yu Wang: Investigation; Guodong Li: Data curation; Yue Zang: Writing \u2013 review &amp; editing; Liang Chu: Writing \u2013 review &amp; editing; Wensheng Yan: Writing \u2013 review &amp; editing, Supervision.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work was financially supported by the National Key Research and Development Program of China , the Zhejiang Provincial Natural Science Foundation of China , the China Postdoctoral Science Foundation , the National Natural Science Foundation of China .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Synthesis of cesium tungsten bronze  nanorods with excellent near-infrared shielding performance by a one-step solvothermal method from cheap tungsten source is still challenging",
+            "all_materials": [
+                "cesium tungsten bronze"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "cesium tungsten bronze"
+        },
+        {
+            "sentence": "In this work, small-sized CsxWO3 nanorods with excellent transparent thermal insulation performance were synthesized by a one-step solvothermal method",
+            "all_materials": [
+                "CsxWO3"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                16,
+                "StartingSynthesis"
+            ],
+            "targets": "CsxWO3"
+        },
+        {
+            "sentence": "It was found that halogen acids played an important role in regulating the growth and microstructure of CsxWO3 nanorods",
+            "all_materials": [
+                "halogen acids",
+                "CsxWO3"
+            ],
+            "other_materials": [
+                "halogen acids",
+                "CsxWO3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, different halogen acid can regulate the content of W5+=O and oxygen vacancies  in CsxWO3 nanorods, which is helpful to further improve the near-infrared shielding performance of CsxWO3 particles",
+            "all_materials": [
+                "halogen acid",
+                "CsxWO3",
+                "CsxWO3"
+            ],
+            "other_materials": [
+                "halogen acid",
+                "CsxWO3",
+                "CsxWO3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Compared with HF and HBr, the CsxWO3 nanoparticles synthesized under the regulation of HCl contain more VOs and W5+=O content, showing more excellent near-infrared shielding performance, and the as-prepared CsxWO3-PVA composite film exhibits low haze and high transparency, with the near-infrared light shielding rate at 1500\u00a0nm attaining to 97.7% when the visible light transmittance is 71.8%",
+            "all_materials": [
+                "HF",
+                "HBr",
+                "CsxWO3",
+                "HCl",
+                "CsxWO3-PVA"
+            ],
+            "other_materials": [
+                "HF",
+                "HCl"
+            ],
+            "precursors": [
+                {
+                    "text": "HBr",
+                    "start": 21,
+                    "end": 24,
+                    "token_ids": [
+                        4
+                    ]
+                }
+            ],
+            "operation": [
+                9,
+                "StartingSynthesis"
+            ],
+            "targets": "CsxWO3"
+        },
+        {
+            "sentence": "The thermal insulation test results show that the CsxWO3-PVA composite film synthesized under the regulation of HCl can effectively reduce the indoor temperature by 6.9\u00a0\u00b0C under the irradiation of sunlight",
+            "all_materials": [
+                "CsxWO3-PVA",
+                "HCl"
+            ],
+            "other_materials": [
+                "HCl"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                13,
+                "StartingSynthesis"
+            ],
+            "targets": "CsxWO3-PVA"
+        },
+        {
+            "sentence": "After 100 cycles of thermal insulation tests, the near-infrared shielding and thermal insulation performance have not declined, showing excellent photothermal stability",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work is of great significance for promoting the industrial production of high-performance CsxWO3 nanoparticles and its application in energy-saving windows.",
+            "all_materials": [
+                "CsxWO3"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CsxWO3"
+        },
+        {
+            "sentence": "Recently, flexible insulator-conductor transition  composites have attracted much attention, and they are of great interest for many applications, including smart switches, sensors, and visualized circuits",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this study, flexible ICT composites based on fluorelastomers as the matrix and tin bismuth alloys  and multiwalled carbon nanotubes  as conductive fillers were prepared",
+            "all_materials": [
+                "ICT",
+                "tin bismuth",
+                "carbon"
+            ],
+            "other_materials": [
+                "tin bismuth",
+                "carbon"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                25,
+                "StartingSynthesis"
+            ],
+            "targets": "ICT"
+        },
+        {
+            "sentence": "The effects of the SnBi alloy and MWCNT contents and the testing temperature and pressure on the ICT properties of the flexible composites were investigated",
+            "all_materials": [
+                "SnBi",
+                "MWCNT"
+            ],
+            "other_materials": [
+                "SnBi",
+                "MWCNT"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The cyclic stability of the ICT properties for the composites was evaluated",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The microstructure was characterized by scanning electron microscopy  analysis",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The ICT mechanism of the composites was identified",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The volume resistivity of the FKM/MWCNT/SnBi composites decreased by 11 orders of magnitude from 109 to 10\u22122 \u03a9\u00b7cm when the composites were compressed at 140\u00a0\u00b0C and then recovered to an insulation state after the composites were stretched several times with a strain of 20% at room temperature",
+            "all_materials": [
+                "FKM/MWCNT/SnBi"
+            ],
+            "other_materials": [
+                "FKM/MWCNT/SnBi"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                26,
+                "ShapingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The composites showed superior cyclic stability of the ICT performance for up to 100 cycles.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In order to improve the poor hot workability of titanium matrix composites , an advanced melt hydrogenation method was introduced in this study",
+            "all_materials": [
+                "titanium matrix"
+            ],
+            "other_materials": [
+                "titanium matrix"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The /Ti-6Al-4\u00a0V composites were fabricated by melt hydrogenation which was directly melting alloys in gas mixture of H2 and Ar",
+            "all_materials": [
+                "The /Ti-6Al-4\u00a0V",
+                "H2",
+                "Ar"
+            ],
+            "other_materials": [
+                "H2",
+                "Ar"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                6,
+                "StartingSynthesis"
+            ],
+            "targets": "The /Ti-6Al-4\u00a0V"
+        },
+        {
+            "sentence": "Microstructure of as-cast TMCs indicated that melt hydrogenation increased the length of TiB whiskers and aggravated the clustering of reinforcements at primary \u03b2 grain boundaries, which was due to the increased overheat on melt surface",
+            "all_materials": [
+                "TMCs",
+                "TiB"
+            ],
+            "other_materials": [
+                "TMCs",
+                "TiB"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Hot compression results indicated melt hydrogenation improved the hot workability of TMCs in  phase region, and the peak stress was reduced from 371 to 271\u00a0MPa at 800\u00a0\u00b0C/1\u00a0s\u22121 and from 119 to 60\u00a0MPa at 900\u00a0\u00b0C/0.01\u00a0s\u22121, respectively, which expanded the optimal hot processing window",
+            "all_materials": [
+                "TMCs"
+            ],
+            "other_materials": [
+                "TMCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Microstructure after hot deformation showed that the proportion of DRX grains was increased from \u223c56% to \u223c81%, which was mainly attributed to the accelerated migration of DRX grain boundary and the decreased density of dislocations, which was due to the dislocation consumption by DRX formation and the improved mobility of dislocations",
+            "all_materials": [
+                "DRX",
+                "DRX",
+                "DRX"
+            ],
+            "other_materials": [
+                "DRX",
+                "DRX",
+                "DRX"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, the improvement of hot workability resulted from the formation of more DRX grains and enhanced mobility of dislocations.",
+            "all_materials": [
+                "DRX"
+            ],
+            "other_materials": [
+                "DRX"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Radio-frequency magnetron sputtering technique was employed to deposit transition metal doped TiO2 thin film electrodes on polished stainless steel substrates",
+            "all_materials": [
+                "TiO2",
+                "steel"
+            ],
+            "other_materials": [
+                "TiO2",
+                "steel"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Rutile phase TiO2 films have been deposited with 6% and 10% Fe, Mn and Co doping and separate coin cell type Lithium Ion Batteries  have been prepared with these samples as anodes",
+            "all_materials": [
+                "TiO2"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                29,
+                "StartingSynthesis"
+            ],
+            "targets": "TiO2"
+        },
+        {
+            "sentence": "LIB\u2019s with the doped thin film samples have marked very high charge storage capacities at high current rates, which are in some cases better than that obtained with pristine TiO2 electrode",
+            "all_materials": [
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Further, among the three dopants the performance of the Fe doped samples are the best over a large no",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "During the cycling test, 10% Fe doped TiO2 electrode has marked very high specific capacity of 0.524 mAh cm\u22122\u03bcm\u22121 after 1000 cycles at low current rate of 0.13\u00a0mA\u00a0cm\u22122 and of 0.264 mAh cm\u22122\u03bcm\u22121 after 500 cycles even at high current rate of 1.3\u00a0mA\u00a0cm\u22122of cycles",
+            "all_materials": [
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Increase in the current rate by 10 folds has not affected the specific capacity much, manifesting excellent response of the battery at high current rate",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In the present study we have applied Fe, Co and Mn doping to TiO2 electrodes prepared under identical conditions and have compared their performances as anodes of thin film LIB\u2019s in detail and thus the results would be very useful in technological realization of these anodes in practical LIB systems.",
+            "all_materials": [
+                "TiO2"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                16,
+                "StartingSynthesis"
+            ],
+            "targets": "TiO2"
+        },
+        {
+            "sentence": "Phase-change materials such as pseudobinary GeSbTe  alloys are widely used for fabrication of rewritable and nonvolatile memory devices and also reveal perspective thermoelectric parameters",
+            "all_materials": [
+                "GeSbTe"
+            ],
+            "other_materials": [
+                "GeSbTe"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Their electron spectrum demonstrates the topological insulator behavior",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "These promising properties are related to unique structural features of a lattice, study of which attracts much attention since full clarity was not achieved so far",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here, we study Raman spectra of monocrystalline GST alloys to examine influence of lattice structure on phonon spectrum",
+            "all_materials": [
+                "GST"
+            ],
+            "other_materials": [
+                "GST"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In the Raman spectra, the broad bands typical for the amorphous state and sharp lines of the crystalline one are observed",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The use of a one-dimensional harmonic chain model of atoms composing the lattice unit cell allows us to explain the origin of these features",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It is shown that the first component is related to dispersion of phonon frequencies in the different lattice unit cells, which is caused by Ge/Sb disorder",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The sharp spectral lines are attributed to phonons originated from those of Sb2Te3 as the structural basis of GST",
+            "all_materials": [
+                "Sb2Te3",
+                "GST"
+            ],
+            "other_materials": [
+                "Sb2Te3",
+                "GST"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Their frequencies are invariants relative to Ge/Sb disorder, and GST alloy is an ordered crystal for these modes.",
+            "all_materials": [
+                "GST"
+            ],
+            "other_materials": [
+                "GST"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This paper reports the relationship between the microstructure and magnetic properties of a new Sm3Co11B4-type alloy with ultra-high coercivity",
+            "all_materials": [
+                "Sm3Co11B4"
+            ],
+            "other_materials": [
+                "Sm3Co11B4"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Sm3Co11\u2212xFexB4  ribbons were prepared by melt-spinning at 30\u00a0m/s and then annealing at 800\u00a0\u00b0C for 30\u00a0min",
+            "all_materials": [
+                "Sm3Co11\u2212xFexB4"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                [
+                    3,
+                    "StartingSynthesis"
+                ],
+                [
+                    15,
+                    "HeatingOperation"
+                ]
+            ],
+            "targets": "Sm3Co11\u2212xFexB4"
+        },
+        {
+            "sentence": "The microstructural analysis demonstrates that the x\u00a0=\u00a00 ribbons consist of equiaxed Sm3Co11B4, Sm5Co19B6, Sm2Co7B3, and SmCo4B grains",
+            "all_materials": [
+                "Sm3Co11B4",
+                "Sm5Co19B6",
+                "Sm2Co7B3",
+                "SmCo4B"
+            ],
+            "other_materials": [
+                "Sm3Co11B4",
+                "Sm5Co19B6",
+                "Sm2Co7B3",
+                "SmCo4B"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A small amount of Fe addition does not change the phase composition but transforms the microstructure into a strip-like morphology in x\u00a0=\u00a00.5 ribbons, which increased both the coercivity and magnetization and obtained a quite high coercivity of 4.7 MA/m",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "When Fe content increases to x\u00a0=\u00a01.0, a new SmCo12B6-type phase forms, and the microstructure is converted from strip-shaped to equiaxed morphology, which reduces the coercivity due to the non-magnetic characteristic of SmCo12B6 and the increase of effective demagnetization field",
+            "all_materials": [
+                "SmCo12B6",
+                "SmCo12B6"
+            ],
+            "other_materials": [
+                "SmCo12B6",
+                "SmCo12B6"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                25,
+                "ShapingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The underlying mechanism was revealed by microstructure evolution in connection with the magnetic properties.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The first two authors equally contribute to this work.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

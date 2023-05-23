@@ -1,0 +1,888 @@
+{
+    "rest": [
+        {
+            "sentence": "The phase distribution of two-dimensional  perovskites is critical for solar cell power conversion efficiency",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here, we report a simple green anti-solvent  method for obtaining uniform phase dispersion of methylamine -free quasi-2D Dion-Jacobson  phase perovskite films FA3Pb4I13",
+            "all_materials": [
+                "methylamine",
+                "FA3Pb4I13"
+            ],
+            "other_materials": [
+                "methylamine"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "FA3Pb4I13"
+        },
+        {
+            "sentence": "The films present a more homogeneous phase distribution for their rapid extraction of solvents and the interaction between Pb2+ and the carbonyl group in EA, resulting in a more shining surface, reduced surface-defect density, higher out-plane mobility, and higher conductivity",
+            "all_materials": [
+                "EA"
+            ],
+            "other_materials": [
+                "EA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We obtain a PCE of 18.86\u00a0%, which is the highest for MA-free DJ phase 2D perovskite-based devices",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, the target devices maintain 85\u00a0% and 90\u00a0% of their initial values after 1008\u00a0h under 85\u00a0% relative humidity at 85 \u2103  and continuous illumination at maximum power point  tracking at\u00a0\u223c\u00a045 \u2103 , respectively.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Metal halide perovskites have attracted enormous attention for their wide applications, such as solar cells, photodetectors, integration with energy storage systems, electrocatalytic reactors , etc",
+            "all_materials": [
+                "Metal halide"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "Metal halide"
+        },
+        {
+            "sentence": "As the light-absorbing layers for solar cells, due to their tunable band gap, excellent light absorption coefficient, high carrier mobility, and long exciton diffusion length ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The photoelectric conversion efficiency  of perovskite solar cells  has developed rapidly over the past decade and has improved to 25.7\u00a0%",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the inherent instability of three-dimensional  perovskites hinders their production on an industrial scale",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Alternatively, two-dimensional perovskites have attracted more attention due to their higher stabilities for their application of interfacial modifiers or absorbers ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The significant stability of two-dimensional PSCs to oxygen and water is due to the hydrophobic properties of organic cations, which limit the intrusion of water molecules into perovskite structures and perovskite structures\u2019 high formation energy ,",
+            "all_materials": [
+                "oxygen",
+                "water",
+                "water"
+            ],
+            "other_materials": [
+                "oxygen",
+                "water",
+                "water"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Still, their PCE is lower due to their disordered arrangement, anisotropic conductivity, and high band gap.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Two-dimensional perovskites are now divided into Ruddlesden-Popper  and Dion-Jacobson  types",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The RP type is always connected in adjacent inorganic layers by a long chain of insulated organic monovalent aliphatic or conjugated aromatic alkylammoniums",
+            "all_materials": [
+                "aromatic"
+            ],
+            "other_materials": [
+                "aromatic"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the weak van der Waals forces within the organic parts always limit the charge transport and stability",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In contrast, 2D DJ perovskites can overcome these disadvantages through hydrogen bonding via the diammonium group of the organic spacing layer, making DJ perovskite a promising candidate for developing efficient and stable 2D PSCs",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, controlling their thin film orientation and phase  formation remains challenging and is critical to PSCs&#x27; performance .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Though the PCE of MA-based DJ perovskite has been above 18\u00a0%, the thermal stability of most 2D perovskites still falls behind due to the volatile MA components",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Compared with MA, formamidine  with a more homogeneous electron density distribution is thermally more stable",
+            "all_materials": [
+                "MA",
+                "formamidine"
+            ],
+            "other_materials": [
+                "MA",
+                "formamidine"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the PCE of FA-based DJ 2D perovskite is always relatively lower because it is challenging to obtain high-quality films and inhomogeneous 2D phase distribution, which could cause excessive charge recombination and hinders charge transfer ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Also, toxic anti-solvents  are harmful to the environment and health, restricting future industrial applications , .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here we used the green anti-solvent ethyl acetate  to replace the commonly used chlorobenzene , making MA-free N,N-dimethyl-1,3-propanediamine  -based quasi-2D Dion-Jacobson phase perovskite films FA3Pb4I13",
+            "all_materials": [
+                "ethyl acetate",
+                "chlorobenzene",
+                "N,N-dimethyl-1,3-propanediamine",
+                "FA3Pb4I13"
+            ],
+            "other_materials": [
+                "ethyl acetate",
+                "chlorobenzene",
+                "N,N-dimethyl-1,3-propanediamine"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "FA3Pb4I13"
+        },
+        {
+            "sentence": "DMePDA2+ has been reported to form DJ-type 2D perovskite with relatively high transport properties",
+            "all_materials": [
+                "DMePDA2+"
+            ],
+            "other_materials": [
+                "DMePDA2+"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "EA has a lower boiling point  and higher polarity , which enables rapid perovskite crystallization",
+            "all_materials": [
+                "EA"
+            ],
+            "other_materials": [
+                "EA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The resulting films presented a more homogeneous phase distribution",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It showed a more shining surface, higher out-plane mobility, reduced surface-defect density, and higher conductivity",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A PCE of 18.86\u00a0% was obtained, the highest for MA-free 2D DJ phase perovskite-based devices, as shown in Table S1",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, the target devices showed better damp heat  stability and one-sun operation stability at\u00a0\u223c\u00a045\u00a0\u00b0C  after 1008\u00a0h.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "1a shows the schematic diagram of the preparation of 2D perovskite films using different anti-solventsFig",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "First, the perovskite precursor solution was dropped on Li-treated TiO2 substrates",
+            "all_materials": [
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                7,
+                "SolutionMixing"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Then, 240\u00a0\u03bcL of the anti-solvent EA or CB were dropped at 15\u00a0s by 4,000\u00a0rpm and continued to rotate for another 15\u00a0s",
+            "all_materials": [
+                "EA",
+                "CB"
+            ],
+            "other_materials": [
+                "EA"
+            ],
+            "precursors": [
+                {
+                    "text": "CB",
+                    "start": 39,
+                    "end": 41,
+                    "token_ids": [
+                        9
+                    ]
+                }
+            ],
+            "operation": [
+                11,
+                "SolutionMixing"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "After that, the substrate was put onto a hotplate for 10\u00a0min at 100\u00a0\u00b0C",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The film based on EA shone brighter than that based on CB, as shown in Fig",
+            "all_materials": [
+                "EA",
+                "CB"
+            ],
+            "other_materials": [
+                "EA",
+                "CB"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "EA is a polar solvent with a higher1a",
+            "all_materials": [
+                "EA"
+            ],
+            "other_materials": [
+                "EA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Our study demonstrated a simple green-antisolvent process to regulate the phase distribution of MA-free quasi-2D DJ phase perovskite films FA3Pb4I13",
+            "all_materials": [
+                "FA3Pb4I13"
+            ],
+            "other_materials": [
+                "FA3Pb4I13"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The films presented a more homogeneous phase distribution, leading to higher out-plane mobility, reduced surface-defect density, and higher conductivity",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A PCE of 18.86\u00a0% was obtained, the highest for MA-free 2D DJ phase perovskite-based devices",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, the target devices presented better damp heat  stability and",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work was financially supported by the Fundamental Research Funds for the Central Universities  and the National Natural Science Foundation of China .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Inorganic hole-transporting materials  with excellent hole extraction and transfer properties are highly desirable for inverted perovskite solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the widely employed oxide HTMs  often suffer from the low p-type conductivity and severe trap-assisted recombination at HTMs/perovskite interface, which significantly limits the final performance of PSCs",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "Herein, the facile template-assisted cation exchange strategy is developed to fabricate nanopatterned Zn:NiOx as efficient HTMs for PSCs, for the first time",
+            "all_materials": [
+                "Zn:NiOx"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "Zn:NiOx"
+        },
+        {
+            "sentence": "Promisingly, by virtue of the advantageous 1D nanoscale architecture and synergistic substitutional Zn doping, high conductivity, high hole mobility and low interfacial charge trap states density have been achieved by such nanopatterned Zn:NiOx HTMs",
+            "all_materials": [
+                "Zn:NiOx HTMs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "Zn:NiOx HTMs"
+        },
+        {
+            "sentence": "These features endow the highly conductive interface for PSCs to accelerate hole extraction and minimize recombination loss",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As a consequence, PSCs with nanopatterned Zn:NiOx deliver a champion efficiency of \u224820\u00a0% with open-circuit voltage of as high as 1.14\u00a0V",
+            "all_materials": [
+                "Zn:NiOx"
+            ],
+            "other_materials": [
+                "Zn:NiOx"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work demonstrates and paves a new insight and avenue for the rational design of efficient oxide HTMs.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Organic-inorganic hybrid perovskites have already been employed as promising light-sensitive materials for high-performance photodetectors  due to their intriguing optoelectronic features",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Nonetheless, such perovskite-based PDs often suffer from low sensitivity, high dark current and inevitable degradation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, a novel multifunctional molecule l-tryptophan ethyl ester hydrochloride  was used to treat the surface defects of triple-cation mixed halide perovskite film",
+            "all_materials": [
+                "l-tryptophan ethyl ester hydrochloride",
+                "halide"
+            ],
+            "other_materials": [
+                "l-tryptophan ethyl ester hydrochloride",
+                "halide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It is found that the modulator with multiple functional groups can effectively passivate the uncoordinated ions  and halide  vacancies of the perovskite film",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Owing to the reduced defects, the dark current of the pristine perovskite PD significantly decreases from\u00a0\u223c\u00a010-9 A to\u00a0\u223c\u00a010-11 A after the l-TEEH treatment",
+            "all_materials": [
+                "PD",
+                "l-TEEH"
+            ],
+            "other_materials": [
+                "PD",
+                "l-TEEH"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, the perovskite PD with the l-TEEH treatment exhibits a large photoresponsivity  and an ultrahigh on/off ratio",
+            "all_materials": [
+                "PD",
+                "l-TEEH"
+            ],
+            "other_materials": [
+                "PD",
+                "l-TEEH"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "More impressively, the optimized device shows excellent stability in air with a relative humidity of 40\u201350\u00a0%",
+            "all_materials": [
+                "air"
+            ],
+            "other_materials": [
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, the reliable imaging capability of perovskite device with the l-TEEH treatment is also successfully demonstrated.",
+            "all_materials": [
+                "l-TEEH"
+            ],
+            "other_materials": [
+                "l-TEEH"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Two dimensional  perovskite solar cells have attracted lots of attentions due to the better stability than their three dimensional counterparts",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The interaction between the spacer cations of the 2D perovskite has great impact on the quality of the film",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "While, as to 2D Dion-Jacobson  perovskites, few studies are reported on this topic",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, we choose 2,2\u2032-disulfanediylbis  with SS unit as spacer cation to introduce intermolecular interaction, which promotes the crystallinity and oriented growth of the quasi-2D DJ perovskite film, and the charge transport",
+            "all_materials": [
+                "2,2\u2032-disulfanediylbis"
+            ],
+            "other_materials": [
+                "2,2\u2032-disulfanediylbis"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The device with structure of ITO/PEDOT:PSS/MA4Pb5I16/[6,6]-phenyl-C61-butyric acid methyl ester /bathocuproine /Ag reaches a PCE of 14.12\u00a0%, much higher than 1,6-hexamethylenediamonium-based devices",
+            "all_materials": [
+                "ITO/PEDOT:PSS/MA4Pb5I16/[6,6]-phenyl-C61-butyric acid methyl ester",
+                "bathocuproine",
+                "Ag",
+                "1,6-hexamethylenediamonium"
+            ],
+            "other_materials": [
+                "ITO/PEDOT:PSS/MA4Pb5I16/[6,6]-phenyl-C61-butyric acid methyl ester",
+                "bathocuproine",
+                "Ag",
+                "1,6-hexamethylenediamonium"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The unsealed device retains about 87\u00a0% of its original PCE in the air atmosphere with humidity of 45\u00a0\u00b1\u00a05\u00a0% after 35\u00a0days\u2019 storage.",
+            "all_materials": [
+                "PCE",
+                "air"
+            ],
+            "other_materials": [
+                "PCE",
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Perovskite solar cells  have been shining in the photovoltaic industry, but their fragile stability impedes their commercialization seriously",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here we adopt an ultra-thin film of a functional hydrophobic polymer, polychloro-p-dimethyl benzene , which can largely improve the operational lifetime of PSCs as a surface finish",
+            "all_materials": [
+                "polychloro-p-dimethyl benzene",
+                "PSCs"
+            ],
+            "other_materials": [
+                "polychloro-p-dimethyl benzene",
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Chemical vapor deposition  under vacuum is adopted to modify the ultra-thin parylene film, which is thin adequately to afford tunnel contact but is also sufficiently shielding to protect the perovskite layer",
+            "all_materials": [
+                "parylene"
+            ],
+            "other_materials": [
+                "parylene"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Besides, it is demonstrated that the Parylene C film can reduce the perovskite surface defects by interacting with the uncoordinated Pb center and act as an effective hole-hindering barrier in the middle of perovskite and PCBM for decreasing charge recombination",
+            "all_materials": [
+                "Parylene C",
+                "PCBM"
+            ],
+            "other_materials": [
+                "Parylene C",
+                "PCBM"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As a result, PSC using a \u223c4\u00a0nm Parylene C layer exhibits a remarkably increased open-circuit and fill factor and a substantially enhanced efficiency of 21.7\u00a0% from pristine 19.4\u00a0%",
+            "all_materials": [
+                "PSC",
+                "Parylene C"
+            ],
+            "other_materials": [
+                "PSC",
+                "Parylene C"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, the Parylene C-based PSCs have attained long-term thermal and operational stabilities with good reproducibility",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Without encapsulation, the degradation was limited to 11\u00a0% after 500\u00a0h of aging under ambient atmosphere/dark, 85\u00a0\u00b0C/N2, or constant illumination/ N2 conditions",
+            "all_materials": [
+                "N2",
+                "N2"
+            ],
+            "other_materials": [
+                "N2",
+                "N2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work lays a solid foundation for further stability by CVD interface modification.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Perovskite solar cells are promising and competitive candidates for future photovoltaic technologies",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the fabrication of high-quality, efficient, large-area perovskite solar cell modules  is still one of the most significant challenges for future commercialization",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this study, we introduce a sulfonic acid group into poly-l-lysine  via a one-step ring-opening reaction, and the modified PLL with a sulfonic acid group  is expected to synergistically modify the interface between the TiO2 and perovskite layers",
+            "all_materials": [
+                "poly-l-lysine",
+                "PLL",
+                "TiO2"
+            ],
+            "other_materials": [
+                "poly-l-lysine",
+                "PLL",
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The sulfonic acid group in PLLS can modify the electron transport layer by inactivating the under-coordinated titanium  ion, which reduces the oxygen vacancies and defects on the surface of the TiO2 film and increases the conductivity",
+            "all_materials": [
+                "PLLS",
+                "TiO2"
+            ],
+            "other_materials": [
+                "PLLS",
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, amine groups can passivate deep-level defects on the surface of perovskite to reduce non-radiative recombination",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The power conversion efficiency  of a unit device  is increased from 20.60\u00a0% to 22.98\u00a0% after PLLS modification",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The unencapsulated device retained\u00a0\u223c\u00a080\u00a0% of its initial efficiency after 960\u00a0h in ambient air with humidity of approximately 10\u00a0%",
+            "all_materials": [
+                "air"
+            ],
+            "other_materials": [
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, the PSCMs achieved a PCE of 20.07\u00a0%  over an active area of 33\u00a0cm2 and showed excellent operating stability.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Tin-based perovskite solar cells  are emerging as a potential alternative to lead-based PSCs in order to address issues of theoretical efficiency and toxicity limitations",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, due to the structural imperfections on the surface of perovskite films, the numerous defects can cause severe non-radiative recombination loss, which would reduce the efficiency and operational stability of Sn-PSCs",
+            "all_materials": [
+                "Sn-PSCs"
+            ],
+            "other_materials": [
+                "Sn-PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, we used 4-fluorobenzoyl chloride  for surface treatment of tin perovskite films",
+            "all_materials": [
+                "4-fluorobenzoyl chloride",
+                "tin"
+            ],
+            "other_materials": [
+                "4-fluorobenzoyl chloride",
+                "tin"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The introduction of 4FBC passivated the defects, improved the surface morphology, slowed down the formation of SnI2, suppressed the oxidation of Sn2+ from top to bottom, and improved the carrier mobility",
+            "all_materials": [
+                "4FBC",
+                "SnI2"
+            ],
+            "other_materials": [
+                "4FBC",
+                "SnI2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Encouragingly, the treated device achieved a champion power conversion efficiency of 11.03\u00a0% and significantly improved the open-circuit voltage  to 0.94\u00a0V, the fill factor  to 86.7\u00a0%, which both were the highest VOC and FF values reported in wide-bandgap Sn-PSCs  to date",
+            "all_materials": [
+                "Sn-PSCs"
+            ],
+            "other_materials": [
+                "Sn-PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The findings emphasize the importance of surface treatment for tin halide perovskites and serve as a reference for further reducing the voltage loss in wide-bandgap Sn-PSCs.",
+            "all_materials": [
+                "tin halide",
+                "Sn-PSCs"
+            ],
+            "other_materials": [
+                "tin halide",
+                "Sn-PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

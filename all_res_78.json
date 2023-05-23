@@ -1,0 +1,1079 @@
+{
+    "rest": [
+        {
+            "sentence": "Halide perovskite solar cells  have shown outstanding performance, which can be further improved through enhancing the built-in electric field  and reducing non-radiative recombination pathways",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here we in-situ grow an organic-inorganic ferroelectric layer on the perovskite film, which can be easily and quickly processed even at room-temperature within one minute",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The in-situ process endows intimate growth of ferroelectric layer on the original perovskite grains, which can reduce the formation of grain boundaries and thus minimize the recombination of electron and hole at grain boundaries",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The Vbi of the PSCs is enhanced from 1.02\u00a0V to 1.28\u00a0V due to the widened space charge depletion region after the formation of ferroelectric layer",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Finally, an output photovoltage up to 1198\u00a0mV is achieved with a champion efficiency of 22.45% and a low voltage deficit of 352\u00a0mV",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The strategy offers a new platform of growing intimate ferroelectric layers on perovskite photoactive films for integration between ferroelectrics and PSCs.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Download : Download high-res image Download : Download full-size image",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Owing to the unique photo-physical properties, including strong optical absorption, long carrier diffusion lengths and low trap densities, the power conversion efficiency  of perovskite solar cells  has gone through a rapid rise over the past few years ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To date, different strategies have been adopted for performance improvement, including the defect-mediated carrier recombination regulation, applying external force by piezo-phototronic effect under the driving force of the piezoelectric potential , and the increase of built-in electric field  to separate photogenerated excitons and facilitate trapped charges to escape from deep level defect states ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To reduce the non-radiation recombination process in PSCs, considerable methods have been carried out including solvent engineering , crystallization control engineering , interface engineering , and defect passivation ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Apart from the above-mentioned methods, ferroelectric materials, with spontaneous polarization properties, have been born to increase the Vbi to extract the photogenerated carriers in both organic solar cells ,  and PSCs ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Poly ), as a typical ferroelectric polymer, is quite often utilized in both organic solar cells and PSCs ,",
+            "all_materials": [
+                "Poly )"
+            ],
+            "other_materials": [
+                "Poly )"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, to completely convert into the ferroelectric phase, the P need to be annealed at 135\u00a0\u00b0C for half an hour , which is incompatible with the fabrication process of PSCs",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                15,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Inorganic ferroelectric oxides, such as, PbZrTiO3 , and PbTiO3 ,  are employed to improve electron-hole separation efficiency of PSCs",
+            "all_materials": [
+                "PbZrTiO3",
+                "PbTiO3",
+                "PSCs"
+            ],
+            "other_materials": [
+                "PbZrTiO3",
+                "PbTiO3",
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Nevertheless, high temperatures above 600\u00a0\u2103 for several hours are usually required to form the desired ABO3 perovskite oxide phase, which would limit the conductivity of the FTO substrate ,",
+            "all_materials": [
+                "ABO3",
+                "FTO"
+            ],
+            "other_materials": [
+                "FTO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "ABO3"
+        },
+        {
+            "sentence": "In addition to the incompatibility of the preparation methods, these ferroelectric materials themselves are also intrinsically mismatched with the structure of hybrid perovskite light absorber layer, leading to uncontrollable interfacial contact issues",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, ferroelectric material integrated with hybrid perovskite at room temperature is of great significance for engineering high-performance devices.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Recently, a series of organic-inorganic hybrid ferroelectrics have emerged with excellent ferroelectric performance comparable to those of metal oxide counterparts, together with the properties of low processing temperature, environment-friendly, light weight, and mechanical flexibility ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, organic-inorganic ferroelectrics have the similar ionic structure compatible with the hybrid perovskite in PSCs, which could probably endow in-situ fabrication of perovskite/ferroelectric heterojunction, energy level adjusting, defect passivation, etc",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The in-situ growth direction of R-LIPF crystal is consistent with the perovskite grain, which can reduce the formation of grain boundaries, minimizing the recombination of electron and hole at grain boundaries , .",
+            "all_materials": [
+                "R-LIPF"
+            ],
+            "other_materials": [
+                "R-LIPF"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here, we in-situ grow organic-inorganic R-1-ethylammonium]2PbI4 lead iodide perovskite ferroelectric  layer on the light absorber film",
+            "all_materials": [
+                "R-1-ethylammonium]2PbI4 lead iodide"
+            ],
+            "other_materials": [
+                "R-1-ethylammonium]2PbI4 lead iodide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "R-LIPF having spontaneous polarization of 13.96 \u03bcC cm\u22122 at 293\u00a0K  of \u223c8 \u03bcC cm\u22122 ) exhibits ferroelectric properties even at room temperature without annealing treatments",
+            "all_materials": [
+                "R-LIPF"
+            ],
+            "other_materials": [
+                "R-LIPF"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "One of the reactants for the formation of ionic hybrid structured R-LIPF is lead iodide, which is conducive to the in-situ growth by using the lead iodide on the surface of the perovskite light absorber layer",
+            "all_materials": [
+                "R-LIPF",
+                "lead iodide",
+                "lead iodide"
+            ],
+            "other_materials": [
+                "lead iodide"
+            ],
+            "precursors": [
+                {
+                    "text": "lead iodide",
+                    "start": 76,
+                    "end": 87,
+                    "token_ids": [
+                        13,
+                        14
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "R-LIPF"
+        },
+        {
+            "sentence": "Table S1 shows the comparison of the spontaneous polarization intensity and the reactant of different 2D hybrid organic\u2013inorganic perovskite ferroelectrics",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, R-LIPF is a multiaxial ferroelectric with eight reorientable polarization directions and eight equivalent ferroelectric axes , which means that polycrystalline R-LIPF films can exhibit ferroelectric properties even without applying further external electric field polarization",
+            "all_materials": [
+                "R-LIPF",
+                "R-LIPF"
+            ],
+            "other_materials": [
+                "R-LIPF",
+                "R-LIPF"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The in-situ growth process can be easily and quickly completed at room temperature within a minute",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The Vbi of the PSCs is enhanced from 1.02\u00a0V to 1.28\u00a0V owing to the formation of ferroelectric layer",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "An output photovoltage up to 1198\u00a0mV is achieved with a champion efficiency of 22.45% and a low voltage deficit of 352\u00a0mV",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The strategy offers a new method of growing ferroelectric materials on perovskite film for improved performance of PSCs.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "1a depicts the device structure of perovskite solar cells with FTO/TiO2/0.950.05Fig",
+            "all_materials": [
+                "FTO/TiO2/0.950.05Fig"
+            ],
+            "other_materials": [
+                "FTO/TiO2/0.950.05Fig"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In order to in-situ grow hybrid ferroelectric layer on the surface of perovskite film, we prolonged the annealing time of perovskite film to induce lead iodide  on the perovskite film",
+            "all_materials": [
+                "lead iodide"
+            ],
+            "other_materials": [
+                "lead iodide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "When the annealing time is extended to 30\u00a0mins, PbI2 begins to form, as shown in the XRD patterns of perovskite films",
+            "all_materials": [
+                "PbI2"
+            ],
+            "other_materials": [
+                "PbI2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The PbI2 is supposed to produce at the boundaries of perovskite grains on",
+            "all_materials": [
+                "PbI2"
+            ],
+            "other_materials": [
+                "PbI2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In conclusion, we have demonstrated in-situ growth of organic-inorganic ferroelectric overlayer on the perovskite surface for fabricating a PSCs with an output photovoltage up to 1198\u2009mV, a champion efficiency of 22.45%, and a low voltage deficit of 352\u2009mV",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                19,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The R-LIPF ferro-layer can enhance the whole Vbi for better charge extraction/separation and reduce the non-radiation recombination by effective defect passivation, thereby improving the performance of the PSC devices, especially VOC",
+            "all_materials": [
+                "R-LIPF",
+                "VOC"
+            ],
+            "other_materials": [
+                "R-LIPF",
+                "VOC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "N, N-Dimethylformamide , dimethyl sulfoxide , chlorobenzene , acetonitrile , lead iodine , R-1-ethylamine , and the SnO2 colloid precursor  oxide, 15% tH2O colloidal dispersion) were purchased from Alfa Aesar",
+            "all_materials": [
+                "N, N-Dimethylformamide",
+                "dimethyl sulfoxide",
+                "chlorobenzene",
+                "acetonitrile",
+                "lead iodine",
+                "R-1-ethylamine",
+                "SnO2",
+                "tH2O"
+            ],
+            "other_materials": [
+                "tH2O"
+            ],
+            "precursors": [
+                {
+                    "text": "N, N-Dimethylformamide",
+                    "start": 0,
+                    "end": 22,
+                    "token_ids": [
+                        0,
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "text": "dimethyl sulfoxide",
+                    "start": 25,
+                    "end": 43,
+                    "token_ids": [
+                        4,
+                        5
+                    ]
+                },
+                {
+                    "text": "chlorobenzene",
+                    "start": 46,
+                    "end": 59,
+                    "token_ids": [
+                        7
+                    ]
+                },
+                {
+                    "text": "acetonitrile",
+                    "start": 62,
+                    "end": 74,
+                    "token_ids": [
+                        9
+                    ]
+                },
+                {
+                    "text": "lead iodine",
+                    "start": 77,
+                    "end": 88,
+                    "token_ids": [
+                        11,
+                        12
+                    ]
+                },
+                {
+                    "text": "R-1-ethylamine",
+                    "start": 91,
+                    "end": 105,
+                    "token_ids": [
+                        14
+                    ]
+                },
+                {
+                    "text": "SnO2",
+                    "start": 116,
+                    "end": 120,
+                    "token_ids": [
+                        18
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Isopropyl alcohol , titanium diisopropoxide bis , 4-tert-butylpyridine  and lithium bisimide",
+            "all_materials": [
+                "Isopropyl alcohol",
+                "titanium diisopropoxide bis , 4-tert-butylpyridine",
+                "lithium bisimide"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "Isopropyl alcohol",
+                    "start": 0,
+                    "end": 17,
+                    "token_ids": [
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "text": "titanium diisopropoxide bis , 4-tert-butylpyridine",
+                    "start": 20,
+                    "end": 70,
+                    "token_ids": [
+                        3,
+                        4,
+                        5,
+                        6,
+                        7
+                    ]
+                },
+                {
+                    "text": "lithium bisimide",
+                    "start": 76,
+                    "end": 92,
+                    "token_ids": [
+                        9,
+                        10
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Lingbo Xiao: Experiments, Methodology, Discussion",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Writing \u2013 original draft preparation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Xiaoli Xu: Experiments, Characterizations, Device Fabrication, Draft Discussion",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Zheng Lu: Characterizations, Device fabrication",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Jie Zhao: Conceiving, Supervision, Reviewing, Editing",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Ruiyuan Liu: Data Discussion",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Yaqi Ye: Characterizations, Device Fabrication",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Rujun Tang: Data analysis, Manuscript Discussion",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Wei-Qiang Liao: Conceiving, Supervision, Data Discussion",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Ren-Gen Xiong: Conceiving",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Guifu Zou:",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We gratefully acknowledge the support from the National Natural Science Foundation of China , the National Natural Science Foundation of Jiangsu Province , the Key Lab of Advanced Optical Manufacturing Technologies of Jiangsu Province &amp; Key Lab of Modern Optical Technologies of Education Ministry of China, Soochow University, Soochow Municipal laboratory for low carbon technologies and industries Key Laboratory of Core Technology of High Specific Energy Battery and Key",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Self-powered photodetectors play an important role in building passive monitoring networks and interactive intelligent platforms",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, when low-temperature, the degradation of performance always plagues the development of photovoltaic-based photodetectors, especially in the adaptation of photovoltaic conversion technology to environmental diversification",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We adopt an emerging bromine doped n-type SnSe thermoelectric single crystal as a core element with Ag/SnSe:Br/ITO structure to achieve the low-temperature enhanced photoelectric performance, which originates from the thermo-phototronic effect of thermoelectric materials",
+            "all_materials": [
+                "SnSe",
+                "Ag/SnSe:Br/ITO"
+            ],
+            "other_materials": [
+                "SnSe",
+                "Ag/SnSe:Br/ITO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "When the temperature drops from 300\u00a0K to 100\u00a0K, the response current and voltage of Ag/SnSe:Br/ITO device increase by 139% and 696%, respectively",
+            "all_materials": [
+                "Ag/SnSe:Br/ITO"
+            ],
+            "other_materials": [
+                "Ag/SnSe:Br/ITO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, the responsivity and specific detectivity of the device at 100\u00a0K are 7.95 and 2.74 times higher than those at 300\u00a0K, respectively, which enhanced output performance at low-temperature may be related to the acceleration of photogenerated electrons caused by the driving force of the thermoelectric effect",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work provides a simple structure, low-temperature enhanced photodetectors.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Constructing a multifunctional material for harvesting different types of energy requires a novel strategy that can offer a higher output while simultaneously reducing the device&#x27;s size and increasing its usability",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here we have developed a flexible Ag2Te-nylon nanocomposite film-based hybrid device using a vacuum filtration technique that can harvest simultaneously thermal and mechanical energy using the thermoelectric and triboelectric effect",
+            "all_materials": [
+                "Ag2Te-nylon"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "Ag2Te-nylon"
+        },
+        {
+            "sentence": "The flexible hybrid device can generate a power of \u223c 35 nW corresponding to a power density of 58\u00a0\u00b5W/cm2 through simple finger touch by thermoelectric effect, whereas an output power of \u223c7 nW corresponding to a power density of 23 nW/cm2 can be generated via rubbing with fingertips due to the triboelectric effect",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In the Ag2Te-PVDF nanocomposite film, an output power of 0.3\u00a0\u00b5W  has been achieved while rubbing with fingertips",
+            "all_materials": [
+                "Ag2Te-PVDF"
+            ],
+            "other_materials": [
+                "Ag2Te-PVDF"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The fabricated device in this study is the only one of its kind where a single material can harvest thermal and mechanical energy",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The flexible film&#x27;s hybrid energy harvesting feature, along with the advantages of low cost and simple synthesis, makes it a promising choice for harvesting energy from human activities.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A majority of current studies about non-resonant energy harvesters for low-frequency energy are based on pure experiment without theoretical modeling",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, a novel hybrid triboelectric-electromagnetic harvester in form of a rolling magnet inside a casing is proposed for scavenging low-frequency energy from multi-directional excitations, which includes a number of sub triboelectric energy harvesters  and two sub electromagnetic energy harvesters",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Both the mechanical model and electrical model are established for a horizontal excitation, a rocking excitation and a vertical excitation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A velocity-dependent coefficient of restitution for impact and an impact-velocity-dependent charge density are obtained via experiment, which improve the theoretical model and result in better agreement between theoretical and experimental results",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Structural response and electric outputs under different types of external excitations are investigated theoretically",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It is found that the harvester has a good sensitivity to small-angle ultra-low-frequency rocking excitations, which is beneficial to low-frequency energy harvesting",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "When tested on a shake table at 4\u00a0Hz, a sub-TEH and a sub-EEH can generate peak powers of 212.1\u00a0\u00b5W and 57.8\u00a0mW, respectively",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "An electronic clock is able to work continuously when powered by the harvester shaken by hand",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The harvester is also tested inside a handbag carried by a walking human for biomechanical energy and on a floating structure for wave energy, which exhibits good performance",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work presents a novel design with a capability of harvesting low-frequency energy under different external excitations, which contributes to the development and applications of triboelectric and electromagnetic energy harvesting.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The fundamental principles governing photovoltaic properties of nonfullerene acceptors  are essential for developing high-performance polymer solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, using three heteroheptacene-based acceptors  as model compounds, we systematically study the implication of heteroatoms in the heteroheptacene core on the molecular packing, morphology, optoelectronic, photophysical, and photovoltaic properties of the NFAs",
+            "all_materials": [
+                "NFAs"
+            ],
+            "other_materials": [
+                "NFAs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It is found that replacing the oxygen atoms at the inner positions of the heteroheptacene core with sulfur atoms leads to the molecular packing mode change from a linear two-dimensional  brickwork structure to a three-dimensional  reticulated motif, which facilitates the formation of a desirable active layer with nanostructured phase separation morphology and improved charge transport",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Meanwhile, the down-shifted highest occupied molecular orbital energy level of M36 induced by the sulfur substitution, matches better with that of polymer donor PM6 thereby leading to more efficient exciton dissociation and charge transfer",
+            "all_materials": [
+                "M36",
+                "PM6"
+            ],
+            "other_materials": [
+                "M36",
+                "PM6"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As a result, the best-performing photovoltaic device based on M36 affords an outstanding efficiency of 17%, which is among the highest values reported for all the ADA-type NFAs",
+            "all_materials": [
+                "M36",
+                "NFAs"
+            ],
+            "other_materials": [
+                "M36",
+                "NFAs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Our work reveals the important role of the heteroatoms in the heteroheptacene core in constructing the 3D network of ADA-type NFAs, and the structure-property relationships herein shall provide an important guidance for designing high-performance NFAs.",
+            "all_materials": [
+                "NFAs",
+                "NFAs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NFAs"
+        },
+        {
+            "sentence": "Flexible perovskite solar cells are new energy devices with a promising future due to their numerous advantages, such as high defect tolerance, strong solar absorption and low non-radiative carrier recombination rates",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, their operational stability is still an ongoing challenge during upgrading, and their inferior moisture corrosion resistance is still a major issue for better performances",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Thin-film encapsulation could effectively enhance the operational stability of perovskite solar cells but obtaining encapsulation films with excellent barrier performance always come at the expense of poor flexibility",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, the development of novel encapsulation materials with both barrier performance and flexibility is urgent for the compatibility of flexible applications",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, &quot;Plasma-Enhanced Molecular Layer Deposition&quot; was used for the first time to prepare a highly cross-linked, densified flexible encapsulation material AlOC at 40\u00a0\u2103 to break through the traditional technology",
+            "all_materials": [
+                "AlOC"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "AlOC"
+        },
+        {
+            "sentence": "The resulting encapsulation material can be applied to flexible perovskite solar cells as a barrier film without any damage",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The as-obtained encapsulation film exhibited a water vapor transmittance rate of 1.44\u00a0\u00d7\u00a010\u22125 g\u00a0m\u22122 day\u22121 and preserved 95\u00a0% of its initial barrier performance after 10,000 bends with a 3\u00a0mm bend radius",
+            "all_materials": [
+                "water"
+            ],
+            "other_materials": [
+                "water"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Such performance was the best among the reported thin-film encapsulation layers of flexible perovskite solar cells.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Excess PbI2 can improve the efficiency of perovskite solar cells",
+            "all_materials": [
+                "PbI2"
+            ],
+            "other_materials": [
+                "PbI2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, it usually leads to poor cell stability due to the chemically active nature of PbI2",
+            "all_materials": [
+                "PbI2"
+            ],
+            "other_materials": [
+                "PbI2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Improving the stability of PbI2-rich perovskite solar cells without scarifying the efficiency remains challenging",
+            "all_materials": [
+                "PbI2"
+            ],
+            "other_materials": [
+                "PbI2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, it is found that the non-uniform and multiple nucleation of perovskite induces crystallographic disorders at grain boundaries  of PbI2-rich perovskite",
+            "all_materials": [
+                "PbI2"
+            ],
+            "other_materials": [
+                "PbI2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "These disorders working as the n-type shallow dopant reduces the energy barrier for photogenerated electrons to reach GBs, triggering the decomposition of excess PbI2 there",
+            "all_materials": [
+                "PbI2"
+            ],
+            "other_materials": [
+                "PbI2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, the instability of PbI2-rich PSCs is related with the remote coupling of excess PbI2 with the disorders at GBs",
+            "all_materials": [
+                "PbI2",
+                "PSCs",
+                "PbI2"
+            ],
+            "other_materials": [
+                "PbI2",
+                "PSCs"
+            ],
+            "precursors": [
+                {
+                    "text": "PbI2",
+                    "start": 91,
+                    "end": 95,
+                    "token_ids": [
+                        17
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In light of this finding, we introduced a small amount  of CdI2 into precursor solution to optimize the crystallization of PbI2-rich perovskite, and finally achieved a trade-off between efficiency and stability in PbI2-rich PSCs",
+            "all_materials": [
+                "CdI2",
+                "PbI2",
+                "PbI2",
+                "PSCs"
+            ],
+            "other_materials": [
+                "PbI2",
+                "PbI2",
+                "PSCs"
+            ],
+            "precursors": [
+                {
+                    "text": "CdI2",
+                    "start": 59,
+                    "end": 63,
+                    "token_ids": [
+                        12
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The optimized PSCs with 10\u00a0mol% excess PbI2  achieved a champion efficiency of 24.26% at the bandgap 1.55\u00a0eV with robust stability",
+            "all_materials": [
+                "PSCs",
+                "PbI2"
+            ],
+            "other_materials": [
+                "PSCs",
+                "PbI2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "PC-Devices maintain more than 90% of the initial efficiency after being stressed under UV light in ambient with a relative humidity of 50% for 500\u00a0h, and 70% under heat at 85\u02daC for 400\u00a0h, both of which are far superior to the pristine PbI2-rich solar cells.",
+            "all_materials": [
+                "PbI2"
+            ],
+            "other_materials": [
+                "PbI2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "These authors contributed equally to this work and should be considered co-first authors.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

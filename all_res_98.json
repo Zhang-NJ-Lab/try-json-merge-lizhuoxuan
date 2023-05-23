@@ -1,0 +1,908 @@
+{
+    "rest": [
+        {
+            "sentence": "The fabrication conditions of the light absorber layer  have a very large effect on the device performance in perovskite solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In case of using the 1-step anti-solvent treatment , their show very different characteristics depending on the AST time, amount, and temperature, etc",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here, we determined the optimal AST time for the synthesis of perovskite light absorber layer in relation to the turbidity point  of the precursor solution during spin coating according to the temperature inside the glovebox",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The TP was examined according to the fluid flow of the host solvent, and it depended on various conditions, such as the temperature and substrate",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The measured TP was almost identical to the estimated TP, and both tended to decrease as the internal temperature increased",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The AST time and the internal temperature of the glovebox significantly affected the crystallinity and device performance of the perovskite, and the best device performance of 18.9% for a methylammonium lead iodide  solar cell with n-i-p normal planar structure was achieved by applying an AST time of 9.5\u00a0s at 25\u00a0\u00b0C",
+            "all_materials": [
+                "methylammonium lead iodide"
+            ],
+            "other_materials": [
+                "methylammonium lead iodide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Drive-level capacitance profiling and thermal admittance spectroscopy results confirmed that the optimal AST time of 9.5\u00a0s yielded a minimum trap density of 2.1\u00a0\u00d7\u00a01015/cm3, which was related to the trap states of MAPbI3.",
+            "all_materials": [
+                "MAPbI3"
+            ],
+            "other_materials": [
+                "MAPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Download : Download high-res image Download : Download full-size image",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Organic\u2013inorganic halide perovskites have received considerable attention because of their excellent optical and electrical properties as absorber materials for next-generation solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Since the possibility of perovskite was reported in 2009 , scientists have endeavoured to increase the efficiency of perovskite solar cells  using compositional exchange, intermolecular exchange, and interface engineering [, ], and the record for the highest power conversion efficiency  was recently set by a Korean research team",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Among the various methods used, anti-solvent engineering was a key factor that increased the efficiency of perovskite [, ]",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Perovskite materials are highly sensitive to moisture and heat; thus, the crystallinity of perovskite is generally determined by the solvent and atmosphere",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Since the two-step sequential deposition methods use the host and anti-solvent at different times, it is difficult to control the experimental conditions compared with other methods such as one-step spin-coating or dipping techniques [, ]",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Studies have indicated the importance of controlling the deposition process; however, issues regarding the temperature and host-solvent fluid have often been excluded from discussion",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "first applied the concept of \u201cturbidity\u201d to perovskite thin films and reported that the ambient moisture was related to the perovskite crystallinity along with the loading time of the anti-solvent in the process of synthesizing perovskite films Wang et al",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                36,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "reported supersaturation of perovskite solutions during the spin-coating process, and the radial gradient and irregular nucleation of intermediates formed defects in the perovskite Chen et al",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, Vaynzof et al",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "recently published the results of 14 anti-solvents investigations to improve the performance of perovskite solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Although perovskite is synthesized in a glovebox to prevent environmental impacts in most laboratories, but the sample preparation according to the temperature inside the glove box has not been considered in detail thus far",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                3,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, it is essential to determine the effects of the anti-solvent and temperature in the synthesis of perovskite in a glovebox and to precisely control them for obtaining high-crystallinity perovskite films with identical properties for future applications",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this study, we investigated the effects of the anti-solvent treatment  time according to temperature inside the glove box on the perovskite morphology and device performance",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Methylammonium lead iodide  perovskite was fabricated under various conditions, and the fluid flow of the host solvent and appropriate AST time were examined",
+            "all_materials": [
+                "Methylammonium lead iodide"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                5,
+                "StartingSynthesis"
+            ],
+            "targets": "Methylammonium lead iodide"
+        },
+        {
+            "sentence": "We experimentally determined the optimal AST times for different temperatures inside the glovebox",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "By applying an AST time of 9.5\u00a0s at 25\u00a0\u00b0C, the highest PCE of 18.9% was achieved for the MAPbI3 solar cells with n-i-p normal planar structure, resulting from the reduction of the trap density in MAPbI3 to 2.1\u00a0\u00d7\u00a01015/cm3.",
+            "all_materials": [
+                "MAPbI3",
+                "MAPbI3"
+            ],
+            "other_materials": [
+                "MAPbI3",
+                "MAPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "1a and b shows the fabrication processes for MAPbI3 thin films with and without dimethyl sulfoxide  and ASTFig",
+            "all_materials": [
+                "MAPbI3",
+                "dimethyl sulfoxide",
+                "ASTFig"
+            ],
+            "other_materials": [
+                "dimethyl sulfoxide",
+                "ASTFig"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "MAPbI3"
+        },
+        {
+            "sentence": "As shown in Fig",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "1a, the perovskite film was not well-synthesized by using the solution containing N, N-dimethylformamide , PbI2, and methylammonium iodide",
+            "all_materials": [
+                "N, N-dimethylformamide",
+                "PbI2",
+                "methylammonium iodide"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "N, N-dimethylformamide",
+                    "start": 82,
+                    "end": 104,
+                    "token_ids": [
+                        15,
+                        16,
+                        17
+                    ]
+                },
+                {
+                    "text": "PbI2",
+                    "start": 107,
+                    "end": 111,
+                    "token_ids": [
+                        19
+                    ]
+                },
+                {
+                    "text": "methylammonium iodide",
+                    "start": 117,
+                    "end": 138,
+                    "token_ids": [
+                        22,
+                        23
+                    ]
+                }
+            ],
+            "operation": [
+                9,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Because DMF has a high vapor pressure, the PbI2 phase was rapidly formed before the reaction in which perovskite crystals were created [19,20]",
+            "all_materials": [
+                "DMF",
+                "PbI2"
+            ],
+            "other_materials": [
+                "DMF"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PbI2"
+        },
+        {
+            "sentence": "According to previous studies, DMSO can slow down this rapid",
+            "all_materials": [
+                "DMSO"
+            ],
+            "other_materials": [
+                "DMSO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We investigated the TP according to the fluid flow of the host solvent and examined the changes in the TP under various conditions",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The temperature inside the glovebox was correlated with TP of perovskite precursor solution during spin coating process, and TP was related to the optimal AST application time",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, it is very important to find the optimal AST time through correlation analysis between the AST application time and the temperature",
+            "all_materials": [
+                "AST",
+                "AST"
+            ],
+            "other_materials": [
+                "AST",
+                "AST"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Jaegwan Sin: Methodology, Investigation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Hyojung Kim: Writing \u2013 original draft, Visualization, Investigation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Mijoung Kim: Methodology, Investigation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moonhoe Kim: Methodology, Investigation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Jeonghun Shin: Methodology, Investigation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Jinpyo Hong: Writing \u2013 original draft, Supervision",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "JungYup Yang: Writing \u2013 original draft, Supervision, Funding acquisition, Conceptualization.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors declare the following financial interests/personal relationships which may be considered as potential competing interests: JungYup Yang reports was provided by Kunsan National University",
+            "all_materials": [
+                "JungYup"
+            ],
+            "other_materials": [
+                "JungYup"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "JungYup Yang reports a relationship with Kunsan National University that includes: employment.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This research was supported by Korea Electric Power Corporation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This research was supported by the Basic Science Research Program through the National Research Foundation of Korea  funded by the Ministry of Science, ICT and Future Planning  and the Ministry of Education",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work was supported by the Korea Institute of Energy Technology Evaluation and Planning  granted financial resource from the Ministry of",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Porous three-dimensional electrochromic films composed of orthorhombic WO3\u00b7H2O, hexagonal WO3, and rutile TiO2 array  were controllably synthesized by a facile two-step hydrothermal technique",
+            "all_materials": [
+                "WO3\u00b7H2O",
+                "WO3",
+                "TiO2"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                20,
+                "StartingSynthesis"
+            ],
+            "targets": "WO3\u00b7H2O"
+        },
+        {
+            "sentence": "Due to the hydrophilicity and array structure of TiO2, the generation of high-quality o-WO3\u00b7H2O was significantly promoted, which can reduce the energy barrier to ion diffusion and increase the ion flux by introducing structural water in the interlayer region of WO3",
+            "all_materials": [
+                "TiO2",
+                "o-WO3\u00b7H2O",
+                "water",
+                "WO3"
+            ],
+            "other_materials": [
+                "TiO2",
+                "o-WO3\u00b7H2O",
+                "water",
+                "WO3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The formation of porous 3-dimensional structure and WO3\u2013TiO2 heterojunction increases the effective contact area, alters the distribution of energy bands, and promotes charge transport, resulting in significantly improved electrochromic properties",
+            "all_materials": [
+                "WO3\u2013TiO2"
+            ],
+            "other_materials": [
+                "WO3\u2013TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "An impressive dual-band electrochromic performance with high optical modulation of 68.4% at 633\u00a0nm and 59.8% at 1600\u00a0nm was achieved in WWT film, respectively, with a fast switching speed , high coloration efficiency , and a satisfactory cycling stability at the same time.",
+            "all_materials": [
+                "WWT"
+            ],
+            "other_materials": [
+                "WWT"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Electrochromic  technology allows control of the transmission of visible light and solar radiation through thin-film devices",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "When applied to \u201csmart\u201d windows, EC technology can significantly diminish energy use for cooling and air conditioning of buildings and simultaneously provide good indoor comfort for the buildings\u2019 occupants through reduced glare",
+            "all_materials": [
+                "air"
+            ],
+            "other_materials": [
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "EC \u201csmart\u201d windows are available on the market, but it is nevertheless important that their degradation under operating conditions be better understood and, ideally, prevented",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In the present work, we investigated EC properties, voltammetric cycling durability, and potentiostatic rejuvenation of sputter-deposited WO3 thin films immersed in LiClO4\u2013propylene carbonate electrolytes containing up to 3.0\u00a0wt% of \u223c7-nm-diameter SiO2 nanoparticles",
+            "all_materials": [
+                "WO3",
+                "LiClO4",
+                "propylene carbonate",
+                "SiO2"
+            ],
+            "other_materials": [
+                "WO3",
+                "LiClO4",
+                "propylene carbonate",
+                "SiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Adding about 1\u00a0wt% SiO2 led to a significant improvement in cycling durability in the commonly used potential range of 2.0\u20134.0\u00a0V vs",
+            "all_materials": [
+                "SiO2"
+            ],
+            "other_materials": [
+                "SiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, X-ray photoemission spectroscopy indicated that O\u2013Si bonds were associated with enhanced durability in the presence of SiO2 nanoparticles.Li/Li+",
+            "all_materials": [
+                "SiO2"
+            ],
+            "other_materials": [
+                "SiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As one of the prospective crystalline silicon  technologies, tunnel oxide passivating contact  solar cells have recently attracted much attention in the photovoltaic community",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the deficit of open-circuit voltage due to the imperfect passivation performance together with the insufficient understanding of the passivation mechanism, especially for the key structures of TOPCon devices , is a crucial factor to limit the improvement of device efficiency",
+            "all_materials": [
+                "TOPCon"
+            ],
+            "other_materials": [
+                "TOPCon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To unlock the full passivation potential of this type of poly-Si/SiOx/c-Si contact, we report a systematic investigation by combining experiments and simulations",
+            "all_materials": [
+                "poly-Si/SiOx/c-Si"
+            ],
+            "other_materials": [
+                "poly-Si/SiOx/c-Si"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The related results can be summarized: 1) the best passivation can be obtained by optimizing SiOx quality, tailoring the in-diffusion profile, and performing hydrogenation; 2) if SiOx quality is good enough, high-level passivation can be expected even without impurity doping; 3) although the deepened in-diffusion could partially alleviate the degradation of the poor surface passivation, it would also reduce the passivation performance owing to the increased Auger recombination inherent to the high impurity doping; 4) the presence of pinholes would degrade the passivation performance, especially for the cases with the good surface passivation, a shallow in-diffusion and a low doping concentration of poly-Si, where the electric-field effect was minimized",
+            "all_materials": [
+                "SiOx",
+                "SiOx",
+                "poly-Si"
+            ],
+            "other_materials": [
+                "SiOx",
+                "SiOx",
+                "poly-Si"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To further confirm these conclusions, recombination distributions and the corresponding current profiles of the minority carriers were reviewed",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work clarifies the passivation mechanism of c-Si/SiOx/poly-Si contact in detail and provides effective guidance for further promoting the passivation level and the efficiencies of TOPCon devices.",
+            "all_materials": [
+                "c-Si/SiOx/poly-Si",
+                "TOPCon"
+            ],
+            "other_materials": [
+                "c-Si/SiOx/poly-Si",
+                "TOPCon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Substitution of expensive silver paste becomes essential for mass production of silicon heterojunction  solar cell, which calls for high efficiency and low-cost metallization techniques",
+            "all_materials": [
+                "silver",
+                "silicon"
+            ],
+            "other_materials": [
+                "silver"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "silicon"
+        },
+        {
+            "sentence": "Copper metallization together with multi-busbar cell interconnection is considered as effective way to low shading loss and electrode ohmic loss",
+            "all_materials": [
+                "Copper"
+            ],
+            "other_materials": [
+                "Copper"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "While, the electrode adhesion and parasitic plating are the key process challenges limiting the copper metallization of SHJ solar cells",
+            "all_materials": [
+                "copper"
+            ],
+            "other_materials": [
+                "copper"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this research, the copper plated SHJ solar cells with high electrode aspect ratio and an efficiency of 23.35% have been achieved on M2 wafers",
+            "all_materials": [
+                "copper",
+                "M2"
+            ],
+            "other_materials": [
+                "copper",
+                "M2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The SEM images show the holes in the plated layers will deteriorate the adhesion between plated copper and seed-layer",
+            "all_materials": [
+                "copper"
+            ],
+            "other_materials": [
+                "copper"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The glass/back sheet structure  modules have been laminated to evaluate the influence of parasitic plating on damp-heat  performance",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                9,
+                "ShapingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The degradation in output power  is up to 4.90%, which is primarily due to a decreased open-circuit voltage  and fill factor",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It can be ascribed to the deteriorated surface recombination and interconnection",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Although the parasitic plating on the wafer edge has ignorable influence on damp heat test after etch-back process, it is still necessary to protect the cell edge to avoid parasitic plating",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The research evaluates the process challenges of copper metallization of SHJ solar cells, which offers a refer for achieving high reliability and low levelized cost of energy  of photovoltaic power generation.",
+            "all_materials": [
+                "copper"
+            ],
+            "other_materials": [
+                "copper"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work we present the design, assembly and characterization of a tandem photoelectrochemical  cell based on two different crystallographic phases of sub-stoichiometric copper telluride nanocrystals",
+            "all_materials": [
+                "copper telluride"
+            ],
+            "other_materials": [
+                "copper telluride"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The first one, a pseudo-cubic phase, pc-Cu2-xTe, is characterized by positive photocurrents, while the second one, a hexagonal phase, h-Cu2-xTe, favors negative ones",
+            "all_materials": [
+                "pc-Cu2-xTe",
+                "h-Cu2-xTe"
+            ],
+            "other_materials": [
+                "pc-Cu2-xTe",
+                "h-Cu2-xTe"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Taking advantage of the different optoelectronic properties of the two Cu2-xTe structures, we prepared a PEC cell composed of a hybrid pc-Cu2-xTe/TiO2 photoanode, with TiO2 acting as a light absorber and electron selective layer, and a h-Cu2-xTe/CuI photocathode, with CuI behaving as a photo-absorber and hole selective layer",
+            "all_materials": [
+                "Cu2-xTe",
+                "PEC",
+                "pc-Cu2-xTe/TiO2",
+                "TiO2",
+                "h-Cu2-xTe/CuI",
+                "CuI"
+            ],
+            "other_materials": [
+                "Cu2-xTe",
+                "pc-Cu2-xTe/TiO2",
+                "TiO2",
+                "h-Cu2-xTe/CuI",
+                "CuI"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                16,
+                "StartingSynthesis"
+            ],
+            "targets": "PEC"
+        },
+        {
+            "sentence": "The tandem PEC cell shows a photocurrent density of \u223c0.5\u00a0mA/cm2 when measured in a 2-electrode configuration without any co-catalyst",
+            "all_materials": [
+                "PEC"
+            ],
+            "other_materials": [
+                "PEC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Finally, to test the PEC cell performance for the hydrogen evolution reaction , a thin film of Pt was deposited on top of the photocathode and \u223c7\u00a0\u03bcmol of hydrogen were obtained at 0.6\u00a0V in a 1-h experiment, reaching a photocurrent of 1\u00a0mA/cm2 with no losses.",
+            "all_materials": [
+                "PEC",
+                "hydrogen",
+                "Pt",
+                "hydrogen"
+            ],
+            "other_materials": [
+                "PEC",
+                "hydrogen",
+                "Pt",
+                "hydrogen"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Organic/inorganic perovskite solar cells have dramatically improved in efficiency in recent years and have a trend to be comparable to silicon solar cells, its simple process is expected to become an alternative to silicon solar cells in the future",
+            "all_materials": [
+                "silicon",
+                "silicon"
+            ],
+            "other_materials": [
+                "silicon",
+                "silicon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, in perovskite solar cells, the ineffective carrier extraction leads to non-radiative recombination of some carriers during the diffusion from the perovskite layer to other transport layers, which is a cause of cell efficiency loss",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This paper describes the introduction of solid particles of molybdenum oxide of a certain particle size dispersed between the perovskite layer/hole transport layer to improve the extraction of hole carriers, resulting in an improved device short-circuit current density",
+            "all_materials": [
+                "molybdenum oxide"
+            ],
+            "other_materials": [
+                "molybdenum oxide"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                16,
+                "LiquidGrinding"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We further investigated the dependence of the comprehensive performance of the molybdenum oxide incorporated perovskite solar cell on the amount of molybdenum oxide introduced, and the current density-voltage results showed that the optimal content of molybdenum oxide was 0.5\u00a0mg/ml, and the efficiency of the perovskite solar cell at this content was 18.27% with a short-circuit current density of 23.67 mA\u00b7cm\u22122, while the efficiency of the device without molybdenum oxide was 16.97% with a short-circuit current density of 21.84 mA\u00b7cm\u22122",
+            "all_materials": [
+                "molybdenum oxide",
+                "molybdenum oxide",
+                "molybdenum oxide",
+                "molybdenum oxide"
+            ],
+            "other_materials": [
+                "molybdenum oxide",
+                "molybdenum oxide",
+                "molybdenum oxide",
+                "molybdenum oxide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, this work provides an effective way to improve the efficiency of perovskite solar cells.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "co-1st author",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

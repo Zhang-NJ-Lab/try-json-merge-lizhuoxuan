@@ -1,0 +1,1078 @@
+{
+    "rest": [
+        {
+            "sentence": "The process of the antisolvent rinsing plays an important role during the formation of the perovskite crystals",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Since the function of the single-component antisolvent may be limited, a reducing agent named acetaldoxime  was applied as the additive for the antisolvent",
+            "all_materials": [
+                "acetaldoxime"
+            ],
+            "other_materials": [
+                "acetaldoxime"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The analysis of both the surface morphology and the crystal structure indicates that AO can effectively improve the quality of the FASnI3 perovskite film",
+            "all_materials": [
+                "AO",
+                "FASnI3"
+            ],
+            "other_materials": [
+                "AO",
+                "FASnI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The defects of the perovskite film can be greatly suppressed",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, due to the increase of the crystal grain size with the surface roughness reducing at the same time, the charge recombination resistance of the FASnI3 perovskite film increases",
+            "all_materials": [
+                "FASnI3"
+            ],
+            "other_materials": [
+                "FASnI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, the devices modified by AO have higher short-circuit current, fill factor as well as power conversion efficiency",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "At the same time, the surface of the FASnI3 perovskite film becomes more hydrophobic, which benefits impeding the permeation of the ambient vapor into the perovskite film",
+            "all_materials": [
+                "FASnI3"
+            ],
+            "other_materials": [
+                "FASnI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The results of lifetime testing show that the stability of the devices is greatly improved.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Download : Download high-res image Download : Download full-size image",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As one of the rising star of the clean and renewable energy, perovskite solar cells have attracted great attention during the past decades",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The power conversion efficiency  of lead-based perovskite solar cells has been improved from 3.8%  to beyond 25% in just one decade",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In order to make the perovskite solar cells more environmentally friendly, lead-free metals such as tin-based perovskite has been investigated to replace lead as the light absorption materials",
+            "all_materials": [
+                "lead"
+            ],
+            "other_materials": [
+                "lead"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Among them, formamidinium tin tri-iodide -based perovskite is the most attractive due to its superiority of photoelectronic properties",
+            "all_materials": [
+                "formamidinium tin tri-iodide"
+            ],
+            "other_materials": [
+                "formamidinium tin tri-iodide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "FASnI3 perovskite is a very promising candidate as a photovoltaic material since it has a suitable optical band gap , low exciton binding energy  and high carrier mobility",
+            "all_materials": [
+                "FASnI3"
+            ],
+            "other_materials": [
+                "FASnI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Nonetheless, currently the device performance of FASnI3-based perovskite is not satisfactory enough compared to that of lead-based devices",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For one thing, the stannous ion Sn2+ of FASnI3 is in an uncoordinated state",
+            "all_materials": [
+                "FASnI3"
+            ],
+            "other_materials": [
+                "FASnI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It is easily oxidized to tetravalent tin ion Sn4+ due to the self-doping effect",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                3,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For the other thing, too fast the crystallization process of the FASnI3 perovskite film will easily lead to too small of the crystal grain size, at the same time induce a lot of defects in the film",
+            "all_materials": [
+                "FASnI3"
+            ],
+            "other_materials": [
+                "FASnI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, how to prevent the oxidation of Sn2+ and control the crystallization rate are crucial obtaining high-quality FASnI3 perovskite films .",
+            "all_materials": [
+                "FASnI3"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "FASnI3"
+        },
+        {
+            "sentence": "It has been proved effective to improve the crystallization of FASnI3 perovskite film by using mixed antisolvent or incorporating additives into the antisolvent",
+            "all_materials": [
+                "FASnI3"
+            ],
+            "other_materials": [
+                "FASnI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Various additives such as stannous fluoride  , stannous chloride  , hydrazinium chloride  , ethylenediammonium diiodide  , hydroxybenzene sulfonic  , formamidinium thiocyanate   and trimethylamine  , dimethyl ketoxime  , poly   and so on have been applied as the additives for the antisolvent to optimize the performance of the FASnI3 perovskite solar cells.",
+            "all_materials": [
+                "stannous fluoride",
+                "stannous chloride",
+                "hydrazinium chloride",
+                "ethylenediammonium diiodide",
+                "hydroxybenzene sulfonic",
+                "formamidinium thiocyanate",
+                "trimethylamine",
+                "dimethyl ketoxime",
+                "poly",
+                "FASnI3"
+            ],
+            "other_materials": [
+                "FASnI3"
+            ],
+            "precursors": [
+                {
+                    "text": "stannous fluoride",
+                    "start": 26,
+                    "end": 43,
+                    "token_ids": [
+                        4,
+                        5
+                    ]
+                },
+                {
+                    "text": "stannous chloride",
+                    "start": 47,
+                    "end": 64,
+                    "token_ids": [
+                        7,
+                        8
+                    ]
+                },
+                {
+                    "text": "hydrazinium chloride",
+                    "start": 68,
+                    "end": 88,
+                    "token_ids": [
+                        10,
+                        11
+                    ]
+                },
+                {
+                    "text": "ethylenediammonium diiodide",
+                    "start": 92,
+                    "end": 119,
+                    "token_ids": [
+                        13,
+                        14
+                    ]
+                },
+                {
+                    "text": "hydroxybenzene sulfonic",
+                    "start": 123,
+                    "end": 146,
+                    "token_ids": [
+                        16,
+                        17
+                    ]
+                },
+                {
+                    "text": "formamidinium thiocyanate",
+                    "start": 150,
+                    "end": 175,
+                    "token_ids": [
+                        19,
+                        20
+                    ]
+                },
+                {
+                    "text": "trimethylamine",
+                    "start": 182,
+                    "end": 196,
+                    "token_ids": [
+                        22
+                    ]
+                },
+                {
+                    "text": "dimethyl ketoxime",
+                    "start": 200,
+                    "end": 217,
+                    "token_ids": [
+                        24,
+                        25
+                    ]
+                },
+                {
+                    "text": "poly",
+                    "start": 221,
+                    "end": 225,
+                    "token_ids": [
+                        27
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein we introduce a reducing agent acetaldoxime  as the additive for the antisolvent of chlorobenzene to optimize the crystallization process of the FASnI3 perovskite film",
+            "all_materials": [
+                "acetaldoxime",
+                "chlorobenzene",
+                "FASnI3"
+            ],
+            "other_materials": [
+                "acetaldoxime",
+                "chlorobenzene",
+                "FASnI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "On the one hand the interaction between the oxime group and the uncoordinated Sn can retard the grain growth of the FASnI3 perovskite crystals, which helps to reduce the defects in the perovskite film; on the other hand, the reducibility of the electron-rich oxime group can keep the stannous ions from oxidation .",
+            "all_materials": [
+                "FASnI3"
+            ],
+            "other_materials": [
+                "FASnI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "All chemicals were employed as received without further purification, with Tin  iodides  and 2,9-dimethyl-4,7-diphenyl-1,10-phenanthroline  from Sigma Aldrich, formamidinium iodide  and Poly/poly  from Xi&#x27;an p-OLED, Tin fluoride  from Alfa Aesar, buckminsterfullerene  from Ningbo Borun, Silver pellet  from China New Metal, N, N-Dimethylformamide  and dimethyl sulfoxide",
+            "all_materials": [
+                "Tin  iodides",
+                "2,9-dimethyl-4,7-diphenyl-1,10-phenanthroline",
+                "formamidinium iodide",
+                "Poly/poly",
+                "p-OLED",
+                "Tin fluoride",
+                "buckminsterfullerene",
+                "Silver",
+                "N, N-Dimethylformamide",
+                "dimethyl sulfoxide"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "Tin  iodides",
+                    "start": 75,
+                    "end": 87,
+                    "token_ids": [
+                        11,
+                        12
+                    ]
+                },
+                {
+                    "text": "2,9-dimethyl-4,7-diphenyl-1,10-phenanthroline",
+                    "start": 93,
+                    "end": 138,
+                    "token_ids": [
+                        14
+                    ]
+                },
+                {
+                    "text": "formamidinium iodide",
+                    "start": 160,
+                    "end": 180,
+                    "token_ids": [
+                        19,
+                        20
+                    ]
+                },
+                {
+                    "text": "Poly/poly",
+                    "start": 186,
+                    "end": 195,
+                    "token_ids": [
+                        22,
+                        23,
+                        24
+                    ]
+                },
+                {
+                    "text": "p-OLED",
+                    "start": 213,
+                    "end": 219,
+                    "token_ids": [
+                        33
+                    ]
+                },
+                {
+                    "text": "Tin fluoride",
+                    "start": 221,
+                    "end": 233,
+                    "token_ids": [
+                        35,
+                        36
+                    ]
+                },
+                {
+                    "text": "buckminsterfullerene",
+                    "start": 252,
+                    "end": 272,
+                    "token_ids": [
+                        41
+                    ]
+                },
+                {
+                    "text": "Silver",
+                    "start": 293,
+                    "end": 299,
+                    "token_ids": [
+                        46
+                    ]
+                },
+                {
+                    "text": "N, N-Dimethylformamide",
+                    "start": 330,
+                    "end": 352,
+                    "token_ids": [
+                        53,
+                        54,
+                        55
+                    ]
+                },
+                {
+                    "text": "dimethyl sulfoxide",
+                    "start": 358,
+                    "end": 376,
+                    "token_ids": [
+                        57,
+                        58
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As indicated in Fig",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "1 , the device architecture used in this study is the typical trans-planar structure of the perovskite solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As for the improved devices, acetaldoxime  was used as the additive for the antisolvent",
+            "all_materials": [
+                "acetaldoxime"
+            ],
+            "other_materials": [
+                "acetaldoxime"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The chemical structure of AO is indicated in Fig",
+            "all_materials": [
+                "AO"
+            ],
+            "other_materials": [
+                "AO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It is worth noting that the electron-rich group of\u00a0=\u00a0N\u2013H in the structure, which makes AO acting as a reducing agent, will play the dominant role in the morphology of the FASnI3 perovskite crystal aggregates.1",
+            "all_materials": [
+                "AO",
+                "FASnI3"
+            ],
+            "other_materials": [
+                "AO",
+                "FASnI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In summary, an effective method to improve the quality of the FASnI3 perovskite film is introduced by applying AO as the additive for the antisolvent",
+            "all_materials": [
+                "FASnI3",
+                "AO"
+            ],
+            "other_materials": [
+                "FASnI3",
+                "AO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It is revealed that the addition of AO can simultaneously improve the surface morphology and the interior structure of the FASnI3 perovskite film",
+            "all_materials": [
+                "AO",
+                "FASnI3"
+            ],
+            "other_materials": [
+                "FASnI3"
+            ],
+            "precursors": [
+                {
+                    "text": "AO",
+                    "start": 36,
+                    "end": 38,
+                    "token_ids": [
+                        7
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Such improvement includes the increase of the grain size, the raise of the crystallinity, the reduction of the surface roughness, and the inhibition of the defects",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, both the efficiency and",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors would like to thank the financial support of the National Natural Science Foundation of China , National Key Research and Development Program of China , Guangzhou Hongmian Project , Foshan Introducing Innovative and Entrepreneurial Teams .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Defects at the interface and grain boundaries of perovskite solar cells  will result in severe non-radiative recombination and open-circuit voltage  loss",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, we reported a zwitterionic ionic liquid imidazolium tetrafluoroborate  to passivate the defects at tin dioxide /perovskite interface",
+            "all_materials": [
+                "imidazolium tetrafluoroborate",
+                "tin dioxide"
+            ],
+            "other_materials": [
+                "imidazolium tetrafluoroborate",
+                "tin dioxide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The results showed that the electron-rich nitrogen atom contained IM+ could diffuse into the buried perovskite to exhibit a strong chemical passivation effect on the organic vacancy defect by interacting with uncoordinated Pb2+",
+            "all_materials": [
+                "Pb2+"
+            ],
+            "other_materials": [
+                "Pb2+"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The F\u2013 in BF4- has a strong coordination effect with Pb2+in perovskite and Sn2+ in SnO2 synchronously to fill the anion vacancy defect",
+            "all_materials": [
+                "BF4-",
+                "SnO2"
+            ],
+            "other_materials": [
+                "BF4-",
+                "SnO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Also, the BF4- anions could help to form an interface dipole layer to increase the charge transfer rate and reduce the work function",
+            "all_materials": [
+                "BF4-"
+            ],
+            "other_materials": [
+                "BF4-"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The IMBF4 modified device could achieve an efficiency enhancement from 20.18% to 23.05% by vacuum flash-assisted solution-processed, with the increased Voc from 1.09\u00a0V to 1.15\u00a0V",
+            "all_materials": [
+                "IMBF4"
+            ],
+            "other_materials": [
+                "IMBF4"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The unencapsulated IMBF4 modified device could maintain 93% of the initial efficiency after ageing for 2000\u00a0h under ambient conditions by the ISOS-D-1 stability-testing protocols",
+            "all_materials": [
+                "IMBF4"
+            ],
+            "other_materials": [
+                "IMBF4"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work emphasizes the importance of multifunctional additives in passivating defects and improving interface contact for achieving efficient and stable perovskite solar cells.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Although halide perovskite solar cells  have shown tremendous progress in device performance, state-of-the-art PSCs are still far below the theoretical efficiency",
+            "all_materials": [
+                "halide"
+            ],
+            "other_materials": [
+                "halide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To further reach the theoretical limit, it is essentially required to maximize radiative recombination in the full device stack",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here, we report that boosting radiation in the full device stack is an effective way for reaching the radiative limit of power conversion efficiency  by demonstrating the correlation between external photoluminescence quantum efficiency  of the full device stack and PCE of the devices",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We found that controlling the bottom charge transporting layer /perovskite interface is a main factor to boost radiation in the full device stack",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The device combined with the interface and bulk engineering exhibited an improved external PLQE of 15.57%, resulting in an improved PCE of over 25%  and almost 95% achievement rate of the radiative limit open-circuit voltage .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Tin  perovskites as photovoltaic materials show great promise due to their suitable bandgaps and lower toxicity",
+            "all_materials": [
+                "Tin"
+            ],
+            "other_materials": [
+                "Tin"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, various defects in Sn perovskites induce significant losses in devices",
+            "all_materials": [
+                "Sn"
+            ],
+            "other_materials": [
+                "Sn"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, we report a strategy of dual-site passivation of Sn-related defects in lead-free Sn perovskite solar cells",
+            "all_materials": [
+                "Sn"
+            ],
+            "other_materials": [
+                "Sn"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We adopt ethylenediammonium halide salts  as additives in Sn perovskite and find that both EDAI2 and EDABr2 can suppress Sn oxidation and passivate trap states, however, EDABr2 works better than EDAI2 in terms of passivating undesired grain boundaries and surface Sn vacancies, and reducing background hole density, due to the synergistic roles of EDA2+ cation and Br- anion",
+            "all_materials": [
+                "ethylenediammonium halide",
+                "EDAI2",
+                "EDABr2",
+                "EDABr2",
+                "EDAI2",
+                "Sn"
+            ],
+            "other_materials": [
+                "ethylenediammonium halide",
+                "EDAI2",
+                "EDABr2",
+                "EDABr2",
+                "EDAI2",
+                "Sn"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, EDABr2 exhibits more consummate passivation effect on SnI antisite defects as deep-level traps due to its larger electrostatic potential and shorter bonding length between -Br and -Sn",
+            "all_materials": [
+                "EDABr2",
+                "SnI",
+                "-Br",
+                "-Sn"
+            ],
+            "other_materials": [
+                "EDABr2",
+                "SnI",
+                "-Br",
+                "-Sn"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "These enable great suppression of non-radiative recombination and enhancement of charge carrier transport",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As a result, the best-performing EDABr2-modified device achieves a power conversion efficiency of 14.23% with long-term durability of keeping \u223c93% of its initial efficiency after storing for \u223c4000\u00a0h and improved operational stability",
+            "all_materials": [
+                "EDABr2"
+            ],
+            "other_materials": [
+                "EDABr2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Our work provides a promising approach to choose satisfactory passivators and fabricate efficient Sn perovskite solar cells.",
+            "all_materials": [
+                "Sn"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "Sn"
+        },
+        {
+            "sentence": "Among functional materials, \u03c0-conjugated polymers are very attractive for large-scale or wearable applications thanks to their electronic and soft-matter properties",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Poly   based materials are often considered as the flagships of polymer electronics",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Indeed, their tunable doping level affords various electronic transport behaviors, i.e",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "metallic, semi-metallic, or semi-conductor, with respect to the targeted applications",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, reducing the size of functional objects is a cornerstone of the semi-conductor industry&#x27;s drive for improved performance",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Hence, the nanopatterning of \u03c0-conjugated polymers and its relationship to electronic behavior is of high interest for future developments in polymer electronics",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here we report the texturation of PEDOT:Tos thin films at the nanometer scale via block copolymer lithography using self-assembled poly-block-poly  layers as masks",
+            "all_materials": [
+                "PEDOT:Tos"
+            ],
+            "other_materials": [
+                "PEDOT:Tos"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "By means of imaging and electronic spectral analyses, we demonstrate that doped-PEDOT nanostructures can be obtained by this process through a re-doping treatment, enabling the recovery of the majority of the electronic states of the nanotextured PEDOT:Tos layer.",
+            "all_materials": [
+                "PEDOT:Tos"
+            ],
+            "other_materials": [
+                "PEDOT:Tos"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Lead free tin perovskite solar cells  are the most suitable alternative candidate for conventional lead perovskite solar cells",
+            "all_materials": [
+                "tin",
+                "lead"
+            ],
+            "other_materials": [
+                "tin",
+                "lead"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the efficiency and the stability are insufficient, mainly because of the poor film quality and numerous defects",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Here we introduce an efficient strategy based on a simple trimethylsilyl halide surface passivation to increase the film quality and reduce the defect density",
+            "all_materials": [
+                "trimethylsilyl halide"
+            ],
+            "other_materials": [
+                "trimethylsilyl halide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "At the same time, a hydrophobic protective layer on the perovskite surface is formed, which enhanced the PKSCs\u2019 stability",
+            "all_materials": [
+                "PKSCs"
+            ],
+            "other_materials": [
+                "PKSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The efficiency of the solar cell after the passivation was enhanced from 10.05 % to 12.22% with the improved open-circuit voltage from 0.57\u00a0V to 0.70\u00a0V",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, after 92\u00a0days of storage in N2 filled glovebox, the modified T-PKSCs demonstrated high stability maintaining 80% of its initial efficiency",
+            "all_materials": [
+                "N2",
+                "T-PKSCs"
+            ],
+            "other_materials": [
+                "N2",
+                "T-PKSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work provides a simple and widely used strategy to optimize the surface/interface optoelectronic properties of perovskites for giving more efficient and stable solar cells and other optoelectronic devices.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Tin halide perovskites are the front-runner for lead-free perovskite solar cells",
+            "all_materials": [
+                "Tin halide"
+            ],
+            "other_materials": [
+                "Tin halide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Currently the highest efficiency is reaching 15% which is the highest among other types of lead-free perovskites",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "There are several issues with tin halide perovskites that need to be addressed before they can really compete with lead-based PSC",
+            "all_materials": [
+                "tin halide",
+                "PSC"
+            ],
+            "other_materials": [
+                "tin halide",
+                "PSC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Among the issues are the prone of oxidation of Sn2+ into Sn4+ in air, fast crystallization leading to morphologically uneven surface and the formation of pinholes, large energy mismatch between commonly used charge transport layers , and current-voltage hysteresis due to unbalanced charge carrier transport and ion migration",
+            "all_materials": [
+                "air"
+            ],
+            "other_materials": [
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this experiment, we incorporated Cs+ which is a small A-site cation to reduce the energy mismatch between the perovskite layer and CTLs",
+            "all_materials": [
+                "CTLs"
+            ],
+            "other_materials": [
+                "CTLs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Although this was explored previously even in tin halide perovskite solar cells, we showed that Cs cation incorporation alone will not improve the performance, however when used simultaneously with [6,6]-Phenyl-C61 butyric acid butyl ester  as the electron transport layer , we managed to improve the efficiency of the tin PSC to more than 13%",
+            "all_materials": [
+                "tin halide",
+                "[6,6]-Phenyl-C61 butyric acid butyl ester",
+                "tin PSC"
+            ],
+            "other_materials": [
+                "tin halide",
+                "[6,6]-Phenyl-C61 butyric acid butyl ester",
+                "tin PSC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To understand this phenomenon, we used impedance spectroscopy analysis to evaluate the charge transport mechanism",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We attribute this enhancement due to better energy level alignment between the perovskite layer and ETL.",
+            "all_materials": [
+                "ETL"
+            ],
+            "other_materials": [
+                "ETL"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Zeng, CW",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Shi have equally contributed to this work.Yuan and Y",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

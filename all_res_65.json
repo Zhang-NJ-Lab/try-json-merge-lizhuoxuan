@@ -1,0 +1,1207 @@
+{
+    "rest": [
+        {
+            "sentence": "Monolithic perovskite silicon tandem solar cells promise high efficiency and cost advantage",
+            "all_materials": [
+                "silicon"
+            ],
+            "other_materials": [
+                "silicon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In such tandem devices a conductive front electrode of high transparency is necessary for lateral transportation of the charges.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This study focuses on optimizing the electro-optical properties of DC sputtered ITO films as front electrode in monolithic two-terminal perovskite silicon tandem solar cells",
+            "all_materials": [
+                "ITO"
+            ],
+            "other_materials": [
+                "ITO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Initially, an ITO thin film is developed by finding a possible optimum doping level that provides both high transparency and low sheet resistance",
+            "all_materials": [
+                "ITO"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "ITO"
+        },
+        {
+            "sentence": "Moreover, to further decouple the transparency-conductivity trade-off of the ITO bulk properties from the requirements for low-ohmic contact formation, a thin, highly doped ITO interlayer is inserted towards the SnOX interface",
+            "all_materials": [
+                "ITO",
+                "ITO",
+                "SnOX"
+            ],
+            "other_materials": [
+                "ITO",
+                "ITO",
+                "SnOX"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The ITO thin film  significantly improved efficiency of the tandem solar cells by improving all solar cell parameters",
+            "all_materials": [
+                "ITO"
+            ],
+            "other_materials": [
+                "ITO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This optimization led to improved tandem short circuit density with reduced standard deviation from a mean value of 19.3\u00a0\u00b1\u00a00.4\u00a0mA/cm2 to 19.8\u00a0\u00b1\u00a00.2\u00a0mA/cm2, increased average fill factor from 68% to 73% and average power conversion efficiency increase from 22% to 25%.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Silicon solar cells are approaching their theoretical efficiency limit of 29.4% [1,2]",
+            "all_materials": [
+                "Silicon"
+            ],
+            "other_materials": [
+                "Silicon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Tandem solar cells promise reaching higher efficiencies by utilizing the solar spectrum more efficiently",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Perovskite solar cells are promising candidates for coupling with silicon in tandem structure as a top solar cell",
+            "all_materials": [
+                "silicon"
+            ],
+            "other_materials": [
+                "silicon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Organic-inorganic lead halides are especially promising due to facile processing, abundant availability of the raw materials, exceptional electro-optical properties, adjustable bandgap and high defect tolerance [, ]",
+            "all_materials": [
+                "lead halides"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "lead halides"
+        },
+        {
+            "sentence": "A 2-terminal monolithic tandem configuration is advantageous for module integration since it eliminates the need for rear and front electrodes for the top and bottom cell respectively",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "2-terminal perovskite silicon tandem solar cells in lab scale have already reached 31.3% power conversion efficiency, in line with the optical simulation results and ensuring the potential of the perovskite silicon tandem solar cell technology [2,8,9].",
+            "all_materials": [
+                "silicon",
+                "silicon"
+            ],
+            "other_materials": [
+                "silicon",
+                "silicon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Effective light management in the tandem solar cell stack is necessary to reduce the optical losses and maximize the absorption in the absorber layers",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Transparent and conductive electrodes are one of the necessary layers for realizing monolithic perovskite silicon tandem solar cells",
+            "all_materials": [
+                "silicon"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "silicon"
+        },
+        {
+            "sentence": "Transparent conductive oxides  offer good electro-optical properties with facile processing and are used widely among other transparent and conductive electrodes",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "One of the most used TCOs is indium tin oxide  due to its superior electro-optical properties and stability",
+            "all_materials": [
+                "TCOs",
+                "indium tin oxide"
+            ],
+            "other_materials": [
+                "TCOs",
+                "indium tin oxide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Among various applications, the commonly used ITO composition is 90\u00a0wt% In2O3 and 10\u00a0wt% SnO2 [10,12]",
+            "all_materials": [
+                "ITO",
+                "In2O3",
+                "SnO2"
+            ],
+            "other_materials": [
+                "ITO",
+                "SnO2"
+            ],
+            "precursors": [
+                {
+                    "text": "In2O3",
+                    "start": 72,
+                    "end": 77,
+                    "token_ids": [
+                        13
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Typically sputtering is applied as deposition method for TCOs and is available for industrial scale applications",
+            "all_materials": [
+                "TCOs"
+            ],
+            "other_materials": [
+                "TCOs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, detailed optimization of the sputter process is necessary since the unwanted optical properties correlate with wanted electrical properties, such as increasing parasitic absorption with increasing free carrier density",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, direct sputtering of TCOs on perovskite top solar cells is challenging due to the risk of damaging the organic layers and the perovskite layer underneath by altering their chemical bonding [, ]",
+            "all_materials": [
+                "TCOs"
+            ],
+            "other_materials": [
+                "TCOs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Introducing a buffer layer under the TCO, such as SnOx deposited via ALD in the p-i-n perovskite solar cell stack, is a common method of mitigating the risk of sputter damage [, ].",
+            "all_materials": [
+                "TCO",
+                "SnOx"
+            ],
+            "other_materials": [
+                "TCO",
+                "SnOx"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, the development of an electro-optically optimized ITO thin film with low sheet resistance and low absorptance as well as an ITO stack film with further improved contact to the SnOx buffer layer are presented",
+            "all_materials": [
+                "ITO",
+                "ITO",
+                "SnOx"
+            ],
+            "other_materials": [
+                "ITO",
+                "ITO",
+                "SnOx"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The optimized films are implemented into perovskite silicon tandem solar cells",
+            "all_materials": [
+                "silicon"
+            ],
+            "other_materials": [
+                "silicon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The low sheet resistance and absorptance are achieved by fine-tuning the oxygen flow rate during the sputtering process of the ITO films.",
+            "all_materials": [
+                "oxygen",
+                "ITO"
+            ],
+            "other_materials": [
+                "oxygen",
+                "ITO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A low damage ITO sputter process using a 90\u00a0wt% In2O3 and 10\u00a0wt% SnO2 planar target was developed in a previous study by optimizing the substrate temperature, process pressure and sputter power [, ]",
+            "all_materials": [
+                "ITO",
+                "In2O3",
+                "SnO2"
+            ],
+            "other_materials": [
+                "In2O3",
+                "SnO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "ITO"
+        },
+        {
+            "sentence": "The best results were achieved by applying a power density of 0.4\u00a0W/cm2, 50\u00a0\u00b0C chamber temperature and 0.26\u00a0Pa process pressure with no oxygen gas flow into the system during sputtering process",
+            "all_materials": [
+                "oxygen"
+            ],
+            "other_materials": [
+                "oxygen"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For all processes Argon was used as the sputter gas at 30 sccm flow rate",
+            "all_materials": [
+                "Argon"
+            ],
+            "other_materials": [
+                "Argon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this study",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Using the stack design, the efficiency of the tandem solar cells could be considerably increased",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The main motivation for the stack design had been to achieve the current enhancement observed for the oxygen rich ITO, without the detrimental effects on FF",
+            "all_materials": [
+                "ITO"
+            ],
+            "other_materials": [
+                "ITO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "With the stack design an increase of the average jSC compared to the reference ITO process from 19.3\u00a0\u00b1\u00a00.4\u00a0mA/cm2 up to 19.8\u00a0\u00b1\u00a00.2\u00a0mA/cm2 was achieved",
+            "all_materials": [
+                "ITO"
+            ],
+            "other_materials": [
+                "ITO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Despite the simple silicon hetero junction design, excellent high jSC can be reached that",
+            "all_materials": [
+                "silicon"
+            ],
+            "other_materials": [
+                "silicon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this study two optimized ITO film stacks are developed that provide improved electro-optical properties",
+            "all_materials": [
+                "ITO"
+            ],
+            "other_materials": [
+                "ITO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Initially, an optimized doping level for the ITO is found to provide low absorptance and moderate sheet resistance",
+            "all_materials": [
+                "ITO"
+            ],
+            "other_materials": [
+                "ITO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Doping of the ITO is controlled via the oxygen flow rate during the sputtering process",
+            "all_materials": [
+                "ITO",
+                "oxygen"
+            ],
+            "other_materials": [
+                "ITO",
+                "oxygen"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It was found that 0.2 sccm  reduces the absorptance of the films and slightly reduces the sheet resistance compared to oxygen deficit layer with 0 sccm",
+            "all_materials": [
+                "oxygen"
+            ],
+            "other_materials": [
+                "oxygen"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Higher flow rate",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "250\u00a0\u03bcm-thick p-type float zone silicon wafers with a base resistivity of 1\u00a0\u03a9\u00a0cm  are used for the silicon bottom solar cells",
+            "all_materials": [
+                "silicon"
+            ],
+            "other_materials": [
+                "silicon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The back side of the wafer is etched with a pyramidal texture by using potassium hydroxide",
+            "all_materials": [
+                "potassium hydroxide"
+            ],
+            "other_materials": [
+                "potassium hydroxide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "After RCA cleaning and subsequent HF dipping in 1% aqueous solution to remove the SiO2, an intrinsic doped amorphous silicon passivation layer stack is deposited on both sides , Indeotec cluster tool)",
+            "all_materials": [
+                "RCA",
+                "HF",
+                "SiO2"
+            ],
+            "other_materials": [
+                "RCA",
+                "HF",
+                "SiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Kabakl\u0131: Writing \u2013 review &amp; editing, Writing \u2013 original draft, Investigation, Data curation\u00d6zde \u015e",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Jakob Kox: Investigation, Data curation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Leonard Tutsch: Writing \u2013 review &amp; editing, Supervision, Investigation, Data curation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Minasadat Heydarian: Writing \u2013 review &amp; editing, Data curation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Bett: Writing \u2013 review &amp; editing, Data curationAlexander J",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Stefan Lange: Data curation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Oliver Fischer: Data curation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Christian Hagendorf: Supervision",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Martin Bivour: Writing \u2013 review &amp; editing,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Kabakl\u0131, P.S.C\u00d6.\u015e",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Heydarian optimized the perovskite top solar cell fabricationSchulze, M",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Kabakli fabricated the perovskite silicon tandem solar cells\u00d6.S",
+            "all_materials": [
+                "silicon"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                1,
+                "StartingSynthesis"
+            ],
+            "targets": "silicon"
+        },
+        {
+            "sentence": "Kox, LJ",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Tutsch optimized the TCO thin films and performed the characterization of the thin films",
+            "all_materials": [
+                "TCO"
+            ],
+            "other_materials": [
+                "TCO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Fischer investigated the series resistance of the cellsO",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Lange investigated the contact resistivity of the ITO-SnOX interfaceS",
+            "all_materials": [
+                "ITO-SnOX"
+            ],
+            "other_materials": [
+                "ITO-SnOX"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Bett supervised the current-voltage characterization of the tandem solar cellsA.J",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "All authors",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Module reliability and service lifetime are critical factors in improving photovoltaic system performance and reducing the levelized cost of electricity",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Soldering and lamination of the cell impart residual stresses that persist over time and superimpose additional loads during operation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This paper demonstrates the use of X-ray Topography  to image in-situ the dynamic response of a glass/backsheet mini-module upon drying at elevated temperature after saturation at humidity levels compatible with accelerated testing",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                21,
+                "DryingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The local water content in the encapsulant is also determined in-situ over time via Water Reflectometric Detection , with diffusion of water in the front  and rear  resolved",
+            "all_materials": [
+                "water",
+                "water"
+            ],
+            "other_materials": [
+                "water",
+                "water"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As water diffuses out from the back of the glass/backsheet module, the cell curves towards the backsheet concomitantly",
+            "all_materials": [
+                "water"
+            ],
+            "other_materials": [
+                "water"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We find that the cell edges deflect 40\u00a0\u03bcm out-of-plane with respect to its center while the encapsulant dries, compared to \u223c100\u00a0\u03bcm deflection when heating from 25\u00a0\u00b0C to 85\u00a0\u00b0C",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                31,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The local cell deflections  are correlated with the dynamic loss of water in the backside encapsulant",
+            "all_materials": [
+                "water"
+            ],
+            "other_materials": [
+                "water"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We conclude that the observed cell deflections are the result of hygroscopic stress induced by the encapsulant upon moisture outdiffusion",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, the cell experiences a continually changing stress state and curvature dependent on local humidity and temperature",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Depending on cell architecture and interconnection, this \u201cbreathing\u201d mode of the cell may induce wear out and fatigue of the interconnects, affect the electrical connection of cracked pieces or cause failure near the interconnected edges of two cells.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A hybrid photovoltaic-thermal  system combines photovoltaic  and photo-thermal  energy collection into a single structure, enhancing the potential to achieve greater solar energy conversion efficiencies",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Such enhanced efficiencies can result in greater economic returns and could promote a larger uptake of PVT devices in cold and temperate climate countries",
+            "all_materials": [
+                "PVT"
+            ],
+            "other_materials": [
+                "PVT"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Through the utilization of a Monte Carlo ray-tracing model, this work provides new insights into the optical, electrical, and thermal characteristics of PVT devices",
+            "all_materials": [
+                "PVT"
+            ],
+            "other_materials": [
+                "PVT"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In particular, the work focuses on evaluating the behaviour of novel luminescent imidazole-phenanthroline-based working fluids that were previously experimentally investigated as liquid spectral beam splitters",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The modelling procedure outlined here is able of providing an in-depth analysis of various categories of photons undergoing events such as transmission, absorption, parasitic absorption, and luminescent downshifting  which, otherwise, are difficult or impossible to detect experimentally",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Evaluating such photon characteristics provides the possibility to estimate the direct contribution of the luminophore  to the enhanced conversion efficiencies reported for PVT systems",
+            "all_materials": [
+                "PVT"
+            ],
+            "other_materials": [
+                "PVT"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, the model can also allow for better tuning of the luminophore properties to match the main factors that are influencing the energy conversion dynamics of these systems",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The current results indicate that the embedded luminophore is able of providing direct contributions of up to 91% for thermal power generation and 77% towards electrical power generation for the various concentrations of the liquid filters when compared with the individual performances of the independent PV or PT systems.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Passivating contacts based on doped polysilicon  and ultrathin silicon oxide offer outstanding surface passivation and low contact resistance",
+            "all_materials": [
+                "silicon oxide"
+            ],
+            "other_materials": [
+                "silicon oxide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The passivation quality of poly-Si contacts can be further improved by hydrogenating the oxide interface, often achieved via thermal annealing with hydrogen-containing dielectric coatings such as silicon nitride  or aluminium oxide",
+            "all_materials": [
+                "poly-Si",
+                "silicon nitride",
+                "aluminium"
+            ],
+            "other_materials": [
+                "poly-Si",
+                "silicon nitride",
+                "aluminium"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                20,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, we present an alternative method using magnesium fluoride  coatings to improve the recombination properties of doped poly-Si layers",
+            "all_materials": [
+                "magnesium fluoride",
+                "poly-Si"
+            ],
+            "other_materials": [
+                "magnesium fluoride",
+                "poly-Si"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It is found that MgFx coatings can yield comparable benefits as AlOx and SiNx on n-type poly-Si, enhance the passivation effect of SiNx on p-type poly-Si when used as an additional capping layer, and facilitate the recovery of firing-induced-degradation in n-type poly-Si",
+            "all_materials": [
+                "MgFx",
+                "AlOx",
+                "SiNx",
+                "poly-Si",
+                "SiNx",
+                "poly-Si",
+                "poly-Si"
+            ],
+            "other_materials": [
+                "MgFx",
+                "AlOx",
+                "SiNx",
+                "poly-Si",
+                "SiNx",
+                "poly-Si",
+                "poly-Si"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Besides improving passivation, MgFx exhibits some inherent advantages over other dielectric films in that it is more conductive and has a low work function",
+            "all_materials": [
+                "MgFx"
+            ],
+            "other_materials": [
+                "MgFx"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Utilising these properties, we have demonstrated the use of 10\u00a0nm thick MgFx films as an interlayer to improve contact formation between n-type poly-Si and evaporated aluminium, achieving a contact resistivity of 1.6m\u03a9\u2219cm2 while preserving the passivation",
+            "all_materials": [
+                "MgFx",
+                "poly-Si",
+                "aluminium"
+            ],
+            "other_materials": [
+                "MgFx",
+                "poly-Si",
+                "aluminium"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                28,
+                "DryingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Our results highlight a possible pathway to use MgFx to simultaneously improve the passivation and metallisation of doped poly-Si contacts in industrial production.",
+            "all_materials": [
+                "MgFx",
+                "poly-Si"
+            ],
+            "other_materials": [
+                "MgFx",
+                "poly-Si"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In recent years, high energy demands have posed a huge challenge to the research community to come up with efficient and robust energy-producing materials",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In lieu of this, materials discovery by building a Process-Structure-Properties  relationship for organic photovoltaic  cells using mathematical and statistical models is a useful approach, however, computationally expensive and time-consuming",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The present study utilizes the physics-based model to develop the Process-Structure  relationship for 68 different blend ratios and proposed Artificial Neural Network  models to map blend concentration with structural properties of OPV cells, namely, Percolation Fraction  and Interfacial Area",
+            "all_materials": [
+                "OPV"
+            ],
+            "other_materials": [
+                "OPV"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The fitted ANN model is then utilised for multi-objective optimization to find the optimal concentration of donor and acceptor to have maximum PF and IA using a Genetic Algorithm; this is further verified by search-based multi-objective optimization to have better insight into the design sub-space which contained optimal solution",
+            "all_materials": [
+                "PF",
+                "IA"
+            ],
+            "other_materials": [
+                "PF",
+                "IA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Finally, the optimal values of concentrations are validated through device optimization where efficiency predictions were made on structural data of the same morphologies using a mechanistic and regression model",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It has been demonstrated that the amalgamation of data-driven techniques and physics-based simulation is the new way forward for accelerated material discovery.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The effects of growth conditions on InAs/GaAs submonolayer-quantum-dot solar cells are still a little explored topic, and the literature shows contradictory results regarding the efficiency of these devices",
+            "all_materials": [
+                "InAs/GaAs"
+            ],
+            "other_materials": [
+                "InAs/GaAs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Through electrical and optical characterizations  and self-consistent Schr\u00f6dinger\u2013Poisson simulations in the effective-mass approximation, we investigate how the reconstruction of the GaAs surface prior to the deposition of InAs/GaAs submonolayer quantum dots influences the properties of these nanostructures and the performance of solar cells",
+            "all_materials": [
+                "GaAs",
+                "InAs/GaAs"
+            ],
+            "other_materials": [
+                "GaAs",
+                "InAs/GaAs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Current-voltage characteristics and external quantum efficiency curves show that the use of the  surface reconstruction\u2014instead of the commonly used c surface reconstruction\u2014leads to higher short-circuit current density and improved performance at room temperature",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The  surface reconstruction also leads to enhanced photoluminescence intensity at low temperatures compared to the c surface reconstruction",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The simulations\u2014which are based on previous cross-sectional scanning tunneling microscopy data of InAs/GaAs submonolayer quantum dots\u2014indicate that neither type of submonolayer quantum dot can confine electrons, as they are too small and their In content is too low",
+            "all_materials": [
+                "InAs/GaAs"
+            ],
+            "other_materials": [
+                "InAs/GaAs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the electron ground state is closer to being confined in the SMLQDs grown with the  surface reconstruction, as such nanostructures are surrounded by a thick InGaAs layer having a lower In content than for the other surface reconstruction",
+            "all_materials": [
+                "SMLQDs",
+                "InGaAs"
+            ],
+            "other_materials": [
+                "SMLQDs",
+                "InGaAs"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                4,
+                "Mixing"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The discussion presented herein elucidates a contradiction between different reports found in the literature regarding the conversion efficiency of InAs/GaAs submonolayer-quantum-dot solar cells and indicates possible ways forward for achieving 3D electron confinement in these devices.",
+            "all_materials": [
+                "InAs/GaAs"
+            ],
+            "other_materials": [
+                "InAs/GaAs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The high efficiency and stability of perovskite solar cells  are the key factors to ensure their industrialization",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Surface doping of perovskite films has been proved as an efficient strategy to achieve more efficient and stable PSCs",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Plenty of work has been focused on passivating perovskite films by organic molecules and studying the corresponding passivation mechanism",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, very few studies have paid attention to the effect of surface dopants on the crystallization process during the formation of perovskite films",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, we employ a simple organic molecule phenylphosphonic acid  as a surface doping agent to simultaneously improve the efficiency and stability of FA0.85Cs0.15PbI3 PSCs and focus on the effect of PPA on the crystallization process of perovskite films",
+            "all_materials": [
+                "phenylphosphonic acid",
+                "FA0.85Cs0.15PbI3 PSCs",
+                "PPA"
+            ],
+            "other_materials": [
+                "phenylphosphonic acid",
+                "FA0.85Cs0.15PbI3 PSCs",
+                "PPA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The PPA molecules can slow down the crystal nucleation and growth rate of perovskites and inhibit the formation of \u03b4-FAPbI3 phase to obtain \u03b1-phase perovskite films with high quality, due to the multifunction of PPA as crystal growth controller and passivator of perovskite films",
+            "all_materials": [
+                "PPA",
+                "\u03b4-FAPbI3",
+                "PPA"
+            ],
+            "other_materials": [
+                "PPA",
+                "\u03b4-FAPbI3",
+                "PPA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Finally, the PCE of FA0.85Cs0.15PbI3 PSC with an effective area of 0.255\u00a0cm2 increased from 18.95% to 22.02%, which is among one of the highest efficiencies of FA/CsPbI3 PSCs with such big active area",
+            "all_materials": [
+                "FA0.85Cs0.15PbI3 PSC",
+                "FA/CsPbI3 PSCs"
+            ],
+            "other_materials": [
+                "FA0.85Cs0.15PbI3 PSC",
+                "FA/CsPbI3 PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Meanwhile, air environmental stability and thermal stability of the devices were also improved significantly",
+            "all_materials": [
+                "air"
+            ],
+            "other_materials": [
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, the 5\u00a0\u00d7\u00a05\u00a0cm-module device with an effective area of 19.32\u00a0cm2 obtained a high PCE of 19.12%",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This surface doping strategy has obtained great benefits from multifunctional small molecules and laid a promising seed for obtaining stable and efficient FACs-based PSCs.",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

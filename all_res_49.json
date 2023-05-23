@@ -1,0 +1,1103 @@
+{
+    "rest": [
+        {
+            "sentence": "This work deals with the growth investigation of the methylammonium lead triiodide  thin films prepared by the spin coating technique.",
+            "all_materials": [
+                "methylammonium lead triiodide"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                14,
+                "StartingSynthesis"
+            ],
+            "targets": "methylammonium lead triiodide"
+        },
+        {
+            "sentence": "Firstly, MAPbI3 films were studied by X-ray diffraction  and scanning electron microscopy  and UV\u2013Visible spectroscopy as well as photoluminescence techniques are used to calculate the band gap energy",
+            "all_materials": [
+                "MAPbI3"
+            ],
+            "other_materials": [
+                "MAPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Indeed, the high-quality MAPbI3 perovskite films were obtained by using Chlorobenzene as an antisolvent with good crystallinity, large grain sizes, and higher absorption compared to MAPbI3 treated by toluene",
+            "all_materials": [
+                "MAPbI3",
+                "Chlorobenzene",
+                "MAPbI3",
+                "toluene"
+            ],
+            "other_materials": [
+                "Chlorobenzene",
+                "MAPbI3",
+                "toluene"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                31,
+                "HeatingOperation"
+            ],
+            "targets": "MAPbI3"
+        },
+        {
+            "sentence": "Secondly, the performance of FTO/TiO2/MAPbI3/Spiro OMeTAD/Au perovskite solar cell was evaluated using a numerical simulation of the Solar Cell by SCAPS simulator",
+            "all_materials": [
+                "FTO/TiO2/MAPbI3/Spiro OMeTAD/Au"
+            ],
+            "other_materials": [
+                "FTO/TiO2/MAPbI3/Spiro OMeTAD/Au"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The effect of the structural and physical parameters of MAPbI3 absorber layer and HTL with the different antisolvents, including thickness, defect density, total charge density, donor density and electron affinity",
+            "all_materials": [
+                "MAPbI3",
+                "HTL"
+            ],
+            "other_materials": [
+                "MAPbI3",
+                "HTL"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Obtained results are: Jsc of 25.96\u00a0mA/cm2, PCE of 30.70%, Voc of 1.259\u00a0V, FF of 88.93% of MAPbI3-based solar cells when MAPbI3 is treated by toluene",
+            "all_materials": [
+                "MAPbI3",
+                "MAPbI3",
+                "toluene"
+            ],
+            "other_materials": [
+                "MAPbI3",
+                "MAPbI3",
+                "toluene"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                34,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, for MAPbI3- Chlorobenzene, the I\u2013V characteristics are rather: Jsc of 28.18\u00a0mA/cm2, PCE of 31.81%, FF of 88.19% and Voc of 1.200\u00a0V",
+            "all_materials": [
+                "MAPbI3- Chlorobenzene",
+                "PCE",
+                "FF"
+            ],
+            "other_materials": [
+                "MAPbI3- Chlorobenzene",
+                "PCE",
+                "FF"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It is pointed out that the use of chlorobenzene may be of interest to improve the perovskites solar cells performances.",
+            "all_materials": [
+                "chlorobenzene"
+            ],
+            "other_materials": [
+                "chlorobenzene"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Download : Download high-res image Download : Download full-size image",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Economic and demographic growth lead to a significant increase in global energy consumption",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, renewable energy sources, particularly solar energy, remain the most popular",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The conversion of sunlight into electricity from the abundant materials is possible thanks to photovoltaic technologies such as perovskite-based solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The efficiency of such cells has increased in the last decade [1,2]",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In particular, with rapid development, perovskite solar cells now have efficiencies closer to silicon-based technologies, attracting significant interest from the scientific and public communities.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It is known that the future of solar energy could be greatly improved with perovskite solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The fundamental components of  can be deposited using cheap and abundant materials through a standard temperature coating process, manufacturing costs are significantly lower than other photovoltaic devices",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Among perovskites family, MAPbI3 has significant and promising characteristics such as a suitable direct bandgap with a high absorption coefficient and a suitable carrier transport mechanism",
+            "all_materials": [
+                "MAPbI3"
+            ],
+            "other_materials": [
+                "MAPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For instance, it is recently reported that the calculated optical bandgap energy of the MAPbI3 films is of the order of 1.58\u00a0eV close to the reported bandgap energy of 1.60\u00a0eV and consistent with the PL peak position",
+            "all_materials": [
+                "MAPbI3"
+            ],
+            "other_materials": [
+                "MAPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This slight difference in bandgap value is due to shallow defect states in such films",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, it is found that surface passivation is an effective way to improve the efficiency and stability of perovskite solar cells by means of the enhancement of the performance of the p-i-n planar structure of ITO/PEDOT:PSS/MAPbI3/PCBM/Bphen/Ag, .",
+            "all_materials": [
+                "ITO/PEDOT",
+                "PSS/MAPbI3/PCBM/Bphen/Ag"
+            ],
+            "other_materials": [
+                "ITO/PEDOT",
+                "PSS/MAPbI3/PCBM/Bphen/Ag"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The formation of this material can be performed on a flexible substrate, and there are low carrier recombination rates",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Because of the favorable band alignments between Spiro-OMeTAD and perovskites and perovskites and TiO2, Spiro-OMeTAD and TiO2 are promising options for carrier transport.",
+            "all_materials": [
+                "Spiro-OMeTAD",
+                "TiO2",
+                "Spiro-OMeTAD",
+                "TiO2"
+            ],
+            "other_materials": [
+                "Spiro-OMeTAD",
+                "TiO2",
+                "Spiro-OMeTAD",
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The antisolvent method is one method that has been developed to make high-quality perovskite films with large crystals and to improve the morphology in order to have a good absorber layer for solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Several world records in perovskite solar cell efficiencies have been reached with antisolvent engineering",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Antisolvents such as chlorobenzene and toluene are most commonly used to prepare appropriate perovskites .",
+            "all_materials": [
+                "chlorobenzene",
+                "toluene"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "chlorobenzene",
+                    "start": 21,
+                    "end": 34,
+                    "token_ids": [
+                        3
+                    ]
+                },
+                {
+                    "text": "toluene",
+                    "start": 39,
+                    "end": 46,
+                    "token_ids": [
+                        5
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This research is focused on the performance of a solar cell based on MAPbI3 treated with different antisolvent obtained by the spin-coating method",
+            "all_materials": [
+                "MAPbI3"
+            ],
+            "other_materials": [
+                "MAPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                14,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The benefit of this technique is that it is economical, simple to use, and produces high-quality films",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The performance of MAPbI3 with different antisolvent is further assessed using the Solar Cell Capability Simulator",
+            "all_materials": [
+                "MAPbI3"
+            ],
+            "other_materials": [
+                "MAPbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The study&#x27;s goal is to look into the impact of absorbent layers on PSCs performance",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "On the other hand, a specific emphasis is put on the study of the conduction mechanism of prepared cell by means of the I\u2013V characteristics data.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "MAPbI3 was synthesized using a variety of commercially available precursors, allowing it to produce the absorber methylammonium Lead halide",
+            "all_materials": [
+                "MAPbI3",
+                "methylammonium Lead halide"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                2,
+                "StartingSynthesis"
+            ],
+            "targets": "MAPbI3"
+        },
+        {
+            "sentence": "Specifically, the solvents used were lead iodide , methylammonium iodide , N, N-dimethylformamide , and dimethyl sulfoxide .",
+            "all_materials": [
+                "lead iodide",
+                "methylammonium iodide",
+                "N, N-dimethylformamide",
+                "dimethyl sulfoxide"
+            ],
+            "other_materials": [
+                "lead iodide",
+                "methylammonium iodide",
+                "N, N-dimethylformamide",
+                "dimethyl sulfoxide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The current work&#x27;s perovskite solar cell configuration consists of the following layers: TCO/TiO2/MAPbI3/Spiro-OMeTAD/Au",
+            "all_materials": [
+                "TCO/TiO2",
+                "MAPbI3",
+                "Spiro-OMeTAD/Au"
+            ],
+            "other_materials": [
+                "TCO/TiO2",
+                "MAPbI3",
+                "Spiro-OMeTAD/Au"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The planar construction of PSCs is obtained by depositing a p-type hole transport of material  such as Spiro-OMeTAD  \u22129.9&#x27; -spirobifluorene) over a gold plate",
+            "all_materials": [
+                "PSCs",
+                "Spiro-OMeTAD  \u22129.9",
+                "-spirobifluorene",
+                "gold"
+            ],
+            "other_materials": [
+                "Spiro-OMeTAD  \u22129.9",
+                "-spirobifluorene",
+                "gold"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "The HTL interacts with the gold layer, which serves as the device&#x27;s cathode",
+            "all_materials": [
+                "gold"
+            ],
+            "other_materials": [
+                "gold"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The assembly is covered with a layer of CH3NH3PbI3 , on which a layer",
+            "all_materials": [
+                "CH3NH3PbI3"
+            ],
+            "other_materials": [
+                "CH3NH3PbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work addresses the protocol regarding the synthesis of high-quality perovskite films using antisolvents engineering such as toluene and chlorobenzene",
+            "all_materials": [
+                "toluene",
+                "chlorobenzene"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "toluene",
+                    "start": 129,
+                    "end": 136,
+                    "token_ids": [
+                        19
+                    ]
+                },
+                {
+                    "text": "chlorobenzene",
+                    "start": 141,
+                    "end": 154,
+                    "token_ids": [
+                        21
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The development of antisolvents for perovskite production is indeed highly required",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The cell&#x27;s performance is analyzed and simulated by the function of the characteristics of the absorbent layer and HTL layer elaborated including thickness, defect density, total charge density, donor density and electron affinity with different antisolvent",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                26,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "All authors have participated in  conception and design or analysis and interpretation of the data;  drafting the article or revising it critically for important intellectual content, and  approval of the final version",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This manuscript has not been submitted to, nor is under review at, another journal or other publishing venue.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "All the data is included in manuscript.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors thankfully acknowledge Dr",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Marc Burgelman, University of Gent, Belgium, for providing the SCAPS simulation software",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The author Amal Bouich acknowledges a Margarita Salas Fellowship  for funding support",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work was supported by the EU with Project PID2019-107137RB-C22 and by ERDF under the funding \u201cA way of making Europe\u201d.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, based on CsSnI3, we propose a hole transport layer-free perovskite solar cell, whose electron transport material consists of TiO2, PCBM and C60",
+            "all_materials": [
+                "CsSnI3",
+                "TiO2",
+                "PCBM",
+                "C60"
+            ],
+            "other_materials": [
+                "CsSnI3",
+                "TiO2",
+                "PCBM",
+                "C60"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The solar cell was optimized by varying absorber layer thickness, defect density, doping concentration, and working temperature, which resulted in a final structure performance improvement of about 11\u00a0%, where VOC\u00a0=\u00a01.26\u00a0V, JSC\u00a0=\u00a026.519\u00a0mA/cm2, FF\u00a0=\u00a090.19\u00a0%, and PCE\u00a0=\u00a030.17\u00a0%",
+            "all_materials": [
+                "VOC",
+                "PCE"
+            ],
+            "other_materials": [
+                "VOC",
+                "PCE"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Compared with the previous theoretical and experimental organic\u2013inorganic PSCs, the photovoltaic conversion efficiency of our designed solar cells has been greatly improved",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, the quantum efficiency reaches up to 90\u00a0% and remains over 50\u00a0% in the near 900\u00a0nm wavelength range.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this paper, numerical simulation of CdTe-based solar cells was performed using a COMSOL Multiphysics simulator",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A simple CdTe/CdS p-n junction was designed as a reference cell with an efficiency of 17.08\u00a0%",
+            "all_materials": [
+                "CdTe/CdS p-n"
+            ],
+            "other_materials": [
+                "CdTe/CdS p-n"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Several n-type and p-type metal oxides were added to the reference cells as electron-transport  and hole-transport  layers, respectively, for enhancing solar cell performance",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                11,
+                "Mixing"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Results indicated that applying ET layers can enhance cell efficiency by about 1.6\u00a0%",
+            "all_materials": [
+                "ET"
+            ],
+            "other_materials": [
+                "ET"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The reference cell performance increased by adding HT layers between the CdTe absorber layer and molybdenum  metal back contact",
+            "all_materials": [
+                "HT",
+                "CdTe",
+                "molybdenum"
+            ],
+            "other_materials": [
+                "HT",
+                "CdTe",
+                "molybdenum"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The effect of NiO and V2O5 layers thickness on cell performance was investigated",
+            "all_materials": [
+                "NiO",
+                "V2O5"
+            ],
+            "other_materials": [
+                "NiO",
+                "V2O5"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The maximum efficiency of 52.62\u00a0% and fill factor  of 89.5\u00a0% were achieved for solar cell with ultra-thin  layer of NiO",
+            "all_materials": [
+                "NiO"
+            ],
+            "other_materials": [
+                "NiO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, adding an ultra-thin V2O5 layer with a thickness of 50\u00a0nm to the reference cell can enhance cell efficiency and FF from 17.08 to 49.52\u00a0% and from 50.7 to 87.1\u00a0%, respectively",
+            "all_materials": [
+                "V2O5"
+            ],
+            "other_materials": [
+                "V2O5"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The effect of significant factors like CdTe and HTL doping concentration, device temperature, the work function of the metal back contact, recombination, defect concentration, interface defect density, and heat transfer on the proposed cells have been investigated",
+            "all_materials": [
+                "CdTe"
+            ],
+            "other_materials": [
+                "CdTe"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Results demonstrated the effect of adding metal oxide to CdTe-based solar cell structure",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, two ultra-thin NiO and V2O5 HT layers were introduced to improve the photovoltaic performance of the solar cells.",
+            "all_materials": [
+                "NiO",
+                "V2O5 HT"
+            ],
+            "other_materials": [
+                "NiO",
+                "V2O5 HT"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Due to their excellent photovoltaic properties and compatibility with large-scale deposition processes, perovskite solar cells  are gaining massive attention as next-generation photovoltaic devices",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, despite significant advances in their development, a non-radiative recombination loss remained a challenge to their progress",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Optimization of the different layers\u2019 thickness and the defect density of the perovskite layer are among the critical factors for reducing non-radiative recombination loss",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In the present paper, a typical PSC is modeled and optimized using one-dimensional solar cell capacitance simulation  software along with a genetic algorithm",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The main aim of the study is to improve PCE as a function of four parameters in PSC, namely; perovskite layer thickness, perovskite layer defect density, TiO2 layer thickness, and Spiro-OMeTAD layer thickness using a novel approach, SCAPS-1D along with response surface methodology  and GA",
+            "all_materials": [
+                "PCE",
+                "TiO2",
+                "Spiro-OMeTAD",
+                "GA"
+            ],
+            "other_materials": [
+                "PCE",
+                "TiO2",
+                "Spiro-OMeTAD",
+                "GA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The Box-Behnken Design  of RSM is used to develop an objective function for the GA based on the SCAPS-1D simulation results",
+            "all_materials": [
+                "RSM",
+                "GA"
+            ],
+            "other_materials": [
+                "RSM",
+                "GA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "GA is trained and tested on MATLAB software",
+            "all_materials": [
+                "GA"
+            ],
+            "other_materials": [
+                "GA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The paper concludes that the maximum PCE for perovskite layer thickness, TiO2 layer thickness, Spiro-OMeTAD layer thickness, as well as the defect density of the perovskite layer, occurs at 985\u2009nm, 40\u2009nm, 148\u2009nm, and 1/cm3 respectively",
+            "all_materials": [
+                "TiO2",
+                "Spiro-OMeTAD"
+            ],
+            "other_materials": [
+                "TiO2",
+                "Spiro-OMeTAD"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The results obtained by the GA and SCAPS-1D software have shown an excellent agreement",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Compared to other parameters, the defect density of the perovskite layer significantly affects the PCE.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this study, the optical proprieties and the performance of based indium gallium arsenide phosphide  quaternary solar cells were investigated, the absorption and the bandgap energy of the InGaAsP quaternary epitaxy on the InP substrate were studied for different temperatures and pressure",
+            "all_materials": [
+                "indium gallium arsenide phosphide",
+                "InGaAsP"
+            ],
+            "other_materials": [
+                "indium gallium arsenide phosphide",
+                "InGaAsP"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Also, the lattice mismatch effect was introduced to investigate the change in the absorption coefficient and on the bandgap energy",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We demonstrate that the physical parameters are more related to the variation of pressure than the temperature variation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "An increase in absorption peaks is manifested by decreasing the pressure",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This study allows us to explore the extrinsic conditions and the configuration of the deformations leading to the desired optoelectronic properties",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, the results found show that the rates of variation of the bandgap energy Eglh relating to the light holes, bandgap energy Eghh relating to the heavy holes, and of the bandgap energy Eg as a function of the pressure are more related to the rate of change of these energies as a function of temperature",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The absorption coefficient \u03b1 is important for materials with low bandgap energy, the peaks increase by increasing the temperature and by lowering the pressure",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We exploited the results found to simulate a p-n junction cell based on the deformed InGaAsP alloy using the SCAPS software, we found that the deformation makes it possible to obtain a current Jsc equal to 47.03\u00a0mA/cm2, and it leads to a transition from the maximum current density to low voltages with conservation of its maximum value .",
+            "all_materials": [
+                "InGaAsP"
+            ],
+            "other_materials": [
+                "InGaAsP"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, we investigate the mixed halide perovskite films with the formula MAPbX3 where  prepared by Spin-Coating in order to study the effects of partial and total substitution of Br",
+            "all_materials": [
+                "halide",
+                "MAPbX3",
+                "Br"
+            ],
+            "other_materials": [
+                "Br"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                14,
+                "StartingSynthesis"
+            ],
+            "targets": "halide"
+        },
+        {
+            "sentence": "For this purpose, we have carried out a series of characterization techniques, including x-ray diffraction , Scanning electron microscopy , UV\u2013visible spectroscopic; we find that all films content with partial Bromide exhibit two peaks located at 2\u03b8 angles of 14,94\u00b0 and 30,2\u00b0 matching to crystallographic planes  and  respectively correspond to perovskite structure, in the case of MAPbCl3, MAPbI3 or mixed MAPbI2Cl the characteristics peaks  and  were identified at 2\u03b8 angles of 14,16\u00b0 and 28,53\u00b0 respectively",
+            "all_materials": [
+                "MAPbCl3",
+                "MAPbI3",
+                "MAPbI2Cl"
+            ],
+            "other_materials": [
+                "MAPbCl3",
+                "MAPbI3",
+                "MAPbI2Cl"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The surface morphology of the different mixed lead halides films was examined by SEM, MAPbBr2I has the highest crystallinity and grain size",
+            "all_materials": [
+                "lead halides",
+                "MAPbBr2I"
+            ],
+            "other_materials": [
+                "lead halides",
+                "MAPbBr2I"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, All the mixed halide films exhibited strong absorbance with bandgap values ranging between 1.5\u00a0eV and 2.5\u00a0eV",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, we investigated the crystal structure, morphology, and color change of MAPbX3 after four weeks under dark with 22% humidity; the Bromide-doped samples demonstrate a higher degree of stability based on the study of their degradation mechanisms.",
+            "all_materials": [
+                "MAPbX3"
+            ],
+            "other_materials": [
+                "MAPbX3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The spin-coating technique was used to make ZnO thin films in this study",
+            "all_materials": [
+                "ZnO"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "ZnO"
+        },
+        {
+            "sentence": "To get various thicknesses of ZnO thin film on FTO substrate, the numbers of spin coatings were changed, 2,4,6,8, and 10 times",
+            "all_materials": [
+                "ZnO",
+                "FTO"
+            ],
+            "other_materials": [
+                "ZnO",
+                "FTO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The polycrystalline character of the ZnO film can be seen in all of the XRD samples",
+            "all_materials": [
+                "ZnO"
+            ],
+            "other_materials": [
+                "ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The more strong peaks exist on ,  and  at two theta degrees 34.14, 34.84 and 36.68, respectively",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The effect of different deposition cycles was evaluated based on the surface homogeneity",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The ZnO deposited by 8 and 10 cycles showed a dense and smooth surface with good crystallinity and roughness with no holes",
+            "all_materials": [
+                "ZnO"
+            ],
+            "other_materials": [
+                "ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The estimated band gap for as-deposited ZnO films is 1.73\u20132.35\u00a0eV with increasing deposition cycles",
+            "all_materials": [
+                "ZnO"
+            ],
+            "other_materials": [
+                "ZnO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "As we annealed the samples at 450\u00baC for 45\u00a0min, the variation in the band was observed from 3.24 to 3.29\u00a0eV",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                2,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Hence the annealing also played an essential role in the band gap variation",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                2,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To check the effect of cycles on solar cell performance, a simulation software SCAPS-1D was used",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We proposed a solar cell of model \u201cBack.Contact/CZTS/CdS/ZnO/Front.Contact/Glass\u201d used in the simulation.",
+            "all_materials": [
+                "Back.Contact/CZTS/CdS/ZnO/Front.Contact/Glass"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "Back.Contact/CZTS/CdS/ZnO/Front.Contact/Glass"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

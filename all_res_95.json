@@ -1,0 +1,1557 @@
+{
+    "rest": [
+        {
+            "sentence": "The most challenging obstacles to practical application of perovskite solar cells  are moisture sensitivity, and instability in ambient conditions",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Recently, it has been seen that graphene or graphene based composites are the suitable candidate to improve the stability of PSCs",
+            "all_materials": [
+                "graphene",
+                "graphene",
+                "PSCs"
+            ],
+            "other_materials": [
+                "graphene",
+                "graphene",
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In present work, we reported the fabrication of lead halide PSCs by employing reduced graphene oxide  decorated spiro-MeOTAD as hole-transport material",
+            "all_materials": [
+                "lead halide PSCs",
+                "graphene oxide",
+                "spiro-MeOTAD"
+            ],
+            "other_materials": [
+                "graphene oxide",
+                "spiro-MeOTAD"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "lead halide PSCs"
+        },
+        {
+            "sentence": "Fabricated PSCs  device exhibited good efficiency of 11.18% with excellent open circuit voltage  of 930\u00a0mV",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Control device  showed efficiency of 10.22% with Voc of 920\u00a0mV",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Further, stability studies showed that presence of rGO improved the stability of developed PSCs and it retained more than 58.14% of its initial efficiency after 500\u00a0h",
+            "all_materials": [
+                "rGO"
+            ],
+            "other_materials": [
+                "rGO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In case of control device, the efficiency was dropped from 10.22% to 4.4% .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                9,
+                "SolutionMixing"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Perovskite term was originated for calcium titanate",
+            "all_materials": [
+                "calcium titanate"
+            ],
+            "other_materials": [
+                "calcium titanate"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Recently, another class of perovskite materials i.e",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "hybrid perovskite materials especially organic-inorganic lead-halide perovskite family received enormous attention for photovoltaic applications ,",
+            "all_materials": [
+                "lead-halide"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "lead-halide"
+        },
+        {
+            "sentence": "Methyl ammonium-lead iodide  perovskite possess excellent band gap \u223c1.55\u00a0eV, good charge-carrier mobility, long diffusion length, and high absorption coefficient ,",
+            "all_materials": [
+                "Methyl ammonium-lead iodide"
+            ],
+            "other_materials": [
+                "Methyl ammonium-lead iodide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In 2009, CH3NH3PbI3 was introduced by Kojima et al",
+            "all_materials": [
+                "CH3NH3PbI3"
+            ],
+            "other_materials": [
+                "CH3NH3PbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": " as visible light-sensitizer, and developed device exhibited maximum power conversion efficiency  of less than 4%",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This indicated that CH3NH3PbI3 has excellent optoelectronic properties and other investigations reported improved PCE of \u223c9%",
+            "all_materials": [
+                "CH3NH3PbI3"
+            ],
+            "other_materials": [
+                "CH3NH3PbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In a short span of time, the highest PCE of more than 25% has been reported for PSCs and comparable with traditional silicon-based solar cells ,",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Despite excellent performance, PSCs has some major disadvantages such as presence of hazardous lead , moisture sensitivity, and long-term instability of the developed PSCs devices ,",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Thus, few research groups investigated the optoelectronic properties, and role of Pb-free perovskite materials such as methyl ammonium tin iodide  and methyl ammonium germanium iodide  in the fabrication of Pb-free PSCs ,",
+            "all_materials": [
+                "methyl ammonium tin iodide",
+                "methyl ammonium germanium iodide",
+                "PSCs"
+            ],
+            "other_materials": [
+                "methyl ammonium tin iodide",
+                "methyl ammonium germanium iodide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "The developed PSCs showed decent performance but instability of Sn2+ or Ge2+ in air destroyed their performance",
+            "all_materials": [
+                "PSCs",
+                "air"
+            ],
+            "other_materials": [
+                "PSCs",
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Further, perovskite-like materials such as methyl ammonium bismuth iodide 3Bi2I9 or 3Sb2I9 were also used but their PCE was not comparable with lead halide PSCs ,",
+            "all_materials": [
+                "methyl ammonium bismuth iodide 3Bi2I9",
+                "3Sb2I9",
+                "lead halide PSCs"
+            ],
+            "other_materials": [
+                "lead halide PSCs"
+            ],
+            "precursors": [
+                {
+                    "text": "methyl ammonium bismuth iodide 3Bi2I9",
+                    "start": 43,
+                    "end": 80,
+                    "token_ids": [
+                        8,
+                        9,
+                        10,
+                        11,
+                        12
+                    ]
+                },
+                {
+                    "text": "3Sb2I9",
+                    "start": 84,
+                    "end": 90,
+                    "token_ids": [
+                        14
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Thus, it is clear that lead halide PSCs are most efficient thin film photovoltaic devices which can be commercialized if their instability overcome",
+            "all_materials": [
+                "lead halide PSCs"
+            ],
+            "other_materials": [
+                "lead halide PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Hence, it is more important task to develop the novel strategies to improve the stability of lead halide PSCs",
+            "all_materials": [
+                "lead halide PSCs"
+            ],
+            "other_materials": [
+                "lead halide PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "PSCs consists of different components such as electron transport layer , light absorber layer , hole-transport material , and metal contact such as gold  or silver",
+            "all_materials": [
+                "gold"
+            ],
+            "other_materials": [
+                "gold"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The selection of each layer is important to obtain high efficiency",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Previously, titanium dioxide  has been extensively employed as ETL which showed excellent performance but presence of trapping states in TiO2 is the drawback which can influence photovoltaic performance of PSCs",
+            "all_materials": [
+                "titanium dioxide",
+                "TiO2"
+            ],
+            "other_materials": [
+                "titanium dioxide",
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this regard, tin oxide  has been explored as another suitable ETL by various research groups which showed excellent performance ,",
+            "all_materials": [
+                "tin oxide"
+            ],
+            "other_materials": [
+                "tin oxide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In case of HTM, different HTM materials such as poly , poly , poly polystyrene sulfonate , CuSCN, nickel oxide , reduced graphene oxide , and 2,2\u2032,7,7\u2032-tetrakis--9,9\u2032-spirobifluorene  have been explored",
+            "all_materials": [
+                "HTM",
+                "poly",
+                "poly",
+                "poly polystyrene sulfonate",
+                "CuSCN",
+                "nickel oxide",
+                "graphene oxide",
+                "2,2\u2032,7,7\u2032-tetrakis--9,9\u2032-spirobifluorene"
+            ],
+            "other_materials": [
+                "graphene oxide"
+            ],
+            "precursors": [
+                {
+                    "text": "poly",
+                    "start": 48,
+                    "end": 52,
+                    "token_ids": [
+                        10
+                    ]
+                },
+                {
+                    "text": "poly",
+                    "start": 55,
+                    "end": 59,
+                    "token_ids": [
+                        12
+                    ]
+                },
+                {
+                    "text": "poly polystyrene sulfonate",
+                    "start": 62,
+                    "end": 88,
+                    "token_ids": [
+                        14,
+                        15,
+                        16
+                    ]
+                },
+                {
+                    "text": "CuSCN",
+                    "start": 91,
+                    "end": 96,
+                    "token_ids": [
+                        18
+                    ]
+                },
+                {
+                    "text": "nickel oxide",
+                    "start": 98,
+                    "end": 110,
+                    "token_ids": [
+                        20,
+                        21
+                    ]
+                },
+                {
+                    "text": "2,2\u2032,7,7\u2032-tetrakis--9,9\u2032-spirobifluorene",
+                    "start": 142,
+                    "end": 182,
+                    "token_ids": [
+                        28,
+                        29,
+                        30
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "HTM"
+        },
+        {
+            "sentence": "Reported literature proved spiro-MeOTAD as most suitable and efficient HTM for the development of high performance PSCs",
+            "all_materials": [
+                "spiro-MeOTAD",
+                "PSCs"
+            ],
+            "other_materials": [
+                "spiro-MeOTAD"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "Spiro-MeOTAD has some limitations such as poor electrical conductivity, and low hole mobility which required some doping to overcome such limitations",
+            "all_materials": [
+                "Spiro-MeOTAD"
+            ],
+            "other_materials": [
+                "Spiro-MeOTAD"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this connection, some additives such as lithium bisimide , and tert-butylpyridine  need to be added to improve the activity of spiro-MeOTAD",
+            "all_materials": [
+                "lithium bisimide",
+                "tert-butylpyridine",
+                "spiro-MeOTAD"
+            ],
+            "other_materials": [
+                "tert-butylpyridine",
+                "spiro-MeOTAD"
+            ],
+            "precursors": [
+                {
+                    "text": "lithium bisimide",
+                    "start": 43,
+                    "end": 59,
+                    "token_ids": [
+                        8,
+                        9
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Li-TFSI can increase the hole mobility, whereas t-BP has the potential to increase polarity of the HTM",
+            "all_materials": [
+                "Li-TFSI",
+                "t-BP",
+                "HTM"
+            ],
+            "other_materials": [
+                "Li-TFSI",
+                "t-BP",
+                "HTM"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Unfortunately, t-BP can corrode the CH3NH3PbI3 layer whereas Li-TFSI is hygroscopic and sensitive to moisture",
+            "all_materials": [
+                "t-BP",
+                "CH3NH3PbI3",
+                "Li-TFSI"
+            ],
+            "other_materials": [
+                "t-BP",
+                "CH3NH3PbI3",
+                "Li-TFSI"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Thus, presence of such additives may destroy the stability of the PSCs for long-term practical applications",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Hence, it is required to improve the stability of PSCs by incorporating novel strategies",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The incorporation of advanced functional materials to the HTM can be the effective and most promising strategy to enhance the stability of the PSCs with maintaining PCE",
+            "all_materials": [
+                "PSCs",
+                "PCE"
+            ],
+            "other_materials": [
+                "PSCs",
+                "PCE"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this regard, molybdenum disulfide , carbon nanotubes , and other functional materials have been introduced with HTM by several research groups ,",
+            "all_materials": [
+                "molybdenum disulfide",
+                "carbon"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "molybdenum disulfide"
+        },
+        {
+            "sentence": "rGO is one of the allotrope of carbon which possess excellent features such as high transparency, good flexibility, and conductivity",
+            "all_materials": [
+                "rGO",
+                "carbon"
+            ],
+            "other_materials": [
+                "rGO",
+                "carbon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The incorporation of rGO with HTM may improve the stability and performance of PSCs",
+            "all_materials": [
+                "rGO",
+                "PSCs"
+            ],
+            "other_materials": [
+                "rGO",
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In 2020, Hagfeldt and coworkers reported the fabrication of rGO+HTM based PSCs to improve the thermal and moisture stability of the PSCs",
+            "all_materials": [
+                "rGO+HTM"
+            ],
+            "other_materials": [
+                "rGO+HTM"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In other reported work, rGO was also utilized as additive to improve the stability of the PSCs",
+            "all_materials": [
+                "rGO",
+                "PSCs"
+            ],
+            "other_materials": [
+                "rGO",
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Authors adopted two-step method for the preparation of perovskite absorber layer and reported excellent PCE of over 19% using TiO2 as electron transport layer",
+            "all_materials": [
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In another recent report, Suragtkhuu et al",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": " used rGO as additive and cesium-doped triple cation mixed perovskite as absorber layer and achieved excellent PCE of over 18%",
+            "all_materials": [
+                "rGO"
+            ],
+            "other_materials": [
+                "rGO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The above reports clearly indicated that rGO is promising candidate to enhance the stability of the PSCs.",
+            "all_materials": [
+                "rGO"
+            ],
+            "other_materials": [
+                "rGO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Herein, we have incorporated rGO with HTM to improve the stability of the PSCs",
+            "all_materials": [
+                "rGO",
+                "HTM",
+                "PSCs"
+            ],
+            "other_materials": [
+                "rGO",
+                "HTM",
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The developed device with rGO+HTM exhibited good efficiency of 11.18% with decent stability up to 500\u00a0h",
+            "all_materials": [
+                "rGO+HTM"
+            ],
+            "other_materials": [
+                "rGO+HTM"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "So far no report was found on the stability study of PSCs with device structure of ITO/SnO2/CH3NH3PbI3/rGO+spiro-MeOTAD/Au",
+            "all_materials": [
+                "PSCs",
+                "ITO/SnO2/CH3NH3PbI3/rGO+spiro-MeOTAD/Au"
+            ],
+            "other_materials": [
+                "PSCs",
+                "ITO/SnO2/CH3NH3PbI3/rGO+spiro-MeOTAD/Au"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This is the first report which investigated stability study of PSCs up to 500\u00a0h with device structure of ITO/SnO2/CH3NH3PbI3/rGO+spiro-MeOTAD/Au and retained more than 58% of its initial performance.",
+            "all_materials": [
+                "ITO/SnO2/CH3NH3PbI3/rGO+spiro-MeOTAD/Au"
+            ],
+            "other_materials": [
+                "ITO/SnO2/CH3NH3PbI3/rGO+spiro-MeOTAD/Au"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Indium tin oxide  substrates, tin oxide , spiro-OMeTAD, methyl ammonium iodide , lead iodide , 4-tert-butyl pyridine , lithium bisimide , acetonitrile, graphene oxide , N,N-dimethyl formamide  and other used solvents/chemicals were purchased from Sigma, Merck, Alfa Aesar, and Fischer Scientific.",
+            "all_materials": [
+                "Indium tin oxide",
+                "tin oxide",
+                "spiro-OMeTAD",
+                "methyl ammonium iodide",
+                "lead iodide",
+                "4-tert-butyl pyridine",
+                "lithium bisimide",
+                "acetonitrile",
+                "graphene oxide",
+                "N,N-dimethyl formamide"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "Indium tin oxide",
+                    "start": 0,
+                    "end": 16,
+                    "token_ids": [
+                        0,
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "text": "tin oxide",
+                    "start": 30,
+                    "end": 39,
+                    "token_ids": [
+                        5,
+                        6
+                    ]
+                },
+                {
+                    "text": "spiro-OMeTAD",
+                    "start": 42,
+                    "end": 54,
+                    "token_ids": [
+                        8,
+                        9,
+                        10
+                    ]
+                },
+                {
+                    "text": "methyl ammonium iodide",
+                    "start": 56,
+                    "end": 78,
+                    "token_ids": [
+                        12,
+                        13,
+                        14
+                    ]
+                },
+                {
+                    "text": "lead iodide",
+                    "start": 81,
+                    "end": 92,
+                    "token_ids": [
+                        16,
+                        17
+                    ]
+                },
+                {
+                    "text": "4-tert-butyl pyridine",
+                    "start": 95,
+                    "end": 116,
+                    "token_ids": [
+                        19,
+                        20
+                    ]
+                },
+                {
+                    "text": "lithium bisimide",
+                    "start": 119,
+                    "end": 135,
+                    "token_ids": [
+                        22,
+                        23
+                    ]
+                },
+                {
+                    "text": "acetonitrile",
+                    "start": 138,
+                    "end": 150,
+                    "token_ids": [
+                        25
+                    ]
+                },
+                {
+                    "text": "graphene oxide",
+                    "start": 152,
+                    "end": 166,
+                    "token_ids": [
+                        27,
+                        28
+                    ]
+                },
+                {
+                    "text": "N,N-dimethyl formamide",
+                    "start": 169,
+                    "end": 191,
+                    "token_ids": [
+                        30,
+                        31
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "100\u00a0mg of GO was dispersed in 50\u00a0mL of distilled water  using ultrasonication , subsequently,",
+            "all_materials": [
+                "GO",
+                "water"
+            ],
+            "other_materials": [
+                "water"
+            ],
+            "precursors": [
+                {
+                    "text": "GO",
+                    "start": 10,
+                    "end": 12,
+                    "token_ids": [
+                        3
+                    ]
+                }
+            ],
+            "operation": [
+                5,
+                "LiquidGrinding"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "X-ray diffractometer  was used to obtain the X-ray diffraction  data of synthesized rGO and CH3NH3PbI3 materials",
+            "all_materials": [
+                "rGO",
+                "CH3NH3PbI3"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "rGO"
+        },
+        {
+            "sentence": "The obtained XRD pattern of rGO exhibits sharp diffraction peak at 26.3\u2070",
+            "all_materials": [
+                "rGO"
+            ],
+            "other_materials": [
+                "rGO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This appeared diffraction peak of 26.3\u2070 was attributed to the presence of  diffraction plane of rGO and authenticated the formation of rGO",
+            "all_materials": [
+                "rGO",
+                "rGO"
+            ],
+            "other_materials": [
+                "rGO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "rGO"
+        },
+        {
+            "sentence": "Subsequently, formation of CH3NH3PbI3 perovskite was also checked by XRD analysis",
+            "all_materials": [
+                "CH3NH3PbI3"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "CH3NH3PbI3"
+        },
+        {
+            "sentence": "The XRD pattern of the CH3NH3PbI3 perovskite film",
+            "all_materials": [
+                "CH3NH3PbI3"
+            ],
+            "other_materials": [
+                "CH3NH3PbI3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It can be summarized that reduced graphene oxide was obtained using hydrothermal treatment of graphene oxide",
+            "all_materials": [
+                "graphene oxide",
+                "graphene"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "graphene",
+                    "start": 94,
+                    "end": 102,
+                    "token_ids": [
+                        14
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "graphene oxide"
+        },
+        {
+            "sentence": "Further, conversion of graphene oxide to reduced graphene oxide was confirmed by XRD whereas surface morphology was examined by SEM",
+            "all_materials": [
+                "graphene oxide",
+                "graphene oxide"
+            ],
+            "other_materials": [
+                "graphene oxide",
+                "graphene oxide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Subsequently, perovskite solar cells devices were developed by utilizing reduced graphene oxide as additive to hole transport material",
+            "all_materials": [
+                "graphene oxide"
+            ],
+            "other_materials": [
+                "graphene oxide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The fabricated perovskite solar cells device using reduced graphene oxide as hole transport material additive enhance",
+            "all_materials": [
+                "graphene oxide"
+            ],
+            "other_materials": [
+                "graphene oxide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work was supported by the Korea Innovation Foundation  [grant number 2020-DD-UP-0278];\u00a0and the\u00a0National Research Foundation of Korea  grant funded by the Korea government  NRF- 2022R1A2C1005585).",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Two-dimensional Ruddlesden\u2212Popper  perovskites have received extensive attention for perovskite solar cells  application due to their enhanced thermal and light stability, high photoluminescence quantum yield, and long carrier lifetime",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Notably, the power conversion efficiency  of 2DRP 22Pb3I10 perovskite is up to19%",
+            "all_materials": [
+                "2DRP 22Pb3I10"
+            ],
+            "other_materials": [
+                "2DRP 22Pb3I10"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, lead pollution is still a problem that may hinder the development and widespread use of 22Pb3I10 perovskites",
+            "all_materials": [
+                "22Pb3I10"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "22Pb3I10"
+        },
+        {
+            "sentence": "With the aim of revealing lead-free 2DRP alternatives with high photovoltaic performance based on such 22M3I10 perovskites, metal replacements, such as Cd, Cu, Ge, Ni, Sn, Yb, and Zn, were investigated in terms of their optoelectronic characteristics, carrier transport properties, broadband\u2013emission nature, and photovoltaic parameters from first-principles calculations",
+            "all_materials": [
+                "2DRP",
+                "22M3I10"
+            ],
+            "other_materials": [
+                "22M3I10"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "2DRP"
+        },
+        {
+            "sentence": "Our results indicated that these replacements of Cd, Cu, and Zn can fine-tune the bandgap of 22M3I10 toward the optimum range required for photovoltaic applications",
+            "all_materials": [
+                "Cu",
+                "Zn",
+                "22M3I10"
+            ],
+            "other_materials": [
+                "Cu",
+                "Zn",
+                "22M3I10"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In particular, 22Cd3I10 and 22Cu3I10 demonstrated a strong broad\u2013emission nature and photoluminescence tendency due to their large Stokes shifts and Huang-Rhys factors",
+            "all_materials": [
+                "22Cd3I10",
+                "22Cu3I10"
+            ],
+            "other_materials": [
+                "22Cd3I10",
+                "22Cu3I10"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "22Ge3I10 and 22Sn3I10 exhibited the best capacities for electron and hole transport with carrier mobilities of 12.869 and 9.856\u00a0cm2 V\u20131 s\u20131, respectively, which are 1\u20132 orders of magnitude higher than that of 22Pb3I10",
+            "all_materials": [
+                "22Ge3I10",
+                "22Sn3I10",
+                "22Pb3I10"
+            ],
+            "other_materials": [
+                "22Ge3I10",
+                "22Sn3I10",
+                "22Pb3I10"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Nevertheless, 22Cu3I10 was predicted to have the highest PCE of 22.97%, featuring itself as a potential photo\u2013absorber candidate for photovoltaic applications",
+            "all_materials": [
+                "22Cu3I10"
+            ],
+            "other_materials": [
+                "22Cu3I10"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The findings reported herein not only achieve our goal in designing highly efficient and environmentally-friendly 2DRP perovskites, but also shed light on new strategies for advancing their applications in optoelectronic.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The conversion efficiency of perovskite solar cells has increased rapidly in recent years, however, the balance between sustainability, efficiency and cost has become a serious challenge on the way to a competitive commercial product",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Currently, ongoing research is strongly focused on how to effectively combine those issues together",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, the sustainability and efficiency were shown to be improved by using a simple low-cost fabrication process: with a single electron transporting layer with low-temperature heat treatment , a single-step perovskite layer 3) fabricated and annealed in air atmosphere, and low-cost imprinted carbon as the upper electrode",
+            "all_materials": [
+                "air",
+                "carbon"
+            ],
+            "other_materials": [
+                "air",
+                "carbon"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                [
+                    44,
+                    "StartingSynthesis"
+                ],
+                [
+                    46,
+                    "HeatingOperation"
+                ]
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The annealing process of the active layer was studied to improve crystallinity and achieve the best grain boundary self-passivation under these conditions",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, to develop sustainability, an easy-to-use superhydrophobic layer with a contact angle of \u223c160o was successfully deposited using an invented method",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Morphology, crystallization, and optoelectronic properties of the devices were investigated using various measurement methods",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It was found that a 15-min annealing at 130\u00a0\u00b0C is required to obtain an appropriate self-induced passivation layer of PbI2 and a high-performance crystallized active layer with the lowest defect density",
+            "all_materials": [
+                "PbI2"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                6,
+                "HeatingOperation"
+            ],
+            "targets": "PbI2"
+        },
+        {
+            "sentence": "An optimum energy conversion efficiency of 17.34% was achieved with FF, VOC and JSC values of 76.43%, 1.04\u00a0V, and 21.67\u00a0mA\u00a0cm\u22122, respectively",
+            "all_materials": [
+                "VOC"
+            ],
+            "other_materials": [
+                "VOC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It is hoped that these results will provide new perspectives for the commercialization of perovskite solar cells.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Inorganic perovskite nanostructure photoanode has a very important role in dye-sensitized solar cells ,in collecting photogenerated electrons coming from dye sensitizer",
+            "all_materials": [
+                "photoanode"
+            ],
+            "other_materials": [
+                "photoanode"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The photo-electric-conversion efficiency of photoelectrode is hindered by an effective photogenerated electron hole/pair",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To avoid this problem, modification of BaSnO3 perovskite nanoparticles with graphene nanosheets is attempted in our work",
+            "all_materials": [
+                "BaSnO3",
+                "graphene"
+            ],
+            "other_materials": [
+                "graphene"
+            ],
+            "precursors": [
+                {
+                    "text": "BaSnO3",
+                    "start": 39,
+                    "end": 45,
+                    "token_ids": [
+                        7
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Facile one-step synthesis of RGO loaded BaSnO3  was done by simple solution route",
+            "all_materials": [
+                "RGO",
+                "BaSnO3"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "RGO"
+        },
+        {
+            "sentence": "As-prepared perovskite composite was studied using characterization techniques namely Raman spectroscopy, high-resolution transmission electron microscopy  and field emission scanning electron microscopy",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The photovoltaic performances of RGO-BaSnO3 NC-based photoanode in DSSC employing N719 dye, Pt-counter electrode and imidazole-based liquid electrolyte have been studied under standard simulated lighting of 100 mW cm\u22122",
+            "all_materials": [
+                "RGO-BaSnO3",
+                "N719",
+                "Pt"
+            ],
+            "other_materials": [
+                "RGO-BaSnO3",
+                "N719",
+                "Pt"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It was found that RGO-BaSnO3 NC showed better dye adsorption to facilitate light harvesting and promoted a proficient electron transport pathway owing to fewer electron trapping sites on the surface than the pristine BaSnO3 NPs surface",
+            "all_materials": [
+                "RGO-BaSnO3 NC",
+                "BaSnO3"
+            ],
+            "other_materials": [
+                "RGO-BaSnO3 NC",
+                "BaSnO3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The results demonstrate that the fabricated DSSC made with RGO-BNC-based photoanode delivered overall photoelectric conversion efficiency of 5.59\u00a0%, which is 32\u00a0% higher than that of DSSC fabricated unmodified BaSnO3 photoanode.",
+            "all_materials": [
+                "RGO",
+                "BaSnO3"
+            ],
+            "other_materials": [
+                "RGO",
+                "BaSnO3"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                33,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We report a simple low-cost novel method for coating an ultrathin hydrophobic film usable for different applications",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A hydrophobic layer is fabricated on a TiO2 substrate by hydrolysis of silicone rubber evaporation",
+            "all_materials": [
+                "TiO2",
+                "silicone"
+            ],
+            "other_materials": [
+                "TiO2",
+                "silicone"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                4,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The hydrophobic Si 3 groups bonded to the substrate by the reaction of hydrophilic SiOH groups with the hydroxyl groups on the TiO2 surface",
+            "all_materials": [
+                "hydrophilic",
+                "SiOH",
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2"
+            ],
+            "precursors": [
+                {
+                    "text": "hydrophilic",
+                    "start": 71,
+                    "end": 82,
+                    "token_ids": [
+                        13
+                    ]
+                },
+                {
+                    "text": "SiOH",
+                    "start": 83,
+                    "end": 87,
+                    "token_ids": [
+                        14
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, the silicone film was introduced in a carbon-based perovskite solar cell as a tunneling passivation layer between the electron transport layer and the active layer to reduce interfacial and extraction losses",
+            "all_materials": [
+                "silicone"
+            ],
+            "other_materials": [
+                "silicone"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "An improved perovskite layer with better crystallinity, larger grain size, and higher stability was achieved",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The optimal energy conversion efficiency was 17.42% with FF, VOC, and JSC values of 73.76%, 1.1\u00a0V, and 21.39\u00a0mA\u00a0cm\u22122, respectively.",
+            "all_materials": [
+                "FF",
+                "VOC",
+                "JSC"
+            ],
+            "other_materials": [
+                "FF",
+                "VOC",
+                "JSC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The light-harvesting effects and electron transport engineering could be achieved by manipulating electron transport layer  morphology",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In This research, three variant nanostructures  of titanium dioxide  have been applied as the ETL in conventional structure of perovskite solar cells",
+            "all_materials": [
+                "titanium dioxide"
+            ],
+            "other_materials": [
+                "titanium dioxide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Device structures of FTO/TiO2 compact layer/TiO2 NS layer/Perovskite/Spiro-OMeTAD/Au are used for the fabrication of PSCs in ambient conditions",
+            "all_materials": [
+                "FTO/TiO2",
+                "TiO2",
+                "PSCs"
+            ],
+            "other_materials": [
+                "FTO/TiO2",
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PSCs"
+        },
+        {
+            "sentence": "Zero and one-dimensional structures of TiO2 including TiO2 nanocrystals  with the dominant size of 25\u00a0nm, TiO2 nanorods  with diameters and lengths about 80\u00a0nm and 1\u20132\u00a0\u00b5m, and TiO2 nanofibers  with the same dimensional parameters of 100\u00a0nm and 2\u201312\u00a0\u00b5m were prepared through the hydrothermal method",
+            "all_materials": [
+                "TiO2",
+                "TiO2",
+                "TiO2",
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                47,
+                "StartingSynthesis"
+            ],
+            "targets": "TiO2"
+        },
+        {
+            "sentence": "Then the effects of ETL morphology on the electron transporting process, interfacial engineering, surface quality and cell performance have been investigated",
+            "all_materials": [
+                "ETL"
+            ],
+            "other_materials": [
+                "ETL"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Triple Cation Cs0.050.95Pb3 perovskite is also used as the light harvester layer in PSCs due to its proper band gap energy, crystalline quality and longtime stability",
+            "all_materials": [
+                "Cs0.050.95Pb3"
+            ],
+            "other_materials": [
+                "Cs0.050.95Pb3"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "According to the results, one-dimensional  TiO2 nanostructures with medium size released the best current density of 21.9\u00a0mA/cm2 and maximum filling factor of 0.7",
+            "all_materials": [
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "That is while the incomplete pore filling of the sublayer and lower open circuit voltage  0.905\u00a0V had negative impacts on the power conversion efficiency of TiO2 NRs included perovskite solar cells",
+            "all_materials": [
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Remarkable results were achieved for the PSC with zero-dimensional  TiO2 nanostructures as the compact ETL and highest VOC of 1.02\u00a0V led to the maximum power conversion efficiency of 14.88 % in ambient conditions.",
+            "all_materials": [
+                "TiO2"
+            ],
+            "other_materials": [
+                "TiO2"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work aims to analyze the stability of Perovskite solar cells PSCs using machine learning  techniques",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "An extremely randomized trees technique, trained with a dataset containing 1050 perovskite device samples with different materials, deposition methods and storage conditions, is used",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Pushing by its non linearity and randomity, this approach is an intriguing choice for decreasing the variance of the total model",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The effects of data inputs on the stability of the device are investigated by analysing the Decision Trees  constituent of the Extra Trees  while the feature importance technique was used for feature engineering",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The two techniques findings are compared with previous experimental results for screening the most optimized manufacturing materials and storage conditions for long-term stability",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For regular cells, TiO2/m-TiO2 as electron transport layer ,  perovskite as active layer, P3HT and LiTFSi\u00a0+\u00a0TBP as hole transport layer  and HTL second layer, and Carbon as back contact were found to enhance the device stability with DMF\u00a0+\u00a0DMSO as precursor solution and Chlorobenzene as an anti-solvent solution",
+            "all_materials": [
+                "TiO2/m-TiO2",
+                "P3HT",
+                "LiTFSi\u00a0+\u00a0TBP",
+                "Carbon",
+                "DMF",
+                "DMSO",
+                "Chlorobenzene"
+            ],
+            "other_materials": [
+                "TiO2/m-TiO2",
+                "P3HT",
+                "LiTFSi\u00a0+\u00a0TBP",
+                "Carbon",
+                "DMF",
+                "DMSO",
+                "Chlorobenzene"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For inverted cells, BCP and PCBM, MAPBl3-xClx, NiO and DEA, Al back contact were found to improve stability",
+            "all_materials": [
+                "BCP",
+                "PCBM",
+                "MAPBl3-xClx",
+                "NiO",
+                "DEA"
+            ],
+            "other_materials": [
+                "BCP",
+                "PCBM",
+                "MAPBl3-xClx",
+                "NiO",
+                "DEA"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The obtained results provide evidence of the aptness of the proposed ML strategy in captivating the suitable combination of different layer materials, deposition methods, and storage conditions",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Besides, the adopted method unveils the importance of manufacturing techniques in realizing efficient and stable solar cells.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

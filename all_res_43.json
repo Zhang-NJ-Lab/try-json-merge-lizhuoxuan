@@ -1,0 +1,1494 @@
+{
+    "rest": [
+        {
+            "sentence": "Perovskite/silicon tandem solar cells are one of the most efficient ways to improve the performance of the photovoltaic industry and should be viewed as a promising path in the photovoltaic field",
+            "all_materials": [
+                "silicon"
+            ],
+            "other_materials": [
+                "silicon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The silicon photovoltaic modules have a lifespan of over 20 years, while the low device stability of perovskite solar cells  remains a significant commercialization barrier",
+            "all_materials": [
+                "silicon"
+            ],
+            "other_materials": [
+                "silicon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "An air gap acts as an optical spacer layer for four terminal  perovskite/silicon tandem cells, resulting in a loss of efficiency",
+            "all_materials": [
+                "air",
+                "silicon"
+            ],
+            "other_materials": [
+                "air",
+                "silicon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Using polydimethylsiloxane  as an intermediate matching layer  and a clip-on design made of a PDMS-based material sandwiched between polyvinyl chloride \u00a0layers with the configuration of PVC/IML/PVC, this research not only achieved efficiency improvement of four-contact tandem solar cells but also greatly simplified disassembly of individual cells",
+            "all_materials": [
+                "polydimethylsiloxane",
+                "polyvinyl chloride",
+                "PVC/IML/PVC"
+            ],
+            "other_materials": [
+                "polydimethylsiloxane",
+                "polyvinyl chloride",
+                "PVC/IML/PVC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The 4T perovskite/silicon heterojunction tandem cells with a clip-on design achieved the highest efficiency of 23.49% for the active area of 1\u00a0cm2, while the fully tandem configuration without a clip-on layer only exhibited a PCE of 22.83%",
+            "all_materials": [
+                "silicon"
+            ],
+            "other_materials": [
+                "silicon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The clip-on technology has the potential to boost the current density of silicon heterojunction solar cells from 15.01\u00a0mA/cm2  up to 16.51\u00a0mA/cm2",
+            "all_materials": [
+                "silicon"
+            ],
+            "other_materials": [
+                "silicon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, this state-of-the-art allows for the removal of PSCs with a shorter lifespan while adhering two photovoltaic cells together securely and effectively.",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Download : Download high-res image Download : Download full-size image",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Silicon photovoltaic technology has dominated the global market due to its superior performance in terms of efficiency, stability, and cost reduction compared to other types of photovoltaic cells [1,2]",
+            "all_materials": [
+                "Silicon"
+            ],
+            "other_materials": [
+                "Silicon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "On a laboratory scale, a single-junction crystalline silicon solar cell  can achieve the highest power conversion efficiency  of 26.7% [1,2]",
+            "all_materials": [
+                "silicon"
+            ],
+            "other_materials": [
+                "silicon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Meanwhile, perovskite solar cells  have advanced rapidly to achieve the highest PCE, up to 25.5%, during the past decade, compared with other photovoltaic technologies",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "PSCs also have superior light absorption coefficient, long carrier lifetime, and tunable bandgap  by optimizing component engineering [, ], making them an excellent candidate for the next generation of photovoltaic technology",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Nevertheless, the PCE for a c-Si solar cell remained lower than the theoretical efficiency limit of silicon photovoltaic technology",
+            "all_materials": [
+                "silicon"
+            ],
+            "other_materials": [
+                "silicon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To overcome this obstacle, tandem solar cells, which consist of two sub-cells, are one of the most effective ways to enhance the solar cell performance and should be viewed as a promising path in the photovoltaic field",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Two significant types of tandem solar cells have been developed thus far monolithically integrated two-terminal  tandem configurations, which require electrical matching between the top and bottom compartments, and mechanically stacked four-terminal  tandem configurations, which connect each cell independently without current matching [, ].",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The combination of silicon and PSCs has been considered a prime candidate for the sub-cells of tandem solar cells due to their high PCE close to the theoretical limit, as mentioned previously",
+            "all_materials": [
+                "silicon",
+                "PSCs"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "silicon",
+                    "start": 19,
+                    "end": 26,
+                    "token_ids": [
+                        3
+                    ]
+                },
+                {
+                    "text": "PSCs",
+                    "start": 31,
+                    "end": 35,
+                    "token_ids": [
+                        5
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "With the wide band gap-semitransparent perovskite and narrow band gap silicon as the top and bottom cells, the efficiency of light collection across all wavelengths is significantly enhanced",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This was due to the synergistic effect of the perovskite/silicon tandem solar cell, in which the semitransparent perovskite top cell with transparent electrodes absorbs light at short wavelengths, and the silicon bottom cell harvests the long wavelength light passthrough, thereby increasing PCE",
+            "all_materials": [
+                "silicon",
+                "silicon",
+                "PCE"
+            ],
+            "other_materials": [
+                "silicon",
+                "silicon",
+                "PCE"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Up to this point, Al-Ashouri, A",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "have reported a monolithic perovskite/silicon tandem with a certified power conversion efficiency of 29% et al",
+            "all_materials": [
+                "silicon"
+            ],
+            "other_materials": [
+                "silicon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Tockhorn, P., et al",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "have demonstrated the 2T perovskite/silicon tandem design with a nanotexture of silicon bottom cells that achieved a PCE of 29.8%",
+            "all_materials": [
+                "silicon",
+                "silicon"
+            ],
+            "other_materials": [
+                "silicon",
+                "silicon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "An efficiency performance of 2T perovskite/silicon tandem have recently recorded exceeding 31%",
+            "all_materials": [
+                "silicon"
+            ],
+            "other_materials": [
+                "silicon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The 4T perovskite/silicon tandem solar cells with a PCE of up to 27% have been investigated by Jaysankar, M",
+            "all_materials": [
+                "silicon"
+            ],
+            "other_materials": [
+                "silicon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": ", and Wang, Zet al",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Moreover, a bifacial 4T perovskite/silicon tandem solar cells with a PCE of over 30% was exhibited by Kim S., et alet al",
+            "all_materials": [
+                "silicon"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "silicon"
+        },
+        {
+            "sentence": "To pursue high 4T tandem cell efficiencies, achieving high transmission of semitransparent PSC at wavelengths longer than the cut-off wavelength of perovskite absorption would otherwise result in significant optical losses to the silicon bottom cells",
+            "all_materials": [
+                "PSC",
+                "silicon"
+            ],
+            "other_materials": [
+                "PSC",
+                "silicon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This is one of the most important issues",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Furthermore, in perovskite/silicon tandem devices, the transmittance of the semitransparent PSC composed of two-layer transparent electrodes must be maximized for sub-bandgap wavelengths",
+            "all_materials": [
+                "silicon"
+            ],
+            "other_materials": [
+                "silicon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, semitransparent perovskite top cells with non-metal transparent electrodes, indium tin oxide  [6,18,19], and aluminum-doped zinc oxide  [, ] were utilized instead of metal electrodes to reduce the reflected light loss.",
+            "all_materials": [
+                "indium tin oxide",
+                "zinc oxide"
+            ],
+            "other_materials": [
+                "indium tin oxide",
+                "zinc oxide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The air gap was another crucial factor that required attention",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "When an air gap serves as an optical spacer layer between individual sub-cells, the performance of the device is diminished",
+            "all_materials": [
+                "air"
+            ],
+            "other_materials": [
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "To induce more light incidents on the bottom solar cell, an intermediate matching layer  must be incorporated into the design of an effective light management material for 4T perovskite/silicon tandem cells",
+            "all_materials": [
+                "silicon"
+            ],
+            "other_materials": [
+                "silicon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "et alYu, G",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": " studied a photoelectric simulation of a spacer layer with a refractive index of 1.4 and a thickness of approximately 4\u00a0\u03bcm to optimize light harvesting in 4T perovskite/silicon tandem solar cells",
+            "all_materials": [
+                "silicon"
+            ],
+            "other_materials": [
+                "silicon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Anti-reflective film properties are one method to reduce incident light reflection loss and improve conversion performance",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The use of anti-reflective polymer film with transparent materials with a suitable reflective index  and insulating layer properties is desirable to solve the optimal losses of the 4T tandem designs",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Polydimethylsiloxane  appears to be an ideal material for the intermediate matching layer due to its properties as an anti-reflective film coating for solar cells and similar products [, ]",
+            "all_materials": [
+                "Polydimethylsiloxane"
+            ],
+            "other_materials": [
+                "Polydimethylsiloxane"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "These properties include a suitable reflective index, high transparency in visible-near infrared  light, strong hydrophobicity, and simple solution processing",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, the PDMS film adheres strongly to materials with a high refractive index such as glass and crystal materials, making it challenging to remove each device from the 4T tandem cells",
+            "all_materials": [
+                "PDMS"
+            ],
+            "other_materials": [
+                "PDMS"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "When considering the lifespan of a perovskite solar cell, it is preferable to design a system that incorporates both anti-reflective coatings and protective layers for the separated individual cells.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "It is well-known that commercial silicon photovoltaic modules have a lifespan of over 20 years, during which their specified power output remains at 80% of their initial operation [28,29]",
+            "all_materials": [
+                "silicon"
+            ],
+            "other_materials": [
+                "silicon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In contrast, the low device stability of PSC continues to be a significant commercialization hindrance [30,31]",
+            "all_materials": [
+                "PSC"
+            ],
+            "other_materials": [
+                "PSC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Recently, outdoor testing of the encapsulated perovskite/silicon tandem lasted six months",
+            "all_materials": [
+                "silicon"
+            ],
+            "other_materials": [
+                "silicon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Over only ten months of outdoor testing, PSCs encapsulated by lamination techniques maintained their initial effectiveness",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, it is challenging to overcome this limitation and achieve commercial scale",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Based on these findings, the inability to detach tandem solar cells containing PSC rendered this technique ineffective, and to our knowledge, no information on a detachable PSC for tandem applications had been previously published",
+            "all_materials": [
+                "PSC",
+                "PSC"
+            ],
+            "other_materials": [
+                "PSC",
+                "PSC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "et alWang, S",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "have only reported the flexible assembly and easily detachable stacking PSCs consisting of two individual half cells .",
+            "all_materials": [
+                "PSCs"
+            ],
+            "other_materials": [
+                "PSCs"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Therefore, a new concept for tandem solar cells called \u201cclip-on\u201d was proposed",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This state-of-the-art enables the removal of PSCs with a short lifespan while firmly adhering two photovoltaic cells together",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this work, the encapsulated semitransparent perovskite solar cells  and unfiltered silicon heterojunction solar cells , as well as the air gap and clip-on sandwiched between the 4T perovskite/silicon tandems were successfully presented as shown in Fig",
+            "all_materials": [
+                "silicon",
+                "air",
+                "silicon"
+            ],
+            "other_materials": [
+                "silicon",
+                "air",
+                "silicon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "We used refractive index materials [commercial-PDMS  and silanol terminated polydimethylsiloxane ] as an intermediate matching layer in the 4T perovskite/silicon tandem cell to eliminate the air-spacer layer1",
+            "all_materials": [
+                "commercial-PDMS",
+                "silanol",
+                "polydimethylsiloxane",
+                "silicon",
+                "air"
+            ],
+            "other_materials": [
+                "commercial-PDMS",
+                "silanol",
+                "polydimethylsiloxane",
+                "silicon",
+                "air"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This work included a clip-on design for fabricating a four-contact tandem cell",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                7,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The clip-on design was accomplished using PDMS-based materials sandwiched between polyvinyl chloride  films as a protective layer, which correspond to the configuration of PVC/IML/PVC",
+            "all_materials": [
+                "polyvinyl chloride",
+                "PVC/IML/PVC"
+            ],
+            "other_materials": [
+                "polyvinyl chloride",
+                "PVC/IML/PVC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The removable device concept is based on a 4T perovskite/silicon heterojunction tandem solar cell with a clip-on pattern.",
+            "all_materials": [
+                "silicon"
+            ],
+            "other_materials": [
+                "silicon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The preparation of commercial PDMS  films began with a mixture of elastomer base and curing agent in a predetermined proportion",
+            "all_materials": [
+                "PDMS"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PDMS"
+        },
+        {
+            "sentence": "The ratio of elastomer base to curing agent was adhered to following the manufacturer instructions, which specified a 10:1 ratio [, ]",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For the characterization of the intermediate matching layer, the mixture was cast on soda lime glass  and spin-coated at a predetermined speed of 1500\u00a0rpm for 10\u00a0s",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The intermediate",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Selecting the material for the intermediate matching layer is the first crucial step in designing a successful clip-on tandem solar cell",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The intermediate layer should possess the following properties: high transparency, high flexibility, low weight, hydrophobicity, anti-reflectiveness, and simple manufacturing processes [, ]",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "PDMS is ideally suited for these properties, particularly commercially available cross-linked PDMS",
+            "all_materials": [
+                "PDMS"
+            ],
+            "other_materials": [
+                "PDMS"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In addition, PDMS",
+            "all_materials": [
+                "PDMS"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "PDMS"
+        },
+        {
+            "sentence": "Using PDMS as an intermediate matching layer and clip-on technology for the 4T perovskite/silicon heterojunction tandem cells improve tandem performance",
+            "all_materials": [
+                "silicon"
+            ],
+            "other_materials": [
+                "silicon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The application of PDMS to create a clip-on design composed of PVC/IML/PVC between the top and the bottom cells achieved the highest efficiency of 23.49%, while the fully tandem configuration without a clip-on layer exhibited a PCE of 22.83%",
+            "all_materials": [
+                "PDMS",
+                "PVC",
+                "IML",
+                "PVC"
+            ],
+            "other_materials": [
+                "PDMS",
+                "PVC",
+                "IML",
+                "PVC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The method has the potential to significantly increase the current density of silicon heterojunction",
+            "all_materials": [
+                "silicon"
+            ],
+            "other_materials": [
+                "silicon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Kanyanee Sanglee: Writing \u2013 original draft, Methodology, Investigation, Formal analysis, Conceptualization",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Siwakorn Sakunkaewkasem: Writing \u2013 original draft, Methodology, Investigation, Formal analysis, Conceptualization",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Channarong Piromjit: Writing \u2013 review &amp; editing, Methodology",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Methawee Nukunudompanich: Writing \u2013 review &amp; editing, Methodology",
+            "all_materials": [
+                "Methawee"
+            ],
+            "other_materials": [
+                "Methawee"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Pongsakorn Kanjanaboos: Conceptualization, Writing - review &amp; editing",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Surawut Chuangchote: Writing \u2013 review &amp; editing, Supervision",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Supakij",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This contribution is partially supported by Energy Innovation Program, Technology Development Groups  project of the National Science and Technology Development Agency , Thailand .",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This study reports the effective preparation of macro-encapsulated Cu\u2013Ge alloy PCMs  for high-temperature thermal energy storage",
+            "all_materials": [
+                "Cu\u2013Ge"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "Cu\u2013Ge"
+        },
+        {
+            "sentence": "The uniformly mixed Cu and Ge powders are spherulitized into millimeter/centimeter-sized balls, after which the core balls are coated with Al2O3 shells",
+            "all_materials": [
+                "Cu",
+                "Ge",
+                "Al2O3"
+            ],
+            "other_materials": [
+                "Al2O3"
+            ],
+            "precursors": [
+                {
+                    "text": "Cu",
+                    "start": 20,
+                    "end": 22,
+                    "token_ids": [
+                        3
+                    ]
+                },
+                {
+                    "text": "Ge",
+                    "start": 27,
+                    "end": 29,
+                    "token_ids": [
+                        5
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The Cu\u2013[email&#160;protected]2O3 macrocapsule with a cavity between the shell and core is successfully prepared after a two-step sintering process",
+            "all_materials": [
+                "Cu\u2013"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                21,
+                "StartingSynthesis"
+            ],
+            "targets": "Cu\u2013"
+        },
+        {
+            "sentence": "The cavity formed by the pores and gaps among the powders can provide buffer spaces to support the volume expansion of the PCM during temperature increase and phase transition",
+            "all_materials": [
+                "PCM"
+            ],
+            "other_materials": [
+                "PCM"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The Cu\u2013Ge alloy phase is synthesized in situ from Cu and Ge powders during the high-temperature sintering process",
+            "all_materials": [
+                "Cu\u2013Ge",
+                "Cu",
+                "Ge"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "Cu",
+                    "start": 50,
+                    "end": 52,
+                    "token_ids": [
+                        11
+                    ]
+                },
+                {
+                    "text": "Ge",
+                    "start": 57,
+                    "end": 59,
+                    "token_ids": [
+                        13
+                    ]
+                }
+            ],
+            "operation": [
+                5,
+                "StartingSynthesis"
+            ],
+            "targets": "Cu\u2013Ge"
+        },
+        {
+            "sentence": "The melting-solidification cycling test demonstrates an excellent durability of the Cu\u2013Ge capsules",
+            "all_materials": [
+                "Cu\u2013Ge"
+            ],
+            "other_materials": [
+                "Cu\u2013Ge"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The heat storage capacity of the capsules can be optimized by isostatic pressing to minimize excess cavities, and by adding sintering aids including MgO and SiO2 in the Al2O3 shells to increase the shell strength for achieving larger capsules with thinner shells",
+            "all_materials": [
+                "MgO",
+                "SiO2",
+                "Al2O3"
+            ],
+            "other_materials": [
+                "MgO",
+                "SiO2",
+                "Al2O3"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                12,
+                "ShapingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The macrocapsules present high heat storage density, especially for the Cu-40Ge capsules with a size of 9\u00a0[email&#160;protected]\u00a0mm-100MPa, which show high values of 211\u00a0J/g and 719\u00a0MJ/m3 at a temperature region between 600 and 700\u00a0\u00b0C",
+            "all_materials": [
+                "Cu-40Ge"
+            ],
+            "other_materials": [
+                "Cu-40Ge"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The Cu-40Ge alloy is more suitable for high temperature thermal storage due to its better phase change properties and thermal cyclic durability.",
+            "all_materials": [
+                "Cu-40Ge"
+            ],
+            "other_materials": [
+                "Cu-40Ge"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Considering the fast pace of the development of the Photovoltaic  market and the installations in last two decades and also the increasing scarcity of resources for semiconductor materials, recycling waste PV modules including thin film is very important",
+            "all_materials": [
+                "PV"
+            ],
+            "other_materials": [
+                "PV"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Transparent conducting oxides  are extensively used as front contact electrodes in thin-film photovoltaic devices",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The paper presents, the new strategies developed to extract TCO coated glass from thin film amorphous silicon PV end-of-life modules",
+            "all_materials": [
+                "TCO",
+                "silicon PV"
+            ],
+            "other_materials": [
+                "TCO",
+                "silicon PV"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The recycling of thin film PV modules is based on a very simple approach that includes chemical, thermal and mechanical treatments",
+            "all_materials": [
+                "PV"
+            ],
+            "other_materials": [
+                "PV"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Optimised solutions of 1\u00a0M NaOH and 1\u00a0M KOH were used to extract TCO coated glass",
+            "all_materials": [
+                "NaOH",
+                "KOH",
+                "TCO"
+            ],
+            "other_materials": "NULL",
+            "precursors": [
+                {
+                    "text": "NaOH",
+                    "start": 27,
+                    "end": 31,
+                    "token_ids": [
+                        5
+                    ]
+                },
+                {
+                    "text": "KOH",
+                    "start": 40,
+                    "end": 43,
+                    "token_ids": [
+                        9
+                    ]
+                }
+            ],
+            "operation": "NULL",
+            "targets": "TCO"
+        },
+        {
+            "sentence": "The feasibility of the processing steps was demonstrated on laboratory scale size module and the etching rate for P, I, and N-layers of amorphous silicon is also studied",
+            "all_materials": [
+                "silicon"
+            ],
+            "other_materials": [
+                "silicon"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The extracted TCO was identified as fluorine-doped tin oxide  using X-ray diffraction and UV\u2013visible spectroscopy techniques",
+            "all_materials": [
+                "TCO",
+                "tin oxide"
+            ],
+            "other_materials": [
+                "TCO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "tin oxide"
+        },
+        {
+            "sentence": "The laser scribed FTO glass was successfully extracted without damaging the properties of the material",
+            "all_materials": [
+                "FTO"
+            ],
+            "other_materials": [
+                "FTO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The extracted FTO has very low resistivity and sheet resistance in the range of 10\u22124 \u03a9-cm and 11.74\u00a0\u03a9/sq",
+            "all_materials": [
+                "FTO"
+            ],
+            "other_materials": [
+                "FTO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "respectively, has uniform transmission throughout the measured film surface of 2\u00a0cm2 in the visible region having bandgap \u223c3.8eV",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The recycling cost and current market value of the recycled FTO are also estimated for all the installed capacities of amorphous silicon",
+            "all_materials": [
+                "FTO"
+            ],
+            "other_materials": [
+                "FTO"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Considering the TCO properties, extracted FTO has the potential for its reuse in the fabrication of new thin film PV modules and other optoelectronic device applications as well.",
+            "all_materials": [
+                "TCO",
+                "FTO",
+                "PV"
+            ],
+            "other_materials": [
+                "TCO",
+                "FTO",
+                "PV"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "PET laminated photovoltaic modules present a high level of fire hazard, with varying levels of risk in complex external environments",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                1,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This paper presents the experimental results of the ignition and combustion behavior of a PET laminated photovoltaic panel using the Fire Propagation Apparatus",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The ignition time, heat release rate, combustion equivalent ratio, and total heat release were measured at different external heat flows and ventilation levels",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The ignition time was determined as a function of the external radiant heat flow and the ventilation volume, respectively",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The experimental results showed that the ignition time was sensitive to the change of external heat flow under different experimental conditions, but at lower external heat flow, the increase of ventilation had a great contribution to the shortening of the ignition time",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The oxygen consumption method was used to determine the heat release rate under multiple boundary conditions, the value of which depends on the close coupling effect of external radiant heat flow and ventilation and is positively correlated with both",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The immediate effect of boundary conditions on combustion efficiency was analyzed by equivalence ratios",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For the total heat release, the external radiant heat flow directly plays a decisive role, but the ventilation volume can play a great role in promoting, especially under the low external heat flow.",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "WO3\u00b72H2O film with porous structure was grown on indium tin oxide  glass by a simple constant current electrodeposition",
+            "all_materials": [
+                "WO3\u00b72H2O",
+                "indium tin oxide"
+            ],
+            "other_materials": [
+                "WO3\u00b72H2O",
+                "indium tin oxide"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The as-grown WO3\u00b72H2O film shows a loose and porous structure, which is formed by the accumulation of large size nanoparticles",
+            "all_materials": [
+                "WO3\u00b72H2O"
+            ],
+            "other_materials": [
+                "WO3\u00b72H2O"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "For comparison, amorphous WO3\u00b7xH2O film was prepared by constant voltage electrodeposition",
+            "all_materials": [
+                "WO3\u00b7xH2O"
+            ],
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                7,
+                "StartingSynthesis"
+            ],
+            "targets": "WO3\u00b7xH2O"
+        },
+        {
+            "sentence": "Both the films prepared by CCE and CVE are hydrated oxides instead of simple oxides, which is proved by thermal analysis",
+            "all_materials": [
+                "CVE"
+            ],
+            "other_materials": [
+                "CVE"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                3,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "A large optical modulation of 86.3% at 550\u00a0nm and a high coloration efficiency of 178.8\u00a0cm2\u00a0C\u22121 are achieved for the WO3\u00b72H2O film",
+            "all_materials": [
+                "WO3\u00b72H2O"
+            ],
+            "other_materials": [
+                "WO3\u00b72H2O"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Additionally, the as-prepared film also shows a good cycling stability: the film exhibits an optical modulation of 75.6% after 500 cycles",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Excellent electrochromic properties should be attributed to the porous structure of the WO3\u00b72H2O film, which brings more electrochemical active sites for insertion and extraction of ions.",
+            "all_materials": [
+                "WO3\u00b72H2O"
+            ],
+            "other_materials": [
+                "WO3\u00b72H2O"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "MgCl2-KCl-NaCl molten chloride salt is a promising candidate for thermal energy storage medium and heat transfer fluid for next-generation Concentrating Solar Power  plants",
+            "all_materials": [
+                "MgCl2-KCl-NaCl",
+                "chloride"
+            ],
+            "other_materials": [
+                "MgCl2-KCl-NaCl",
+                "chloride"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The main challenge has yet been the selection of economical yet corrosion-resistant structural materials to be used",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Previous work by the authors has demonstrated that simple corrosion control strategies can mitigate corrosion effects, thereby allowing the use of classical stainless steels as structural materials in the hot part  of the CSP system",
+            "all_materials": [
+                "steels"
+            ],
+            "other_materials": [
+                "steels"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "This study addresses the selection of cold tank materials, which have to withstand corrosion effects up to temperatures of 500\u00a0\u00b0C",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Two cost-effective commercial types of steels, P91 and SS 304, were examined as candidates for structural materials, and controlled corrosion experiments were performed in molten MgCl2-KCl-NaCl salt at 500\u00a0\u00b0C for 1400\u00a0h",
+            "all_materials": [
+                "P91",
+                "SS 304",
+                "MgCl2-KCl-NaCl"
+            ],
+            "other_materials": [
+                "P91",
+                "SS 304",
+                "MgCl2-KCl-NaCl"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Before the exposure tests, the chloride salt was purified using a simple yet effective Mg-doping technique",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The results show that the corrosion rates  of P91 samples are consistently low  for both macroscopic and microscopic analysis",
+            "all_materials": [
+                "P91"
+            ],
+            "other_materials": [
+                "P91"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The cheaper P91 steel outperforms the more expensive SS 304 in terms of corrosion resistance and also may prove to be beneficial in terms of mechanical properties and economics",
+            "all_materials": [
+                "P91",
+                "SS 304"
+            ],
+            "other_materials": [
+                "P91",
+                "SS 304"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Overall, the use of P91 as a cold tank structural material allows for significant cost reduction of the cold tank for chloride-TES system and enhances its competitiveness compared with commercial nitrate-TES.",
+            "all_materials": [
+                "P91",
+                "chloride-TES",
+                "nitrate-TES"
+            ],
+            "other_materials": [
+                "P91",
+                "chloride-TES",
+                "nitrate-TES"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Perovskite solar cells , the most promising nanostructured solar cells for large-scale production, have been fabricated with different types of electron and hole collectors to improve efficiency and stability",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": [
+                18,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Incident photon-to-current conversion efficiency  is an important measurement to evaluate the optical/electrical behavior of the structure to modify the device structure",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this research, we have investigated how different mechanisms affect the IPCE spectra and the difference between short-circuit current density  recorded from the current density-voltage  and the IPCE curves of n-i-p PSCs",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Results show that by removing the electron-transport layer  in a device with a compact PSK layer, the IPCE spectrum does not change and only a slight shift of interference peak position is observable",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "By removing the hole-transport layer , not only IPCE value drops substantially for all wavelengths, its shape  deforms significantly in the 500\u2013800\u00a0nm wavelength range",
+            "all_materials": [
+                "IPCE"
+            ],
+            "other_materials": [
+                "IPCE"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In the case of cells with imperfect HTLs, only a slight change in this range  is observable",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Utilizing different charge-transport and PSK materials, we have shown how significant the nonlinearity of the device&#x27;s characteristics  with light intensity increases in the difference between Jsc value from J-V and integrated Jsc from IPCE curves",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Selecting charge-collecting layers also directly affect interference peaks in IPCE spectra, for instance using TiO2 nanograss as ETL or CuIn0.75Ga0.25S2/carbon hole-collector instead of Spiro OMeTAD/Au hole-collector results in disappearing interference peaks.",
+            "all_materials": [
+                "TiO2",
+                "CuIn0.75Ga0.25S2/",
+                "carbon",
+                "Au"
+            ],
+            "other_materials": [
+                "TiO2",
+                "CuIn0.75Ga0.25S2/",
+                "carbon",
+                "Au"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}

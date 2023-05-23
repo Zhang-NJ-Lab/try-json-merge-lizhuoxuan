@@ -1,0 +1,96 @@
+{
+    "rest": [
+        {
+            "sentence": "While the conversion efficiency is constantly refreshing, perovskite solar cells are also actively moving towards the goal of commercial application",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "However, its structure contains Pb, a toxic substance, which violates the original intention of energy saving and environmental protection of solar cells and hinders the development of its commercialization",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "The purpose of this paper is to improve the device performance of environment-friendly lead-free tin-based perovskite solar cells",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "In this paper, SnF2 is firstly precipitated in perovskite solution and used as heterogeneous nucleation point, which helps tin-based perovskite precipitate faster and more uniformly, and then grows into a flat and compact film after annealing",
+            "all_materials": [
+                "SnF2"
+            ],
+            "other_materials": [
+                "SnF2"
+            ],
+            "precursors": "NULL",
+            "operation": [
+                40,
+                "HeatingOperation"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "With the increase of x, the lattice shrinkage of perovskite becomes more obvious, and the unit cell size of the film surface becomes larger",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "When x increases from 0 to 0.5, the energy conversion efficiency of the same batch of devices reaches 1.803% and VOC is 0.3283\u00a0V when x=0.5 is used",
+            "all_materials": [
+                "VOC"
+            ],
+            "other_materials": [
+                "VOC"
+            ],
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        },
+        {
+            "sentence": "Low dimensional tin-based perovskite is formed by doping phenylethylamine into FASnI3 structure, and perovskite thin films are prepared by one-step method with different anti-solvent spin coating, which improves the device performance and greatly improves the stability of solar cells.",
+            "all_materials": [
+                "phenylethylamine",
+                "FASnI3"
+            ],
+            "other_materials": [
+                "FASnI3"
+            ],
+            "precursors": [
+                {
+                    "text": "phenylethylamine",
+                    "start": 57,
+                    "end": 73,
+                    "token_ids": [
+                        10
+                    ]
+                }
+            ],
+            "operation": [
+                20,
+                "StartingSynthesis"
+            ],
+            "targets": "NULL"
+        },
+        {
+            "sentence": "",
+            "all_materials": "NULL",
+            "other_materials": "NULL",
+            "precursors": "NULL",
+            "operation": "NULL",
+            "targets": "NULL"
+        }
+    ]
+}
